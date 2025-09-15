@@ -1,0 +1,22 @@
+Cardiopulmonary Resuscitation
+	- V invasive 
+	- Low success rate, side effects even if survive
+		- Broken ribs, internal organ dmg
+		- Hypoxic Brain damage - not enuf oxygen
+	- If the patient dies, it is in an undignified manner
+- DNACPR
+	- Planning not to do CPR as part of DNR/dying process
+	- Best done in advance to make things clearer when the time comes. 
+	- Weigh the benefits and risks, and potential follow up treatment required. 
+	- "Some patients or those close to them, may have concerns that decisions not to attempt CPR might be influenced by poorly informed or unfounded assumptions about the impact of disability or advanced age on the patient’s quality of life."
+		-  Just bc they're old doesn't mean their quality of life is bad, or just bc they may be slightly disabled coming out of CPR doesn't mean they won't want to survive still. 
+	- "the views of members of the healthcare team involved in their care may be valuable in assessing ... whether successful CPR would likely be of overall benefit to them"
+		- Nurse/out of hours nurse may be good to call in order to inform the medics about Muneeb's wishes. 
+	- If the patient doesn't want to discuss DNACPR, ask for their consent to share their info to relatives/carers to "support their treatment and care". 
+		- **WHAT HAPPENS WHEN CPR IS UNLIKELY TO WORK BUT THE PATIENT DOESN'T WANT TO DISCUSS IT????** We don't have consent to withhold CPR, but do we have consent to _do_ CPR? Is the base assumption that they would want to survive? Even if it is unlikely to work? 
+		- Usually you'd go with the medical opinion, but you can do nothing if there is no consent. 
+	- Must have a discussion as to which treatments/procedures would not be clinically appropriate to do after CPR has worked. 
+	- If the patient wants CPR but it is not clinically advisable, discuss with them their reasons, their expectations, and inform them fully of the ramifications. 
+		- "If, after discussion, you still consider that CPR would not be clinically appropriate, there is no obligation to provide it in the circumstances envisaged. You must explain your reasons and any other options that may be available to the patient, including their right to seek a second opinion."
+	- Cardiac arrest from a reversible, unforseen/undiscussed cause can mean invalidating a DNACPR decision if it is clinically advisable
+	- In an emergency where a DNACPR decision cannot be ascertained, PERFORM THE CPR. Unless it is clinically inadvisable. 

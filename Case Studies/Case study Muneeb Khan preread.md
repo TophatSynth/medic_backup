@@ -1,0 +1,23 @@
+[[Case Study Muneeb Khan Notes]]
+
+- Skin is "worrying" colour
+- Unconscious, upper dentures protruding
+	- Seizing? Tongue pushed out dentures, shaking flung them out
+- Breathing and carotid (neck) pulse unclear. Could be breathing or not. 
+- Looking at the surroundings. 
+- Cardiac "arrest call" - implies no pulse detected. 
+	- Looked at clock to determine time between start of cardiac arrest and help getting here. 
+- Advanced care plan - what would that tell you?
+	- https://www.england.nhs.uk/wp-content/uploads/2017/11/dg-case-study-supporting-info-patients-families-carers.pdf
+		- The names, roles and contact info of ppl involved in caring for him. Nurse, GP, etc
+			- Consultant/specialist
+		- "Planned visits" - maybe he skipped an appt that led to an exacerbation in a condition. 
+	- Does not have medication/pre-existing conditions, but has nurse/out of hours nurse who can give that info. 
+		- May be useful info if the medications react adversely with medication that the first aid/hospital give him and make things worse, or if underlying conditions would be made worse by certain medications. (Think kidney conditions)
+	- **WILL HAVE A DNACPR THINGY** (or might be in patient records)
+- ![[DNACPR]]
+- Defibrillator - stand clear bc strong electric charge, check surr and ppl
+- 7 minutes ltr paramedics arrive 
+	- ![[Pasted image 20250913154634.png]]
+	- ~60-70% drop in survival rate. Not good chances. 
+- ![[SBAR]]
