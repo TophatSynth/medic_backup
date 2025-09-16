@@ -64,10 +64,39 @@ Eukaryotes: Has membrane lined organelles
 
 ### Protein expression
 - DNA -> mRNA -> protein
-- Transcription and translation
-- 
-
+- Transcription and translation (done on ribosomes)
+- Nucleus is a cell compartment. The outside bit is the nuclear envelope, with nuclear pores
+- DNA is packaged with histones, forms chromatin (the little yoyo thingy)
+	- Chromatin is packaged in two ways – euchromatin and more-dense heterochromatin. 
+	- Most of the active genes are found in the euchromatin, inactive ones in heterochromatin. 
+	- !!!!!!!!!!
+- Translation
+	- Chromosomes translate mRNA into protein chains 
+		- Have a small and large subunit
+	- Many ribosomes remain "free" and unbound during translation
+		- These are usually for the organelles within the cell
+	- Some bind to the endoplasmic reticulum -> rough ER
+		- The polypeptide chain will have a starting "signal sequence" that binds to the ER, binding the ribosome there too
+		- These are destined for the PM or nuclear membrane
+- RER
+	- Site of membrane protein synthesis
+	- Modifies proteins - adds sugar chains, disulfide bonds, trims proteins
+	- Quality control - monitors folding and destroys misfolds etc
+	- Signals stress - if these is poorly folded/secretion is blocked etc
+- SER <- no protein synthesis, bc no ribosomes!
+	- Membrane lipid synthesis
+	- Steroid synthesis
+	- Detoxification
 ### Secretion
+- Secretory pathway: RER -> Golgi apparatus -> secretory vessicle
+- ![[Pasted image 20250916105105.png]]
+	- Vessicles carry "cargo" (secretory proteins, membrane, etc) from RER to the Golgi
+	- Golgi sorts cargo into each type
+	- Vessicles bud from golgi containing cargo, go towards cell membrane
+- Golgi is essentially the central warehouse for the decentralised RER
+- Vessicles with lysozymes (lysosomes) are specifically modified by mannose phosphorylation to have mannose-6-phosphate residues on it. Identifies lysosomes
+	- ![[Pasted image 20250916105434.png]]
+- 
 
 ### Uptake and degradation
 
