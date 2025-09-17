@@ -52,7 +52,7 @@
 
 ### Skeleton
 - Axial/appendicular skeleton
-	- Axial - skull, vertebrae, scarum, ribs, coccyx, hyoid, sternum (the "middle" stuff)
+	- Axial - skull, vertebrae, sacrum, ribs, coccyx, hyoid, sternum (the "middle" stuff)
 	- Appendicular - everything else attached to it
 	- ![[Pasted image 20250916092624.png]]
 
@@ -76,10 +76,12 @@
 		- Pia mater - closely adhered to brain/spinal cord
 	- PNS 
 		- 31 Spinal pairs total: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal
-		- C/T/L/S
+			- C/T/L/S
+			- Serve dermatomes (sensory) and myotomes (motor)
 		- 12 cranial pairs total 
+			- Originate from the brainstem
 			- Functions mostly in the head/neck, except vagus nerve (CNX)
-		- !!!!!!!!!!!
+			- Deals with "special" senses - sight, smell, taste, hearing, balance, etc
 	- Autonomic - self governing
 		- Sympathetic - fight or flight
 			- Cell bodies for SNS are in the T1 - L3
@@ -108,8 +110,8 @@
 	- Lateral folding causes body to fold over the gut tube
 	- ![[Pasted image 20250916095123.png]]
 	- Cranio-caudal folding
-		- !!!!!!
-- Eventually get a separationg of pleural cavity, peritoneal cavity, pericardial cavity
+		- Causes the developing heart and septum transversum to move caudally from the "head" to the "chest" area
+- Eventually get a separating of pleural cavity, peritoneal cavity, pericardial cavity
 
 
 
