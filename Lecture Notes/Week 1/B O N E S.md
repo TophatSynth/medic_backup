@@ -1,13 +1,81 @@
 ## Function of bone
+- Enables movement via attachment of muscles
+- Protection of vital organs
+- Structural support
+- Storage of minerals - Ca2+, PO4, Mg
+- Haematopoiesis - Blood cell formation!!
 ## Structure of bone
-- What is bone?
+- What is bone? - Not dead
+	- Comprised of a collagen fibre framework (gel-like substance) hardened by precipitation of calcium phosphate crystals (hydroxyapatite crystals)
+	- Collagen makes it flexible and provides tensile strength, crystals make it hard and provides compressive strength  - structural strength but not brittle
+- All of the bone is replaced about every 8 - 12 years
 ### Lone bone structure
-
+- Strc:
+	- Epiphysis 
+		- The "head"
+	- Diaphysis
+		- The shaft bit 
+		- Hollow cylinder containing bone marrow
+	- Metaphysis
+		- Middle bit bt head and shaft
+	- Periosteum
+		- Fibrous sheath covering the outside of th bone
+	- ![[Pasted image 20250918092330.png]]
+- 2 major kinds of bone
+	- Trabecular/Cancellous (Spongy and porous)
+		- Makes up the inside of the epiphysis
+		- Trabeculae are laid down along lines of stress, allowing distribution of stresses. Makes the bone much much stronger while allowing for flexibility
+			- ![[Pasted image 20250918092545.png]]
+			- ![[Pasted image 20250918092623.png]]
+			- Spongy so can store calcium and bone marrow easier than rest of bone
+	- Cortical (Completely solid)
+		- On the outside of the shaft
+		- Provides stiffness and strength
+		- 
 ### Blood supply
-
+- Volkman's canals travelling transverse through the bones
+- Haversian canals travelling longitudinally through the bones
+- ![[Pasted image 20250918092835.png]]
+- The cortical bone will align concentrically around the Haversian canals
+	- Not all bone cells are in direct contact to the blood
+	- But each bone cell has projections where it can send signals to neighbouring cells for communication
 ### Composition
-
+- The collagen within bones is arranged in a parallel arrangement all throughout both types of bone 
+- ![[Pasted image 20250918093339.png]]
+- Bone cells
+	- Osteoblast
+		- Bone building cell
+		- When stimulated, will deposit collagen (organic matrix) then hydroxyapatite
+		- Some become entombed in the bone in this process -> mature into osteocytes
+	- Osteoclast
+		- Bone chewing cell
+		- Multinucleate - several cells fused together
+		- "Suckers" itself with a "sealing zone" onto the bone
+		- Moves around on bone, releasing H+ and hydrolytic enzymes to dissolve it
+		- Liberates calcium and breaks down the extracellular matrix, to be recycled somewhere else
+		- Regulated by hormones and osteoblasts
+	- Osteocyte
+		- "Fixed" bone cell, cannot move
+		- Embedded within lacunae
+		- Communicate via canaliculi (finger-like projections) to neighbouring cells
+	- Osteoprogenitor cell
+		- Stem cells lining the surface of bone
+		- From which osteoblasts and osteoclasts derive
+- Bone is a highly dynamic tissue in equilibrium bt building and destroying. Bone is constantly remodelled throughout life. 
+	- Trabecular bone remodelling cycle
+		- ![[Pasted image 20250918094817.png]]
+		- Osteoclasts destroy section of bone, osteoprogenitors differentiate into osteoblasts, they lay down new bone
+		- Regularly done to repair microdamage
+	- Cortical bone remodelling
+		- Osteon - "cutting cone"
+		- Tunnels through the bone and lays down new bone behind
+		- ![[Pasted image 20250918095059.png]]
+	- Wolff's law
+		- Bone adapts to the load under which it is placed. Use it or lose it. 
+	- ![[Pasted image 20250918095357.png]]
 ## Growth of bone
-
+- Cartilage model formed, replaced by bone in ossification in infancy
+- !!!!!!!!!
+- 
 
 ## Bone healing
