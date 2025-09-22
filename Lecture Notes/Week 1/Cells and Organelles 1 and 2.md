@@ -77,7 +77,7 @@ Eukaryotes: Has membrane lined organelles
 		- These are usually for the organelles within the cell
 	- Some bind to the endoplasmic reticulum -> rough ER
 		- The polypeptide chain will have a starting "signal sequence" that binds to the ER, binding the ribosome there too
-		- These are destined for the PM or nuclear membrane
+		- The RER makes proteins for PM/organelle membranes, proteins for the inside of organelles, and proteins for secretion
 - RER
 	- Site of membrane protein synthesis
 	- Modifies proteins - adds sugar chains, disulfide bonds, trims proteins
@@ -208,7 +208,7 @@ Eukaryotes: Has membrane lined organelles
 		- Provides strc support and cell shape, support cell motility
 		- Provides contractile forces which let the cells move around if needed
 	- Intermediate filaments 
-		- Static, not dynamic like the other two - most stablecytoskeleton
+		- Static, not dynamic like the other two - most stable cytoskeleton
 	- ![[Pasted image 20250917113843.png]]
 	- Over 70 diff types of intermediate filaments
 		- They support the nuclear envelope and cytoplasm

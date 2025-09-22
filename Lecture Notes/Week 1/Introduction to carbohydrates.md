@@ -1,7 +1,54 @@
 ## Structure of carbohydrates
+- Oligosaccharides - 10-15 monosaccharides tgth
 - 
-
 ### Monosaccharides
-- 
-
+- Has a carbonyl group and several hydroxyl group
+	- Aldoses - has an aldehyde carbonyl group
+	- Ketose - has a ketone
+	- triose      (3 C atoms)
+	- tetrose    (4 C atoms)
+	- pentose  (5 C atoms)
+	- hexose   (6 C atoms)
+- Chirality
+	- L and D 
+- Fischer projection
+	- Places the most oxidised group at the top (C=OH group on top, CH2OH on bottom), number the carbons from the top to bottom
+	- Shows chiral carbons as the intersection of vertical and horizontal lines
+	- Bottom carbon - L means OH is on left, D means on right
+- D-glucose 
+	- C6H12O6
+	- Known as blood sugar
+	- Is the monosaccharide in starch, cellulose and glycogen
+- Galactosemia 
+	- Lack of enzyme/s required for galactose metabolism
+	- Can result in accumulation of galactose intermediates -> toxic
+		- Affects the liver, brain, kidneys and eyes
+		- Should be checked for very early after birth to prevent catastrophic results
+- Cyclic structures
+	- Prevalent form of 5 and 6 carbon monosaccharides
+		- ![[Pasted image 20250918132109.png]] (^^^^ instructions specifically for glucose)
+	- alpha - below the ring, beta above the ring ("opposite of what you'd expect")
+		- ![[Pasted image 20250918132241.png]]
+		- Can ring open to flip bt alpha and beta versions
+- Testing for sugars
+	- Reducing sugar - a sugar that will reduce inorganic ions 
+		- Fehling's reagent is CU2+, so it will react with reducing sugars to give a colour change (Copper sulfate is blue, to Cu which is orange)
+		- Colourimetry to figure out the concentration of reducing sugar
+		- ![[Pasted image 20250918133112.png]]
+- Hyperglycemia
+	- Glucose enters RBC's in a non-insulin dependent manner. Hyperglycemia means the glucose will form covalent bonds to the haemoglobin, forming a complex called HbA1C. 
+	- Can be measured quantitatively to tell you how well the diabetes has been controlled over the last few months, bc RBC's live around 120 days. 
 ### Polysaccharides
+- Lactose is a disaccharide of B-D-galactose and D-glucose
+	- Lactose intolerance - no enzyme to break lactose down, so it feeds the bacteria in the large intestine -> gas + acid waste -> flatulence, abdominal pain
+- Glycogen is the most common homopolymer in animal cells
+	- Linked by A-1,4 and A-1,6 glycosidic bonds
+- Starch
+	- Amylose is an unbranched starch comprised of glucose units (α-1,4 linkage).
+	- Amylopectin is the branched form with α-1,4 linkage (30X) to the α-1,6 linkage.
+		- Starch is more branched and dense than amylopectin
+- Cellulose
+	- Has B-1,4 linkage instead
+	- Each glucose is inverted compared to its neighbour
+	- Mammals lack cellulases - can't digest
+- Sugars are an integral part of nucleotides (ribose/deoxyribose)

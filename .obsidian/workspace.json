@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 1/B O N E S.md",
+                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B O N E S"
+              "title": "Introduction to Medical Sociology"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5c7c51c89648da17",
+            "id": "284389209a133f5e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -120,12 +120,27 @@
             }
           },
           {
+            "id": "69b4976824cad2bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction to Medical Sociology"
+            }
+          },
+          {
             "id": "e75d685380785ef8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Case study Muneeb Khan preread.md",
+                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Case study Muneeb Khan preread"
+              "title": "Backlinks for Introduction to Medical Sociology"
             }
           },
           {
@@ -150,21 +165,6 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Case study Muneeb Khan preread"
-            }
-          },
-          {
-            "id": "69b4976824cad2bf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Lecture Notes/Week 1/B O N E S.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of B O N E S"
             }
           },
           {
@@ -201,41 +201,50 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f6ebb43b96d8af39",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250918095357.png",
-    "Attachments/Pasted image 20250918095059.png",
-    "Attachments/Pasted image 20250918094817.png",
-    "Attachments/Pasted image 20250918093339.png",
-    "Attachments/Pasted image 20250918092835.png",
-    "Attachments/Pasted image 20250918092623.png",
-    "Attachments/Pasted image 20250918092545.png",
-    "Attachments/Pasted image 20250918092330.png",
+    "Home.md",
     "Lecture Notes/Week 1/Introduction to the body.md",
-    "Lecture Notes/Week 1/Introduction to carbohydrates.md",
-    "Lecture Notes/Week 1/Introduction to biomolecules.md",
-    "Lecture Notes/Week 1/Infection prevention and control.md",
-    "Lecture Notes/Week 0/IELLI Learning Strategies.md",
-    "Lecture Notes/Week 0/Intro to Curriculum.md",
     "Lecture Notes/Week 0/Introduction to Anatomy.md",
     "Lecture Notes/Week 1/B O N E S.md",
+    "Lecture Notes/Week 2/Primary Tissues.md",
+    "Lecture Notes/Week 2/Epithelia.md",
+    "Lecture Notes/Week 2/Joints and muscles.md",
+    "Lecture Notes/Week 2/Social construction of health.md",
+    "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+    "Lecture Notes/Week 2/Moral theories and principles of ethics.md",
+    "Lecture Notes/Week 2/.md",
+    "Attachments/Pasted image 20250920101644.png",
+    "Lecture Notes/Week 2",
+    "Untitled.md",
+    "Untitled.base",
     "Lecture Notes/Week 1/Cells and Organelles 1 and 2.md",
+    "Lecture Notes/Week 1/Introduction to biomolecules.md",
+    "Lecture Notes/Week 1/Introduction to carbohydrates.md",
+    "Clinical Skills/Primary Survey.md",
+    "Lecture Notes/Week 1/Infection prevention and control.md",
+    "Attachments/Pasted image 20250918094817.png",
+    "Attachments/Pasted image 20250918133112.png",
+    "Attachments/Pasted image 20250918132241.png",
+    "Attachments/Pasted image 20250918132109.png",
+    "Attachments/Pasted image 20250918113925.png",
+    "Attachments/Pasted image 20250918113908.png",
+    "Attachments/Pasted image 20250918103438.png",
+    "Attachments/Pasted image 20250918103145.png",
+    "Lecture Notes/Week 0/Intro to Curriculum.md",
+    "Untitled 1.md",
+    "Attachments/Pasted image 20250918095357.png",
+    "Lecture Notes/Week 0/IELLI Learning Strategies.md",
     "Lecture Notes/Week 1",
     "Lecture Notes/Week 0",
-    "Attachments/Pasted image 20250917113843.png",
-    "Attachments/Pasted image 20250917113723.png",
-    "Attachments/Pasted image 20250917113532.png",
     "Case Studies/DR Reflection.md",
     "Clinical Skills/Differential Diagnoses.md",
-    "Home.md",
     "Case Studies/Case study Muneeb Khan preread.md",
     "Case Studies/Case Study Muneeb Khan Notes.md",
     "Case Studies/SBAR.md",
-    "Untitled.md",
     "Clinical Skills",
     "Lecture Notes",
     "Attachments/Untitled.md",
-    "Case Studies/DNACPR.md",
     "Tags",
     "Attachments"
   ]

@@ -19,7 +19,7 @@
 	- Metaphysis
 		- Middle bit bt head and shaft
 	- Periosteum
-		- Fibrous sheath covering the outside of th bone
+		- Fibrous sheath covering the outside of the bone
 	- ![[Pasted image 20250918092330.png]]
 - 2 major kinds of bone
 	- Trabecular/Cancellous (Spongy and porous)
@@ -38,7 +38,7 @@
 - ![[Pasted image 20250918092835.png]]
 - The cortical bone will align concentrically around the Haversian canals
 	- Not all bone cells are in direct contact to the blood
-	- But each bone cell has projections where it can send signals to neighbouring cells for communication
+	- But each osteocyte has projections where it can send signals to neighbouring cells for communication/substance exchange
 ### Composition
 - The collagen within bones is arranged in a parallel arrangement all throughout both types of bone 
 - ![[Pasted image 20250918093339.png]]
@@ -75,7 +75,19 @@
 	- ![[Pasted image 20250918095357.png]]
 ## Growth of bone
 - Cartilage model formed, replaced by bone in ossification in infancy
-- !!!!!!!!!
-- 
+	- Primary centre of ossification is the diaphysis - starts there first
+	- Secondary centre of ossification is the epiphysis - after
+- Diaphysis and epiphysis separated by layer of cartilage called the epiphysial plate. This contains chondroblasts which help to grow the length of the diaphysis - as long as the cartilage exists, the bone will increase in length
+	- In the resting zone, chondroblasts lay down cartilage at epiphysial plate. 
+	- In the growth zone, they undergo mitosis. This increase in number causes columns of cartilage to form and push outwards from the epiphysial plate. 
+	- In the hypertrophic zone, the chondroblasts stop dividing, swell, become calcified and differentiate into chondrocytes. 
+	- Minerals are deposited bt the columns (mineralisation) of chondrocytes in the calcification zone, which destroys them. 
+	- Ossification zone - the columns break down, then are infiltrated by capillaries and osteoprogenitor cells. They differentiate into osteoblasts, which lay down new disorganised bone which is eventually remodelled. 
+	- ![[Pasted image 20250918113908.png]] ![[Pasted image 20250918113925.png]]
+ 
 
 ## Bone healing
+- With a big break/fracture, it takes 2 - 4 weeks to heal
+- First the osteoblasts lay down an irregular web of collagen fibres (callus formation)
+	- Quick and dirty, weak bone bc irregular web
+- Later remodelled into regular sheets of collagen (lamellar bone)

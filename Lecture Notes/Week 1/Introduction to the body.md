@@ -55,7 +55,7 @@
 	- Axial - skull, vertebrae, sacrum, ribs, coccyx, hyoid, sternum (the "middle" stuff)
 	- Appendicular - everything else attached to it
 	- ![[Pasted image 20250916092624.png]]
-
+- [[B O N E S]]
 ### Nervous system
 - CNS/PNS
 	- Sensory
