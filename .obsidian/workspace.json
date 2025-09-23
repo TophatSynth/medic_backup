@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ee0633ef56c0d660",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3fa679863b2d0e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+                "file": "Lecture Notes/Week 2/Primary Tissues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Medical Sociology"
+              "title": "Primary Tissues"
             }
           }
         ]
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+                "file": "Lecture Notes/Week 2/Primary Tissues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction to Medical Sociology"
+              "title": "Outline of Primary Tissues"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+                "file": "Lecture Notes/Week 2/Primary Tissues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction to Medical Sociology"
+              "title": "Backlinks for Primary Tissues"
             }
           },
           {
@@ -201,20 +201,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f6ebb43b96d8af39",
+  "active": "3fa679863b2d0e36",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250923105224.png",
+    "Attachments/Pasted image 20250923105059.png",
+    "Attachments/Pasted image 20250923105005.png",
+    "Attachments/Pasted image 20250923104219.png",
+    "Lecture Notes/Week 2/Epithelia.md",
+    "Lecture Notes/Week 2/Primary Tissues.md",
     "Home.md",
+    "Feedback for MD2001.md",
+    "Attachments/Pasted image 20250923101339.png",
+    "Attachments/Pasted image 20250923095853.png",
+    "Attachments/Pasted image 20250923095652.png",
+    "Attachments/Pasted image 20250923094524.png",
+    "Attachments/Pasted image 20250923094146.png",
+    "Attachments/Pasted image 20250923093409.png",
+    "Attachments/Pasted image 20250923092705.png",
+    "Lecture Notes/Week 2/Introduction to medical humanities.md",
+    "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
+    "Lecture Notes/Week 2/Moral theories and principles of ethics.md",
     "Lecture Notes/Week 1/Introduction to the body.md",
     "Lecture Notes/Week 0/Introduction to Anatomy.md",
     "Lecture Notes/Week 1/B O N E S.md",
-    "Lecture Notes/Week 2/Primary Tissues.md",
-    "Lecture Notes/Week 2/Epithelia.md",
     "Lecture Notes/Week 2/Joints and muscles.md",
     "Lecture Notes/Week 2/Social construction of health.md",
-    "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
-    "Lecture Notes/Week 2/Moral theories and principles of ethics.md",
     "Lecture Notes/Week 2/.md",
-    "Attachments/Pasted image 20250920101644.png",
     "Lecture Notes/Week 2",
     "Untitled.md",
     "Untitled.base",
@@ -223,28 +235,16 @@
     "Lecture Notes/Week 1/Introduction to carbohydrates.md",
     "Clinical Skills/Primary Survey.md",
     "Lecture Notes/Week 1/Infection prevention and control.md",
-    "Attachments/Pasted image 20250918094817.png",
-    "Attachments/Pasted image 20250918133112.png",
-    "Attachments/Pasted image 20250918132241.png",
-    "Attachments/Pasted image 20250918132109.png",
-    "Attachments/Pasted image 20250918113925.png",
-    "Attachments/Pasted image 20250918113908.png",
-    "Attachments/Pasted image 20250918103438.png",
-    "Attachments/Pasted image 20250918103145.png",
     "Lecture Notes/Week 0/Intro to Curriculum.md",
     "Untitled 1.md",
-    "Attachments/Pasted image 20250918095357.png",
     "Lecture Notes/Week 0/IELLI Learning Strategies.md",
     "Lecture Notes/Week 1",
     "Lecture Notes/Week 0",
     "Case Studies/DR Reflection.md",
     "Clinical Skills/Differential Diagnoses.md",
     "Case Studies/Case study Muneeb Khan preread.md",
-    "Case Studies/Case Study Muneeb Khan Notes.md",
-    "Case Studies/SBAR.md",
     "Clinical Skills",
     "Lecture Notes",
-    "Attachments/Untitled.md",
     "Tags",
     "Attachments"
   ]

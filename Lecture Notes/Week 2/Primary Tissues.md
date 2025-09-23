@@ -1,33 +1,104 @@
 ## Specialisation of cells and tissues
-- Differentiation
+- Every cell contains the entire genome, but only express a subset of these genes - differentiation and specialisation into different types
+	- Most cells contain a similar set of organelles despite having strikingly distinct appearances
 - Stem cells
+	- Found in the early embryo and in tissue (pluripotent and tissue specific)
+	- Undergoes asymmetric division !!!!!
+		- ![[Pasted image 20250923101339.png|400]]
+	- Gene expression regulated by transcription factors to produce specialised cells
+	- 
 
 ## 4 basic types of body tissue
 - Classified by morphology (the form) and function 
 	- To highlight: 
-		- 
+		- Cell shape, prominent organelles and cell surface structures, binding and association of cells, arrangement and location of cells, extracellular components !!!!!
+		- Cell shape
+		- Intracellular stuff
 ### 1. [[Epithelia|Epithelial Tissue]]
-- 
+- [[Epithelia#What are epithelia?|What is it]]
+	- Avascular - gets its nutrients from the basal membrane
+	- Bt body and env, and bt fluid compartments
+	- Secretes and absorbs, and acts as a barrier
+	- Connected by intercellular joints
+- [[Epithelia#What are epithelia?|Function]]
+	- Secretion, absorption, transportation, mechanical support, receptor function !!!!!
+- [[Epithelia#Epithelial cell types|Types]]
+	- Simple/stratified, cuboidal/columnar/squamous, pseudostratified, transitional
+- Cilia 
+	- Primary cilia
+		- Found in most animal cells, function in sensory organs
+			- Odorant receptors and photoreceptors are found on primary cilia
+	- Motile cilia
+		- Responsible for movement - Like the cilia in your airway wafting mucus
+	- Nodal cilia
+		- Found within the embryo during [[Introduction to the body#Embryology - Development of body cavities|gastrulation]] !!!!!!
+- [[Epithelia#Structural features of epithelia|Junctions]] !!!!!!!
 ### 2. Neural tissue
-- 
+- Consists of nerve cells and glial/supporting cells
+	- 10x more glial cells than nerve cells
+- Nerve cells
+	- Has a soma, receptive dendrites, transmitting axon and end terminal synapse
+		- Synaptic vesicles containing neurotransmitters release the molecules across channel proteins, they travel across the synaptic cleft, bind to receptors on the next nerve cell
+	- Myelin sheath with Nodes of Ranvier
+- Oligodendrocyte
+	- Myelinates multiple neurons at the same time within the CNS
+	- Provides trophic support/protects axons - helps them survive longer
+- Schwann cells
+	- Myelinates single cell in the PNS
 - Glial cells
 	- In the CNS
 		- Macroglia
+			- Oligodendrocytes, and Astrocytes
+				- Provides metabolic supoprt to neurons, insulates synapses, 
+				- !!!!!!
 		- Microglia
+			- Resident immune cells and phagocytes
 	- In the PNS
 ### 3. Muscle
+- Muscle cells are called myocytes
+	- All contain contractile filaments composed of actin and myosin
+	- Ordered arrays of two types of filaments (multinucleated cells and spindle-shaped cells) produce a striated (lines) appearance 
+- !!!!!!
 - 3 types
 	- Skeletal muscle
+		- Striated, coordinated contraction, voluntary (can be involuntary, eg reflexes)
+		- Multinucleated cells
+		- ![[Pasted image 20250923104219.png|500]]
+		- 2 filaments - thin filament (actin) and thick filament (myosin) which provides structural integrity 
+			- Thin filament has two proteins linked to the actin - tropomyosin and troponin
+		- "You'll learn more about this later" Don't worry ab out it atm
 	- Smooth muscle
+		- !!!!!!
 	- Cardiac muscle
+		- striated, branched, coordinated contraction, involuntary control of the blood pump !!!1
+		- Posses several gap junctions allowing for electrical communication and adhering junctions supporting cell binding
+		- Rich blood supply and many mitochondria bc needs a lot of energy
 - Also classified into voluntary and involuntary control
-- 
 ### 4. Connective tissue
+- Will come back to it later. Dw too much
 - Mix of different cells + extracellular matrix 
-	- ECM
+	- ECM 
+		- Contains fibrous proteins, structural carbs and proteins, and mineral deposits
 - Types of connective tissue
 	- Fibrocollagenous
 	- Cartilage
+		- 3 types
+			- Elastic
+				- Flexible
+				- Found in the external ear
+			- Hyaline 
+				- Impact resistant, durable, and low friction
+				- Found at the joints, nose and trachea
+			- Fibrocartilage
+				- Strong 
+				- Found in intervertebral discs, knee join menisci 
+					- ![[Pasted image 20250923105224.png]]
 	- [[B O N E S|Bone]]/teeth
 	- Adipose tissue
-	- 
+		- 2 types
+			- White fat - energy storage, insulation, protection
+				- Are stored in adipocytes as single droplets of fat that occupies most of the cell
+				- ![[Pasted image 20250923105005.png|400]]
+				- Also produces leptin - signal to the brain that the body has had enough to eat
+					- ![[Pasted image 20250923105059.png]]
+			- Brown fat - heat production
