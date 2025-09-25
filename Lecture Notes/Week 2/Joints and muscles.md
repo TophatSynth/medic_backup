@@ -1,8 +1,80 @@
 ## Joints
+- Where 2 or more bones/skeletal elements meet
+- Function:
+	- Facilitate growth, holds bones together, transmit forces, enable various levels of movement
+- Arthro - joint
 ### Types and structure of joints
+- By type of movement
+	- Synarthroses - Immovable/fixed
+	- Amphiarthroses - Limited movement
+	- Diarthroses - Variety of moveable joints
+- By tissue structure
+	- Fibrous joint - no movement !!!!!
+		- Sutures - thick connective tissues composed mainly of type I collagen fibres
+		- Gomphoses - collagen fibres in the periodontal ligament secure teeth into the bone of the tooth socket
+		- Syndesmoses - Fibrous membrane between adjacent bones (eg radioulnar or tibiofibular)  
+	- Cartilaginous joint - limited or no movement
+		- Synchondroses - primary cartilaginous joint made of hyaline cartilage, allows bone growth during adolescence but eventually ossifies (eg rib cage at first sternocostal joint and at the costochondral joints)
+			- ![[Pasted image 20250925132632.png|400]]
+		- Symphyses - secondary cartilaginous joint, often occurs in the midline (eg at pubic symphysis, between vertebrae, manubriosternal joint). Made of cartilage sandwich - bone, hyaline, fibrocartilage, hyaline, bone (limited movement) 
+	- Synovial joint - variety of movement
+		- Anatomy
+			- Fibrous capsule lined with collagenous synovial membrane that secretes synovial fluid 
+				- Synovial fluid contains hyaluronic acid, lubricin, and some phagocytic cells
+				- Non-newtonian/thixotropic - becomes less viscous as force is applied
+				- Provides nutrients for articular cartilage, removes waste
+			- Bone ends lined with hyaline cartilage (no blood, nerve, or lymphatic supply)
+			- Outside lined with periosteum
+			- Rich nerve and blood supply 
+			- Weightbearing joints have menisci (eg knee joint) - made of fibrocartilagionous
+		- Additional things
+			- Bursae
+				- Closed sacs lined with synovial membranes, lubricated on the outside with synovial fluid
+				- Is essentially an internal blister - found in areas of friction, eg bt skin and bone, tendons and bone etc
+			- Fatty pads between fibrous capsule and skin 
+			- Synovial sheaths 
+				- Specialised bursae that surround tendons to protect from pressure - found in the hand and foot
+		- Factors influencing synovial joint stability 
+			- Articular surfaces - the larger the surface/deeper the socket, the more stable the joint
+			- The number, arrangement and position of the ligaments
+			- Muscle tone - the "base" slight bit of contraction of muscles - biggest stabilising factor
+		- Types of synovial joints !!!!
+			- Condyloid
+				- Flexion, extension, abduction, adduction, circumduction
+			- Gliding/plane
+				- Movement on a single plane
+			- Hinge
+				- Movement along one axis
+			- Ball and socket
+				- Very free movement
+			- Saddle
+				- Movement in two axes at right angles to each other
+			- Pivot
+				- Rotation
+- Ligaments
+	- Joins bone to bone
+	- Dense bands of fibrous connective tissue and collagen
+	- Restricts movement at the joint, preventing dislocation and damage
+	- Can be intrinsic or extrinsic - within/part of the fibrous capsule, or external to the capsule
+- Tendon 
+	- Joins muscle to bone
+
 
 ### Joint pathology
+- Osteoarthritis (OA) !!!!
+	- Degenerative disease
+- Rheumatoid arthritis 
+	- Autoimmune disease that attacks the cartilage
+	- Affects about 1% of ppl, more common in females
 
 ## Muscles
+- ![[Pasted image 20250925135331.png|400]]
 - 3 main types of muscle
+	- Skeletal, cardiac, smooth/visceral
 - 3 functional groups of muscle
+	- Agonist - the one doing the main contraction
+	- Synergist/fixator - provides additional force and prevents undesirable actions - controls
+	- Antagonist - opposes the movement
+- Anatomy
+	- Muscle cells are made of long tubes of myofibril, in turn made of sarcomeres
+	- Muscle cells surrounded by endomysium, bundled together by perimysium into fascicles, groups of fascicles are bundled by epimysium into muscle

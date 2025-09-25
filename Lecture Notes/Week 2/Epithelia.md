@@ -3,16 +3,16 @@
 	- Many variations of epithelial tissue, depending on structure/cell shape and the number of layers
 	- Form follows function
 - Epithelia form continuous sheets of cells
-	- Heterogeneous cell types (!!!!!!!), specialised for distinct functions
+	- Heterogeneous cells - genetically identical, but have different phenotypes - morphology and specialised for distinct functions
 - Where are epithelia found?
 	- Where the body comes into contact with the outside environment
 	- Between fluid compartments within the body
 		- Eg kidney tubules - between the tubule (containing plasma/ions etc) and the outside of the tubules (containing interstitial fluid/blood)
 - Function - Transports molecules via
 	- Absorptive processes - eg in the kidney tubules, from inside the lumen back into the blood
-		- ![[Pasted image 20250923092253.png]]
+		- ![[Pasted image 20250923092253.png|400]]
 	- Secretory processes - eg in the airway, secretes fluid and ions to keep the airway lubricated. That fluid also allows cilia to stand upright and function. 
-		- ![[Pasted image 20250923092705.png]]
+		- ![[Pasted image 20250923092705.png|400]]
 
 ## Epithelial cell types
 - Cuboidal - Square 
@@ -22,17 +22,18 @@
 	- Simple cuboidal epithelium
 		- Single layer of cube cells
 		- Function: secretion and absorption of ions, solutes and water
-		- Found in all the kidney tubules! + ducts, secretory portions of small glands, and ovary surface
+		- Location: Mainly in all the kidney tubules! + ducts, secretory portions of small glands, and ovary surface
 	- Simple columnar epithelium
 		- Basal nuclei, ciliated or non-ciliated but has microvilli
 		- Function: Absorption, secretion of mucus, enzymes, etc
-		- Found in the digestive tract! + gall bladder, excretory ducts(non ciliated)
+		- Location: Found in the digestive tract! + gall bladder, excretory ducts(non ciliated)
 		- Ciliated ones found in the small bronchi and uterine tubes
 	- Simple squamous epithelium
 		- Flat cells, disc-shaped nuclei
 		- Passage of materials via diffusion and filtration
 		- Some secrete small amounts of serous fluid (mesothelium, lubricating fluid) 
-		- Found in the glomeruli, alveoli, blood vessels, and lymphatic vessels
+			- Mesothelium lines body cavities - makes up pericardium, peritoneum, pleura
+		- Location: In the glomeruli, alveoli, blood vessels, and lymphatic vessels
 			- Where do you need rapid diffusion of substances? 
 	- Simple pseudostratified epithelium
 		- Looks like multiple layers, but all cells are in contact with basal membrane
@@ -40,15 +41,17 @@
 		- Several "layers" of nuclei
 		- Can be ciliated or non-ciliated
 		- Secretes mucus
-		- Found in the trachea and upper respiratory tract (ciliated) and vas deferens and large glands (non-ciliated) (!!!!!!!!!!)
+		- Found in the trachea and upper respiratory tract (ciliated) and vas deferens (sperm duct) and large glands (non-ciliated)
 - Stratified epithelium - multiple layers
 	- Stratified cuboidal epithelium
 		- Usually 2 layers of cuboidal cells
 		- Protects underlying tissue
-		- Located in largest ducts of glands !!!!!!1
-	- Stratifid columnar epithelium
+		- Located in largest ducts of glands - sweat glands, mammary glands, salivary glands 
+	- Stratified columnar epithelium
 		- Several cell layers
-		- Basal cells usually cuboidal !!!!!!
+		- Basal cells usually cuboidal, superficial cells are columnar
+		- Function: Protection, secretion
+		- Location: Urethra, large ducts of glands, conjunctiva of eyes
 	- Stratified squamous
 		- Thick membrane composed of many cell layers
 		- Basal cells are cuboidal/columnar 
@@ -67,18 +70,17 @@
 	- Connect cells tgth and to the basal membrane
 	- Some allow for intercellular communication and transport of ions
 	- Enable polarisation - apical and basal side
-	- Types: !!!!!!!!!!!
+	- Types: 
 		- Tight junctions ("Zonula occludens")
 			- Branching network of strands of protein, kind of tying the cell membranes tgth
-				- ![[Pasted image 20250923094524.png]]
+				- ![[Pasted image 20250923094524.png|200]]
 			- Ev. above the junction is the apical membrane, below is the basal membrane
-			- Prevents passage of molecules and ions 
-			- Permeability barrier
+			- Limits passage of molecules and ions through the epithelium via the paracellular pathway
 		- Adhering junctions ("Zonula adherens")
 			- A belt of proteins just underneath the TJ
-			- Like a velcro belt sticking cells tgth
+			- Sticks cells together via cadherins in between the cells connected to the actin cytoskeleton
 		- Desmosomes ("Macula adherens")
-			- Spots of velcro 
+			- "Spot-like" adhesions on the cell wall
 		- Gap junctions
 			- Allows intercellular communication
 			- Ions, metabolites, signalling molecules can pass through to other cells
@@ -90,15 +92,18 @@
 - Membrane features
 	- Microvilli
 		- Found where you need to absorb a lot of stuff - proximal tubule of kidney, small intestine
-		- Extends surface area up to 20x
-	- Lateral interdigitations and basal infoldings
+		- Extends surface area up to 20x 
+	- Lateral interdigitations and basal infoldings 
 		- Extends basal surface area for better transport 
 	- Cilia 
 		- Larger/longer than microvilli
-		- !!!!!!!!
+		- Ciliated cuboidal/columnar 
+			- Oviduct
+		- Ciliated pseudostratified columnar
+			- Respiratory tract, vas deferens, epididymis 
 	- Keratin
 		- Stratified squamous epithelium defined by how much keratin it has
-			- Kertinised - lots
+			- Keratinised - lots
 				- A layer of keratin at the surface in the dead squamous cells, appear anuclear - waterproof. 
 				- Skin
 			- Non-keratinised - some, but very little
@@ -118,4 +123,4 @@
 	- Cl- secretion into lumen of intestine - cholera, secretory diarrhoea
 	- CFTR
 	- Na+ reabsorption in the kidney tubules, dysregulated in hypertension, treated with diuretics
-	- !!!!!!!!
+- Tumour originating from epithelial cells called a carcinoma

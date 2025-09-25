@@ -3,7 +3,7 @@
 	- Most cells contain a similar set of organelles despite having strikingly distinct appearances
 - Stem cells
 	- Found in the early embryo and in tissue (pluripotent and tissue specific)
-	- Undergoes asymmetric division !!!!!
+	- Undergoes asymmetric division - one differentiates, other remains as a stem cell
 		- ![[Pasted image 20250923101339.png|400]]
 	- Gene expression regulated by transcription factors to produce specialised cells
 	- 
@@ -11,9 +11,10 @@
 ## 4 basic types of body tissue
 - Classified by morphology (the form) and function 
 	- To highlight: 
-		- Cell shape, prominent organelles and cell surface structures, binding and association of cells, arrangement and location of cells, extracellular components !!!!!
 		- Cell shape
-		- Intracellular stuff
+		- Intracellular organelles
+		- Cell surface and extracellular components
+		- Binding, association, arrangement and location of cells
 ### 1. [[Epithelia|Epithelial Tissue]]
 - [[Epithelia#What are epithelia?|What is it]]
 	- Avascular - gets its nutrients from the basal membrane
@@ -21,7 +22,7 @@
 	- Secretes and absorbs, and acts as a barrier
 	- Connected by intercellular joints
 - [[Epithelia#What are epithelia?|Function]]
-	- Secretion, absorption, transportation, mechanical support, receptor function !!!!!
+	- Secretion, absorption, transportation, mechanical support (skin), receptor function (taste buds, olfactory epithelium)
 - [[Epithelia#Epithelial cell types|Types]]
 	- Simple/stratified, cuboidal/columnar/squamous, pseudostratified, transitional
 - Cilia 
@@ -31,8 +32,9 @@
 	- Motile cilia
 		- Responsible for movement - Like the cilia in your airway wafting mucus
 	- Nodal cilia
-		- Found within the embryo during [[Introduction to the body#Embryology - Development of body cavities|gastrulation]] !!!!!!
-- [[Epithelia#Structural features of epithelia|Junctions]] !!!!!!!
+		- Found within the embryo during [[Introduction to the body#Embryology - Development of body cavities|gastrulation]] 
+		- Rotates clockwise to move the ECF around the embryo
+- [[Epithelia#Structural features of epithelia|Junctions]] 
 ### 2. Neural tissue
 - Consists of nerve cells and glial/supporting cells
 	- 10x more glial cells than nerve cells
@@ -48,17 +50,25 @@
 - Glial cells
 	- In the CNS
 		- Macroglia
-			- Oligodendrocytes, and Astrocytes
-				- Provides metabolic supoprt to neurons, insulates synapses, 
-				- !!!!!!
+			- Oligodendrocytes and Astrocytes
+				- Provides metabolic support to neurons, surrounds and insulates synapses
+				- Also recycles glutamine (the activated form of glutamate - the primary neurotransmitter of the NS) back from the synaptic cleft into the axon
+				- Astrocytes of the grey matter - Protoplasmic astrocytes
+				- Astrocytes of the white matter - Fibrous astrocytes
 		- Microglia
 			- Resident immune cells and phagocytes
 	- In the PNS
-### 3. Muscle
+		- Schwann cells and satellite cells
+### 3. [[Joints and muscles|Muscles]] 
 - Muscle cells are called myocytes
 	- All contain contractile filaments composed of actin and myosin
 	- Ordered arrays of two types of filaments (multinucleated cells and spindle-shaped cells) produce a striated (lines) appearance 
-- !!!!!!
+- Naming
+	- Sarco- (skeletal muscle fibres)
+	- Sarcolemma - cell membrane
+	- Sarcoplasm - cytoplasm
+	- Sarcomeres - contractile protein
+	- Myofibrils - parallel sarcomere bundles 
 - 3 types
 	- Skeletal muscle
 		- Striated, coordinated contraction, voluntary (can be involuntary, eg reflexes)
@@ -66,11 +76,14 @@
 		- ![[Pasted image 20250923104219.png|500]]
 		- 2 filaments - thin filament (actin) and thick filament (myosin) which provides structural integrity 
 			- Thin filament has two proteins linked to the actin - tropomyosin and troponin
-		- "You'll learn more about this later" Don't worry ab out it atm
+		- "You'll learn more about this later" Don't worry about it atm
 	- Smooth muscle
-		- !!!!!!
-	- Cardiac muscle
-		- striated, branched, coordinated contraction, involuntary control of the blood pump !!!1
+		- Non-striated, coordinated contraction, involuntary
+		- Cells are spindle shaped
+		- No ordered arrays of myosin and actin
+		- Responsible for peristalsis, urinary system, reproductive system, gut, respiratory system, blood vessels
+	- Cardiac muscle ^69ffac
+		- striated, branched, coordinated contraction, involuntary control of the blood pump 
 		- Posses several gap junctions allowing for electrical communication and adhering junctions supporting cell binding
 		- Rich blood supply and many mitochondria bc needs a lot of energy
 - Also classified into voluntary and involuntary control
@@ -91,7 +104,7 @@
 				- Found at the joints, nose and trachea
 			- Fibrocartilage
 				- Strong 
-				- Found in intervertebral discs, knee join menisci 
+				- Found in intervertebral discs, knee joint menisci 
 					- ![[Pasted image 20250923105224.png]]
 	- [[B O N E S|Bone]]/teeth
 	- Adipose tissue

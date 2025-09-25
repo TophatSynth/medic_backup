@@ -1,0 +1,7 @@
+- Cartilaginous joints are united with fibrocartilage or hyaline cartilage.
+- Primary cartilaginous joints occur during development and where two centres of ossification unite. 
+- Secondary cartilaginous joints are strong, they are only slightly movable and the bones unite with fibrocartilage.
+- Muscles
+	- flat, pennate (unipennate, bipennate, multipennate), fusiform, convergent, quadrate, circular and multiheaded (multibellied)
+	- ![[Pasted image 20250925123005.png]]
+- 

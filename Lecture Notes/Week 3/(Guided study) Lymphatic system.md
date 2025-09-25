@@ -1,0 +1,5 @@
+- 3 palpable nodes - superficial groups of lymph nodes that become palpable when enlarged
+	- Cervical nodes - Lie in a chain on either side of the neck. They drain all structures of the head and neck (= swollen glands when you have a throat infection).
+	- Axillary nodes - Lie scattered in the fatty tissue packing the axilla. They drain the upper limbs, thoracic and abdominal wall down to the level of the umbilicus.
+	- Inguinal nodes - Lie in the superficial fascia just below the inguinal ligament in the groin. They drain lymph from the lower limb, perineum and external genitalia , the abdominal wall inferior to the umbilicus and the gluteal region posteriorly.
+- ![[Pasted image 20250925124136.png|400]]
