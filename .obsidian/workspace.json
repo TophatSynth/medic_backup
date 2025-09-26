@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 2/Joints and muscles.md",
+                "file": "Lecture Notes/Week 1/(Practical) Intro to histology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joints and muscles"
+              "title": "(Practical) Intro to histology"
             }
           }
         ]
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/Week 2/Joints and muscles.md",
+                "file": "Lecture Notes/Week 1/(Practical) Intro to histology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Joints and muscles"
+              "title": "Backlinks for (Practical) Intro to histology"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Notes/Week 2/Joints and muscles.md",
+                "file": "Lecture Notes/Week 1/(Practical) Intro to histology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Joints and muscles"
+              "title": "Outgoing links from (Practical) Intro to histology"
             }
           },
           {
@@ -203,18 +203,19 @@
   },
   "active": "a8d72cfc5c35a5d6",
   "lastOpenFiles": [
+    "Lecture Notes/Week 3/(DR) Musculoskeletal system.md",
+    "Lecture Notes/Week 1/(Practical) Intro to histology.md",
+    "Lecture Notes/Week 2/Joints and muscles.md",
     "Home.md",
     "Lecture Notes/Week 2/Introduction to medical imaging.md",
     "Attachments/Pasted image 20250925144707.png",
     "Attachments/Pasted image 20250925143516.png",
-    "Lecture Notes/Week 2/Joints and muscles.md",
     "Attachments/Pasted image 20250925135331.png",
     "Attachments/Pasted image 20250925132632.png",
     "Lecture Notes/Week 2/Primary Tissues.md",
     "Lecture Notes/Week 3/Heart and circulation.md",
     "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
     "Attachments/Pasted image 20250925124136.png",
-    "Lecture Notes/Week 3/(Practical) Musculoskeletal system.md",
     "Attachments/Pasted image 20250925123005.png",
     "Lecture Notes/Week 2/Social construction of health.md",
     "Lecture Notes/Week 2/Moral theories and principles of ethics.md",
