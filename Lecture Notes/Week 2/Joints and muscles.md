@@ -9,12 +9,12 @@
 	- Amphiarthroses - Limited movement
 	- Diarthroses - Variety of moveable joints
 - By tissue structure
-	- Fibrous joint - no movement !!!!!
+	- Fibrous joint - no movement 
 		- Sutures - thick connective tissues composed mainly of type I collagen fibres
 		- Gomphoses - collagen fibres in the periodontal ligament secure teeth into the bone of the tooth socket
 		- Syndesmoses - Fibrous membrane between adjacent bones (eg radioulnar or tibiofibular)  
 	- Cartilaginous joint - limited or no movement
-		- Synchondroses - primary cartilaginous joint made of hyaline cartilage, allows bone growth during adolescence but eventually ossifies (eg rib cage at first sternocostal joint and at the costochondral joints)
+		- Synchondroses - primary cartilaginous joint made of hyaline cartilage, allows bone growth during adolescence but eventually ossifies (eg rib cage at first sternocostal joint and at the costochondral joints) (rest of cartilage is hyaline cartilage tho)
 			- ![[Pasted image 20250925132632.png|400]]
 		- Symphyses - secondary cartilaginous joint, often occurs in the midline (eg at pubic symphysis, between vertebrae, manubriosternal joint). Made of cartilage sandwich - bone, hyaline, fibrocartilage, hyaline, bone (limited movement) 
 	- Synovial joint - variety of movement
@@ -23,10 +23,12 @@
 				- Synovial fluid contains hyaluronic acid, lubricin, and some phagocytic cells
 				- Non-newtonian/thixotropic - becomes less viscous as force is applied
 				- Provides nutrients for articular cartilage, removes waste
+					- Articular relates to the end of the bone at the joint
+					- Articular cartilage -> cartilage at the end of the bone, where the joint is
 			- Bone ends lined with hyaline cartilage (no blood, nerve, or lymphatic supply)
 			- Outside lined with periosteum
 			- Rich nerve and blood supply 
-			- Weightbearing joints have menisci (eg knee joint) - made of fibrocartilagionous
+			- Weightbearing joints have menisci (eg knee joint) - made of fibrocartilage
 		- Additional things
 			- Bursae
 				- Closed sacs lined with synovial membranes, lubricated on the outside with synovial fluid
@@ -38,9 +40,9 @@
 			- Articular surfaces - the larger the surface/deeper the socket, the more stable the joint
 			- The number, arrangement and position of the ligaments
 			- Muscle tone - the "base" slight bit of contraction of muscles - biggest stabilising factor
-		- Types of synovial joints !!!!
+		- Types of synovial joints 
 			- Condyloid
-				- Flexion, extension, abduction, adduction, circumduction
+				- Like a ball and socket except without the rotation
 			- Gliding/plane
 				- Movement on a single plane
 			- Hinge
@@ -62,7 +64,9 @@
 
 ### Joint pathology
 - Osteoarthritis (OA) !!!!
-	- Degenerative disease
+	- Degenerative disease where the cartilage breaks down further and further
+	- The cartilage wears out and is unable to be repaired. The bone beneath becomes sclerotic (hardened) and osteophytes (bony nodules) form
+	- Painful
 - Rheumatoid arthritis 
 	- Autoimmune disease that attacks the cartilage
 	- Affects about 1% of ppl, more common in females

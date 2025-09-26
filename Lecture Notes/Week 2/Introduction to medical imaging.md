@@ -51,6 +51,6 @@
 	- Doing the wrong investigation in the first place
 - Protection of fetus
 - Dose of radiation
-	- ![[Pasted image 20250925144707.png]]
+	- ![[Pasted image 20250925144707.png|500]]
 - ALARA - As Low As Reasonably Achievable
 - 
