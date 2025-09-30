@@ -158,8 +158,8 @@ Eukaryotes: Has membrane lined organelles
 		- Ligand dissociates from receptor, receptor is moved back with vesicle membrane to recycling endosome to be put back into PM
 		- From there, may be recycled or sent for degradation
 - Pathological example of receptor-mediated endocytosis - LDL
-	- LDL binds to receptor, moves into late endosome to fuse with hydrolase vesicles for degradation. LDL dissociates from receptor, receptor is recycled back into membrane and LDL is destroyed. 
-	- Familial hypercholesterolemia has 3 causes
+	- LDL binds to receptor, moves into late endosome to fuse with hydrolase vesicles for degradation. LDL dissociates from receptor, receptor is recycled back into membrane and LDL is destroyed.  ^482f35
+	- Familial hypercholesterolemia has 3 causes ^9d44c1
 		- LDL receptor not properly transported from RER to Golgi
 		- LDL-receptor complex does not cluster into vesicles on the PM
 		- LDL receptor not recycled back to the PM
