@@ -40,13 +40,11 @@
   "expandedSpaces": [
     "//",
     "//Work",
-    "//Clinical Skills",
-    "//Case Studies",
     "/",
-    "//Lecture Notes",
     "//Lecture Notes/Lecture Notes/Week 2",
     "//Lecture Notes/Lecture Notes/Week 1",
-    "//Lecture Notes/Lecture Notes/Week 3"
+    "//Lecture Notes/Lecture Notes/Week 3",
+    "//Lecture Notes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -63,7 +63,7 @@
 
 
 ### Joint pathology
-- Osteoarthritis (OA) !!!!
+- Osteoarthritis (OA) 
 	- Degenerative disease where the cartilage breaks down further and further
 	- The cartilage wears out and is unable to be repaired. The bone beneath becomes sclerotic (hardened) and osteophytes (bony nodules) form
 	- Painful

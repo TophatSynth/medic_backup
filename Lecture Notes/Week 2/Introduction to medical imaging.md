@@ -2,7 +2,7 @@
 - The use of radiant energy or radioactive material in the diagnosis and treatment of disease
 - Radiologist - interprets diagnostic images, does some specialist tests
 - Radiographer - trains to take said images
-- !!!!
+- Sonographer - able to perform ultrasound
 - Clinical oncologist - specialist physician who uses radiation to treat cancer
 
 ## Types of medical imaging
@@ -13,7 +13,7 @@
 	- Gradient of white/black depending on density
 	- Standard two planes of imaging - AP and Lateral
 	- Placing the source closer to the body makes some structures bigger
-	- Mammography - low dose xray for screen breast
+	- Mammography - low dose xray for screening breast
 	- Fluoroscopy - continuous, real time xrays, can be used for positioning of orthopedic implants
 	- Angiography - inject a contrast agent into the blood vessels to visualise them 
 	- Computed tomography (CT) - "cat scans"
@@ -22,25 +22,29 @@
 		- Adv - fast, readily available, good imaging of bony structures/abdomen/lungs
 		- Disads - high radiation doses, not good at imaging soft tissue, high resource use (staffing, costs, time, space for machinery)
 - Nuclear medicine
-	- Injects ppl with radioactive materials, then uses the gamma rays emitted to form images
+	- Injects ppl with radioactive materials, then uses the gamma rays emitted to form images - scintigraphy
 		- Captured using gamma camera
 	- Most commonly used radionuclide is technetium 
 	- High sensitivity
-	- Single photon emission CT - !!!
+	- Single photon emission CT - computer analyses data from a single depth in the body
 	- PET - combination of CT and scintillation scanning, most common in staging cancer
-		- !!!!!
+		- Adv - Good functional info, good localisation of pathology
+		- Disads - high radiation dose, not good at differentiating between different pathologies
 - Magnetic Resonance Imaging (MRI)
 	- Uses powerful magnetic field
+	- High/low intensity - white/black on image - high intensity -> there is stuff there
 	- If you use a powerful enough magnet, you can measure how much the spin of each of your protons changes -> image
 		- ![[Pasted image 20250925143516.png|400]]
-	- !!!!!!!!
-	- T1 - fat, T2 - fat and water
-		- T1 and T2 can be used to figure out where in the body is water
+	- 2 basic types of MRI images 
+		- T1 weighted - highlights fat
+		- T2 weighted - highlights fat and water
+		- T1 and T2 in tandem can be used to figure out where in the body is water
 	- Safety - obvs can't have metal around
-	- ADv - no radiation, !!!!!
+	- Adv - no radiation, gold standard of imaging, good localisation and differentiation of pathology, excellent soft tissue imaging especially brain/spinal cord
+	- Disads - V v strong magnet, doesn't visualise bone well, expensive, time consuming, need to sedate younger/uncooperative patients (claustrophobic)
 - Ultrasound
 	- Adv - safe, no radiation, portable/compact, inexpensive
-	- Highly operator dependent, blocked by bone/air pockets, 
+	- Highly operator dependent, blocked by bone/air pockets 
 
 ## Guidelines 
 - Consider risk vs benefits

@@ -1,11 +1,20 @@
 ## The heart
-- Positioned centrally in the thorax, flanked and partially obscured by the lungs
-- Surrounded by a sac called the pericardium
+- Positioned centrally in the thorax, flanked and partially obscured by the lungs (Mediastinum)
+- Sitting right on top of diaphragm
+- Surrounded by a sac called the pericardium - folds in on itself to create double layer
+	- Filled with serous fluid -> low friction when heart contracts and expands
+	- ![[Pasted image 20250930160850.png|350]]
 	- Fibrous pericardium 
+		- Outer layer, protects the heart and anchors it to the surrounding structures
+		- Also prevents the heart from overextending and overfilling with blood
 	- Serous pericardium
+		- Is the epicardium of the heart 
+	- Pericarditis - infection and inflammation of the pericardium 
+		- The swelling pushes on the heart, restricts how it can contract
 - Pumps blood around the body
-	- Synchronous contraction of [[Primary Tissues#^69ffac|cardiac tissue]]
+	- Synchronous contraction of [[Primary Tissues#^69ffac|cardiac tissue]] - ventricles contract simultaneously, then atria, then back again
 	- Valves lead to unidirectional blood flow
+	- The right side has a much smaller muscle than the left (has to pump less far)
 - Cardiovascular system made of:
 	- Heart pumping blood
 	- Arterial system carrying blood from the heart to rest of the body
@@ -14,11 +23,29 @@
 - Heart anatomy
 	- Blood enters from superior/inferior vena cava into the right atrium, through the tricuspid valve, into the right ventricle and out through the pulmonary valve and pulmonary artery to the lungs
 	- Back from the lungs, enters via the pulmonary veins into the left atrium, through the mitral/bicuspid valve into the left ventricle, out through the aortic valve and aorta to the body
+	- Anterior view - mostly see only the right atrium, ventricle and auricle (muscular pouch), with a bit of the left ventricle + auricle. 
+	- Posterior view - Left atrium lies against the back of the thoracic cavity, left ventricle is the biggest structure, a bit of the left auricle. 
+	- Bottom is mostly the left ventricle
+	- ![[Pasted image 20250930162925.png]]
+		- The smaller holes are from the coronary veins 
+		- Fossa ovalis 
+			- Was once the foramen ovale in the foetus, that allowed oxygenated blood from the placenta to bypass the lungs straight from the right atrium into the left atrium  
+			- Usually closed up when taking first breath
+			- "Hole in the heart syndrome" - when that hole doesn't close properly at birth
 - Systole: contraction of the chambers
 - Diastole: relaxing of the chambers 
+- The heart requires 1/20th of the body's blood supply - done by right and left coronary arteries, then all back into singular coronary sinus
 
+## Electrical stuff
+- Coordinated contraction - Atria first, then ventricles
+- Cardiac muscles cells are actually autorythmic -  contracts by itself - but needs electric pulse to contract coordinatedly
+- Powered by ANS
+- Sinoatrial (SA) node sends out a signal to cause rest of the cells to contract in unison
+- Depolarisation spreads over atrium, collects at atrioventricular (AV) node. Impulse is carried down the septum by the bundle of His, separates into left and right bundle branches, then initiates depolarisation at the apex of the heart (bottom of the ventricles) via the Purkinje fibres. Spreads over rest of ventricles
 
-
-
-- Electrical stuff
--  Integration with other organ systems
+## Integration with other organ systems
+- Resp. - oxygenates blood
+- Excretory - regulates blood content and waste
+- Digestive - provides nutrients
+- Endocrine - transports hormones
+- Immune - transports immune cells
