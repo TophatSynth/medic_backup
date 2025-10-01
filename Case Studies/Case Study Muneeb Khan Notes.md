@@ -8,11 +8,9 @@ Meeting notes:
 
 ## Case Study Analysis
 
-You and Jelena are first year Medical Students working as Care Assistants in a Care Home over
-the Spring Vacation. Muneeb Khan is a 75-year-old resident at the Care Home. You are in the
-television room with Jelena getting residents settled after tea, when you hear a shout:
+You and Jelena are first year Medical Students working as Care Assistants in a Care Home over the Spring Vacation. Muneeb Khan is a 75-year-old resident at the Care Home. You are in the television room with Jelena getting residents settled after tea, when you hear a shout:
 - Care home: may not have doctors/that much medically trained staff
-	- Residential vs nursing 
+	- Residential vs nursing care homes
 		- Residential do have BLS training, but are not registered nurses
 		- Nursing has some registered nurses who can perform more invasive procedures. 
 - 1st year medical students 
@@ -22,7 +20,7 @@ television room with Jelena getting residents settled after tea, when you hear a
 “Come quickly! Something’s wrong with Muneeb!” shouts Muneeb’s friend Mark.
 You look over and see Muneeb in a high-backed chair, slumped at an awkward angle. He is very still.
 - "Slumped at an awkward angle" and very still in a high backed chair where you would normally be sat quite straight - you can already tell that something is wrong
-- Implies whatever happened has just only very recently happened. 
+- Implies whatever happened has only very recently happened. 
 
 
 As you come closer you note that his skin is a worrying colour and his upper dentures are protruding from his mouth. You look around as you approach.
@@ -78,7 +76,7 @@ You speak to Jelena and ask her to phone for an ambulance, stating address, card
 
 
 While Jelena is away you commence cardiopulmonary resuscitation according to the UK Resuscitation 2021 BLS Guidelines which you were taught in Medical School.
-- None 
+- No comment
 
 
 Jelena returns with the defibrillator and other equipment and says she’s phoned 999. You switch roles as you are getting exhausted and set up the defibrillator while Jelena carries on with compressions and ventilations. As soon as the pads are on you ask Jelena to stop cardiac compressions.
@@ -100,7 +98,7 @@ You immediately take over cardiac compressions from Jelena and she concentrates 
 
 
 You continue to follow the instructions given by the voice from the defibrillator.
-- None
+- No comment
 
 You are both very relieved when, 7 minutes later, the paramedics arrive. You give an SBAR handover and the paramedics take over.
 - 7 minute timeline is not quite as dire once CPR has been given. 
@@ -127,6 +125,6 @@ Jelena and you decide to go and get a cup of tea as you are both shaking a bit. 
 	- Hot vs cold debriefs 
 		- Hot - immediately after, mostly just checking in that everyone's okay
 		- Cold - later on, once people have calmed down, more detail. 
-			- STOP - Summarise, Things that went well, opportunities to improve, plan for next time. 
+			- STOP - Summarise, Things that went well, Opportunities to improve, Plan for next time. 
 - Briefing staff before helping situation
 	- Usually staff should be trained in BLS, so just saying "cardiac arrest" should be enough info.
