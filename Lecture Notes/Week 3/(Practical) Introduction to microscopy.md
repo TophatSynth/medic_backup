@@ -1,0 +1,3 @@
+- Fibroblasts synthesise fibrous proteins such as collagen, elastins and extracellular matrix components proteoglycans.
+- Macrophages phagocytose foreign bodies/organisms. Present antigens to stimulate immune cells.
+- Mast cells synthesise histamine and other mediators of inflammation. 

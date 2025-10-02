@@ -42,7 +42,19 @@
 				- Usually 4 amino acids are required to form the turn
 				- Proline found in bends and loops
 	- Tertiary
+		- 3D folding of secondary structure
+		- Hydrophobic residues on the inside, hydrophilic residues are exposed to the aqueous env
+		- Most proteins organised into multiple "domains"
+			- Each domain contributes a specific function to the protein
+			- Similar domains can be found in different proteins
+		- Can be predominantly a-helical, B-sheets, or a mix
+			- Loops/bends connect regions of a-helixes and B-sheets so they can fold into the tertiary structure
+		- Stabilised by disulfide bonds, H-bonds, ionic interactions, van der Waals interactions, hydrophobic interactions (hydrophobic groups forced away from aqueous env)
+			- Disulfide bonds - SH groups of cysteines form a covalent S-S bond
 	- Quatenary
+		- Multiple polypeptides tgth
+		- Each polypeptide is called a subunit, complex called an oligomeric protein, often stabilised by disulfide bonds
+		- Subunits can be identical or different
 - Amino acids
 	- Central carbon with amino group, carboxylate group, hydrogen, and a side group
 	- Special amino acids
@@ -71,5 +83,52 @@
 	- Hydrophilic side groups tend to be on the outside of the chain
 - Examples of proteins
 	- Haemoglobin and haem 
+		- Carries oxygen in erythrocytes 
+		- Symmetrical assembly of two different subunits - 2 a globin and 2 B globin chains 
+			- Each subunit contains a haem molecule - binds to O2
+			- ![[Pasted image 20251001121559.png|350]] 
+		- Fe core - coordinates with 4 N atoms, + stabilised by other side chains 
+			- ![[Pasted image 20251001142424.png]]
+		- Oxygen binding
+			- ![[Pasted image 20251001121707.png|350]] ![[Pasted image 20251001142147.png|350]]
+			- Histidine pulls Fe towards itself, repels the rest of the ring. O2 binds to Fe, forces ring to be planar - makes the whole protein switch to a different conformation
+				- ![[Pasted image 20251001121959.png|400]]
+				- The Aspartic acid switches from being stabilised by one molecule to the Asparagine - causes the whole molecule to change conformation -> increase in the binding affinity of O2
+				- ![[Pasted image 20251001121818.png]]
+				- The affinity of the first O2 molecule is low, but subsequent O2 affinity is increased
+		- Biological significance
+			- Relatively small changes in O2 conc. result in large changes in the interaction of haemoglobin with O2
+			- Leads to tight O2 binding in the lungs, then release in tissues where the O2 conc is lower
+			- pH of blood influences O2 binding to haemoglobin - Bohr effect
+				- O2 binding occurs easier (higher affinity) at high pH (lungs) and harder (lower affinity) at low pH (tissues)
+				- ![[Pasted image 20251001122537.png]]
+		- Foetal haemoglobin
+			- Has a different quaternary structure 
+			- Composed of two alpha and two gamma subunits
+			- Needs higher affinity to O2 than maternal haemoglobin bc competing
+			- Absence of beta chains -> unaffected by sickle cell disease
+		- Sickle Cell Anaemia
+			- Caused by change of hydrophilic glutamic acid to hydrophobic valine at position 6 in the beta chain of haemoglobin
+			- Creates stiff fibres of haemoglobin, causes sickling of erythrocytes
+				- ![[Pasted image 20251001122329.png]]
+				- The exposed hydrophobic region looks for another hydrophobic region to associate with, creates chain -> stiff fibres
 	- Collagen
-
+		- Structure - tropocollagen - 3 polypeptide chains twisted tgth left handed. Tropocollagen helixes then come together in a right handed microfibril coil, which are bundled together into a fibril, then into a collagen fibre
+			- Made up of predominantly glycine - small, allows for tight turn - 3 amino acid residues per turn, instead of 3.6. Small side chain also allows for close packing of chains
+			- Proline imposes the left hand twist in the tropocollagen fibre
+				- Some become hydroxylated to form hydroxyproline - forms H-bonds that stabilise tropocollagen
+		- Assembly of tropocollagen molecule
+			- ![[Pasted image 20251001123131.png]]
+			- Cleaved by procollagen peptidase to remove loose ends
+		- Formation of the collagen fibre
+			- Quarter stagger model - staggered and then bonded tgth by covalent crosslinks ![[Pasted image 20251001123221.png]]
+			- These crosslinks are made by the lysine groups undergoing deamination by Lysyl oxidase, then bonding together with other modified lysine groups
+				- ![[Pasted image 20251001141711.png]]
+			- The gaps between fibres allows for Lysyl oxidase to pass through and form crosslinks
+- Osteogenesis imperfecta
+	- Glycine replaced by cysteine at one point in the chain
+	- Tropocollagen subunits cannot pack together properly -> crystals cannot form properly -> brittle bones
+- Scurvy 
+	- Lack of proline hydroxylation due to lack of vitamin C -> dry skin, gum disorders
+- Ehlers-Danloss syndrome 
+	- Lack of procollagen peptidase or Lysyl oxidase -> loose skin, hypermobile joints

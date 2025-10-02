@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5152120d9341c3",
+        "id": "2ddf17f1ea03b52c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca9fdaada179460",
+            "id": "52d08c34c45f28d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Studies/Case Study Muneeb Khan Notes.md",
+                "file": "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case Study Muneeb Khan Notes"
+              "title": "(Guided study) Lymphatic system"
             }
           }
         ]
@@ -34,6 +34,16 @@
         "id": "0659446df7ebe85e",
         "type": "tabs",
         "children": [
+          {
+            "id": "5bb0d849396d1276",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
           {
             "id": "fc5c445101219f0c",
             "type": "leaf",
@@ -73,19 +83,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "5bb0d849396d1276",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Studies/Case Study Muneeb Khan Notes.md",
+                "file": "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case Study Muneeb Khan Notes"
+              "title": "Outline of (Guided study) Lymphatic system"
             }
           },
           {
@@ -201,44 +200,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ca9fdaada179460",
+  "active": "52d08c34c45f28d1",
   "lastOpenFiles": [
     "Home.md",
+    "Lecture Notes/Week 3/(Practical) Introduction to microscopy.md",
+    "Lecture Notes/Week 3/Blood vessels and lymphatics.md",
+    "Lecture Notes/Week 3/Doctor Patient Communication.md",
+    "Attachments/Pasted image 20251002092633.png",
+    "Attachments/Pasted image 20251002094739.png",
+    "Attachments/Pasted image 20251002093758.png",
+    "Attachments/Pasted image 20251002093357.png",
+    "Lecture Notes/Week 3/Genetic and environmental causes of disease.md",
+    "Lecture Notes/Week 3/White Blood Cells.md",
+    "Lecture Notes/Week 3/Structure of proteins 1 and 2.md",
+    "Attachments/Pasted image 20251001122329.png",
+    "Attachments/Pasted image 20251001142424.png",
+    "Attachments/Pasted image 20251001142147.png",
+    "Attachments/Pasted image 20251001141711.png",
+    "Attachments/Pasted image 20251001123221.png",
+    "Attachments/Pasted image 20251001123131.png",
+    "Case Studies/Case Study Muneeb Khan Notes.md",
     "Lecture Notes/Week 3/Red blood cells.md",
     "Lecture Notes/Week 3/Heart and circulation.md",
-    "Lecture Notes/Week 3/Doctor Patient Communication.md",
-    "Lecture Notes/Week 3/Blood vessels and lymphatics.md",
-    "Attachments/Pasted image 20250930162925.png",
-    "Attachments/Pasted image 20250930162756.png",
-    "Attachments/Pasted image 20250930160850.png",
     "Lecture Notes/Week 3/(Guided study) Ethical analysis.md",
     "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
-    "Lecture Notes/Week 3/Structure of proteins 1 and 2.md",
-    "Lecture Notes/Week 3/Genetic and environmental causes of disease.md",
     "Lecture Notes/Week 2/Introduction to medical imaging.md",
     "Lecture Notes/Week 2/Introduction to medical humanities.md",
     "Lecture Notes/Week 2/Joints and muscles.md",
     "Lecture Notes/Week 1/B O N E S.md",
-    "Attachments/Pasted image 20250930144035.png",
-    "Attachments/Pasted image 20250930143532.png",
-    "Attachments/Pasted image 20250930143529.png",
-    "Attachments/Pasted image 20250930142918.png",
-    "Attachments/Pasted image 20250930142528.png",
-    "Attachments/Pasted image 20250930142521.png",
-    "Attachments/Pasted image 20250930141329.png",
     "Lecture Notes/Week 3/(DR) Musculoskeletal system.md",
     "Lecture Notes/Week 1/Introduction to the body.md",
     "Lecture Notes/Week 2/Introduction to Medical Sociology.md",
     "Lecture Notes/Week 1/Cells and Organelles 1 and 2.md",
-    "Case Studies/Case Study Muneeb Khan Notes.md",
     "Case Studies/Case study Muneeb Khan preread.md",
     "Clinical Skills/BLS.md",
     "Clinical Skills/Primary Survey.md",
     "Lecture Notes/Week 1/(Practical) Intro to histology.md",
     "Lecture Notes/Week 2/Primary Tissues.md",
-    "Lecture Notes/Week 2/Social construction of health.md",
-    "Lecture Notes/Week 2/Moral theories and principles of ethics.md",
-    "Lecture Notes/Week 2/Epithelia.md",
     "Lecture Notes/Week 3",
     "Lecture Notes/Week 2",
     "Untitled.base",

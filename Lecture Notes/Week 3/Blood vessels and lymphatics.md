@@ -1,5 +1,98 @@
 ## Circulatory system
-- Blood vessels
-
+- Structure of blood vessels
+	- Tunica intima/endothelium - Innermost layer, allows for smooth flow of blood, continuous with the endocardium of the heart. 
+		- Lined with [[Epithelia#^e52c24|simple squamous epithelium]], with the basal membrane underneath (larger arteries also have an internal elastic membrane)
+	- Tunica media - Smooth muscle and elastin fibres lined concentrically - constricts/dilates to controls blood pressure and flow. 
+		- Thickest in arteries and much thinner in veins
+		- Contains the sympathetic vasomotor nerve fibres
+	- Tunica externa/adventitia - outermost layer - collagen fibres lined longitudinally to protect and reinforce the vessel + anchor to surrounding structures
+		- Thickest tunic of veins
+		- Contains nerve fibres, lymphatic vessels and elastic fibres in larger veins
+		- Contains vasa vasorum
+- Types of blood vessels
+	- Elastic Arteries
+		- Large, thick walled
+		- Near the heart
+		- More elastin than other vessels to deal with strain
+		- Large lumen
+		- Expands during systole and recoils during diastole
+		- Branches of the aorta
+			- Brachiocephalic trunk
+				- Branches into the right common carotid artery and right subclavian artery
+				- Common carotid then splits into the internal/external carotid arteries
+			- Left common carotid artery and left subclavian artery branch directly off the aorta
+			- ![[Pasted image 20251002092633.png|400]]
+	- Muscular Arteries
+		- Thickest tunica media of all vessels
+		- More smooth muscle and less elastic tissue than elastic arteries
+		- Can constrict/dilate to regulate blood flow
+			- Carry blood to an ischaemic area 
+			- Prevent haemorrhage
+		- Upper limb arteries
+			- Subclavian, axillary, brachial -> radial/ulnar -> deep and superficial palmar arches
+			- Anastomosis - a blood vessel that connects two diverging blood vessels - ensures supply to hand and fingers in any position, backup blood flow
+			- All joints have anastomoses around them
+		- Large abdominal arteries
+			- Abdominal aorta -> left/right common iliac, internal/external iliac
+		- Lower limb arteries
+			- Femoral artery lies with its vein medially and the femoral nerve laterally
+				- ![[Pasted image 20251002093357.png|400]]
+			- Common iliac, internal/external iliac, external iliac -> common femoral, deep femoral (profunda femoris), superficial femoral, popliteal
+			- Popliteal, anterior tibial/tibio-peroneal trunk, tibio-peroneal -> peroneal (fibular)/posterior tibial
+	- Arterioles
+		- Smallest of the arteries
+		- Smaller arterioles only have a single layer of smooth muscle and endothelium
+		- Constrict/dilate to control flow of blood into tissues
+		- Metaarterioles - capillary-bed end of an arteriole
+		- Precapillary junctions - sphincters controlling blood flow within tissues
+			- ![[Pasted image 20251002093758.png|400]]
+			- Vasomotion - the control of blood flow in tissues via vasoconstriction/vasodilation
+	- Capillaries
+		- Endothelial tube surrounded by basal membrane
+		- Network called capillary bed
+		- Types
+			- Continous
+				- Most common, least permeable
+				- Found in skin, muscle, lungs, CNS
+			- Fenestrated
+				- Has large pores (windows! :D) for active filtration 
+				- Found in kidneys, small intestines, areas of hormone secretion
+			- Sinusoid
+				- Fewest, most permeable
+				- Blood flows slowly, allows passage of large molecules and cells
+				- Found in the liver, bone marrow, spleen 
+	- Venules
+		- Extremely porous - WBC's extravasate (flow out of vessel) into sites of inflammation - diapedesis
+		- Little muscle, thick tunica externa
+	- Medium Veins
+		- Larger lumen than arteries
+		- Valve prevent backflow
+		- Capacitance vessel - stores 65% of blood 
+		- Can be associated with arteries, the pulsation of the arteries helps push blood through veins
+		- Blood is also moved via pressure changes in the thoracic and abdominal cavity from breathing
+		- Lower limb veins
+			- Deep veins - accompany the limb arteries, have the same names
+			- Superficial veins - great/small saphenous veins
+			- Connected by perforating veins, superficial -> deep
+			- Incompentency of the perforating vein valves -> varicose veins
+		- Upper limb veins
+			- Deep veins - radial/ulnar, brachial, axillary, subclavian
+			- Superficial veins - Cephalic and basilic, connected tgth by the median cubital vein
+				- V close to the brachial artery and median nerve 
+				- ![[Pasted image 20251002094739.png]]
+	- Large Veins
+		- Vena cava 
+			- Superior (SVC)
+				- Collects blood from the head, neck, and upper limbs
+				- Internal/external jugular and subclavian veins -> brachiocephalic vein -> SVC
+				- Azygos system - drains blood from posterior thoracic wall to SVC - does not follow arterial vessels
+			- Inferior (IVC) 
+				- Collects blood from the lower limbs, pelvic organs, kidneys and abdominal walls
+		- Hepatic portal vein - takes blood from the GI tract + spleen into the liver
+	- Vasa vasorum
+		- Network of small blood vessels providing blood supply to the largest vessels
+- 	- 
 ## Lymphatic system
-- 
+- [[(Guided study) Lymphatic system]]
+- Right lymphatic duct - drains right side of head/thorax and right arm
+- Left/thoracic lymphatic duct - drains everything else

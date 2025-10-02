@@ -28,7 +28,7 @@
 		- Function: Absorption, secretion of mucus, enzymes, etc
 		- Location: Found in the digestive tract! + gall bladder, excretory ducts(non ciliated)
 		- Ciliated ones found in the small bronchi and uterine tubes
-	- Simple squamous epithelium
+	- Simple squamous epithelium ^e52c24
 		- Flat cells, disc-shaped nuclei
 		- Passage of materials via diffusion and filtration
 		- Some secrete small amounts of serous fluid (mesothelium, lubricating fluid) 
