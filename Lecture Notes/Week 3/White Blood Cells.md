@@ -1,6 +1,94 @@
-- Full blood count
-- Bone marrow
+## Tests for WBC's
+- Full blood count (FBC)
+	- Gives information on concentration of Hb, mean cell volume, RBC/WBC count (differential count of subtypes), detects abnormal cells too !!! haematocrit
+	- FBC testing - counts particles with additional test to determine cell type - Includes total WBC count but also proportions of each WBC type
+		- WBC differential - 
+			- Useful for evidence of different types of infection or responses to treatments
+				- Eg atopic conditions - eg asthma, eczema, hay fever !!!
+				- Eg Leukaemia, marrow infiltration of cancer, marrow suppression from chemo
+			- Side scatter - measures nuclear and granule complexity 
+			- Florescence - measures nucleic acid content of the cell, by shining a laser through it
+			- Gives pretty reliable assessment of WBC types
+- Blood film - allows you to see details, eg nucleus, granules etc - done on samples that flag as abnormalities on automated tests or from clinical details
+- Additional tests
+	- Flow cytometry - uses florescent marker attached to an antibody which recognises and binds to a cell membrane antigen
+	- Genetic testing 
+		- Cytogenetics - looking for missing/duplicated parts of/chromosomes
+		- Florescent in-situ hybridisation (FISH) - basically use a fluorescent marker to highlight a specific DNA sequence
+- Stem cells and differentiation
+	- ![[Pasted image 20251002131608.png]]
+	- Bone marrow
+		- Bone marrow examinations
+			- Assess number and type of normal/abnormal cells 
+			- Same range of tests as FBC
+			- Usually taken from the posterior iliac crest of the pelvis
+			- 
 
 ## Types of WBC's
+- Granulocytes 
+	- Neutrophils
+		- Most common WBC in blood (50-70% of WBC's in blood)
+		- Short lifespan - 8-10 hours
+		- Migrates towards chemotaxis that are released in response to bact antigens
+			- Cytokines - large group of cell signalling molecules
+			- Chemokines - smaller subset that cause cell migration
+		- Doesn't recognise specific antigens - innate immunity
+		- Phagocytose bacteria
+		- ACute response to bact infection, inflammation, malignancy
+	- Eosinophils
+		- Makes up 1-6% of blood WBC
+		- Eosin !!!
+		- Lifespan - 4-5 hours in blood, longer in tissues
+		- Attracted by chemokines to specific tissues
+		- Granules inside contain Major Basic Protein !!! and reactive O2 species
+		- Marked rise in numbers in the blood during response - <0.4 to 2-6 X 10 9/L
+		- !!! Commonly seen in atopy eg eczema, asthma and hayfever
+		- Also in Hodgkin’s disease, Chronic myeloid leukaemia and other malignancy, adverse drug reaction, helminth infection (intestinal worm)
+		- Blood levels often correlate with clinical activity
+	- Basophils
+		- Makes up <1% of blood WBC's 
+		- Granules contain histamine, leukotrienes, proteases and heparin - released in response to antigens 
+		- Also does phagocytosis
+		- Role in Type 1 Anaphylaxis - allergic attack
+- Lymphocytes
+	- Makes up 20-40% of blood WBC
+	- Differentiate early from other marrow derived cells
+	- Long life span
+	- 2 types
+		- T cells (Thymus)
+			- Cytotoxic
+			- Helper
+			- Regulatory
+			- Memory
+		- B cells (Bone marrow or bursa)
+			- Helper
+			- Memory !!!
+- Monocytes (in blood)/macrophages (in tissues)
+	- Scavenger for abnormal debris 
+		- Vacuoles contain hydrolases and myeloperoxidase
+	-  Kills mycobacteria, fungi, and intracellular organisms eg listeria
+	- APC :D 
+	- Makes up 5-10% of blood WBC
+	- Lifespan 8-12 hours in blood but much longer in tissues
 
 ## Pathology 
+- Chronic myeloid leukaemia
+	- Occurs in all age groups
+	- Anaemia, high WBC/platelet count, bone pain, lare spleen
+	- Typically a chronic phase first, then an accelerated and blast phase
+	- 95% of cases have an identical cytogenetic and molecular mutation - easily treatable
+		- Shortened chromosome 22
+		- ![[Pasted image 20251002144837.png|400]]
+			- Enzyme responsible for activating WBC production
+		- Can design drug to block ATP-binding site on the enzyme -> preventing activation -> prevent WBC production
+		- Not cured, but majorly suppressed
+- Acute myeloid leukaemia
+	- More common with increasing age
+	- Usually presents with symptoms of marrow failure (eg not producing normal cells), + anaemia, bleeding, infections etc
+	- Diverse cytogenetic changes -> no single target for chemotherapy
+	- Thus requires more of a sledgehammer approach -> chemo to kill most marrow, regenerate from residual stem cells 
+		- But may result in infections, bleeding 
+		- Repeated marrow tests to check response
+		- Needs a lot of venous access
+		- Psychological effects - uncertainty, staying in hospital for a long time
+		- Older patients tend to have worse cytogenetics, less ability to withstand treatments, and fewer transplant options

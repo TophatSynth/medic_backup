@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddf17f1ea03b52c",
+        "id": "4dec9ee7d221eaa4",
         "type": "tabs",
         "children": [
           {
-            "id": "52d08c34c45f28d1",
+            "id": "aa3a1971a73d7f59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
+                "file": "Lecture Notes/Week 3/White Blood Cells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Guided study) Lymphatic system"
+              "title": "White Blood Cells"
             }
           }
         ]
@@ -35,7 +35,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bb0d849396d1276",
+            "id": "b78b737dca4fd542",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -45,7 +45,7 @@
             }
           },
           {
-            "id": "fc5c445101219f0c",
+            "id": "5bb0d849396d1276",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
+                "file": "Lecture Notes/Week 3/Red blood cells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (Guided study) Lymphatic system"
+              "title": "Outline of Red blood cells"
             }
           },
           {
@@ -200,30 +200,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52d08c34c45f28d1",
+  "active": "aa3a1971a73d7f59",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20251002144837.png",
+    "Lecture Notes/Week 3/Red blood cells.md",
+    "Lecture Notes/Week 3/White Blood Cells.md",
     "Home.md",
+    "Attachments/Pasted image 20251002135315.png",
+    "Attachments/Pasted image 20251002135223.png",
+    "Attachments/Pasted image 20251002135030.png",
+    "Attachments/Pasted image 20251002134853.png",
+    "Lecture Notes/Week 3/Structure of proteins 1 and 2.md",
+    "Attachments/Pasted image 20251002132852.png",
+    "Attachments/Pasted image 20251002132713.png",
+    "Attachments/Pasted image 20251002132710.png",
+    "Attachments/Pasted image 20251002132703.png",
+    "Attachments/Pasted image 20251002131808.png",
+    "Attachments/Pasted image 20251002131608.png",
+    "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
     "Lecture Notes/Week 3/(Practical) Introduction to microscopy.md",
     "Lecture Notes/Week 3/Blood vessels and lymphatics.md",
     "Lecture Notes/Week 3/Doctor Patient Communication.md",
-    "Attachments/Pasted image 20251002092633.png",
-    "Attachments/Pasted image 20251002094739.png",
-    "Attachments/Pasted image 20251002093758.png",
-    "Attachments/Pasted image 20251002093357.png",
     "Lecture Notes/Week 3/Genetic and environmental causes of disease.md",
-    "Lecture Notes/Week 3/White Blood Cells.md",
-    "Lecture Notes/Week 3/Structure of proteins 1 and 2.md",
-    "Attachments/Pasted image 20251001122329.png",
-    "Attachments/Pasted image 20251001142424.png",
-    "Attachments/Pasted image 20251001142147.png",
-    "Attachments/Pasted image 20251001141711.png",
-    "Attachments/Pasted image 20251001123221.png",
-    "Attachments/Pasted image 20251001123131.png",
     "Case Studies/Case Study Muneeb Khan Notes.md",
-    "Lecture Notes/Week 3/Red blood cells.md",
     "Lecture Notes/Week 3/Heart and circulation.md",
     "Lecture Notes/Week 3/(Guided study) Ethical analysis.md",
-    "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
     "Lecture Notes/Week 2/Introduction to medical imaging.md",
     "Lecture Notes/Week 2/Introduction to medical humanities.md",
     "Lecture Notes/Week 2/Joints and muscles.md",

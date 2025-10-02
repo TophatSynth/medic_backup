@@ -1,12 +1,95 @@
-## Structure and function
+## Red Blood Cells
 - Structure and function
-- Haematopoesis 
+	- 5L of blood in circulation, all that is circulated around the body in 1 min
+	- 40% of that is cells, 60% plasma
+		- RBC's 500x more than WBC
+	- No nucleus - pliable 
+	- Only has haemoglobin and enzymes for glycolysis to maintain membrane integrity and prevent oxidation of haemoglobin 
+	- Function: O2 and CO2 transport, acid/base balance
+## Haematopoesis 
+- ![[Pasted image 20251002131608.png]]
+- [[White Blood Cells]]
+- Multipotent stem cells -> asymmetric division -> myeloid stem cells -> proerythroblast -> reticulocyte -> erythrocyte
+- ![[Pasted image 20251002131808.png]]
+	- Starts off with the yolk sac, liver and spleen creating RBC's 
+	- Then bone marrow, which grows into the axial skeleton. Vertebrae !!!!
+- RBC's get fed with iron from macrophages around it in the bone marrow
+- Reticulocytes
+	- Reticulocyte count is a good indicator of marrow health and response to anaemia or treatment 
+	- !!!!
+
+## Nutrients 
 - Iron
+	- Adults has 3000-5000mg of iron of which 2/3 is in haemoglobin
+	- We absorb about 1-2mg daily from diet - higher requirement during pregnancy or blood loss
+	- ![[Pasted image 20251002132713.png]]
+		- Ferous (Fe2+/3+) iron absorbed by duodenal (duodenum) enterocytes
+		- Hepcidin regulates iron absorption and release from macrophages - is increased during inflammation -> less available iron bc macrophages absorb more and release less
+		- Circulation as either Fe3+ in transferrin or as Heme
+		- Ferritin - soluble form of long term iron storage
+	- ![[Pasted image 20251002132852.png]]
+		- Blue pills are transferrin, red is iron, green is transferrin receptor
+		- Binds to up to 2 iron atoms
+	- Iron loss
+		- Menstrual loss - 20-60ml per cycle typically
+		- Trauma
+		- GI tract -  ~1ml a day
+		- Blood sampling
+		- V small amounts in urin/skin shedding
 - Other required nutrients
+	- Folic acid
+		- Daily requirement - 0.1mg (approx 0.25mg in diet from green vegetables or fruit)
+		- Absorbed inthe upper small bowel
+		- Liver stores 10-20mg - 100-200 day's worth
+		- Deficiency can be caused by poor intake/absorption or increased need
+	- Cobalamin/vitamin B12 (Cobalt amine)
+		- Daily requirement - 1mg (approx 5mg in diet from anti vegan products)
+		- Terminal ileum produce "intrinsic factor" and absorbs B12
+		- Liver stores B12
+		- Deficiency caused by vegans, anaemia, or auto-antibodies to the intrinsic factor
+	- B12 and Folate are required for RBC production
+		- Required to turn Uridine to Thymidine for RBC DNA
+	- Erythropoetin (Epo)
+		- Hormone predominantly produced in the kidneys, drives erythropoesis in marrow
+		- Not stored anywhere in the body - production turned on or off by
+			- Tissue hypoxia/anaemia
+			- High altitude
+			- Erythropoetin from tumours eg renal tumours
+		- Production is inversely proportional to O2 levels in tissues
+		- mRNA for production is increased to create more epo
+## Structure
 - Membrane
+	- Lipid bilayer with protein skeleton bound to it
+	- B-spectrin - springy protein that acts as a spring, keeping RBC flexible but maintaining shape
 - Haemoglobin
+	- [[Structure of proteins 1 and 2#^a20f6c|Haemoglobin]]
+	- Thalassaemia - an inherited defect in globin chain production
+		- Thought it was anaemia of the sea (Mediterranean) (twas not)
 - Enzymes
+	- Glycolytic pathway providing energy for maintaining membrane integrity, preventing oxidation of enzymes and Fe2+, and maintaining gradients of K+ and Ca2+
+	- Enzyme deficiencies eg of pyruvate kinase can cause anaemia by haemolysis- increased rate RBC breakdown
+
+## Functions 
 - Oxygen association/dissociation 
+	- ![[Pasted image 20251002134853.png|350]]
+	- 2,3 Diphosphoglycerate (2,3 DPG) wedges between globin chains to release O2  
+	- 2,3 DPG increase in exercise/anaemia/high altitude
+	- ![[Pasted image 20251002135030.png|350]]
+	- Myoglobin - found in skeletal muscle, stores O2
+		- Has one globin chain with one haem unit
+		- !!!!!!
 - Acid-base buffer system
-- Loss/destruction
-- Life cycle
+	- Regulates free H+ ions in body fluids to pH 7.35-7.45 for optimal enzyme function !!!
+	- ![[Pasted image 20251002135223.png|350]]
+	- CO2 is carried in the blood predominantly as HCO3-
+	- ![[Pasted image 20251002135315.png|350]]
+	- Hb adds to buffer system by binding to H+ after loss of O2 
+	- Low pH decreases Hb affinity for O2
+
+## Loss/destruction
+- As RBC's age, the membrane gets more rigid, glycolytic enzymes are loss, neo-antigens exposed on cell surface
+- Recycling
+	- Hb mopped up by haptoglobin in the liver - excess excreted in urin
+	- Globin chains broken back down into amino acids
+	- Iron is bound to transferrin and returned to the macrophages
+	- Porphyrin ring becomes bilirubin, binds to albumin and is conjugated to glucuronide, then excreted in bile

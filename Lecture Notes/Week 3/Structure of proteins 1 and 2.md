@@ -81,7 +81,7 @@
 	- Side chains tend to spread out since they're bulky
 	- Hydrophobic side groups tend to be more inside the chain
 	- Hydrophilic side groups tend to be on the outside of the chain
-- Examples of proteins
+- Examples of proteins ^a20f6c
 	- Haemoglobin and haem 
 		- Carries oxygen in erythrocytes 
 		- Symmetrical assembly of two different subunits - 2 a globin and 2 B globin chains 
