@@ -3,7 +3,7 @@
 ```base
 filters:
   and:
-    - file.ctime > now() - "2 weeks"
+    - file.ctime > now() - "9 days"
     - not:
         - file.infolder('Attachments')
     - file.name != "Home"

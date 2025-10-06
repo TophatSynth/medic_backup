@@ -12,20 +12,22 @@
 - Multipotent stem cells -> asymmetric division -> myeloid stem cells -> proerythroblast -> reticulocyte -> erythrocyte
 - ![[Pasted image 20251002131808.png]]
 	- Starts off with the yolk sac, liver and spleen creating RBC's 
-	- Then bone marrow, which grows into the axial skeleton. Vertebrae !!!!
+	- Then bone marrow, which grows into the axial skeleton. Vertebrae responsible for most of haematopoesis 
 - RBC's get fed with iron from macrophages around it in the bone marrow
 - Reticulocytes
 	- Reticulocyte count is a good indicator of marrow health and response to anaemia or treatment 
-	- !!!!
+	- Has reticulin - remnants of ribosomal mRNA left after the nucleus has been removed - removed by the spleen in 1-2 days
 
 ## Nutrients 
 - Iron
 	- Adults has 3000-5000mg of iron of which 2/3 is in haemoglobin
 	- We absorb about 1-2mg daily from diet - higher requirement during pregnancy or blood loss
 	- ![[Pasted image 20251002132713.png]]
-		- Ferous (Fe2+/3+) iron absorbed by duodenal (duodenum) enterocytes
+		- Ferrous (Fe2+/3+) iron absorbed by duodenal (duodenum) enterocytes
+			- Fe3+ is reduced to Fe2+ first, then absorbed
+			- Iron also absorbed in haem from meat-based products
 		- Hepcidin regulates iron absorption and release from macrophages - is increased during inflammation -> less available iron bc macrophages absorb more and release less
-		- Circulation as either Fe3+ in transferrin or as Heme
+		- Circulation as either Fe3+ in transferrin or as haem
 		- Ferritin - soluble form of long term iron storage
 	- ![[Pasted image 20251002132852.png]]
 		- Blue pills are transferrin, red is iron, green is transferrin receptor
@@ -37,11 +39,11 @@
 		- Blood sampling
 		- V small amounts in urin/skin shedding
 - Other required nutrients
-	- Folic acid
+	- Folic acid/Folate
 		- Daily requirement - 0.1mg (approx 0.25mg in diet from green vegetables or fruit)
-		- Absorbed inthe upper small bowel
+		- Absorbed in the upper small bowel
 		- Liver stores 10-20mg - 100-200 day's worth
-		- Deficiency can be caused by poor intake/absorption or increased need
+		- Deficiency can be caused by poor intake/absorption or increased need due to increased haematopoesis 
 	- Cobalamin/vitamin B12 (Cobalt amine)
 		- Daily requirement - 1mg (approx 5mg in diet from anti vegan products)
 		- Terminal ileum produce "intrinsic factor" and absorbs B12
@@ -50,7 +52,7 @@
 	- B12 and Folate are required for RBC production
 		- Required to turn Uridine to Thymidine for RBC DNA
 	- Erythropoetin (Epo)
-		- Hormone predominantly produced in the kidneys, drives erythropoesis in marrow
+		- Hormone predominantly produced in the kidneys, the major drive of erythropoesis in bone marrow
 		- Not stored anywhere in the body - production turned on or off by
 			- Tissue hypoxia/anaemia
 			- High altitude
@@ -67,29 +69,36 @@
 		- Thought it was anaemia of the sea (Mediterranean) (twas not)
 - Enzymes
 	- Glycolytic pathway providing energy for maintaining membrane integrity, preventing oxidation of enzymes and Fe2+, and maintaining gradients of K+ and Ca2+
-	- Enzyme deficiencies eg of pyruvate kinase can cause anaemia by haemolysis- increased rate RBC breakdown
-
+	- Deficiency - eg of pyruvate kinase can cause anaemia by haemolysis (increased rate of RBC breakdown)
 ## Functions 
 - Oxygen association/dissociation 
 	- ![[Pasted image 20251002134853.png|350]]
 	- 2,3 Diphosphoglycerate (2,3 DPG) wedges between globin chains to release O2  
-	- 2,3 DPG increase in exercise/anaemia/high altitude
+	- 2,3 DPG conc increases in exercise/anaemia/high altitude
 	- ![[Pasted image 20251002135030.png|350]]
-	- Myoglobin - found in skeletal muscle, stores O2
+	- Myoglobin - found in skeletal muscle
 		- Has one globin chain with one haem unit
-		- !!!!!!
+		- Stores O2 as a last resort reserve
+		- Dissociation curve is much to the left of haemoglobin
+			- ![[Pasted image 20251002153407.png|350]]
+		- 
 - Acid-base buffer system
-	- Regulates free H+ ions in body fluids to pH 7.35-7.45 for optimal enzyme function !!!
+	- Regulates free H+ ions in body fluids to pH 7.35-7.45 
+		- Important for optimal enzyme function
+		- Cell membranes become leaky in acidosis
+		- Neurons can't transmit as well in acidosis but are hyperactive in alkalosis
 	- ![[Pasted image 20251002135223.png|350]]
-	- CO2 is carried in the blood predominantly as HCO3-
-	- ![[Pasted image 20251002135315.png|350]]
-	- Hb adds to buffer system by binding to H+ after loss of O2 
+		- Bicarbonate system is 60% of buffer capacity
+		- ![[Pasted image 20251002135315.png|350]]
+		- CO2 is carried in the blood predominantly as HCO3-
+		- HCO3- transported out of RBC, replaced by Cl- - Chloride shift
+	- Hb adds to buffer system (30% of buffer capacity) by binding to H+ after loss of O2 
 	- Low pH decreases Hb affinity for O2
 
 ## Loss/destruction
-- As RBC's age, the membrane gets more rigid, glycolytic enzymes are loss, neo-antigens exposed on cell surface
+- As RBC's age, the membrane gets more rigid, glycolytic enzymes are lost, neo-antigens exposed on cell surface
 - Recycling
-	- Hb mopped up by haptoglobin in the liver - excess excreted in urin
+	- Hb mopped up by haptoglobin in the liver - excess excreted in urine
 	- Globin chains broken back down into amino acids
 	- Iron is bound to transferrin and returned to the macrophages
 	- Porphyrin ring becomes bilirubin, binds to albumin and is conjugated to glucuronide, then excreted in bile

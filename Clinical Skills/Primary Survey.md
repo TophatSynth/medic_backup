@@ -47,7 +47,7 @@
 	- Bag Valve Mask (BVM)
 		- Used when the patient's breathing rate is less than 10 bpm
 		- 2 person technique - one holds the mask onto the patient's face, the other squeezes the bag
-
+- !!!anki
 
 ## Self study questions
 1. If a patient is gurgling, what is the best way to manage their airway?

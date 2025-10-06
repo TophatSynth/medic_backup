@@ -12,6 +12,7 @@
 	- Eg DNA, RNA, polysaccharides in glycoproteins, ribosomes (has an RNA component)
 - Eosin - Red, acidic, stains positively charged things
 	- Eg proteins 
+- Toluidine blue - highlights  DNA and RNA containing structures.
 
 
 ## Immunocytochemistry

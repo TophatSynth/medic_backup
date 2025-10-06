@@ -42,6 +42,19 @@
 	- Has a soma, receptive dendrites, transmitting axon and end terminal synapse
 		- Synaptic vesicles containing neurotransmitters release the molecules across channel proteins, they travel across the synaptic cleft, bind to receptors on the next nerve cell
 	- Myelin sheath with Nodes of Ranvier
+	- Different types !!!anki
+		- Unipolar
+			- Only has one nerve process - one axon
+			- Only occurs in invertebrates
+		- Bipolar
+			- One axon and one dendrite extending from the body
+			- Rare; only found in olfactory epithelium, retina and certain nerves in the ear
+		- Multipolar 
+			- Only one axon, but many many dendrites
+			- Most common neuron found in the body
+		- Pseudounipolar
+			- One nerve process that splits into two axons
+			- Makes up the rest of the sensory neurons in the human body
 - Oligodendrocyte
 	- Myelinates multiple neurons at the same time within the CNS
 	- Provides trophic support/protects axons - helps them survive longer
@@ -72,7 +85,7 @@
 - 3 types
 	- Skeletal muscle
 		- Striated, coordinated contraction, voluntary (can be involuntary, eg reflexes)
-		- Multinucleated cells
+		- Multinucleated cells - peripheral nuclei
 		- ![[Pasted image 20250923104219.png|500]]
 		- 2 filaments - thin filament (actin) and thick filament (myosin) which provides structural integrity 
 			- Thin filament has two proteins linked to the actin - tropomyosin and troponin
@@ -86,6 +99,7 @@
 		- striated, branched, coordinated contraction, involuntary control of the blood pump 
 		- Posses several gap junctions allowing for electrical communication and adhering junctions supporting cell binding
 		- Rich blood supply and many mitochondria bc needs a lot of energy
+		- Central nuclei
 - Also classified into voluntary and involuntary control
 ### 4. Connective tissue
 - Will come back to it later. Dw too much
