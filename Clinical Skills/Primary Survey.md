@@ -67,3 +67,4 @@
 8. Which oxygen delivery device allows you to control the percentage of oxygen based on the attached filter and recommended flow rate?
 	- Venturi Device
 
+#anki 

@@ -1,0 +1,105 @@
+## Connective tissues
+- Composed of various types of cells and an ECM
+	- Contains ground substance - gel mixture of proteoglycans, glycoprotein, glycosaminoglycans and water
+	-  Embedded inside the gel are collagen fibres, elastic fibres and reticular fibres 
+- Divided into 2 types
+	- Loose connective tissues
+		- Loose collagen and elastin fibre arrangement with lots of ground substance in between, has immune cells and fibroblasts inside
+	- Dense connective tissues (dense regular and irregular)
+		- Closely packed type I collagen fibres with fibroblasts in between them 
+- Other 2 types
+	- Cells
+		- Adipocytes 
+		- Mast cells
+		- Macrophages
+		- Plasma cells 
+		- Fibroblasts and myofibroblasts
+	- Fibres
+		- Collagen fibres and fibrils
+		- Elastic, reticular fibres
+		- Cartilage and bone
+- Loose connective tissue beneath basal membrane of epithelia is composed of ground substance, more cells and the ECM
+## Extracellular matrix
+- Mediates organisation of cells into tissues, intracellular signalling pathways, proliferation and gene expression
+- Difference between different ECM's based on 
+	- Quantitative differences in the types/amounts of ECM
+	- Modifications in organisation
+- Eg epithelia 
+	- Jelly-like ground substance beneath epithelial membrane
+- Structure
+	- Fibre proteins
+		- Collagen
+			- Major structural protein of the ECM
+			- Ring structure in the amino acids provides stability for helical polypeptide chains
+			- The hydroxylysl residues in the collagen have sugar groups attached to it - can be called a glycoprotein
+			- Hydroxyproline provides H-bonds for stability - made via prolyl hydroxylase
+				- Hydroxylation of proline or lysine requires vitamin C (ascorbic acid)
+			- Different types of collagen exist
+				- Type I collagen is the most abundant form - fibril-forming collagen, basic constituent of connective tissue
+				- Type IV collagen is a network forming collagen - major constituent of basal laminae (ECM below epithelial membrane). Has short nonhelical sequences inside giving it more flexibility ![[Pasted image 20251009092539.png]]
+		- Elastin
+			- Principle component of elastic fibre
+			- Elastin molecules are cross linked with each other with desmosines ![[Pasted image 20251009092702.png]]
+		- Fibronectin
+		- Laminin
+	- Polysaccharides - glycosaminoglycans
+		- Structural fibrous proteins are embedded in gels made from glycosaminoglycans (GAG) - made from repeating units of disaccharides 
+			- N-acetylglucosamine or N-acetylgalactosamine 
+			- Glucuronic or iduronic acid
+		- Provides mechanical support
+		- Predominantly negatively charged
+		- Traps water molecules -> hydrated gels 
+		- Types of GAG's  ![[Pasted image 20251009092933.png]]
+			- Dermatan sulfate 
+			- Chondroitin sulfate
+			- Keratan sulfate 
+			- Heparan sulfate
+			- Hyaluronan - doesn't have sulfate group and thus cannot form proteoglycans 
+		- Can link to proteins -> proteoglycans
+			- Core protein chain with many GAG chains attached to it ![[Pasted image 20251009093015.png]]
+			- Binds to water and other ECM components - Provides matrix support/hydration by sticking everything together
+			- Links ECM to cell, and links ECM proteins to each other
+	- Fibroblasts
+		- Synthesise and secrete fibrillar proteins - eg collagen, elastic fibre, reticular fibre and thre respective complex carbohydrates that help maintain the cell structural framework
+- Linking the ECM to the intracellular cytoskeleton
+	- Collagen and proteoglycans bind to fibronectin -> binds via adaptors to the actin cytoskeleton ![[Pasted image 20251009093129.png]]
+	- Fibronectin 
+		- Is an adhesion protein
+		- Has binding sites for collagen and proteoglycan 
+	- Laminin 
+		- Main adhesion protein in the basal laminae 
+		- T-shaped made of heterotrimer subunits (a, B, and g) ![[Pasted image 20251009093407.png]]
+- Myofibroblasts
+	- Secretes collagen, but also acts like a smooth muscle cell and contracts
+	- Involved in tissue repair:
+		- Proliferates in site of injury, secretes collagen, consolidates the damaged area, then contracts to reduce the size of the damaged area 
+- Mast cell 
+	- Granules contains heparin and histamine - mediators of inflammation - 2 types:
+		- Preformed mediators 
+		- Newly synthesised mediators (mostly lipids and cytokines)
+- Plasma cell 
+	- B-lymphocytes - antibodies (Ig G)
+- Macrophages
+	- Phagocytic cells derived from monocytes
+	- Defence or cleanup of cellular debris
+	- Possesses specific protein that helps them sense foreign bodies
+	- APC for T-cells :D 
+- Adipocytes ![[Pasted image 20251009094244.png|350]]
+	- Produces leptin - [[Primary Tissues#^02320c|Obob :)]]
+	- Obesity and leptin
+		- White fat produces leptin to signal to brain to stop eating so much - Leptin concentration increases with amount of white fat
+		- But in obesity, there is leptin resistance - even though high amounts of leptin is produced, it has little effect -> still eat a lot
+- 
+
+## Disease in the ECM
+- Duchenne's Muscular Dystrophy
+		- Muscle cell has an adaptor protein (dystrophin) missing due to premature transcription termination - actin inside the cell is not connected - weaker structure - muscle tearing
+	- Muscle wasting, weakness, inability to walk by 12 years
+	- Treatment using experimental drug - overrides premature stop signal mutation 
+- Cancer progression
+	- Carcinoma develops, have not breached the basement membrane at first
+	- Epithelial to mesenchymal transition (EMT) - cancer cells convert to mesenchymal cells - expression of cadherins reduced - produce actin-based protursions called invadipodia and metalloproteases (MMP's) - break through the basal membrane 
+	- Express integrins - promotes interaction with ECM and other cells
+	- Metastasis - expresses autocrine motility factors (increases motility of the tumour cells) and angiogenesis factors (promote vascularisation) - spread via circulatory and lymphatic system yay 
+
+#anki 

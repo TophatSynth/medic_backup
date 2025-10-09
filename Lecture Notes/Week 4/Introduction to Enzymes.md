@@ -1,0 +1,83 @@
+## Enzymes!! woooooooooo
+- Rate enhancement of an enzymes - catalysed rate of reaction / uncatalysed rate of reaction
+	- ![[Pasted image 20251007090915.png]]
+- Enzymology and medicine
+	- Deficiencies -> disease
+	- Measuring activity/conc of enzymes for diagnosis
+	- Drug therapy -> inhibit enzymes [[White Blood Cells#^9b1ff6|Chronic Myeloid Leukaemia]]
+	- Research into enzymes
+- Example: lysozyme
+	- Catalyses the cutting of polysaccharide chains 
+	- 
+## Enzyme activity/kinetics
+- Substrate conc ^, reaction velocity ^, but decreases over time as substrate conc decreases, products inhibit enzyme, etc 
+- V0 is the only valid parameter for enzyme kinetics
+	- ![[Pasted image 20251007091623.png|350]]
+	- Measured by varying the substrate concentration and measuring the accumulation of products over time - reaches a max - Vmax
+		- ![[Pasted image 20251007091715.png|350]]
+		- Very difficult to achieve experimentally 
+		- So you plot a double reciprocal of the data recorded - Lineweaver-Burke Plot 
+			- ![[Pasted image 20251007091835.png|400]]
+- Michaelis-Menten kinetics
+	- ![[Pasted image 20251007091958.png|400]]
+	- Km - Michaelis-Menten constant, used with Vmax to measure enzyme activity using the Michaelis-Menten equation
+		- ![[Pasted image 20251007092042.png]]
+		- It is the substrate concentration required for half Vmax
+			- ![[Pasted image 20251007092600.png]]
+	- Biological significance of Km
+		- Metabolism ![[Pasted image 20251007092355.png]]
+			- ![[Pasted image 20251007092428.png]]
+			- Hexokinase has a much lower Km, found in all tissues - metabolism can happen even at very low glucose levels
+			- Glucokinase has a much higher Km, found in the liver - High Km ensure glucose will not be removed from the blood for storage at low blood concentrations
+		- PHOSPHO1
+			- Found in mineralising cells such as [[B O N E S|osteoblasts and chondrocytes]]
+			- Had unknown substrate and function, but amino acid sequence suggested it was a phosphatase
+			- Screened a list of substrates and checked which had highest specific activity
+			- Phosphoethanolamine and phosphocholine hydrolysis had a very high specific activity, checked using Lineweaver-Burke plot
+			- So it was reclassified into a hydrolase
+
+## Enzyme inhibitors
+- Many drugs are inhibitors of enzymes
+- Can be irreversible or reversible
+	- Irreversible - Inactivators
+		- Reacts with the enzyme to form a covalent bond with the protein
+		- Eg organophosphates - DIPF
+			- DIPF used in pesticides, inhibits AChE 
+			- AChE is an enzyme that degrades the neurotransmitter ACh after it has been transmitted and received
+			- DIPF inactivates AChE by phosphorylating the serine hydroxyl group at its active site
+			- Once deactivated, ACh accumulates in the NS and results in the overstimulation of receptors 
+		- Eg Aspirin (acetylsalicylic acid) ^451be5
+			- Inhibits COX-1 
+			- COX-1 catalyses the conversion of arachidonic acid (AA) to prostaglandin H2 (precursor for inflammatory mediators eg leukotrienes and other prostaglandins)
+			- Aspirin reacts with a serine residue close to the active site - prevents AA from binding to the active site
+	- Reversible - Competitive or Allosteric (non-competitive)
+		- Competitive
+			- Competes with the substrate for the active site
+			- Similar structure to that of the normal substrate, but doesn't react
+			- Eg folic acid synthesis
+				- Bact cannot use ready made folic acid, must synthesise from 4-aminobenzoic acid 
+				- Sulphonamides have a very similar structure, can be used to inhibit folic acid synthesis - antibiotic
+				- ![[Pasted image 20251007094019.png|350]]
+			- How are enzyme kinetics altered?
+				- Needs more substrate for the same reaction velocity and same Vmax -> increased Km but Vmax is unchanged
+				- ![[Pasted image 20251007094132.png]]
+				- Vmax is unchanged ![[Pasted image 20251007094221.png|350]]
+		- Allosteric
+			- Binds to non-active-site spot on the enzyme -> renders enzyme and enzyme-substrate complex inactive. 
+			- Can bind at the same time as the substrate
+			- Not competing -> V cannot be increased by higher substrate concentration -> Vmax decreases. Km often but not always increases
+			- 2 main types
+				- Non-competitive inhibition
+					- Reduces efficacy of the enzyme but doesn't affect substrate affinity -> only Vmax affected 
+				- Mixed inhibition
+					- Reduces substrate affinity -> Km affected 
+			- Eg PFK - catalyses transfer of phosphate from ATP to fructose 6-phosphate
+				- Important step in glycolysis - net production of more ATP at the end
+				- PFK can bind to ATP at 2 sites - active and inhibitory site. Active site has higher affinity than inhibitory site
+				- When high levels of ATP are present, it starts binding to the inhibitory site -> PFK is inhibited
+				- Means that glycolysis does not proceed when the cell has enough ATP - Feedback inhibition
+- Another medical example - ethylene glycol poisoning
+	- ![[Pasted image 20251007094927.png]]
+	- We want to prevent oxidation of ethylene glycol 
+	- Treatment: GET (almost) DRUNK WEEEEEEE - ethanol competes with ethylene glycol for alcohol dehydrogenase active site
+	- 

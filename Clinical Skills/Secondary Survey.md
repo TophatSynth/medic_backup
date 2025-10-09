@@ -179,4 +179,6 @@
 1. Why is it important to understand how the patient was found and the events leading up to this point?
 	- To fully understand what kind of injury/injuries might be present, and to what extent
 2. What are the clues you might look for?
-	- Signs of a fall, assault, things that might have fallen on to the patient, electrical hazardsw
+	- Signs of a fall, assault, things that might have fallen on to the patient, electrical hazards
+
+#anki 

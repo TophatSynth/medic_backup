@@ -1,0 +1,73 @@
+## Main causes of acute inflammation
+- Infections 
+- Hypersensitivity - eg eczema
+- Physical - uv light, foreign bodies
+- Chemical - chemical burns!! :D 
+
+- 5 main physical characteristics of inflammation
+	- Heat
+	- Redness
+	- Swelling
+	- Pain
+	- Loss of function
+- Specific characteristics and extent depend on the site 
+
+- Vascular phase 
+	- Arterioles briefly constrict for a few secondsand then dilate
+	- Venules also dilate
+	- Venous and capillary endothelium cells contract -> increased permeability -> Net flow into the tissue mainly from the venules, causing swelling
+- Exudative phase
+	- Exudate - proteins, ions, water and cells leak out due to leaky/dialted blood vessels 
+	- Transudate - passive outflow of fluid and ions due to osmotic and hydrostatic pressure 
+	- [[White Blood Cells#^f8ea7c|Neutrophils]] and proteins exudate from the venules into the tissue
+		- Attracted by chemokines and Interleukin-1 (IL-1) 
+			- Produced by resting macrophages in the tissue, activated by tissue damage 
+			- Also produce tumour necrosis factor (TNF) - stimulates vascular permeability
+		- Recognise bacteria via coating of antibodies on the surface
+		- Phagocytosis - uses lysozymes to destroy cell wall and also produces hydrogen peroxide 
+	- Basophils and mast cells
+		- Activated by tissue damage, antigens interacting with the IgE on the basophil surface, and complement 
+		- ... Apparently called basophils in the blood, and mast cells in the tissues
+		- Produces:
+			- Histamine - vascular dilatation and permeability
+		    - Leukotrienes - Chemotactic (chemotaxis) effect on other white blood cells. Produced by the oxidation of arachidonic acid!! ([[Introduction to Enzymes#^451be5]])
+		    - Prostaglandins - vascular dilatation and pain 
+	- In summary - one produces chemokines,  and TNF, one phagocytoses, one produces a lot of other chemicals 
+- Macroscopic appearance
+	- Abcess - pus enclosed by fibrin and connective tissue
+	- Pus - inflammatory exudate that is rich in neutrophils, other organisms and dead tissue
+	- Empyema - pus enclosed in an existing body cavity 
+- Subtypes of acute inflammation
+	- Serous
+		- eg blister
+	- Membranous
+		- Glomeruli
+	- Purulent
+		- Skin abscess
+	- Haemorrhagic 
+		- Meningococcal infection
+	- Fibrinous 
+		- Pleura or pericardium
+	- Catarrhal
+		- Sinus infection 
+- Beneficial effects of acute inflammation
+	- Leaking of fluid can dilute toxins
+	- Effector cells and antibodies can get to the affected area
+	- Fibrin helps to wall off the spread of infection
+	- The antigens get carried to local and regional lymph nodes - allows antibodies to be made and prevents systemic spread via the lymphatic system
+- Harmful effects of acute inflammation
+	- Destruction of normal tissues
+	- Swelling within a confined space can do more harm than good
+	- Sepsis
+		- Any systemic infection with multiorgan failure
+	- Cytokine storm - so many chemicals -> multi-organ failure
+- Systemic effects of acute inflammation
+	- Fever 
+		- Interleukin 1 and TNF cause resetting of temperature control at hypothalamus - "tare" it at a higher temperature to trigger heat production
+	- Production of G-CSF (granulocyte colony stimulating factor) -> increases production and release of neutrophils from bone marrow
+	- Increase in acute phase proteins - assists complement binding to microbes
+	- Increase in immunoglobulins
+
+![[Pasted image 20251009141353.png]]
+
+#anki 

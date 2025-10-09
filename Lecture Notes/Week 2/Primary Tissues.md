@@ -126,6 +126,6 @@
 			- White fat - energy storage, insulation, protection
 				- Are stored in adipocytes as single droplets of fat that occupies most of the cell
 				- ![[Pasted image 20250923105005.png|400]]
-				- Also produces leptin - signal to the brain that the body has had enough to eat
+				- Also produces leptin - signal to the brain that the body has had enough to eat ^02320c
 					- ![[Pasted image 20250923105059.png]]
 			- Brown fat - heat production

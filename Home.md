@@ -1,4 +1,28 @@
-### 4 hours of scheduled activities, 4.5 hours of independent studies per day
+
+```base
+filters:
+  or:
+    - file.tags.contains("anki")
+    - file.tags.contains("tofinish")
+properties:
+  file.folder:
+    displayName: Folder
+  file.name:
+    displayName: NEEDS FLASHCARDS
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+    sort:
+      - property: file.folder
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 400
+
+```
 
 ```base
 filters:
@@ -14,7 +38,7 @@ properties:
     displayName: Lesson
 views:
   - type: table
-    name: Table
+    name: TOC
     order:
       - file.folder
       - file.name
@@ -24,8 +48,9 @@ views:
       - property: file.ctime
         direction: DESC
     columnSize:
-      file.folder: 200
+      file.folder: 160
 
 ```
 
 [[Feedback for MD2001]]
+### 4 hours of scheduled activities, 4.5 hours of independent studies per day

@@ -25,7 +25,7 @@
 
 ## Types of WBC's
 - Granulocytes 
-	- Neutrophils
+	- Neutrophils ^f8ea7c
 		- Most common WBC in blood (50-70% of WBC's in blood)
 		- Short lifespan - 8-10 hours
 		- Migrates towards chemotaxis that are released in response to bact antigens
@@ -49,6 +49,7 @@
 		- Granules contain histamine, leukotrienes, proteases and heparin - released in response to antigens 
 		- Also does phagocytosis
 		- Role in Type 1 Anaphylaxis - allergic attack
+		- Has IgE receptor on cell surface - binding produces degranulation #anki 
 - Lymphocytes
 	- Makes up 20-40% of blood WBC
 	- Differentiate early from other marrow derived cells
@@ -63,6 +64,7 @@
 			- Helper
 			- Memory 
 - Monocytes (in blood)/macrophages (in tissues)
+	- Monocytes migrate into tissue, turn into macrophages, stay there for long long long time #anki 
 	- Scavenger for abnormal debris 
 		- Vacuoles contain hydrolases and myeloperoxidase
 	-  Kills mycobacteria, fungi, and intracellular organisms eg listeria
@@ -71,7 +73,7 @@
 	- Lifespan 8-12 hours in blood but much longer in tissues
 
 ## Pathology 
-- Chronic myeloid leukaemia
+- Chronic myeloid leukaemia ^9b1ff6
 	- Occurs in all age groups
 	- Anaemia, high WBC/platelet count, bone pain, large spleen
 	- Typically a chronic phase first, then an accelerated and blast phase

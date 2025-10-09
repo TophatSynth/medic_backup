@@ -26,7 +26,7 @@
 		- Ferrous (Fe2+/3+) iron absorbed by duodenal (duodenum) enterocytes
 			- Fe3+ is reduced to Fe2+ first, then absorbed
 			- Iron also absorbed in haem from meat-based products
-		- Hepcidin regulates iron absorption and release from macrophages - is increased during inflammation -> less available iron bc macrophages absorb more and release less
+		- Hepcidin regulates iron absorption and release from macrophages - is increased during inflammation -> less available iron bc macrophages absorb more and release less ^735c1f
 		- Circulation as either Fe3+ in transferrin or as haem
 		- Ferritin - soluble form of long term iron storage
 	- ![[Pasted image 20251002132852.png]]
