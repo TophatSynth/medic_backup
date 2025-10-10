@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a8ea6d9eaa41f6",
+        "id": "37cdb1fc4f4ccb95",
         "type": "tabs",
         "children": [
           {
-            "id": "585c49832e0edf40",
+            "id": "f113ba9980931051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 4/Cell Adhesion and Extracellular Matrix.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell Adhesion and Extracellular Matrix"
+              "title": "Home"
             }
           }
         ]
@@ -36,16 +36,6 @@
         "children": [
           {
             "id": "c6df66fd9623a06f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "27884578a7f01ec6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,12 +73,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ad6aae24f8fd479b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -99,6 +101,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "585c49832e0edf40",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "96e28b055d5dcce1",
             "type": "leaf",
             "state": {
@@ -106,16 +118,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "ddc1fba6f0df8581",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           },
           {
@@ -181,7 +183,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,9 +192,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -201,31 +204,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "585c49832e0edf40",
+  "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
-    "Lecture Notes/Week 2/Primary Tissues.md",
-    "Lecture Notes/Week 4/Cell Adhesion and Extracellular Matrix.md",
-    "Home.md",
-    "Lecture Notes/Week 4/Chronic inflammation.md",
-    "Lecture Notes/Week 3/White Blood Cells.md",
-    "Clinical Skills/Secondary Survey.md",
     "Clinical Skills/Primary Survey.md",
-    "Lecture Notes/Week 4/Acute inflammation.md",
+    "Home.md",
     "Lecture Notes/Week 4/Introduction to Enzymes.md",
+    "Lecture Notes/Week 4/(Practical) Blood Vessels.md",
+    "Attachments/Pasted image 20251010095922.png",
+    "Lecture Notes/Week 4/Chronic inflammation.md",
+    "Lecture Notes/Week 4/Acute inflammation.md",
+    "Lecture Notes/Week 4/Cell Adhesion and Extracellular Matrix.md",
+    "Lecture Notes/Week 3/White Blood Cells.md",
+    "Attachments/Pasted image 20251009163148.png",
+    "Lecture Notes/Week 2/Primary Tissues.md",
+    "Lecture Notes/Week 4/Structure of the airway and lungs.md",
+    "Clinical Skills/Secondary Survey.md",
     "Attachments/Pasted image 20251009142458.png",
     "Attachments/Pasted image 20251009141353.png",
-    "Lecture Notes/Week 4/Untitled.md",
     "Attachments/Pasted image 20251009140756.png",
     "Attachments/Pasted image 20251009094244.png",
     "Attachments/Pasted image 20251009093407.png",
     "Attachments/Pasted image 20251009093129.png",
     "Attachments/Pasted image 20251009093015.png",
     "Attachments/Pasted image 20251009092933.png",
-    "Attachments/Pasted image 20251009092702.png",
-    "Attachments/Pasted image 20251009092539.png",
     "Lecture Notes/Week 4/Introduction to Microbial Infection.md",
     "Lecture Notes/Week 4/Microbial Structure.md",
-    "Lecture Notes/Week 4/Structure of the airway and lungs.md",
     "Lecture Notes/.md",
     "Lecture Notes/Week 2/Epithelia.md",
     "Lecture Notes/Week 4",

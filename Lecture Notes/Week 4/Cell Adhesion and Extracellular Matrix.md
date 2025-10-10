@@ -1,6 +1,6 @@
 ## Connective tissues
 - Composed of various types of cells and an ECM
-	- Contains ground substance - gel mixture of proteoglycans, glycoprotein, glycosaminoglycans and water
+	- Contains ground substance - gel mixture of proteoglycans, glycoproteins, glycosaminoglycans and water
 	-  Embedded inside the gel are collagen fibres, elastic fibres and reticular fibres 
 - Divided into 2 types
 	- Loose connective tissues
@@ -20,7 +20,7 @@
 		- Cartilage and bone
 - Loose connective tissue beneath basal membrane of epithelia is composed of ground substance, more cells and the ECM
 ## Extracellular matrix
-- Mediates organisation of cells into tissues, intracellular signalling pathways, proliferation and gene expression
+- Function: Mediates organisation of cells into tissues, and the coordination of cellular function via the activation of intracellular signalling pathways that control cell growth, proliferation and gene expression
 - Difference between different ECM's based on 
 	- Quantitative differences in the types/amounts of ECM
 	- Modifications in organisation
@@ -40,8 +40,12 @@
 		- Elastin
 			- Principle component of elastic fibre
 			- Elastin molecules are cross linked with each other with desmosines ![[Pasted image 20251009092702.png]]
-		- Fibronectin
-		- Laminin
+		- Fibronectin 
+			- Is an adhesion protein
+			- Has binding sites for collagen and proteoglycan ![[Pasted image 20251009163148.png]]
+		- Laminin 
+			- Main adhesion protein in the basal laminae 
+			- T-shaped made of heterotrimer subunits (a, B, and g) ![[Pasted image 20251009093407.png]]
 	- Polysaccharides - glycosaminoglycans
 		- Structural fibrous proteins are embedded in gels made from glycosaminoglycans (GAG) - made from repeating units of disaccharides 
 			- N-acetylglucosamine or N-acetylgalactosamine 
@@ -60,25 +64,19 @@
 			- Binds to water and other ECM components - Provides matrix support/hydration by sticking everything together
 			- Links ECM to cell, and links ECM proteins to each other
 	- Fibroblasts
-		- Synthesise and secrete fibrillar proteins - eg collagen, elastic fibre, reticular fibre and thre respective complex carbohydrates that help maintain the cell structural framework
+		- Synthesise and secrete fibrillar proteins - eg collagen, elastic fibre, reticular fibre and the respective complex carbohydrates that help maintain the cell structural framework
 - Linking the ECM to the intracellular cytoskeleton
-	- Collagen and proteoglycans bind to fibronectin -> binds via adaptors to the actin cytoskeleton ![[Pasted image 20251009093129.png]]
-	- Fibronectin 
-		- Is an adhesion protein
-		- Has binding sites for collagen and proteoglycan 
-	- Laminin 
-		- Main adhesion protein in the basal laminae 
-		- T-shaped made of heterotrimer subunits (a, B, and g) ![[Pasted image 20251009093407.png]]
+	- Collagen and proteoglycans bind to fibronectin -> binds to integrins which binds to adaptor protein which binds to the actin cytoskeleton ![[Pasted image 20251009093129.png]]
 - Myofibroblasts
 	- Secretes collagen, but also acts like a smooth muscle cell and contracts
 	- Involved in tissue repair:
-		- Proliferates in site of injury, secretes collagen, consolidates the damaged area, then contracts to reduce the size of the damaged area 
+		- Proliferates in site of injury, secretes collagen to form a scaffold for tissue repair and then to consolidate the damaged area, then contracts to reduce the size of the damaged area 
 - Mast cell 
 	- Granules contains heparin and histamine - mediators of inflammation - 2 types:
 		- Preformed mediators 
 		- Newly synthesised mediators (mostly lipids and cytokines)
-- Plasma cell 
-	- B-lymphocytes - antibodies (Ig G)
+- [[White Blood Cells#^eba2b6|Plasma cells]]
+	- Produces Ig G
 - Macrophages
 	- Phagocytic cells derived from monocytes
 	- Defence or cleanup of cellular debris
@@ -93,13 +91,12 @@
 
 ## Disease in the ECM
 - Duchenne's Muscular Dystrophy
-		- Muscle cell has an adaptor protein (dystrophin) missing due to premature transcription termination - actin inside the cell is not connected - weaker structure - muscle tearing
+	- Muscle cell has an adaptor protein (dystrophin) missing due to premature transcription termination - actin inside the cell is not connected - weaker structure - muscle tearing
 	- Muscle wasting, weakness, inability to walk by 12 years
 	- Treatment using experimental drug - overrides premature stop signal mutation 
 - Cancer progression
 	- Carcinoma develops, have not breached the basement membrane at first
-	- Epithelial to mesenchymal transition (EMT) - cancer cells convert to mesenchymal cells - expression of cadherins reduced - produce actin-based protursions called invadipodia and metalloproteases (MMP's) - break through the basal membrane 
+	- Epithelial to mesenchymal transition (EMT) - cancer cells convert to mesenchymal cells - expression of cadherins reduced - produce actin-based protrusions called invadipodia and metalloproteases (MMP's) - break through the basal membrane 
 	- Express integrins - promotes interaction with ECM and other cells
 	- Metastasis - expresses autocrine motility factors (increases motility of the tumour cells) and angiogenesis factors (promote vascularisation) - spread via circulatory and lymphatic system yay 
 
-#anki 

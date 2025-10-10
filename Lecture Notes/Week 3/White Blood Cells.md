@@ -56,13 +56,13 @@
 	- Long life span
 	- 2 types
 		- T cells (Thymus)
-			- Cytotoxic
-			- Helper
-			- Regulatory
-			- Memory
-		- B cells (Bone marrow or bursa)
-			- Helper
-			- Memory 
+			- Cytotoxic - releases cytotoxins to kill pathogens
+			- Helper - activates plasma cells 
+			- Regulatory - regulates the cytotoxic T cells
+			- Memory - stay in blood for secondary immune response
+		- B cells (Bone marrow or bursa) ^eba2b6
+			- Plasma cells - produces antibodies
+			- Memory - stay in blood for secondary immune response
 - Monocytes (in blood)/macrophages (in tissues)
 	- Monocytes migrate into tissue, turn into macrophages, stay there for long long long time #anki 
 	- Scavenger for abnormal debris 

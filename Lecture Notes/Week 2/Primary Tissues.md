@@ -101,7 +101,7 @@
 		- Rich blood supply and many mitochondria bc needs a lot of energy
 		- Central nuclei
 - Also classified into voluntary and involuntary control
-### 4. Connective tissue
+### 4. [[Cell Adhesion and Extracellular Matrix|Connective tissue]]
 - Will come back to it later. Dw too much
 - Mix of different cells + extracellular matrix 
 	- ECM 

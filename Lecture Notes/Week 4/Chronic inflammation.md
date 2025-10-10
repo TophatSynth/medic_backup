@@ -1,4 +1,3 @@
-#anki 
 Chronic inflammation
 - Tissue damage, inflammation and healing all happening at the same time over a long period of time
 - Involved cells - macrophages, lymphocytes, plasma cells
@@ -10,7 +9,7 @@ Chronic inflammation
 - Factors promoting resolution of acute inflammation
 	- Minimal cell death and tissue loss
 	- Good regenerative capacity
-	- Rapid elimnination of the causative agent
+	- Rapid elimination of the causative agent
 	- Good immune function
 	- Rapid removal of fluid and debris by good blood supply
 - During resolution of acute inflammation, damaged/dead tissue is organised into granulation tissue. Inside:
@@ -30,7 +29,7 @@ Chronic inflammation
 		- Sometime the macrophages are unable to contain the infection
 		- Then spreads in the lungs, then to bone, CNS, etc 
 		- Treatment is 6-24 months of oral antibiotics
-- Progressing from acute inflammation - Osteomyelitis
+- Progressing from acute inflammation - eg Osteomyelitis
 	- Osteomyelitis 
 		- Acute inflammation in the bone marrow, poor blood supply -> pus can't drain away and pools under the periosteum, causes a portion of bone to die -> stimulates chronic inflammation
 		- Causes weak and hollow bones
@@ -51,7 +50,7 @@ Chronic inflammation
 Systemic consequences of chronic inflammation
 - Fevers, weight loss, malaise 
 - Fibrosis -> distortion of tissues
-- Anaemia from chronic disease - increased hepcidin reduces iron availability - [[Red blood cells#^735c1f]]
+- Anaemia from chronic disease - increased [[Red blood cells#^735c1f|hepcidin]] reduces iron availability 
 - Excess amyloid deposition - insoluble deposits of serum protein 
 - Reduced growth in children
 

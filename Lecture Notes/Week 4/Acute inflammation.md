@@ -1,4 +1,4 @@
-## Main causes of acute inflammation
+Main causes of acute inflammation
 - Infections 
 - Hypersensitivity - eg eczema
 - Physical - uv light, foreign bodies
@@ -34,7 +34,7 @@
 		    - Prostaglandins - vascular dilatation and pain 
 	- In summary - one produces chemokines,  and TNF, one phagocytoses, one produces a lot of other chemicals 
 - Macroscopic appearance
-	- Abcess - pus enclosed by fibrin and connective tissue
+	- Abscess - pus enclosed by fibrin and connective tissue
 	- Pus - inflammatory exudate that is rich in neutrophils, other organisms and dead tissue
 	- Empyema - pus enclosed in an existing body cavity 
 - Subtypes of acute inflammation
@@ -69,5 +69,3 @@
 	- Increase in immunoglobulins
 
 ![[Pasted image 20251009141353.png]]
-
-#anki 

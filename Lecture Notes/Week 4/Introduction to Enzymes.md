@@ -70,7 +70,7 @@
 				- Non-competitive inhibition
 					- Reduces efficacy of the enzyme but doesn't affect substrate affinity -> only Vmax affected 
 				- Mixed inhibition
-					- Reduces substrate affinity -> Km affected 
+					- Reduces substrate affinity -> Both Vmax and Km affected 
 			- Eg PFK - catalyses transfer of phosphate from ATP to fructose 6-phosphate
 				- Important step in glycolysis - net production of more ATP at the end
 				- PFK can bind to ATP at 2 sites - active and inhibitory site. Active site has higher affinity than inhibitory site
