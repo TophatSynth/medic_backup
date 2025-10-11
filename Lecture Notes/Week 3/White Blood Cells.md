@@ -48,8 +48,8 @@
 		- Makes up <1% of blood WBC's 
 		- Granules contain histamine, leukotrienes, proteases and heparin - released in response to antigens 
 		- Also does phagocytosis
-		- Role in Type 1 Anaphylaxis - allergic attack
-		- Has IgE receptor on cell surface - binding produces degranulation #anki 
+		- Role in Type 1 Anaphylaxis - allergic attack ^048fb6
+		- Has IgE receptor on cell surface - binding produces degranulation
 - Lymphocytes
 	- Makes up 20-40% of blood WBC
 	- Differentiate early from other marrow derived cells
@@ -64,7 +64,7 @@
 			- Plasma cells - produces antibodies
 			- Memory - stay in blood for secondary immune response
 - Monocytes (in blood)/macrophages (in tissues)
-	- Monocytes migrate into tissue, turn into macrophages, stay there for long long long time #anki 
+	- Monocytes migrate into tissue, turn into macrophages, stay there for long long long time
 	- Scavenger for abnormal debris 
 		- Vacuoles contain hydrolases and myeloperoxidase
 	-  Kills mycobacteria, fungi, and intracellular organisms eg listeria

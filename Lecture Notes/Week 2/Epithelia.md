@@ -19,7 +19,7 @@
 - Columnar - 2x height as wide
 - Squamous - 1/2x height as wide
 - Simple layer - One layer, all cells touching basal membrane
-	- Simple cuboidal epithelium
+	- Simple cuboidal epithelium ^700ea9
 		- Single layer of cube cells
 		- Function: secretion and absorption of ions, solutes and water
 		- Location: Mainly in all the kidney tubules! + ducts, secretory portions of small glands, and ovary surface
@@ -41,7 +41,7 @@
 		- Several "layers" of nuclei
 		- Can be ciliated or non-ciliated
 		- Secretes mucus
-		- Found in the trachea and upper respiratory tract (ciliated) and vas deferens (sperm duct) and large glands (non-ciliated)
+		- Found in the upper respiratory tract down to the trachea (ciliated) and vas deferens (sperm duct) and large glands (non-ciliated) #anki 
 - Stratified epithelium - multiple layers
 	- Stratified cuboidal epithelium
 		- Usually 2 layers of cuboidal cells

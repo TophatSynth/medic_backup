@@ -133,7 +133,6 @@
 	- Septic - Severe infection -> widespread inflammation + drop in blood pressure
 	- Anaphylactic - Allergic reaction -> severe vasodilation + drop in blood pressure
 	- Neurogenic - Damaged NS -> impaired blood vessel tone and causes blood pressure to fall 
-	- #anki
 3. What are the possible causes of each type?
 	- Haemorrhage 
 	- Cardiac arrest, arrhythmia
@@ -180,5 +179,3 @@
 	- To fully understand what kind of injury/injuries might be present, and to what extent
 2. What are the clues you might look for?
 	- Signs of a fall, assault, things that might have fallen on to the patient, electrical hazards
-
-#anki 

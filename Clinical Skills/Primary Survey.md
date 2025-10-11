@@ -31,23 +31,22 @@
 - All acutely unwell patients should be started on **15L via a non-rebreather mask** initially which can then be weaned to maintain saturations in the target range of **94-98%** (or the normal range for the patient).
 - All patients with a respiratory rate of **less than 10** should be ventilated using a Bag Valve Mask (squeeze every 6 seconds and reassess after 1 minute -10 breaths).
 - Types of breathing apparatus:
-	- Nasal Cannula
-		- Breathing tube
-		- Used when patient needs a low level of oxygen
-		- 1 - 4L O2
-	- Venturi Device
-		- Used to provide a specific flow rate and O2 percentage based on the patients' current O2 saturation
-	- Nebuliser
-		- Delivers medication as a fine mist
-		- Used with O2 or air flow rate of 6L
-	- Non-rebreather mask
-		- When the patient needs high flow O2 - starts on 15L but can be dropped to 10L once more stabilised
-		- The idea is that the patient only breathes in O2, no CO2
-		- Bag should be constantly inflated, even when patient breathes in
-	- Bag Valve Mask (BVM)
-		- Used when the patient's breathing rate is less than 10 bpm
-		- 2 person technique - one holds the mask onto the patient's face, the other squeezes the bag
-- !!!anki
+- Nasal Cannula
+	- Breathing tube
+	- Used when patient needs a low level of oxygen
+	- 1 - 4L O2
+- Venturi Device
+	- Used to provide a specific flow rate and O2 percentage based on the patients' current O2 saturation
+- Nebuliser
+	- Delivers medication as a fine mist
+	- Used with O2 or air flow rate of 6L
+- Non-rebreather mask
+	- When the patient needs high flow O2 - starts on 15L but can be dropped to 10L once more stabilised
+	- The idea is that the patient only breathes in O2, no CO2
+	- Bag should be constantly inflated, even when patient breathes in
+- Bag Valve Mask (BVM)
+	- Used when the patient's breathing rate is less than 10 bpm
+	- 2 person technique - one holds the mask onto the patient's face, the other squeezes the bag
 
 ## Self study questions
 1. If a patient is gurgling, what is the best way to manage their airway?
@@ -66,5 +65,3 @@
 	- When the patient's breathing rate is below 10
 8. Which oxygen delivery device allows you to control the percentage of oxygen based on the attached filter and recommended flow rate?
 	- Venturi Device
-
-#anki 

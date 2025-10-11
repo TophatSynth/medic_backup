@@ -12,7 +12,7 @@
 	- If needed, dry and shave the patient's chest
 	- Follow instructions, make sure nobody is touching the body or anything touching the body for analysing and shocking. Give loud verbal and physical prompting to stand back. Oxygen should be moved 1m away
 	- Hold the AED and stand back, performing safety check around the patient. Never stand directly over the patient when delivering a shock.
-	- Recommence CPR, 30-2. Breaths should be done witha bag valve mask connected to 15L of O2. 2 ppl technique. 
+	- Recommence CPR, 30-2. Breaths should be done with a bag valve mask connected to 15L of O2. 2 ppl technique. 
 4. Handover and post resuscitation care (SBAR)
 
 - Minimise interruptions at every point
@@ -35,4 +35,3 @@
 4. Lie patient flat, open airway
 5. Assess breathing and signs of life for up to 10 seconds
 6. If help is available, ask to call 999 for an adult cardiac arrest and to get AED (or 2222)
-7. 

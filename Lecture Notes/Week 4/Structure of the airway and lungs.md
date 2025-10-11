@@ -1,157 +1,250 @@
 #anki 
 #tofinish 
 ## Respiratory system
-- Function - gas exchange, pH balance, speech, other metabolic functions - angiotensin 1 to angiotensin 2, prostaglandin synthesis
+- Function - gas exchange, pH balance, speech and vocalisation, other metabolic functions - angiotensin 1 to angiotensin 2, prostaglandin synthesis
 - 2 portions 
-	- Conducting portion - Everything else
-	- Respiratory portion - Respiratory bronchioles, alveoli
+	- Respiratory portion - Respiratory bronchioles and alveoli
 		- ![[Pasted image 20251007100932.png|350]]
 		- Alveoli - 400 million per lung, rich vascular supply
+	- Conducting portion - Everything else
 ## Nose
-- Mostly hyaline cartilage, muscle, soft tissue and nasal bone
-- Nares - nostrils
-- Nasal cavities !!!
-	- Serve to warm, humidify and filter inhaled air
+- Outer nose is made mainly of hyaline cartilage, muscle, and fibroaleolar issue. There is some nasal bone from the skull but not much
+- Naris/Nares - nostrils
+- Serve to warm, humidify and filter inhaled air
+- Nasal cavities 
 	- Posterior to the nose
-	- Bilateral cavities, divided by septum, made of cartilage, ethmoid bone and Vomer
-	- Bony structure covered by respiratory mucosa 
-		- Wall made of chonchae (S/M/I choncha)
-		- Floor - Hard and soft palate separating nasal and oral cavities
-		- ![[Pasted image 20251007101325.png]]
-	- Ethmoid bone -
+	- Bilateral nasal cavities, divided by a septum made of cartilage, ethmoid bone and Vomer
+	- Bony structure of the cavity all lined with respiratory mucosa 
+		- Lateral wall
+			- Wall made of chonchae (S/M/I choncha)  
+				- Superior and middle conchae made from the ethmoid bone
+				- Inferior choncha is its own bone
+			- Maxilla - makes up part of the lateral wall as well as the floor of the nasal cavity - houses the upper teeth as well
+			- Palatine bone as well
+			- Floor made of a combination of hard palate (the maxilla and palatine bone) and soft palate (soft tissue extending posteriorly from the hard palate)
+			- ![[Pasted image 20251007101325.png]]
+		- Medial wall - nasal septum
+			- Majority is made of septal cartilage
+			- Perpendicular plate of ethmoid bone
+			- Vomer - bone below the ethmoid bone
+			- ![[Pasted image 20251011102620.png]]
+	- Ethmoid bone - splits the nasal and cranial cavities 
 		- That middle yellow bit ![[Pasted image 20251007101605.png]]
-		- Has the cribriform plate - perforated to allow olfactory nerves to go to brain
-			- Olfactory nerve is cranial nerve 1 
+		- ![[Pasted image 20251011102938.png]]
+		- Has the cribriform plate - the bone is perforated to allow olfactory nerves to go to brain
+			- Olfactory nerve is cranial nerve 1, emerges directly from the forebrain, terminates in the olfactory bulb right above the cribriform plate - extends olfactory nerves through 
+			- ![[Pasted image 20251011103150.png]]
 	- Respiratory mucosa
-		- Ciliated pseudostratified columnar epithelium ([[Epithelia]])
+		- The top bits are specialised mucosa, but everything else is respiratory mucosa - ciliated pseudostratified columnar epithelium ([[Epithelia]])
+		- Lines the nasal cavities, sinuses, down to the trachea
 		- Goblet cells 
-		- Rich vascular supply and submucosal glands
+		- Rich vascular supply and submucosal glands - contributes to mucus production
 	- Arterial supply of the nasal cavity
-		- Rich vascular supply - anastomoses between E/I carotid artery branches
-		- ICA -> ophthalmic artery -> ant. and post. ethmoidal arteries 
-		- ECA -> maxillary artery -> sphenopalatine and descending palatine artery - > greater palatine artery
-		- ECA -> facial artery -> superior labial artery -> nasal artery
-		- Septum has many anastomoses -> prone to nosebleeds
-	- Turbinates (nasal concha + mucosa)
+		- Rich vascular supply - anastomoses between ext/int carotid artery branches
+		- ICA -> ophthalmic artery -> ant. and post. ethmoidal arteries descending from the superior part of the ethmoid bone - covers the septal wall
+		- ECA -> maxillary artery -> sphenopalatine and descending palatine artery - > greater palatine artery 
+			- Descending palatine artery actually dips into the oral cavity under the hard palate, then comes back up into the nasal cavity
+		- Nasal cavity has many anastomoses -> prone to epistaxis - nosebleeds
+			- Septal region known as Little's area/Kiseljak plexus - can have very severe nosebleeds
+			- ![[Pasted image 20251011104529.png]]
+	- Turbinate (nasal concha + mucosa)
 		- Large surface area to help warm and humidify air 
 		- Rich vasculature 
 		- Generates turbinate flow
 			- ![[Pasted image 20251007102547.png|400]]
 			- Helps to filter particles before they pass further into the airway - turbulent precipitation 
-	- Paranasal sinuses - hollow bones around the nasal cavity 
+	- Paranasal sinuses 
+		- Hollow bones around the nasal cavity, maxillary sinus on either side laterally, frontal sinuses superiorly, ethmoidal cells within the ethmoid bone (bunch of small, interconnected cells instead of one big cavity, split into A/M/P cells), sphenoidal sinus posteriorly
+		- Lined with respiratory mucosa
+		- Contributes to surface area - warming and humidifying inhaled air. Also helps with making skull lighter and resonance of voice
+		- Drains into lateral wall of nasal cavity
+			- Most drain into the middle meatus - space under a concha (each concha has its own meatus)
+			- Posterior ethmoidal sinus drains into the suprior meatus
+			- Sphenoidal sinus drains into space posteriorly superior to the superior concha - spheno-ethmoidal recess
+		- Sinusitis
+			- Maxillary sinus very prone to inflammation bc drainage hole (osteum) is actually at the top of the sinus - can build up and inflame 
+			- Osteum also v small - inflammation of mucosa can seal off sinus 
+		- 
 		- ![[Pasted image 20251007102659.png|350]]
 		- ![[Pasted image 20251007102730.png|350]]
-		- Frontal, sphenoidal, maxillary, ethmoidal 
-		- Helps with warming inhaled air, makes skull lighter, helps with voice resonance 
-		- Drainage !!!
-- Clinical considerations
-	- Nosebleeds
-	- Inflammation - allergies, etc
-	- Deviated septum - ![[Pasted image 20251007103208.png|200]]
-	- Sinusitis 
-	- URTI - Upper respiratory tract infection
-	- Infection track - Venous drainage of face and nasal cavity connected to brain - infection of the nasal cavity could spread to brain
-	- CSF rhinorrhoea - CSF from the brain leaking through the nose
+		- ![[Pasted image 20251011105935.png|200]]
+	- Clinical considerations
+		- Nosebleeds - Little's area
+		- Inflammation - allergies, etc
+		- Deviated septum - ![[Pasted image 20251007103208.png|200]]
+		- Sinusitis 
+		- URTI - Upper respiratory tract infection
+		- Infection track - Venous drainage of face, brain and nasal cavity connected to brain - infection of the nasal cavity could spread to brain
+		- CSF rhinorrhoea - CSF from the brain leaking through the nose due to major trauma - not good :(
 	- 
 ## Pharynx
-- Nasal pharynx, Oral pharynx, laryngopharynx !!!
-- 3 circular muscles - S/M/I constrictors !!!
+- A point of connection - fibrous tube composed of muscle fibres, covered by mucosa - connects the nasal and oral cavities to the larynx
+- Nasopharynx, oropharynx (oral), laryngopharynx 
+- Choanae - 2 holes connecting the nasal cavity to the nasopharynx
+	- ![[Pasted image 20251011110646.png|400]]
+- Muscles
+	- 3 circular muscles - S/M/I constrictors
+	- 3 longitudinal muscles 
+	- 6 of these on each side
 
 ## Larynx 
-- Composed of muscle, cartilage and ligaments/membranes
+- Composed of muscle, cartilage and ligaments/membranes connecting to skeleton
 - Spans C3-6
-- Blocks airway during swallowing, phonation (sounds for voice), allow voluntary increase in intra-abdominal pressure (when lifting heavy stuff)
+- Function
+	- Blocks airway during swallowing, 
+	- Phonation (sounds for voice)
+	- Allow voluntary increase in intra-abdominal pressure (ie when lifting heavy stuff)
 - Structure
 	- ![[Pasted image 20251007103839.png|400]]
 	- Lots of cartilage
 		- Unpaired cartilages are thyroid, cricoid, epiglottic
-		- Paired cartilages: arytenoids, corniculate, cuneiform !!!
-		- Cricothyroid cartilage connects to tracheal cartilage 
+			- Thyroid cartilage wraps around the top bit but not complete ring
+			- Epiglottic cartilage contributes to the epiglottis 
+			- Cricoid cartilage - complete ring of cartilage
+		- Paired cartilages: arytenoids 
+			- Arytenoids - the pyramidal ones on top of the cricoid cartilage
+		- They are all made of hyaline cartilage, except epiglottic cartilage, which is made of elastic cartilage
 	- Ligaments 
-		- Quadrangular/aryepiglottic membrane and ligaments
-		- Vocal ligament
+		- Thyroid cartilage connects up to the hyoid bone via the thyrohyoid membrane
+		- Cricoid cartilage connects to tracheal cartilage via the cricotracheal ligament 
+		- Cricoid and thyroid cartilage joined by the median cricothyroid ligament
+			- Lateral cricothyroid ligament - has an extension called the vocal ligament 
+			- Collectively called the Conus elasticus - the membrane that allows us to speak
+			- Covered in mucosa, so called folds
+		- Quadrangular membrane 
+			- Has four sides
+			- The top part is called the aryepiglottic ligament - connects the arytenoids to the epiglottis
+			- The bottom part is called the vestibular ligament
 	- Voice box
 		- Vestibular fold - false cords above 
+			- Made of the aryepiglottic ligament 
+			- The space between the fold and the wall called the laryngeal ventricle
 		- Vocal folds - true cords below
 		- ![[Pasted image 20251007104252.png|350]]
 	- Muscles
-		- Cricothyroid - increases tension of vocal ligament - increases pitch of voice
-		- Thyro-arytenoid - decreases pitch of voice
-		- When all laryngeal muscles are at rest, the airway is open
-	- Innervation
-		- Vagus nerve 
-			- Superior laryngeal branch -> I/E branches
+		- Thyroid cartilage
+			- Cricothyroid - rotates the thyroid cartilage - increases tension of vocal ligament - increases pitch of voice
+			- Thyro-arytenoid - pulls it back - decreases pitch of voice
+		- Rima glotidis - the "airway" hole that air can pass through
+			- Posterior crico-arytenoid - rotates the arytenoids to pull the vocal folds apart (abduct the vocal folds)
+			- Lateral crico-arytenoid - rotates the arytenoids the other way - adducts the vocal folds 
+			- Transverse arytenoid - connects the 2 arytenoids together - full closure of the rima glotidis 
+			- Oblique arytenoid - connects arytenoids together as well, but in an oblique pattern - can extend up to the quadrangular membrane/aryepiglottic ligament - contributes to closure of the airway 
+		- Each laryngeal muscle has a different tone - when all laryngeal muscles are at rest, the airway is open
+		- Whisper - engage the lateral crico-arytenoid muscles but not the transverse arytenoid muscles - rima glotidis is closed but still has small space between the arytenoids
+		- ![[Pasted image 20251011113901.png]]
+	- Innervation of nerves
+		- Vagus nerve - big parasympathetic nerve but also innervates larynx/pharynx
+			- Superior laryngeal branch -> int/ext branches
 			- Internal laryngeal - sensory above vocal cords
-			- External laryngeal - motor to cricothyroid
-		- Right and left recurrent laryngeal nerves - motor to all other laryngeal muscles and sensory to vocal cords and below
+			- External laryngeal - motor to cricothyroid muscle 
+			- Right and left recurrent laryngeal nerves - motor to all other laryngeal muscles. Also does sensory to vocal cords and below
+				- Right recurrent laryngeal nerve loops around right subclavian artery
+				- Left recurrent laryngeal nerve loops around the arch of the aorta
 	- Vasculature
-		- Superior thyroid artery 
-		- Inferior thyroid artery
-		- S/M/I thyroid veins to internal jugular and brachiocephalic trunks
+		- External carotid artery -> superior thyroid artery 
+		- Subclavian artery -> thyrocervical trunk -> Inferior thyroid artery -> inferior laryngeal branches
+		- S/M/I thyroid veins
+			- S/M veins draining to the internal jugular vein
+			- Inferior thyroid veins draining to brachiocephalic vein
 		- Lymph 
-			- Superior deep cervical lymph nodes above vocal folds
-			- Pretracheal/paratracheal lymph nodes -> inferior deep cervical nodes
+			- Above vocal folds -> goes to deep cervical lymph nodes
+			- Below vocal folds -> Pretracheal/paratracheal lymph nodes -> inferior deep cervical nodes
 		- ![[Pasted image 20251007105401.png]]
+## Clinical considerations of the upper airway
+- [[BLS#Choking|Choking]]
+- [[White Blood Cells#^048fb6|Anapylaxis]]
+- Laryngospasm - larynx overprotecting itself and effectively closing itself up, preventing breathing
+- Aspiration pneumonia - problems with swallowing - ie muscular problems
+- Recurrent laryngeal nerve damage - can happen during a surgery, or from a tumour - hoarse voice
+
+
 
 ## Trachea
-- Cartilaginous rings joined together by smooth muscle (trachealis)
+- Fibrous tube with cartilaginous rings inside 
+	- Cartilage is C-shaped, not complete rings
+	- Completed by smooth muscle called trachealis - regulates tracheal diameter - usually about 2.5cm/1 inch
+- Starts at C6 where larynx ends, roughly 10cm long, ending at T4/5 at around the manubriosternal junction
 - Back - oesophagus
-- Front 
+- Anterior 
 	- Sternothyroid and sternohyoid muscles
 	- Thyroid gland - front and sides of the trachea. Obscures cartilage rings 2-4
 	- Brachiocephalic trunk crossing the front from left to right
-	- Cardiac plexus nerves (SNS and PSNS)
+	- Cardiac plexus nerves (ANS)
 	- Tracheobronchial lymph nodes 
 - Lateral 
 	- Thyroid gland lobes
 	- Parathyroid glands
-	- Common carotid arteries, subclavian artery, aortic arch on the left
-	- Azygous arch, vagus nerve on the right
+	- Common carotid arteries, subclavian artery, aortic arch on the left looping over the bronchus
+	- Azygous arch looping over the right bronchus, vagus nerve on the right side too
 	- The trachea splits into L and R bronchi at the carina
+- Posterolateral
+	- Recurrent laryngeal nerves, looping under the aorta arch and the subclavian artery
 
 ## Bronchi
-- Primary bronchi 
-- Lobar bronchi - to each of the lung lobes (3R ,2L)
-- Tertiary bronchi - splits again. After this is bronchioles. 
+- Bronchial tree:
+	- Primary bronchi 
+	- Lobar bronchi/secondary bronchi - to each of the lung lobes (3R, 2L)
+	- Segmental/tertiary bronchi - splits again. After this is bronchioles. 
 - Bronchial arteries - 1R, 2L
 
 ## Bronchioles
 - 75-100 m2 of surface area
-- Bronchioles -> terminal bronchioles -> respiratory bronchioles -> alveolar ducts -> alveolar sacs
-- Terminal bronchioles - alternating thick and thin portions, sparse clumps of smooth muscle
-	- Club cells - non-ciliated, cuboidal epithelium - produce protective secretions
-- Acini !!!
+- Bronchi -> bronchioles -> terminal bronchioles -> respiratory bronchioles -> alveolar ducts -> alveolar sacs
 
 ## Alveoli
 - Vasculature from the alveoli is designed similarly to how the bronchi branch ![[Pasted image 20251008111713.png]]
+	- Has both pulmonary artery bringing deoxygenated blood to the alveoli, and bronchial arteries bringing oxygenated blood for the respiratory structures 
+	- Venous blood from both flow into the pulmonary vein - small bit of deoxygenated blood coming back to the heart
 - Capillary beds around alveoli 
 - Single cell thick
 
-
 ## Histology of respiratory tree
-- Trachea
-
+- Everything in here has lots and lots of elastin 
+- Trachea ![[Pasted image 20251011131544.png]]
+- C-shaped cartilage, with smooth muscle at the back
+- Some cartilage will ossify due to age
+- Bronchi ![[Pasted image 20251011131747.png]]
+- Bronchioles ![[Pasted image 20251011131811.png]]
+	- Only smooth muscle, with no cartilage
+- Terminal bronchiole ![[Pasted image 20251011131916.png]]
+	- No longer one smooth ring of smooth muscle, but rather clumps of smooth muscle with single cell layers in between
+	- Also has club cells - [[Epithelia#^700ea9|cuboidal epithelium]] - produces protective secretions
+- Acini - respiratory bronchioles + alveoli ![[Pasted image 20251011132418.png|200]]
+	- One cell thick, capillaries in close contact
+	- 2 types of cells in alveoli
+		- Type I pneumocytes - gas exchange
+		- Type II pneumocytes/septal cells - produces surfactants - breaks down surface tension so that it doesn't collapse the alveoli
 
 ## Lungs
 - Lobes - S/M/I on right, S/I on left
 	- Both have an oblique fissure, but right lung has a horizontal fissure too ![[Pasted image 20251008112608.png]]
-- Hilum - entry into the lung !!! where???
+- Surfaces
+	- Costal surface in contact with the thoracic wall
+	- Diaphragmatic surface 
+	- Mediastinal surface 
+- Hilum/root of the lung - the point of connection to the airway, as well as where the blood/lymph vessels and nerves enter 
+- Segments
+	- Supplied by the tertiary bronchi, 10 on each side
+	- Functional units - own airway, own vasculature - one can be surgically operated on without affect the rest too much
+	- Apical segment of the superior lobe - tendency to be affected by certain tumours - Horner's syndrome - interrupting the SNS supply. Also where latent TB can reactivate
+	- Superior segment of the inferior lobe - comes off of the bronchioles posteriorly. Patients lying supine for a long time can build up fluid in this tube - more prone to pneumonia 
 - Covered in pleurae 
+	- Visceral and parietal lining
 	- Filled with serous fluid - reduced friction when breathing
 	- Mediastinal, diaphragmatic, costal and cervical parts
-- Supplied by tertiary bronchi
-- Apical region of right lung is at risk of certain cancers
-- Superior tube of the inferior lobe - branches posteriorly, so fluid tends to drain into them when lying supine
 - Costodiaphragmatic recess - bit of thoracic cavity that the lungs don't fill up ![[Pasted image 20251008113454.png]]
 - Mechanism of breathing
-	- Inspiration at rest mostly driven by diaphragm contraction
-	- Exhaling is passive - elastic recoil from elastin
+	- Inspiration at rest mostly driven by diaphragm contraction - phrenic nerve damage can inhibit ability to breathe
+	- Exhaling is passive - elastic recoil from elastin pushes air back out
 	- Breathing more heavily - involves accessory muscles
 	- Smooth movement aided by the pleurae
 - Left lung and mediastinum ![[Pasted image 20251008113546.png]]
 	- Has recess for both the heart and arch/descending aorta
-	- 2 pulmonary veins (S/I), one BEEG pulmonary artery, bronchial artery 
+	- Hilum - bronchus in the middle, pulmonary artery superior, 2 pulmonary veins anteroinferior (S/I), very small bronchial artery, bronchopulmonary/hilar lymph nodes and lymph vessels
 - Right lung and mediastinum ![[Pasted image 20251008113742.png]]
+	- Recess for the SVC, Azygos arch and oesophagus
+	- Hilum - Bronchus, pulmonary artery, pulmonary veins (S/I), bronchial arteries, nerves, lymph nodes and vessels
 - Root of lung 
 	- Main bronchi, pulmonary artery and veins, bronchial arteries, lymph nodes and vessels, nerves
 
@@ -159,7 +252,7 @@
 - Asthma 
 	- Most common lung condition 
 	- Inflammation of airways + excretion of mucus-> closing up
-	- Uses salbutamol
+	- Uses salbutamol to relax the smooth muscle
 - COPD - Chronic obstructive pulmonary disease
 	- Common
 	- Mostly from smoking
