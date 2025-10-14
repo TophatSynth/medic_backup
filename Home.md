@@ -8,15 +8,13 @@ properties:
   file.folder:
     displayName: Folder
   file.name:
-    displayName: NEEDS FLASHCARDS
+    displayName: NEEDS WORK DONE
 views:
   - type: table
     name: Table
     order:
       - file.name
     sort:
-      - property: file.folder
-        direction: DESC
       - property: file.ctime
         direction: DESC
     columnSize:

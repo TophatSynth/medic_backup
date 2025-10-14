@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2c8a4d5707d028",
+        "id": "fc5a95e25882b767",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c9b20c1d88adac",
+            "id": "09d4a967f736f9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ad6aae24f8fd479b",
+            "id": "644a5e4fc335d9c3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -203,45 +204,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a1c9b20c1d88adac",
+  "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20251011132418.png",
-    "Home.md",
+    "Attachments/Pasted image 20251007105401.png",
     "Lecture Notes/Week 4/Structure of the airway and lungs.md",
+    "Attachments/Pasted image 20251007104252.png",
+    "Home.md",
+    "Lecture Notes/Week 2/Epithelia.md",
+    "Lecture Notes/Week 5/(Guided Study) Glasgow Coma Scale.md",
+    "Clinical Skills/Secondary Survey.md",
+    "Attachments/Pasted image 20251011104529.png",
+    "Lecture Notes/Week 5/Classification of Disease.md",
+    "Lecture Notes/Week 3/White Blood Cells.md",
+    "Lecture Notes/Week 5",
+    "Lecture Notes/Week 4/Microbial Structure.md",
+    "Case Studies/(Case Study) Rosie Turner Preread.md",
+    "Clinical Skills/Vital Signs.md",
+    "Case Studies/Case study Muneeb Khan preread.md",
+    "Case Studies/Case Study Muneeb Khan Notes.md",
+    "Attachments/Pasted image 20251011105935.png",
+    "Attachments/Pasted image 20251007102547.png",
+    "Attachments/Pasted image 20251007101325.png",
+    "Lecture Notes/Week 4/Acute inflammation.md",
+    "Lecture Notes/Week 4/Introduction to Enzymes.md",
+    "Lecture Notes/Week 4/Introduction to Microbial Infection.md",
+    "Untitled.md",
+    "Attachments/Pasted image 20251011132418.png",
     "Attachments/Pasted image 20251011131916.png",
     "Attachments/Pasted image 20251011131811.png",
     "Attachments/Pasted image 20251011131747.png",
     "Attachments/Pasted image 20251011131544.png",
-    "Attachments/Pasted image 20251011113901.png",
-    "Attachments/Pasted image 20251011110646.png",
-    "Attachments/Pasted image 20251011105935.png",
-    "Attachments/Pasted image 20251011104529.png",
-    "Lecture Notes/Week 2/Epithelia.md",
-    "Attachments/Pasted image 20251011103150.png",
-    "Attachments/Pasted image 20251011102938.png",
     "Lecture Notes/Week 4/(Practical) Blood Vessels.md",
-    "Lecture Notes/Week 3/White Blood Cells.md",
-    "Clinical Skills/Secondary Survey.md",
     "Clinical Skills/BLS.md",
     "Clinical Skills/Primary Survey.md",
-    "Lecture Notes/Week 4/Introduction to Enzymes.md",
     "Lecture Notes/Week 4/Chronic inflammation.md",
-    "Lecture Notes/Week 4/Acute inflammation.md",
     "Lecture Notes/Week 4/Cell Adhesion and Extracellular Matrix.md",
     "Lecture Notes/Week 2/Primary Tissues.md",
-    "Lecture Notes/Week 4/Introduction to Microbial Infection.md",
-    "Lecture Notes/Week 4/Microbial Structure.md",
     "Lecture Notes/.md",
     "Lecture Notes/Week 4",
     "Lecture Notes/Week 3/Structure of proteins 1 and 2.md",
     "Lecture Notes/Week 1/(Practical) Intro to histology.md",
-    "Lecture Notes/Week 1/Introduction to the body.md",
-    "Case Studies/DR Reflection.md",
-    "Lecture Notes/Week 3/(Guided Study) Muneeb Khan Team Self Appraisal.md",
-    "Lecture Notes/Week 3/(Guided study) Ethical analysis.md",
-    "Lecture Notes/Week 3/(Guided study) Lymphatic system.md",
-    "Lecture Notes/Week 3/Red blood cells.md",
-    "Lecture Notes/Week 3/(Practical) Introduction to microscopy.md",
     "Lecture Notes/Week 3",
     "Lecture Notes/Week 2",
     "Untitled.base",
@@ -249,7 +251,6 @@
     "Lecture Notes/Week 0",
     "Clinical Skills",
     "Lecture Notes",
-    "Tags",
-    "Attachments"
+    "Tags"
   ]
 }

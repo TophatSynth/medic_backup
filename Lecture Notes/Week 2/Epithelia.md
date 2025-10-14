@@ -41,7 +41,7 @@
 		- Several "layers" of nuclei
 		- Can be ciliated or non-ciliated
 		- Secretes mucus
-		- Found in the upper respiratory tract down to the trachea (ciliated) and vas deferens (sperm duct) and large glands (non-ciliated) #anki 
+		- Found in the upper respiratory tract down to the trachea (ciliated) and vas deferens (sperm duct) and large glands (non-ciliated)
 - Stratified epithelium - multiple layers
 	- Stratified cuboidal epithelium
 		- Usually 2 layers of cuboidal cells

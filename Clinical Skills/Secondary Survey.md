@@ -18,7 +18,7 @@
 	- Keep them lying flat and warm
 - D - Disability 
 	- What's their level of consciousness?
-	- ACVPU Scale
+	- ACVPU Scale ^31f396
 		- A – Alert
 		- C – newly Confused
 		- V – Responding to Voice

@@ -1,5 +1,4 @@
 #anki 
-#tofinish 
 ## Respiratory system
 - Function - gas exchange, pH balance, speech and vocalisation, other metabolic functions - angiotensin 1 to angiotensin 2, prostaglandin synthesis
 - 2 portions 
@@ -42,7 +41,7 @@
 	- Arterial supply of the nasal cavity
 		- Rich vascular supply - anastomoses between ext/int carotid artery branches
 		- ICA -> ophthalmic artery -> ant. and post. ethmoidal arteries descending from the superior part of the ethmoid bone - covers the septal wall
-		- ECA -> maxillary artery -> sphenopalatine and descending palatine artery - > greater palatine artery 
+		- ECA -> maxillary artery -.''> sphenopalatine and descending palatine artery - > greater palatine artery 
 			- Descending palatine artery actually dips into the oral cavity under the hard palate, then comes back up into the nasal cavity
 		- Nasal cavity has many anastomoses -> prone to epistaxis - nosebleeds
 			- Septal region known as Little's area/Kiseljak plexus - can have very severe nosebleeds
@@ -59,7 +58,7 @@
 		- Contributes to surface area - warming and humidifying inhaled air. Also helps with making skull lighter and resonance of voice
 		- Drains into lateral wall of nasal cavity
 			- Most drain into the middle meatus - space under a concha (each concha has its own meatus)
-			- Posterior ethmoidal sinus drains into the suprior meatus
+			- Posterior ethmoidal sinus drains into the superior meatus
 			- Sphenoidal sinus drains into space posteriorly superior to the superior concha - spheno-ethmoidal recess
 		- Sinusitis
 			- Maxillary sinus very prone to inflammation bc drainage hole (osteum) is actually at the top of the sinus - can build up and inflame 
@@ -121,6 +120,7 @@
 			- The space between the fold and the wall called the laryngeal ventricle
 		- Vocal folds - true cords below
 		- ![[Pasted image 20251007104252.png|350]]
+		- 
 	- Muscles
 		- Thyroid cartilage
 			- Cricothyroid - rotates the thyroid cartilage - increases tension of vocal ligament - increases pitch of voice
