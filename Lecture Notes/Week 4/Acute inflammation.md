@@ -20,8 +20,9 @@ Main causes of acute inflammation
 	- Exudate - proteins, ions, water and cells leak out due to leaky/dialted blood vessels 
 	- Transudate - passive outflow of fluid and ions due to osmotic and hydrostatic pressure 
 	- [[White Blood Cells#^f8ea7c|Neutrophils]] and proteins exudate from the venules into the tissue
-		- Attracted by chemokines and Interleukin-1 (IL-1) 
+		- Attracted by complement
 			- Produced by resting macrophages in the tissue, activated by tissue damage 
+			- Produces Interleukin 1 (IL-1) and other chemokines -> attracts fibroblasts
 			- Also produce tumour necrosis factor (TNF) - stimulates vascular permeability
 		- Recognise bacteria via coating of antibodies on the surface
 		- Phagocytosis - uses lysozymes to destroy cell wall and also produces hydrogen peroxide 

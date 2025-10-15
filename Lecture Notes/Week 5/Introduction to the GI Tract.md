@@ -1,0 +1,13 @@
+## Structure
+- Vasculature
+	- 3 major arteries 
+		- Coeliac artery
+		- Superior mesenteric artery
+		- Inferior mesenteric artery
+	- Blood flow regulated by 
+		- ANS
+			- PNS
+			- SNS
+			- Enteric
+		- Hormonal (endocrine)
+		- Paracrine

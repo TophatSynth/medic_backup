@@ -11,7 +11,7 @@
 - By tissue structure
 	- Fibrous joint - no movement 
 		- Sutures - thick connective tissues composed mainly of type I collagen fibres
-		- Gomphoses - collagen fibres in the periodontal ligament secure teeth into the bone of the tooth socket
+		- Gomphoses - collagen fibres in the periodontal ligament secure teeth into the bone of the tooth socket ^ddd70e
 		- Syndesmoses - Fibrous membrane between adjacent bones (eg radioulnar or tibiofibular)  
 	- Cartilaginous joint - limited or no movement
 		- Synchondroses - primary cartilaginous joint made of hyaline cartilage, allows bone growth during adolescence but eventually ossifies (eg rib cage at first sternocostal joint and at the costochondral joints) (rest of cartilage is hyaline cartilage tho)

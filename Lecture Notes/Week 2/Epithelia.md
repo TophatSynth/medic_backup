@@ -23,7 +23,7 @@
 		- Single layer of cube cells
 		- Function: secretion and absorption of ions, solutes and water
 		- Location: Mainly in all the kidney tubules! + ducts, secretory portions of small glands, and ovary surface
-	- Simple columnar epithelium
+	- Simple columnar epithelium ^e7b06d
 		- Basal nuclei, ciliated or non-ciliated but has microvilli
 		- Function: Absorption, secretion of mucus, enzymes, etc
 		- Location: Found in the digestive tract! + gall bladder, excretory ducts(non ciliated)
@@ -52,7 +52,7 @@
 		- Basal cells usually cuboidal, superficial cells are columnar
 		- Function: Protection, secretion
 		- Location: Urethra, large ducts of glands, conjunctiva of eyes
-	- Stratified squamous
+	- Stratified squamous ^721efb
 		- Thick membrane composed of many cell layers
 		- Basal cells are cuboidal/columnar 
 		- Can be keratinised and non-keratinised

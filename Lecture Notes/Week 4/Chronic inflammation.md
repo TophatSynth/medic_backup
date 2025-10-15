@@ -18,7 +18,7 @@ Chronic inflammation
 	- New blood vessels innervate to provide nutrients for regeneration
 
 ## Causes of chronic inflammation
-- Primary - Doesn't have an acute phase first - eg TB
+- Primary - Doesn't have an acute phase first - eg TB ^db886d
 	- Tuberculosis - yay!! 
 		- Caused by mycobacterium tuberculosis
 		- Taken up by macrophages -> 20-30 of them aggregate to form Langerhans giant cells ![[Pasted image 20251009142458.png]]

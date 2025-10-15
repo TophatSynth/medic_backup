@@ -1,4 +1,3 @@
-#anki 
 ## Respiratory system
 - Function - gas exchange, pH balance, speech and vocalisation, other metabolic functions - angiotensin 1 to angiotensin 2, prostaglandin synthesis
 - 2 portions 
@@ -209,7 +208,7 @@
 	- Only smooth muscle, with no cartilage
 - Terminal bronchiole ![[Pasted image 20251011131916.png]]
 	- No longer one smooth ring of smooth muscle, but rather clumps of smooth muscle with single cell layers in between
-	- Also has club cells - [[Epithelia#^700ea9|cuboidal epithelium]] - produces protective secretions
+	- Also has club cells - [[Epithelia#^e7b06d|columnar epithelium]] - produces protective secretions
 - Acini - respiratory bronchioles + alveoli ![[Pasted image 20251011132418.png|200]]
 	- One cell thick, capillaries in close contact
 	- 2 types of cells in alveoli
@@ -224,7 +223,7 @@
 	- Diaphragmatic surface 
 	- Mediastinal surface 
 - Hilum/root of the lung - the point of connection to the airway, as well as where the blood/lymph vessels and nerves enter 
-- Segments
+- Bronchopulmonary segments
 	- Supplied by the tertiary bronchi, 10 on each side
 	- Functional units - own airway, own vasculature - one can be surgically operated on without affect the rest too much
 	- Apical segment of the superior lobe - tendency to be affected by certain tumours - Horner's syndrome - interrupting the SNS supply. Also where latent TB can reactivate
@@ -280,4 +279,3 @@
 - Cystic fibrosis
 	- Most common genetically transmitted disease - autosomal recessive 1 in 2000
 	- Mucus is too thick due to abnormal chloride transporter 
-- 

@@ -1,0 +1,39 @@
+# Structure of the skin
+- Epidermis
+	- [[Epithelia#^721efb|Keratinised stratified squamous epithelium]] 
+	- Layers![[Pasted image 20251014222603.png]]
+		- Stratum Basale - interface with the dermis 
+		- Stratum Spinosum
+		- Stratum Granulosum 
+			- Filaggrin
+		- Stratum Lucidum
+		- Stratus Corneum
+	- Other cells within
+		- Melanocytes
+		- Langerhans cells 
+- Dermis
+	- 2 layers
+		- Papillary dermis - 
+		- Reticular dermis - 
+- Hypodermis
+	- 
+	- Sweat glands 
+		- Apocrine
+		- Eccrine
+	- Hair follicles
+	- Other skin appandages
+		- Mammary glands
+		- Nails
+		- Teeth
+			- [[Joints and muscles#^ddd70e|Gomphoses]] 
+	- Sense organs
+		- Pain
+		- Temperature
+		- Touch
+		- Pressure 
+		- Vibration
+
+## Function of the skin
+- Prevents body fluids from leaving the body
+- Protects the body from potentially damaging environmental agents and microorganisms
+- Heat exchange surface
