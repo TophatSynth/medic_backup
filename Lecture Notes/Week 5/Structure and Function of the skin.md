@@ -1,39 +1,80 @@
 # Structure of the skin
 - Epidermis
 	- [[Epithelia#^721efb|Keratinised stratified squamous epithelium]] 
-	- Layers![[Pasted image 20251014222603.png]]
-		- Stratum Basale - interface with the dermis 
-		- Stratum Spinosum
+	- Layers![[Pasted image 20251014222603.png]]![[Pasted image 20251015110756.png]]
+		- Stratum Basale/Stratum germinativum - interface with the dermis 
+			- Is where mitosis starts for skin shedding
+			- Basal cells anchored to the basal lamina by hemidesmosomes 
+			- Basal lamina anchored to the dermis by Collagen VII 
+				- Dystrophic epidermolysis bullosa - mutation in collagen VII -> blistering
+		- Stratum Spinosum - held tgth by desmosomes, largest layer of the epidermis
+			- This and every layer after this expresses intermediate filaments - Keratin K1 and K10 ![[Pasted image 20251015112235.png]]
+			- Also links to basal membrane via hemidesmosomes
 		- Stratum Granulosum 
-			- Filaggrin
-		- Stratum Lucidum
-		- Stratus Corneum
-	- Other cells within
+			- Filaggrin and profilaggrin 
+				- Polypeptide
+				- Main component of keratohyaline granules in S. granulosum 
+				- Profilaggrin is highly phosphorylated -> dephosphorylated to turn into filaggrin molecules -> interacts with keratin filaments
+				- Aids keratin filament aggregation and inhibits water loss
+					- Degradation into amino acids helps maintain moisture levels
+				- Mutations implicated in eczema - the lower the filaggrin expression, the higher the eczema risk ![[Pasted image 20251015112507.png|200]] ![[Pasted image 20251015112722.png]]
+		- Stratum Lucidum - missing in some areas of body, eg thorax
+		- Stratus Corneum - dead, keratinised cells - skin shedding
+	- Takes 20-30 days for cells to migrate from basale to corneum 
+	- Other cells within ![[Pasted image 20251015113009.png]]
 		- Melanocytes
+			- Found in the basal layer of the epidermis 
+			- Synthesises and releases melanin (Eumelanin and Pheomelanin)
+				- Absorbs UV-B - prevents DNA damage 
+			- Synthesises specialised lysosomes containing melanin called melanosomes 
+				- Melanosomes then transferred to keratinocytes
+				- ![[Pasted image 20251015113245.png|250]]
+			- Larger in dark skinned individuals, vice versa
+			- Derived from the neural crest 
+			- Melanoma - tumour of melanocytes
 		- Langerhans cells 
+			- Made from monocytes 
+			- Dendritic form (branched)
+			- Mostly found in the stratum spinosum
+			- Phagocytosis and APC :D 
+			- Activated in the skin but migrates to the lymph nodes
+			- Expresses langerin - binds to viruses, helps to degrade them in endosomes called Birbeck granules
 - Dermis
+	- Tough
+	- Dermo-epidermal junction is complex to prevent shearing of the layers
+		- Papillae flatten with age -> becomes more vulnerable to shearing
 	- 2 layers
-		- Papillary dermis - 
-		- Reticular dermis - 
+		- Papillary dermis - In between epidermis and dermis. Loose, made of fine collagen and elastic fibres, small blood vessels and nerves
+		- Reticular dermis - under the papillary dermis Dense, irregular connective tissue, coarser collagen and elastic fibres, large blood vessels 
 - Hypodermis
-	- 
-	- Sweat glands 
-		- Apocrine
-		- Eccrine
+	- Loose connective tissue and adipose tissue 
+		- Varies in thickness in different areas of the body
+	- Has the superficial blood vessels and lymph vessels, along with cutaneous nerves 
+	- [[Introduction to the body#^6701d7|Sweat glands]] 
+		- Apocrine - secretion of lipids/proteins, contains pheromones
+		- Eccrine - secretion of water and ions
 	- Hair follicles
+		- Functional unit - pilo-sebaceous unit - hair follicle, sebaceous gland, hair shaft, arrector pili
+		- Sebaceous glands open into the follicle - secretes sebum to lubricate the hair and adjacent skin
+		- Arrector pili - smooth muscle attached to the papillary dermis and to the sheath of the hair follicle - pulls the hair upright - controlled by SNS 
+		- ![[Pasted image 20251015114335.png|250]]
 	- Other skin appandages
-		- Mammary glands
-		- Nails
-		- Teeth
+		- Mammary glands - modified apocrine sweat glands - lactation
+		- Nails - grows from nail root deep in the dermis
+		- Teeth 
 			- [[Joints and muscles#^ddd70e|Gomphoses]] 
 	- Sense organs
-		- Pain
-		- Temperature
-		- Touch
-		- Pressure 
-		- Vibration
+		- Different sized fields - some areas of the body are more sensitive
+		- Pain - free nerve endings that fire when tissue is being damaged
+		- Temperature - free nerve endings - separate receptors for cold/heat
+		- Touch - Meissner's corpuscles; Merkel cells for fine touch (found just beneath the epidermis)
+		- Pressure - Pacinian corpuscles found in the dermis
+		- Vibration - Meissner's corpuscle and Pacinian corpuscles 
 
 ## Function of the skin
-- Prevents body fluids from leaving the body
+- Keeps organs and fluids inside the body
 - Protects the body from potentially damaging environmental agents and microorganisms
-- Heat exchange surface
+- Heat exchange surface/homeostasis
+- Metabolism - synthesis of vitamin D
+- Storage of fat
+- Sensation

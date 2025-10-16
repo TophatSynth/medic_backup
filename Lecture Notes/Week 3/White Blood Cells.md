@@ -61,7 +61,7 @@
 			- Regulatory - regulates the cytotoxic T cells
 			- Memory - stay in blood for secondary immune response
 		- B cells (Bone marrow or bursa) ^eba2b6
-			- Plasma cells - produces antibodies
+			- Plasma cells - produces antibodies ^c4c0d3
 			- Memory - stay in blood for secondary immune response
 - Monocytes (in blood)/macrophages (in tissues)
 	- Monocytes migrate into tissue, turn into macrophages, stay there for long long long time

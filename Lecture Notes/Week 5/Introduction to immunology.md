@@ -1,0 +1,66 @@
+## Pathogens #anki
+- Intracellular/extracellular
+
+## Defence mechanisms
+- Innate - first line, not improved by further exposure
+	- Physical
+		- Barriers (skin), movement (cilia), trapping (mucus)
+	- Biochemical
+		- Low pH, sweat, vaginal secretions, stomach acid 
+		- Lysozymal secretions -> damage cell wall of bacteria
+	- Phagocytic cells - [[White Blood Cells]]
+		- Neutrophils, monocyte/macrophages 
+			- Monocytes in blood, macrophages in tissue
+		- Phagocytosis -> lysosome fusion -> digestion -> release of microbial products
+	- Chemicals
+		- Acute phase proteins
+			- C-reactive protein (CRP) 
+				- 1-5mg/L 
+				- Within 6-24hours of infection -> up to 40mg/L
+				- Coats bacteria, triggering complement -> destruction of bacteria
+					- Enhances ability of phagocytes to phagocytose the particle
+					- Eg complement C3b binds to receptor in the neutrophil - enhances detection and binding 
+				- Opsonisation - coating process
+				- Opsonin - Substance that coats the cell
+		- Complement proteins
+			- About 9 proteins floating in the blood, splits into certain fragments when triggered. Some fragments perform opsonisation, some are chemotactic - helps attract immune cells to site of infection better
+		- Interferons
+			- 3 types
+				- IFNa - made by leukocytes
+				- IFNB - made by fibroblasts
+				- IFNg - made only by T lymphocytes
+			- If a cell is infected by a virus, it produces alpha and beta interferons -> binds to nearby cells to signal that it has been infected -> turns off certain processes -> prevents that cell from being a good viral host -> becomes less prone to infection
+			- Gamma interferons produced by T lymphocytes when activated by antigens -> activates the other immune cells + triggers the signalling process as well
+		- Cytokines
+			- Immune cells follow the gradient of concentration of cytokines towards site of infection
+- Adaptive - Second line, specificity + memory -> improved by further exposures
+	- Produces antibodies 
+	- Antigen - has a single recognition site that is recognised by antibodies
+	- Antibody - binds to pathogen or antigen -> helps phagocytosis or triggers complement
+		- ![[Pasted image 20251015093951.png|350]]
+		- Made of 2 heavy chain and 2 light chains - Y shaped
+		- Front end binds to microbes, 2 identical binding sites with specificity
+			- Sometimes specificity gets confused - cross-react
+			- Can bind to spike protein as well - prevents the virus from reacting with cell 
+				- However, if the spike protein is lost in mutation -> ineffective antibody
+		- Back end binds to complement or phagocytes
+			- Helps phagocytosis binding even more than complement binding does
+			- BUT - it stacks with complement binding 
+			- ![[Pasted image 20251015094216.png|350]]
+	- Primary v secondary response 
+		- ![[Pasted image 20251015094509.png|400]]
+		- Vaccines woooooo
+			- Toxin made harmless -> toxoid
+			- Not entirely risk free :O 
+		- Primary response varies bt people - inherited 
+	- Plasma cells - [[White Blood Cells#^c4c0d3]]
+		- Produces antibodies
+		- Short lived - 2 weeks, then die 
+		- Pregnancy 
+			- Fetus doesn't produce Ig's until birth - mother transfers IgG 
+			- Lots of mechanisms at play to prevent maternal Ig's from attacking the fetus 
+
+## Failure of the immune system 
+- Hypersensitivity - 4 types 
+- Immunodeficiency - eg HIV/AIDS
+- Autoimmunity - attacks self antigens, eg rheumatoid arthritis, type I diabetes, Hashimoto's thyroiditis

@@ -1,13 +1,66 @@
-## Structure
+## Structure #anki #tofinish 
 - Vasculature
 	- 3 major arteries 
-		- Coeliac artery
-		- Superior mesenteric artery
-		- Inferior mesenteric artery
+		- ![[Pasted image 20251015122426.png|300]]
+		- Coeliac artery - Liver, pancreas, stomach
+		- Superior mesenteric artery - Small intestine and most of the large intestine
+		- Inferior mesenteric artery - terminal portions of large intestine and rectum
+	- Then flow through hepatic portal vein -> hepatic vein -> vena cava 
 	- Blood flow regulated by 
 		- ANS
-			- PNS
-			- SNS
-			- Enteric
+			- PNS - vasodilation
+			- SNS - vasoconstriction 
+			- Enteric - vasodilation 
 		- Hormonal (endocrine)
-		- Paracrine
+			- Adraneline 
+			- Gastrin - vasodilation
+		- Local (paracrine)
+			-  Low pO2 - vasodilation 
+- Anatomy 
+	- Multiple layers with distinct functions 
+		- Mucosa
+		- Muscularis mucosae
+		- Submucosa
+		- Submucosal plexus 
+		- Circular layer of smooth muscle
+		- Myenteric plexus 
+		- Longitudinal layer of smooth muscle 
+		- Serosa
+	- Smooth muscle layers allow peristalsis
+	- Serosa consists of connective tissue and squamous epithelial cells - [[Epithelia#^e52c24]] 
+	- Duodenum -> jejunum -> Ileum (DJ Ileum)
+- Innervation 
+	- PSNS
+		- From vagus nerve and S2-4 (Pelvic sphlanchnic nerves)
+		- Responds to stretch, pressure, temperature, osmolarity !!! 
+		- Primary neurotransmitters used are acetylcholine (Ach), and other stuff
+		- Stimulates GI secretions and peristalsis, facilitating digestion and absorption
+	- SNS
+		- From thoracic T5-12 and lumbar L1-3 
+		- Synapses - #tofinish
+		- Primary neurotransmitters are noradrenaline and other stuff
+		- Decreases GI secretions and motility
+	- Enteric Nervous System (ENS)
+		- Submucosal plexus 
+		- Myenteric plexus - #tofinish 
+- Digestive phases
+	- Cephalic - anticipation of food - vagal pathways - stimulates acid and bile secretion
+	- Gastric 
+	- Intestinal - movement into the intestines - stretch of the intestines activates PSNS 
+- Upper GI tract 
+	- Mouth, oesophagus, stomach
+	- Minimal absorption 
+	- Transports and prepares food to be absorbed
+	- Mouth
+		- Chewing - breaking food down physically
+		- Salivary glands
+			- Parotid
+				- In cheeks beside ear
+				- Watery secretion
+			- Submandibular
+				- Under jaw
+				- Watery secretion
+			- Sublingual
+				- Floor of mouth
+				- Mucous secretion
+			- Functions - lubrication, digestion, taste

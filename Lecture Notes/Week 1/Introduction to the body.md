@@ -43,7 +43,7 @@
 	- Hypodermis (subcutaneous tissue)
 		- Stores adipose tissue (fat)
 		-  Vascular and innervated, and has sweat glands
-			- Sweat glands - 2 types
+			- Sweat glands - 2 types ^6701d7
 				- Eccrine - water and some electrolytes - present on almost all skin
 				- Apocrine - lipid/protein rich secretion - axillae, perineal, genital areas, activates in puberty
 - Functions: Protection, containment, thermoregulation, sensory, vitamin D synthesis/protection from UV (melanin), can absorb medications

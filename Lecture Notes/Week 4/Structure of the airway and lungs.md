@@ -147,7 +147,7 @@
 			- S/M veins draining to the internal jugular vein
 			- Inferior thyroid veins draining to brachiocephalic vein
 		- Lymph 
-			- Above vocal folds -> goes to deep cervical lymph nodes
+			- Above vocal folds -> goes to superior deep cervical lymph nodes
 			- Below vocal folds -> Pretracheal/paratracheal lymph nodes -> inferior deep cervical nodes
 		- ![[Pasted image 20251007105401.png]]
 ## Clinical considerations of the upper airway
