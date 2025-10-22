@@ -1,4 +1,4 @@
-## Pathogens #anki
+## Pathogens
 - Intracellular/extracellular
 
 ## Defence mechanisms

@@ -101,4 +101,4 @@
 	- Hb mopped up by haptoglobin in the liver - excess excreted in urine
 	- Globin chains broken back down into amino acids
 	- Iron is bound to transferrin and returned to the macrophages
-	- Porphyrin ring becomes bilirubin, binds to albumin and is conjugated to glucuronide, then excreted in bile
+	- Porphyrin ring becomes bilirubin, binds to albumin and is conjugated to glucuronide, then excreted in bile ^d6368d

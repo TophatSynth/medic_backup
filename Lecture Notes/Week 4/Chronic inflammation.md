@@ -40,7 +40,7 @@ Chronic inflammation
 		- 1% have severe enough liver damage to just die
 		- 9% don't die immediately, half of that survive it, the other half have a lot of other problems or just die 
 - Progressing from recurrent episodes of acute inflammation - gout
-	- Cholecystitis - gall stones
+	- Cholecystitis - gall stones ^0df271
 		- Can be acute or chronic - cholesterol stones block the flow of bile
 		- Come and goes over months and years -> gall bladder wall thickens from macrophages, plasma cells and fibroblasts. Typically also forms granulomas
 	- Gout

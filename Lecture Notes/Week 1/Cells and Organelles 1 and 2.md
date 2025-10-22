@@ -38,7 +38,7 @@ Eukaryotes: Has membrane lined organelles
 		- Active transport, powered by ATP hydrolysis
 - Medical importance of transport proteins 
 	- Cystic fibrosis usually has a defective chloride transport protein in epithelia, sweat ducts and cells lining the resp. tract. 
-		- Cystic fibrosis transmembrane conductance regulator (CFTR) is a carrier protein but functions as a Cl- channel protein
+		- Cystic fibrosis transmembrane conductance regulator (CFTR) is a carrier protein but functions as a Cl- channel protein ^d7090b
 		- Mutation in CFTR gene results in defective channel protein
 #### Other membrane proteins
 - Receptor proteins 

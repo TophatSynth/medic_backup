@@ -1,0 +1,153 @@
+## Defence against the dark arts #anki 
+- Skin and soft tissue infections - VERY VERY EXPENSIVE. BAD FOR MONEY.
+	- Old people get infected waaaaaaaay more than everyone else (>64 yo)
+- Skin 
+	- Epidermis - dry, constant sloughing, acidic pH, can secrete sweat and antimicrobial substances (fatty acids, sebum, defensins)
+	- Microbiota
+		- Staphylococci aureus
+		- Candida sp. 
+		- A lot of other ones....
+	- Routes of infection
+		- Cuts, scratches, burns, bites - anything that breaks the surface
+	- Pyoderma - pus forming in the skin
+- Taking a history of skin infections 
+	- The onset, evolution, duration and location of lesions
+	- Contacts with a similar rash, past medical history that may be related, previous treatment 
+	- Skin trauma
+	- Comorbidities - different diseases occuring simultaneously 
+	- Predispositions
+- Catheter related infections
+	- Very big problem
+	- Usually caused by biofilm-forming bacteria
+- Where do they occur - every layer of the skin
+- What organisms cause skin infections?
+	- Bacterial
+		- Streptococcus pyogenes
+			- Gram positive 
+			- AKA Group A streptococcus 
+			- Multiple virulence factors 
+			- Beta-haemolytic -> breaks down RBC's 
+		- Staph. aureus
+			- Causes a huge range of illnesses - either direct infection or due to effects of toxins
+			- Can be antibiotic resistant
+			- Gram positive
+		- Cutibacterium acnes
+			- Diphtheroid - rod-shaped and slightly curved
+			- Predominant coloniser of hair follicle units (pilosebaceous units)
+			- Associated with acne 
+		- Pseudomonas aeruginosa
+			- Opportunistic pathogen
+			- Colonises catheters - biofilm producer 
+			- Produces exotoxin A
+- Skin infections - superficial
+	- Impetigo 
+		- ![[Pasted image 20251016142352.png]]
+		- Caused by Staph aureus or strep pyogenes
+		- Highly contagious, affects epidermis
+		- 2 main types
+			- Non-bullous - ruptures quickly
+			- Bullous - persists for 2-3 days
+		- Referral rarely needed unless it is part of an outbreak 
+		- Hygiene measures + avoid scratching affected areas
+		- Treatment - hydrogen peroxide cream for small affected area, antibiotic cream/tables if more widespread
+	- Staphylococcal Scalded Skin Syndrome
+		- Caused by release of toxins from S. aureus 
+		- Looks like burnt skin, skin peeling
+		- Rare 
+		- Mortality rate: children 1-5%, adults 50-60% 
+	- Toxic Shock Syndrome
+		- Rare but potentially fatal
+		- Fever, rash, peeling skin, shock
+		- Caused by toxins released by S. aureus and S. pyogenes
+		- Can be the result of wound infections, has been linked to the prolonged use of a particular type of tampon in the US
+		- STSS #tofinish 
+		- Fatality rate 5-27%
+		- Treatment - removal of infection source, parenteral antibiotics
+	- Erysipelas 
+		- #tofinish 
+- Infection of hair follicles
+- ![[Pasted image 20251016143147.png]]
+	- Folliculitis 
+		- Superficial infection of the hair follicle
+	- Foruncle
+		- Deeper inflammatory lesion progressing from folliculitis
+	- Carbuncle
+		- Foruncle but extended into subcutaneous layer, multiple abscesses developed - collection of boils 
+	- Acne vulgaris
+		- Most common form of acne
+			- Sebaceous glands are clogged with sebum and dead skin cells -> infected 
+			- Inflammatory or non-inflammatory
+- Deep skin infections
+	- Cellulitis
+		- Bacterial skin infection of the lower dermis and subcutaneous tissue -> diffuse inflammation of the connective tissue beneath the skin 
+		- Caused by S. pyogenes and S. aureus 
+		- Can lead to lymphoedema! :D
+		- Diabetes comorbiditiy 
+			- Bc high blood glucose -> alters normal microbiota
+			- Reduced blood flow also results in impaired immune response 
+			- Insulin injections also provide route of entry
+		- Examination 
+			- Delineate area of infection carefully - draw lines weeeeee
+			- Breaking skin, blisters, other skin conditions 
+		- Classes of cellulitis 
+			- Class I - no signs of systemic toxicity or uncontrolled comorbidities
+			- Class II - either systemically unwell or has comorbidity
+			- Class III and IV - significant systemic upset/unstable comorbidities eg sepsis. Life is at stake
+		- Hospital admission
+			- Class III or IV 
+			- Rapidly deteriorating cellulitis
+			- Very young, frail, immunocompromised 
+			- Significant lymphoedema
+	- Necrotising fasciitis 
+		- Very serious bacterial infection of the soft tissue and fascia 
+		- Four types
+			- Polymicrobial
+			- S. pyogenes, S. aureus etc
+			- Gangrene
+			- Marine organism/fungal infections 
+		- Starts in superficial fascia, spreads up and down
+		- Early symptoms - intense pain, small scratch, fever, flu-like symptoms
+		- Advanced symptoms (3-4 days time) - swelling of the area, rash, diarrhoea and vomiting, large dark blotches -> turn in blisters, severe fall in blood pressure, shock 
+		- Management - Antibiotics
+- Fungal infections of the skin
+	- Ringworm aka Tinea
+		- Caused by fungi of the genera trichophyton, microsporum, epidermophyton - dermatophytes - requires keratin for growth
+		- Highly infectious
+		- Scaly skin, itchy
+		- Specific name gives specific area of infection
+			- Tinea corporis - body
+			- Tinea pedis - foot 
+			- Tinea cruris - groin
+	- Yeasts
+- Viral infections of the skin
+	- Human papilloma viruses
+		- Group of viruses 
+		- Warts, STI's (most common STI globally)
+	- Herpes simplex viruses
+		- Herpes! Woo!
+		- Blistering
+		- Type I HSV associated with oral/facial infections
+		- Type II associated with genital and rectal infections 
+	- Varicella zoster virus 
+		- Chickenpox and shingles
+		- AKA Herpes zoster virus 
+		- Enters through resp. system -> targest skin and peripheral nerve cells 
+		- Incubation time in nerve cells 10-21 days
+		- Painful 
+	- Hand, foot and mouth disease
+		- Caused by enteroviruses 
+		- Mainly affects children under the age of 5 years but can infect adults
+		- Incubation period of 3-6 days 
+		- Causes fever, then blisters on the hands, feet and inside/around mouth
+- Parasites of the skin
+	- Scabies
+		- Mites - burrows into skin, lays eggs
+		- Severe itch, worse at night
+		- Can lead to further infection by S. pyogenes etc
+		- Treatment - topical creams or oral medication in severe cases
+	- Pediculitis 
+		- Louse infestation
+			- Head louse
+				- Treatment - suffocation agents, insecticides, physical removal
+			- Pubic louse
+				- Treatment - chemical insecticides 

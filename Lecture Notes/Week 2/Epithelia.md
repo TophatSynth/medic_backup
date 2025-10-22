@@ -58,7 +58,7 @@
 		- Can be keratinised and non-keratinised
 		- Protects the underlying tissue
 		- Located: Oesophagus, mouth, vagina, urethra, anus (non-keratinised) and epidermis of skin (keratinised)
-	- Transitional epithelium
+	- Transitional epithelium ^8324c7
 		- Several cell layers 
 		- Superficial cells are dome-shaped or squamous-like, depending on stretch
 		- Allows for stretch. Where stretch? Urinary bladder. 

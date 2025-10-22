@@ -1,0 +1,89 @@
+## Kidneys
+- Function
+	- Filter blood of metabolic waste products and toxins -> excrete into urine
+	- Regulate homeostatic systems 
+		- Fluids, electrolyte, acid-base balance
+	- Hormone production
+		- Erythropoesis - [[Red blood cells#Haematopoesis]]
+		- Ca2+ metabolism
+		- Regulation of blood pressure and blood flow
+- Structure 
+	- Bean shaped organs either side of the vertebral column in the retroperitoneal space at T11-L3 (L2)
+	- Has adrenal glands on top - Hats! :D
+	- Encompassed by renal capsule
+	- Imaging - intravenous urogram - iodinated contrast medium, imaged by multi-detector CT scan - allows visualisation of urinary excretion via the collecting system, ureters and bladder
+	- Hilum - renal artery, vein and nerves
+		- ![[Pasted image 20251016101801.png|350]]
+		- Cortex layer more superficially
+		- Medulla - inner layer, made of about 7-8 pyramids
+		- Drains into the minor calyx -> major calyx -> pelvis -> ureter -> bladder
+	- Vasculature
+		- Makes up 0.5% of your total body mass, but receives 20% of cardiac output
+		- ![[Pasted image 20251016102222.png|300]]
+		- ![[Pasted image 20251016102240.png|300]]
+		- Renal artery -> segmental artery -> interlobar artery (along the sides of pyramids) -> arcuate artery -> interlobular artery -> afferent arteriole -> glomerulus -> efferent arteriole -> peritubular capillaries 
+		- Peritubular capillaries -> interlobular vein -> arcuate vein -> interlobar vein -> renal vein
+	- Nephrons
+		- ~1 million nephrons in each kidney
+		- Composed of renal corpuscle, holding the glomerulus
+			- ![[Pasted image 20251016102932.png|400]]
+			- Bowman's capsule is part of renal corpuscle
+		- Tubule - reabsorption, secretion to bladder
+			- Some molecules get squeezed out in the glomerulus, but some only get absorbed from the peritubular capillaries into the tubules
+		- Cannot regenerate - reduces in number with age, but renal function remains until a drastic loss
+		- Ultrafiltrate - liquid that's just been squeezed out of the glomerulus
+		- ![[Pasted image 20251016103123.png]]
+		- Proximal convoluted tubule -> Loop of Henle (thin descending limb -> thin ascending limb -> Thick ascending limb) -> distal convoluted tubule -> collecting duct 
+		- 2 types of nephrons ![[Pasted image 20251016104220.png|300]]
+			- Superficial (cortical) nephron
+				- 85% of nephrons 
+				- Glomerulus is in the outer region of the cortex
+				- Loop of Henle is short and terminates in the outer medulla
+				- Efferent arteriole forms only the peritubular capillaries
+			- Juxtamedullary nephron
+				- 15% of nephrons 
+				- Glomerulus closer to the medulla
+				- Loop of Henle extends into the inner medulla
+				- Efferent arteriole forms peritubular capillaries and the vasa recta
+		- Epithelia
+			- Podocytes 
+				- Specialised [[Epithelia#^e52c24|Simple squamous cells]] 
+				- Forms part of the glomerular filter - wrapped around capillaries, with tiny gaps for water and ions to move through
+			- Parietal layer of Bowman's capsule -  [[Epithelia#^e52c24|Simple squamous cells]]
+			- Tubular epithelial cells - almost all simple cuboidal epithelia, except for in thin limbs in Loop of Henle - simple squamous cells 
+		- Histology
+			- If you can see glomerulus -> must be in the cortex - can also see proximal/distal convoluted tubules
+			- Cannot see glomerulus -> must be in the medulla - can see Loop of Henle - the only place you'll find thin limbs
+
+## Lower urinary tract
+- Ureters 
+	- Muscular tubes w/ multiple layers 
+		- Innermost layer - epithelial urothelium - [[Epithelia#^8324c7|Transitional epithelial cells]] 
+		- Muscular and fibrous layers over it like a blood vessel
+	- Renal pelvis dilates as urine collects - triggers action potentials in pacemaker cells of renal pelvis -> peristaltic contractions to propel urine 
+- Bladder
+	- Ureters enter at lower posterior portion 
+	- ![[Pasted image 20251016104916.png|300]]
+	- Trigone - triangle bt ureter orifice and urethra orifice
+	- Lined by urothelium, connective tissue, then muscle layers 
+		- Detrusor muscle - bladder muscle
+		- ![[Pasted image 20251016105034.png]]
+	- Constantly producing urine - 1-1.5 L/day
+	- Rugae - infoldings of the inner lining 
+		- As the bladder continues to fill, the rugae unfold and smooth out to increase volume w/o pressure increase 
+		- >300ml of urine - pressure increases - stretch receptors in muscle wall triggered
+		- Pressure also closes ureteral orifices - no backflow
+- Urethra
+	- Conducts urine from bladder to be voided
+	- Female - 5cm
+	- Male 20-25cm
+		- Passes through prostate gland 
+		- Conduit for both urinary and reproductive system 
+	- Both initially lined by transitional epithelium, then to stratified squamous epithelium 
+	- 2 sphincters - internal (involuntary) and external (voluntary) 
+	- ![[Pasted image 20251016105437.png]]
+- Micturition
+	- Urination 
+	- Controlled by the ANS and voluntary nervous system
+	- Further stretch receptor activation causes PSNS to stimulate detrusor muscle contraction and relaxation of internal urethral sphincter 
+	- Emptying is prevented by CNS - must voluntarily relax outer urethral sphincter

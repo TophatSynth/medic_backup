@@ -1,0 +1,73 @@
+## Men :o 
+- ![[Pasted image 20251016131256.png]]
+- Vas deferens transports sperm from testes to ejaculatory duct in prostate gland -> urethra 
+- Testes - Sperm need temperature 1-2C below body temp to mature - matures in the epididymus until ready to be released
+	- Suspended outside body by scrotum - made of smooth muscle, skin is rugose #tofinish, divided by septum
+- Seminiferous tubules - where spermatogenesis occurs
+	- Leydig cells - site of steroid synthesis
+	- Sertoli cells - nurse cells for sperm - where the spermatogonia go to differentiate into sperm cells - regulated by FSH and testosterone
+		- Spermatogonium -> primary spermatocyte -> secondary spermatocyte (haploid) -> spermatid -> spermatozoa (sperm)
+		- ![[Pasted image 20251016132204.png|200]]![[Pasted image 20251016132005.png|250]]
+	- Go from seminiferous tubules -> epididymus 
+- Testicular/gonadal hormones - FSH, LH, Testosterone
+- Sperm 
+	- Structure
+		- Head - acrosome (has enzymes to penetrate ovum) and nucleus 
+		- Midpiece - mitochondria
+		- Tail - flagellum 
+- Hypothalamic-Pituitary-Testicular (HPT) axis
+	- ![[Pasted image 20251016132750.png|250]]
+	- Hypothalamus releases GnRH (Gonadotropin releasing hormone) -> Ant. pituitary gonadotropes releases LH and FSH -> Leydig and Sertoli cell 
+	- GnRH is a peptide hormone, produced as a prohormone first then activated ltr 
+	- Leydig releases testosterone -> negative feedback loop on Ant. pituitary gonadotropes and hypothalamus
+	- Sertoli cell - Inhibin B - also inhibits Ant. pituitary gonadotropes 
+	- Similar to the Hypothalamic-Pituitary-Ovarian axis
+		- Difference is that in males only one primary hormone (testosterone) is used vs 2 (oestrogens and progestins) in females 
+- Testis endocrine function
+	- LH -> Leydig produces testosterone -> regulates spermatogenesis in Sertoli cells 
+	- Sertoli cells can also regulate gene expression in Leydig cells -> reduce testosterone production
+- Physiological effects of testosterone
+	- Inc growth of bone, muscle and connective tissue
+	- Inc growth and development of testes, prostate, seminal vesicles, penis and spermatogenesis
+	- Growth of facial, axillary and pubic hair 
+
+## Women :O 
+- Uterus 
+	- Anteverted over the bladder #tofinish 
+- Ovary on lateral pelvic wall - ovulation into the peritoneal cavity - ovum picked up by fimbriated end of the Fallopian tube
+	- Fallopian tube has [[Epithelia#^e7b06d|Ciliated simple columnar cells]] 
+- Oogenesis - occurs in follicles 
+	- Theca cells
+		- Superficial layers of follicles 
+		- LH receptors 
+		- Produces testosterone and androstenedione
+	- Granulosa cells 
+		- Deep compared to theca cells 
+		- Increases in size markedly during primary -> secondary follicle development
+		- LH and FSH receptors 
+		- #tofinish 
+	- Gonadal hormones involved - FSH, LH, oestrogen and progestins
+		- ![[Pasted image 20251016135045.png]]
+		- GnRH release is pulsatile #tofinish 
+			- Requires less energy 
+			- Stress and other factors influence secretion
+		- Mid cycle shift from negative to positive feed back for when LH and FSH surge just before ovulation 
+			- Caused by upregulation of receptors when oestrogen levels are increased
+		- ![[Pasted image 20251016135219.png]]
+	- Gegins in fetal stage
+	- Primordial germ cells (oogonia) increase in number, some mature into oocytes - reaches max oocytes at about 20 weeks gestation - then declines until none (yay..?)
+- Follicles - constantly in various states of development
+	- Primordial, primary, secondary, tertiary, mature 
+- Physiological effects of oestrogens
+	- Growth of bone 
+	- Increase in clotting factors and HDL, decreased LDL
+	- Increased response to progesterone via increasing no. receptors
+	- Growth of uterus, vaginal, fallopian tube, breast
+	- Cervical mucus secretion increased
+	- LH receptors on granulosa cells increased 
+- Progestins
+	- Progesterone - released a few days after ovulation
+	- Produced in theca and granulosa cells 
+	- Causes increased lobular development and decreased milk production in breast
+	- Decreased endometrial growth in uterus, increased endometrial secretions -> mucosal secretions become thicker -> stop more sperm from getting to a potentially already fertilised egg
+	- Increased internal temperature

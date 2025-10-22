@@ -1,0 +1,91 @@
+## Pancreas and relations #anki 
+- Structure/location
+	- Location - T12-L4 
+	- ![[Pasted image 20251016091123.png]]
+	- Sits next to the "C" of the duodenum, below the liver
+	- Has a head, neck, body, tail
+	- ![[Pasted image 20251016091255.png|200]]
+	- Kidneys behind, gall bladder laterally superior on the right, spleen laterally superior on the left
+		- Bile moves from the gallbladder down the cystic duct, and from the liver down the hepatic ducts -> bile duct and fuses into the main pancreatic duct into the duodenum
+		- Excess bile moves back up to the gall bladder via the cystic duct - storage 
+			- Ducts have sphincters 
+			- ![[Pasted image 20251016091746.png|300]]
+		- Bile neutralises stomach acid
+		- Consists of exocrine (HCO3- and enzymes) and endocrine (hormones - eg insulin/glucagon from islets of Langerhans) - alkaline due to HCO3-
+		- Secretes 1.5L/day 
+	- Vasculature
+		- Coming off the aorta -> Celiac artery -> Common hepatic artery -> gastroduodenal artery -> anterior and posterior superior pancreaticoduodenal arteries -> anterior and posterior inferior pancreaticoduodenal artery 
+		- Aorta -> celiac -> splenic artery 
+	- Acinus (acinar cells) - produces enzymes and fluid. Grouped in lobules. Fluid travels down the intercalated duct -> intralobular duct -> common bile-pancreatic duct
+	- Bile duct cells - secretes bicarbonate
+		- ![[Pasted image 20251016092553.png|250]]
+		- CO2 + H2O -(CA)-> HCO3- + H+ 
+		- HCO3- is secreted into the duct lumen, replaced by Cl- at the same time <- chlorobicarbonate exchanger 
+		- Cl- is reabsorbed. 
+		- Na+ and H2O leaves the cell paracellularly 
+		- Secretin and Ach stimulate duct cell secretion
+- Function 
+	- Neutralise acid content from stomach 
+	- Deliver enzymes for macronutrient digestion in duodenum
+		- Secretes enzymes, but also proenzymes - inactive form of the enzyme, to be activated in the duodenum
+		- Encapsulates active enzymes within tough vesicles to prevent autodigestion 
+	- Inhibitory molecules
+- Exocrine pancreatic regulation 
+	- Affected by the three phases of digestion - [[Introduction to the GI Tract#^838de6]]
+	- Cephalic phase (anticipatory phase) - 25% maximum enzyme secretion stimulated by vagal pathways
+	- Intestinal phase - 50-80% maximum enzyme secretion 
+		- Acid from stomach stimulates S cells in the duodenum to release secretin
+- Pathologies
+	- Cystic Fibrosis
+		- Autosomal recessive disease
+		- Progressive pancreatic and pulmonary insufficiency -> degenerative 
+		- Mutations in [[Cells and Organelles 1 and 2#^d7090b|CFTR]] -> decrease in HCO3- secretion, blockage of ducts -> destruction of the pancreas, and lack of digestive enzymes -> maldigestion
+	- Acute pancreatitis 
+		- Inflammatory condition that may cause local damage to the pancreas - enzymes activating within the pancreas instead of the duodenum
+		- Common causes - alcohol, gall stones
+		- Pathogenesis thought to originate in the acinar cells 
+
+## Liver
+- Liver and gallbladder relations
+- Structure
+	- ![[Pasted image 20251016094109.png|250]]
+	- Has right and left lobes, gall bladder just behind it at the bottom
+	- ![[Pasted image 20251016094148.png|300]]
+	- Portal triad - Hepatic portal vein, hepatic artery and bile passages - enters at porta hepatis
+	- Has groove for IVC
+	- ![[Pasted image 20251016094336.png|400]]
+	- Hepatic lobule - hexagonal structure, with blood flow coming from the corners (triads), and central branch of hepatic vein in the centre
+		- Triads - hepatic artery, portal vein, bile duct
+		- Bile drains from duct via canaliculi between hepatocytes 
+	- Vasculature
+		- Portal vein (75%) and hepatic artery (25%)
+- Function
+	- Synthesis and secretion of bile
+		- Bile pigments - bilirubin from breakdown of haemoglobin - [[Red blood cells#^d6368d]] 
+		- Bile acids - emulsifying effect of fats 
+		- Cholesterol, phospholipids, fatty acids, water and electrolytes
+	- Metabolism and storage of carbohydrates, lipids, proteins and vitamins
+	- Detoxification of metabolic waste - ammonia and ethanol 
+	- Synthesis of clotting and anticoagulant factors
+		- Fibrinogen and prothrombin
+	- Immune system function (Kupffer cells)
+		- Removal of intestinal bacteria from hepatic portal blood
+
+#tofinish WTF IS BILE AND WTF DOES THE PANCREAS DO 😭 
+## Gall bladder
+- Bile secreted into hepatocyte canaliculi -> hepatic bile duct -> gall bladder 
+	- Stores and concentrates hepatic bile into gall bladder bile
+	- 
+- Has a spiral valve (valve of Heister) regulating flow in and out
+- Sphincter of Oddi - regulates flow of bile into duodenum 
+	- Contracted - bile to gallbladder
+	- Relaxed - bile to duodenum
+	- Intestinal phase - stimulates sphincter of Oddi
+- Pathologies
+	- Cholestasis
+		- Suppression of bile secretion -> regurgitation of bile components -> jaundice and pruritus (itching) + damage to hepatocytes
+		- May be cause by mechanical obstruction
+	- Gallstones (Cholelithiasis)
+		- Composed of cholesterol
+		- Disturbance of bile secretion and cholesterol elimination -> bile supersaturated with cholesterol -> gallstones 
+	- [[Chronic inflammation#^0df271|Cholecystitis]] 

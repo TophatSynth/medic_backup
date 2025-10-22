@@ -43,7 +43,7 @@
 	- Enteric Nervous System (ENS)
 		- Submucosal plexus 
 		- Myenteric plexus - #tofinish 
-- Digestive phases
+- Digestive phases ^838de6
 	- Cephalic - anticipation of food - vagal pathways - stimulates acid and bile secretion
 	- Gastric 
 	- Intestinal - movement into the intestines - stretch of the intestines activates PSNS 

@@ -114,7 +114,7 @@
 			- The top part is called the aryepiglottic ligament - connects the arytenoids to the epiglottis
 			- The bottom part is called the vestibular ligament
 	- Voice box
-		- Vestibular fold - false cords above 
+		- Vestibular/aryepiglottic fold - false cords above 
 			- Made of the aryepiglottic ligament 
 			- The space between the fold and the wall called the laryngeal ventricle
 		- Vocal folds - true cords below
