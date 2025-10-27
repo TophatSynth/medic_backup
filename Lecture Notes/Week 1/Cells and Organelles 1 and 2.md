@@ -66,7 +66,7 @@ Eukaryotes: Has membrane lined organelles
 - DNA -> mRNA -> protein
 - Transcription and translation (done on ribosomes)
 - Nucleus is a cell compartment. The outside bit is the nuclear envelope, with nuclear pores
-- DNA is packaged with histones, forms chromatin (the little yoyo thingy)
+- DNA is packaged with histones, forms chromatin (the little yoyo thingy) ^5874d1
 	- Packaged in two ways – euchromatin and heterochromatin. 
 		- Euchromatin: Has most of the active genes
 		- Heterochromatin: Inactive genes, and is more dense

@@ -1,0 +1,43 @@
+- RNA - Ribonucleic acid
+- DNA - Deoxyribonucleic acid
+	- Purines - two rings - Adenine, guanine
+	- Pyrimidines - single ring - Thymine, cytosine
+	- Purine always base pairs with pyrimidine 
+	- ![[Pasted image 20251027093651.png]]
+	- ![[Pasted image 20251027093514.png]]
+- Linked by 5'-3' phosphodiester linkage
+	- ![[Pasted image 20251027093638.png]]
+- Structure ![[Pasted image 20251027093533.png|400]]
+- Polarity of the DNA strands - 5' to 3' ![[Pasted image 20251027093748.png|250]]
+	- Antiparallel 
+- DNA packing
+	- Chromosomes 
+		- Dyed -> Gibbs binding pattern
+		- Become condensed as cell divides ![[Pasted image 20251027094037.png|300]]
+	- ![[Pasted image 20251027094113.png|300]]
+	- Double helix -> nucleosomes - [[Cells and Organelles 1 and 2#^5874d1|histones]] (beads on a string) -> telomere -> chromosome
+		- Histone is made of 8 subunits ![[Pasted image 20251027094304.png|300]]
+		- Wrapped with 147 nucleotide long DNA strand (1.7 turns)
+			- Histone fragments have long N-terminus (tails) and are positively charged
+			- Histone H1 helps to condense the nucleosomes together 
+			- ![[Pasted image 20251027094728.png]]
+- Remodelling 
+	- Remodelling complex is needed to decondense the chromatin to allow for protein access to the DNA ![[Pasted image 20251027095224.png]]
+	- Does this via post translational modification of histone tails
+- Genes only comprise <5% of genome - a lot of genome is "junk" DNA 
+	- Junk DNA - heterochromatin - dense, usually has either telomere or centromere inside ![[Pasted image 20251027095526.png]]
+	- Telomere - at the end of the chromosomes 
+	- Centromere - where the mitotic spindle binds to
+- Repetitive DNA
+	- SINE/LINE - Short/Long Interspersed repeats 
+	- Tandem repeats
+		- Satelite - telomeres - TTAGGG at the end of chromosomes
+		- Minisatelites - 7-100 bases repeated up to 4,000 times
+		- Microsatelites - 1-6 bases repeated >100 times
+- Use in forensics - PCR - compare sections of DNA
+- Myotonic dystrophy 
+	- Muscle wasting that gets worse with each generation in the lineage
+	- Repeat in the 3' region of the trinucleotide myotonic dystrophy gene 
+- Mitochondrial DNA (mtDNA)
+	- Maternally inherited
+	- Can be used for forensics

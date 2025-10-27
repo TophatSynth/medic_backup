@@ -1,4 +1,4 @@
-## Defence against the dark arts #anki 
+## Defence against the dark arts
 - Skin and soft tissue infections - VERY VERY EXPENSIVE. BAD FOR MONEY.
 	- Old people get infected waaaaaaaay more than everyone else (>64 yo)
 - Skin 
@@ -60,11 +60,13 @@
 		- Fever, rash, peeling skin, shock
 		- Caused by toxins released by S. aureus and S. pyogenes
 		- Can be the result of wound infections, has been linked to the prolonged use of a particular type of tampon in the US
-		- STSS #tofinish 
+		- STSS 
+			- Streptococcal toxic shock-like syndrome
+			- Develops from a streptococcal soft-tissue infection, eg cellulitis  
 		- Fatality rate 5-27%
 		- Treatment - removal of infection source, parenteral antibiotics
 	- Erysipelas 
-		- #tofinish 
+		- Cannae be bothered. 
 - Infection of hair follicles
 - ![[Pasted image 20251016143147.png]]
 	- Folliculitis 

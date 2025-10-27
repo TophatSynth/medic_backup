@@ -1,66 +1,137 @@
-## Structure #anki #tofinish 
+## Overview
+- Externally facing structure
+- Function: absorption of nutrients
+	- Absorption is aided by physical and chemical digestion
+- 6 processes involved 
+	- Motility
+	- Secretion 
+	- Digestion
+	- Absorption 
+	- Storage - stomach and rectum
+	- Excretion
+## Structure
+- Sphincters
+	- Upper oesophageal sphincter 
+	- Lower oesophageal sphincter
+	- Pyloric sphincter - end of stomach
+	- Ileo-caecal sphincter - bt small and large intestine
+	- Int./ext. anal sphincter 
 - Vasculature
-	- 3 major arteries 
+	- Abdominal aorta, splitting into 3 major arteries 
 		- ![[Pasted image 20251015122426.png|300]]
-		- Coeliac artery - Liver, pancreas, stomach
-		- Superior mesenteric artery - Small intestine and most of the large intestine
+		- Coeliac artery - Upper portions - stomach, spleen, liver, gall bladder, pancreas
+		- Superior mesenteric artery - middle portion -  Small intestine and first part of the large intestine
 		- Inferior mesenteric artery - terminal portions of large intestine and rectum
 	- Then flow through hepatic portal vein -> hepatic vein -> vena cava 
 	- Blood flow regulated by 
-		- ANS
-			- PNS - vasodilation
+		- ANS - involuntary - think peristalsis and digestion
+			- PSNS - vasodilation
 			- SNS - vasoconstriction 
 			- Enteric - vasodilation 
 		- Hormonal (endocrine)
-			- Adraneline 
+			- Adrenaline - vasoconstriction
 			- Gastrin - vasodilation
 		- Local (paracrine)
 			-  Low pO2 - vasodilation 
 - Anatomy 
 	- Multiple layers with distinct functions 
-		- Mucosa
+		- Lumen 
+		- Mucosa - epithelial layer 
+			- Type of epithelia changes throughout GI tract
 		- Muscularis mucosae
 		- Submucosa
-		- Submucosal plexus 
+		- Submucosal plexus - Enteric NS 
 		- Circular layer of smooth muscle
 		- Myenteric plexus 
 		- Longitudinal layer of smooth muscle 
-		- Serosa
+		- Serosa - blood vessels and nerves
+		- ![[Pasted image 20251022104501.png|350]]
 	- Smooth muscle layers allow peristalsis
+		- Stomach also has an oblique layer of smooth muscle - can contract in multiple different directions for mechanical digestion
 	- Serosa consists of connective tissue and squamous epithelial cells - [[Epithelia#^e52c24]] 
 	- Duodenum -> jejunum -> Ileum (DJ Ileum)
-- Innervation 
-	- PSNS
-		- From vagus nerve and S2-4 (Pelvic sphlanchnic nerves)
-		- Responds to stretch, pressure, temperature, osmolarity !!! 
-		- Primary neurotransmitters used are acetylcholine (Ach), and other stuff
-		- Stimulates GI secretions and peristalsis, facilitating digestion and absorption
+- Innervation and regulation
+	- PSNS 
+		- From [[Introduction to the body#^9a0ed3|vagus nerve (CN X) and S2-4 ]](Pelvic sphlanchnic nerves)
+		- Regulates salivary secretion, upper parts of the GI tract (oesophagus, stomach, top of small intestine). 
+		- Sacral region deals with terminal end of large intestine + rectum - defecation
+		- Responds to stretch, pressure and temperature
+		- Primary neurotransmitter used is acetylcholine (ACh) -> Stimulates GI secretions and peristalsis, facilitating digestion and absorption
 	- SNS
-		- From thoracic T5-12 and lumbar L1-3 
-		- Synapses - #tofinish
-		- Primary neurotransmitters are noradrenaline and other stuff
-		- Decreases GI secretions and motility
+		- From thoracic T5-12 and lumbar L1-3 - almost [[Introduction to the body#^33815e|the entire SNS]] 
+			- Comes out the spinal cord -> sympathetic chain -> 1 of 4 groups of ganglia 
+				- Superior cervical - Upper 
+				- Celiac - Middle 
+				- Superior mesenteric - Middle
+				- Inferior mesenteric - End
+		- Primary neurotransmitter is noradrenaline 
+		- Decreases GI secretions and motility - fight or flight
+			- Redirects blood flow from gut to muscles
 	- Enteric Nervous System (ENS)
-		- Submucosal plexus 
-		- Myenteric plexus - #tofinish 
+		- Allows the GI tract to function w/o CNS input
+		- 2 parts
+			- Submucosal plexus 
+			- Myenteric plexus 
 - Digestive phases ^838de6
+	- Controlled by hormones and NS
 	- Cephalic - anticipation of food - vagal pathways - stimulates acid and bile secretion
-	- Gastric 
+	- Gastric - food is in the stomach - distention of the stomach activates PSNS -> [[Liver and pancreas#^cf40b9|pancreatic enzyme and bile secretion]] 
 	- Intestinal - movement into the intestines - stretch of the intestines activates PSNS 
+		- Presence of amino acids and fatty acids in the lumen will stimulate cells in the duodenum to release CCK - stimulates processes within other organs 
+		- Presence of H+ stimulates S cells to release secretin -> [[Liver and pancreas#^ca12a0|leads to bicarbonate secretion for neutralisation]] 
 - Upper GI tract 
 	- Mouth, oesophagus, stomach
-	- Minimal absorption 
-	- Transports and prepares food to be absorbed
+		- Minimal absorption 
+		- Transports and prepares food to be absorbed - breaking it down and hydrating it (better for enzymes)
 	- Mouth
 		- Chewing - breaking food down physically
-		- Salivary glands
+		- Salivary glands ![[Pasted image 20251022111142.png|350]]
 			- Parotid
 				- In cheeks beside ear
 				- Watery secretion
+				- Innervated by the glossopharyngeal nerve
 			- Submandibular
 				- Under jaw
 				- Watery secretion
+				- Innervated by the facial nerve
 			- Sublingual
 				- Floor of mouth
 				- Mucous secretion
+				- Innervated by the facial nerve
 			- Functions - lubrication, digestion, taste
+		- Tongue innervated by facial nerve, which then controls submandibular and sublingual salivary glands 
+	- Pharynx/oesophagus
+		- 2 phases of swallowing - voluntary then involuntary
+			- Voluntary
+				- Chew food and push into oropharynx
+			- Involuntary
+				- Food gets pushed into the oesophagus
+				- Epiglottis is closed off
+				- Single wave of contraction in the oesophagus pushes food into stomach - may require more than one wave 
+	- Stomach
+		- Stores food 
+		- Secretes pepsin and gastric lipase
+		- ![[Pasted image 20251022111704.png]]
+			- Gastric pits are where the secretion comes from
+			- Mucus neck cells - secretes mucus to protect stomach lining
+			- Parietal cells - HCl secretions 
+			- Enteroendocrine cells and peptic cells - secretes pepsinogen and gastric lipase
+		- Circular, longitudinal and oblique muscles contract to break food down
+- Lower GI tract
+	- Small intestine
+		- Duodenum, jejunum, ileum 
+		- Villi and microvilli
+		- Motility from smooth muscle 
+			- Segmentation - mixing chyme with secretions and mucosa - circular muscle
+			- Peristalsis - movement of chyme - longitudinal
+		- Carbs and protein digestion and absorption
+		- Lipid digestion and absorption 
+			- Short and medium chain fatty acids don't really need much energy to transport into the body 
+			- Long chain fatty acids need to be emulsified by bile to be absorbed 
+			- Taken up by the lymphatic system - too big for bloodstream
+	- Large intestine 
+		- ![[Pasted image 20251022112329.png]]
+		- Caecum, ascending, transverse, descending, sigmoid colons, rectum, anus
+		- Absorbs water and electrolytes
+	- Defecation
+		- Stretch in the rectum stimulates stretch receptors -> rectosphinceric reflex - relaxation of internal sphincter 

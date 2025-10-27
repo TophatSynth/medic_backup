@@ -1,4 +1,4 @@
-## Pancreas and relations #anki 
+## Pancreas and relations
 - Structure/location
 	- Location - T12-L4 
 	- ![[Pasted image 20251016091123.png]]
@@ -16,20 +16,22 @@
 	- Vasculature
 		- Coming off the aorta -> Celiac artery -> Common hepatic artery -> gastroduodenal artery -> anterior and posterior superior pancreaticoduodenal arteries -> anterior and posterior inferior pancreaticoduodenal artery 
 		- Aorta -> celiac -> splenic artery 
+	- ![[Pasted image 20251024222420.png]]
 	- Acinus (acinar cells) - produces enzymes and fluid. Grouped in lobules. Fluid travels down the intercalated duct -> intralobular duct -> common bile-pancreatic duct
-	- Bile duct cells - secretes bicarbonate
+	- Pancreatic duct cells - secretes bicarbonate ^cf40b9
 		- ![[Pasted image 20251016092553.png|250]]
 		- CO2 + H2O -(CA)-> HCO3- + H+ 
 		- HCO3- is secreted into the duct lumen, replaced by Cl- at the same time <- chlorobicarbonate exchanger 
-		- Cl- is reabsorbed. 
+		- Cl- is rereleased via [[Cells and Organelles 1 and 2#^d7090b|CFTR channel protein]] 
 		- Na+ and H2O leaves the cell paracellularly 
-		- Secretin and Ach stimulate duct cell secretion
+		- Secretin and Ach stimulate duct cell secretion ^ca12a0
 - Function 
 	- Neutralise acid content from stomach 
 	- Deliver enzymes for macronutrient digestion in duodenum
 		- Secretes enzymes, but also proenzymes - inactive form of the enzyme, to be activated in the duodenum
 		- Encapsulates active enzymes within tough vesicles to prevent autodigestion 
 	- Inhibitory molecules
+	- Only delivers the bile, doesn't secrete it. 
 - Exocrine pancreatic regulation 
 	- Affected by the three phases of digestion - [[Introduction to the GI Tract#^838de6]]
 	- Cephalic phase (anticipatory phase) - 25% maximum enzyme secretion stimulated by vagal pathways
@@ -71,16 +73,15 @@
 	- Immune system function (Kupffer cells)
 		- Removal of intestinal bacteria from hepatic portal blood
 
-#tofinish WTF IS BILE AND WTF DOES THE PANCREAS DO 😭 
+WTF IS BILE AND WTF DOES THE PANCREAS DO 😭 
 ## Gall bladder
 - Bile secreted into hepatocyte canaliculi -> hepatic bile duct -> gall bladder 
 	- Stores and concentrates hepatic bile into gall bladder bile
-	- 
 - Has a spiral valve (valve of Heister) regulating flow in and out
 - Sphincter of Oddi - regulates flow of bile into duodenum 
 	- Contracted - bile to gallbladder
 	- Relaxed - bile to duodenum
-	- Intestinal phase - stimulates sphincter of Oddi
+	- Intestinal phase - relaxes sphincter of Oddi
 - Pathologies
 	- Cholestasis
 		- Suppression of bile secretion -> regurgitation of bile components -> jaundice and pruritus (itching) + damage to hepatocytes

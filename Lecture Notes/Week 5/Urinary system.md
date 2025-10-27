@@ -4,7 +4,7 @@
 	- Regulate homeostatic systems 
 		- Fluids, electrolyte, acid-base balance
 	- Hormone production
-		- Erythropoesis - [[Red blood cells#Haematopoesis]]
+		- [[Red blood cells#^af0c78|Erythropoetin]]
 		- Ca2+ metabolism
 		- Regulation of blood pressure and blood flow
 - Structure 

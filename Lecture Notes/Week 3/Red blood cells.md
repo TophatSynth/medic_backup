@@ -51,7 +51,7 @@
 		- Deficiency caused by vegans, anaemia, or auto-antibodies to the intrinsic factor
 	- B12 and Folate are required for RBC production
 		- Required to turn Uridine to Thymidine for RBC DNA
-	- Erythropoetin (Epo)
+	- Erythropoetin (Epo) ^af0c78
 		- Hormone predominantly produced in the kidneys, the major drive of erythropoesis in bone marrow
 		- Not stored anywhere in the body - production turned on or off by
 			- Tissue hypoxia/anaemia

@@ -2,13 +2,13 @@
 - ![[Pasted image 20251016131256.png]]
 - Vas deferens transports sperm from testes to ejaculatory duct in prostate gland -> urethra 
 - Testes - Sperm need temperature 1-2C below body temp to mature - matures in the epididymus until ready to be released
-	- Suspended outside body by scrotum - made of smooth muscle, skin is rugose #tofinish, divided by septum
+	- Suspended outside body by scrotum - made of smooth muscle, skin is rugose, divided by septum
 - Seminiferous tubules - where spermatogenesis occurs
 	- Leydig cells - site of steroid synthesis
 	- Sertoli cells - nurse cells for sperm - where the spermatogonia go to differentiate into sperm cells - regulated by FSH and testosterone
 		- Spermatogonium -> primary spermatocyte -> secondary spermatocyte (haploid) -> spermatid -> spermatozoa (sperm)
 		- ![[Pasted image 20251016132204.png|200]]![[Pasted image 20251016132005.png|250]]
-	- Go from seminiferous tubules -> epididymus 
+	- Go from seminiferous tubules -> epididymis 
 - Testicular/gonadal hormones - FSH, LH, Testosterone
 - Sperm 
 	- Structure
@@ -33,7 +33,8 @@
 
 ## Women :O 
 - Uterus 
-	- Anteverted over the bladder #tofinish 
+	- Anteverted over the bladder
+	- Anteflexed between cervix and body
 - Ovary on lateral pelvic wall - ovulation into the peritoneal cavity - ovum picked up by fimbriated end of the Fallopian tube
 	- Fallopian tube has [[Epithelia#^e7b06d|Ciliated simple columnar cells]] 
 - Oogenesis - occurs in follicles 
@@ -45,13 +46,12 @@
 		- Deep compared to theca cells 
 		- Increases in size markedly during primary -> secondary follicle development
 		- LH and FSH receptors 
-		- #tofinish 
 	- Gonadal hormones involved - FSH, LH, oestrogen and progestins
 		- ![[Pasted image 20251016135045.png]]
-		- GnRH release is pulsatile #tofinish 
+		- GnRH release is pulsatile
 			- Requires less energy 
 			- Stress and other factors influence secretion
-		- Mid cycle shift from negative to positive feed back for when LH and FSH surge just before ovulation 
+		- Mid cycle shift from negative to positive feedback for when LH and FSH surge just before ovulation 
 			- Caused by upregulation of receptors when oestrogen levels are increased
 		- ![[Pasted image 20251016135219.png]]
 	- Gegins in fetal stage

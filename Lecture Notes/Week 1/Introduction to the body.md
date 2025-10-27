@@ -84,9 +84,9 @@
 			- Deals with "special" senses - sight, smell, taste, hearing, balance, etc
 	- Autonomic - self governing
 		- Sympathetic - fight or flight
-			- Cell bodies for SNS are in the T1 - L3
+			- Cell bodies for SNS are in the T1 - L3 ^33815e
 		- Parasympathetic - rest and digest 
-			- Cell bodies for PSNS are in the brain stem and S2 - 4
+			- Cell bodies for PSNS are in the brain stem and S2 - 4 ^9a0ed3
 			- 
 ## Embryology - Development of body cavities
 - The human body is a tube - we are a pool noodle

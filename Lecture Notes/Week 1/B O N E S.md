@@ -75,9 +75,9 @@
 	- ![[Pasted image 20250918095357.png]]
 ## Growth of bone
 - Cartilage model formed, replaced by bone in ossification in infancy
-	- Primary centre of ossification is the diaphysis - starts there first
-	- Secondary centre of ossification is the epiphysis - after
-- Diaphysis and epiphysis separated by layer of cartilage called the epiphysial plate. This contains chondroblasts which help to grow the length of the diaphysis - as long as the cartilage exists, the bone will increase in length #tofinish chondroblast vs chondrocytes
+	- Primary centre of ossification is the diaphysis - appears during fourth month of fetal development
+	- Secondary centre of ossification is the epiphysis - appears around 1-5 years old
+- Diaphysis and epiphysis separated by layer of cartilage called the epiphysial plate. This contains chondroblasts which help to grow the length of the diaphysis - as long as the cartilage exists, the bone will increase in length
 	- In the resting zone, chondroblasts lay down cartilage at epiphysial plate. 
 	- In the growth zone, they undergo mitosis. This increase in number causes columns of cartilage to form and push outwards from the epiphysial plate. 
 	- In the hypertrophic zone, the chondroblasts stop dividing, swell, become calcified and differentiate into chondrocytes. 
