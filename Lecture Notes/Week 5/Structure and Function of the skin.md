@@ -22,7 +22,7 @@
 		- Stratus Corneum - dead, keratinised cells - skin shedding
 	- Takes 20-30 days for cells to migrate from basale to corneum 
 	- Other cells within ![[Pasted image 20251015113009.png]]
-		- Melanocytes
+		- Melanocytes ![[Pasted image 20251030162255.png]]
 			- Found in the basal layer of the epidermis 
 			- Synthesises and releases melanin (Eumelanin and Pheomelanin)
 				- Absorbs UV-B - prevents DNA damage 

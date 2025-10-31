@@ -1,0 +1,108 @@
+## Intro 
+- Hormones secreted directly into the bloodstream - slower than NS, but longer lasting effects 
+- Endocrine glands - ductless glands with rich blood supply - usually acts on distant tissues
+- ![[Pasted image 20251030140859.png|400]]
+- Paracrine vs autocrine ![[Pasted image 20251030140934.png]]
+	- Paracrine - localised secretions that act on neighbouring cells 
+	- Autocrine - secretions that act on the secreting cell
+- Exocrine 
+	- May or may not have excretory ducts 
+	- Releases secretions externally onto an epithelial surface, instead of into blood 
+	- Eg [[Liver and pancreas|the pancreas]], sweat/sebum onto skin, etc
+- Hormone targets
+	- All hormones act by binding to receptors - either cell membrane or intracellular
+## Classes of hormones
+1. Proteins/peptides
+	- Chains of amino acids 
+	- Varies in size
+	- Usually water soluble
+	- Short half life (few minutes)
+	- Binds to receptors on the plasma membrane
+	- Initiates cellular changes (eg gene expression) 
+2. Steroids
+	- Synthesised from cholesterol, hydrophobic/lipid soluble - can cross the plasma membrane easily 
+	- Requires specific transporter proteins to be transported in the blood - this increases its half life
+	- Binds to intracellular receptors/transcription factors -> modifies gene expression ![[Pasted image 20251030141919.png|350]]
+3. Amino acid derivatives
+	- Derived from one specific amino acid rather than chains - predominantly made from tyrosine 
+	- Thyroid hormones - eg thyroxine and tri-iodothyronine (T4 and T3)
+	- Catecholamines - hormones secreted from the adrenal medulla, or neurotransmitters (eg adrenaline - can be neurotransmitter or hormone depending on if in NS or blood)
+	- ^^ behave very differently to each other despite common precursor
+		- Eg adrenaline acts more like a peptide, T3 acts more like a steroid
+## Regulation of endocrine system
+- Usually secreted in very low conc in response to specific stimuli 
+- Secretion types 
+	- Episodic - in response to physiological demand - eg insulin and glycogen 
+	- Diurnal - predictable pattern over 24hrs - eg cortisol rising just before waking
+		- Cortisol can also be episodic in response to stress
+	- Constant - Fairly constant conc at all times - eg thyroxine 
+- Hormone triggers
+	- Humoral - circulating molecules in the blood - eg Ca2+, Na+, K+, glucose etc 
+	- Neuronal - NS - eg stress, SNS/PSNS
+	- Hormonal - In response to other hormones - eg hypothalamus -> anterior pituitary gland 
+## Endocrine glands 
+- Hypothalamus
+	- ![[Pasted image 20251030142838.png]]
+	- Hypothalamus + pituitary gland - coordinates endocrine system - coordinates activity of the other endocrine glands 
+		- Provides signal amplification #tofinish 
+		- Hypothalamus -(hormone targeting pituitary hormone)-> pituitary gland -(targeting hormone)-> target organ/endocrine gland ![[Pasted image 20251030143207.png|300]]
+		- All part of a negative feedback system - final targeting hormone usually inhibits the releasing hormone from hypothalamus/pituitary 
+		- Anterior lobe of pituitary gland is controlled via releasing/inhibitory hormones - eg growth hormone - GHRH/GHIH/GH
+		- Hypothalamus also synthesises hormones which are stored in the posterior lobe of the pituitary gland 
+	- Pathology of growth hormone - pituitary gigantism/dwarfism, acromegaly 
+- Pituitary gland 
+	- 2 major lobes with 2 distinct tissues, located in a hollow of the sphenoid bone
+		- Anterior pituitary - adenohypophysis
+			- Vascular connection to hypothalamus - hormone release in response to hypothalamus hormones
+			- #tofinish what epithelial cells?
+			- Secretes 6 hormones 
+				- Growth Hormone (GH)
+				- Thyroid stimulating hormone (TSH)
+				- Adrenocorticotropic hormone (ACTH)
+				- Follicle stimulating hormone (FSH)
+				- Lutenising hormone (LH) 
+				- Prolactin 
+			- First 5 are released in response to hormonal triggers. Prolactin is constantly being inhibited, and is only released when inhibition is stopped. 
+		- Posterior pituitary - neurohypophysis
+			- Direct neural link to hypothalamus 
+			- These neurons transport hormones from the neurosecretory cells in the hypothalamus to the posterior lobe (ADH/vasopressin and oxytocin)
+- Thyroid gland
+	- 2 lobes, covering the anterolateral surface of the trachea
+	- Size can vary depending on iodine availability/physiological demand for hormones, but is generally the largest pure endocrine gland 
+	- Rich vasculature and SNS/PSNS innervation 
+	- Hormones 
+		- Follicles full of hormones surrounded by follicular cells ![[Pasted image 20251030144452.png|300]]
+		- Follicular cells synthesise thyroglobulin -> stored in the follicle lumen 
+		- Thyroglobulin combines with iodine, taken back into the follicular cells, and cleaved -> Generates T3/T4 -> diffused into blood 
+		- T3/T4 regulate metabolism rate, protein production, sensitivity of cells to other hormones 
+- Parathyroid glands
+	- 2 pairs of glands in the walls of the thyroid gland ![[Pasted image 20251030144954.png]]
+	- Develops from the wall of the phayrnx 
+	- Produces parathyroid hormone
+		- Regulates calcium homeostasis - stimulates osteoclasts to breakdown bone matrix and increase blood Ca2+ levels 
+		- Promotes conversion of inactive -> active vitamin D (required for absorption of Ca2+ from food)
+- Adrenal/suprarenal #tofinish 
+	- Glands on top of the kidneys
+	- Has 2 distinct tissues
+		- Cortex - glandular tissue
+		- Medulla - SNS tissue
+			- Site of catecholamine synthesis and secretion 
+			- Chromaffin cells produce epinephrine/norepinephrine/dopamine - inc heart rate/BP/resp rate, diversion of blood to muscles, glucose mobilisation 
+	- Each region in the adrenal glands produces own set of hormones - called corticosteroids, synthesised from cholesterol
+		- Zona glomerulosa - Mineralocorticoids - eg Aldosterone - homeostasis of Na+, K+ and water
+		- Zona fasciculata - Glucocorticoids - eg Cortisol - metabolism and glucose availability
+		- Zona reticularis - Gonadocorticoids - weak precursors of gonadal hormones that get converted into their more potent forms later on (eg testosterone and oestrogen)
+	- H-P-Adrenal axis 
+		- Eg cortisol feedback mechanism
+		- Stimulated by stress (exercise/hypoglycemia) or can be diurnal (peaks at 6-8am, dips at 12-2am) 
+		- Main effects - glucose mobilisation #tofinish, blood pressure, sensitivity to catecholamines
+- Pancreas
+	- Acts as both endocrine and exocrine glands 
+	- Endocrine cells - islets of Langerhans embedded within the acinar cells 
+		- Produces glucagon in alpha cells, insulin in beta cells 
+	- Exocrine - [[Liver and pancreas#^8c84c7|enzyme synthesis and secretion]] 
+- Other endocrine organs
+	- GI tract - gastrin
+	- Kidneys - renin 
+	- Ovaries - oestrodiol and progesterone
+	- Testes - testosterone 

@@ -59,7 +59,7 @@
 		- Primary neurotransmitter used is acetylcholine (ACh) -> Stimulates GI secretions and peristalsis, facilitating digestion and absorption
 	- SNS
 		- From thoracic T5-12 and lumbar L1-3 - almost [[Introduction to the body#^33815e|the entire SNS]] 
-			- Comes out the spinal cord -> sympathetic chain -> 1 of 4 groups of ganglia 
+			- Comes out the spinal cord -> sympathetic chain -> 1 of 4 groups of ganglia  ^bd79aa
 				- Superior cervical - Upper 
 				- Celiac - Middle 
 				- Superior mesenteric - Middle

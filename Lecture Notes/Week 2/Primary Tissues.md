@@ -35,7 +35,7 @@
 		- Found within the embryo during [[Introduction to the body#Embryology - Development of body cavities|gastrulation]] 
 		- Rotates clockwise to move the ECF around the embryo
 - [[Epithelia#Structural features of epithelia|Junctions]] 
-### 2. Neural tissue
+### 2. [[Introduction to the nervous system|Neural tissue]] 
 - Consists of nerve cells and glial/supporting cells
 	- 10x more glial cells than nerve cells
 - Nerve cells

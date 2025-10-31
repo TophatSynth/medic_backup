@@ -150,7 +150,7 @@ Eukaryotes: Has membrane lined organelles
 		- Done by beeg cells
 	- Pinocytosis
 		- Solutes bind to membrane, folds, becomes pinosome
-	- Receptor-mediated endocytosis
+	- Receptor-mediated endocytosis ^dc915b
 		- Ligand binds to receptor 
 		- Receptors are clustered together in a clathrin coated pit
 		- Pit membrane folds further, dynamin "cuts" membrane to form vesicle, receptor taken into cell in clathrin-coated vesicle

@@ -27,7 +27,7 @@
 		- Secretin and Ach stimulate duct cell secretion ^ca12a0
 - Function 
 	- Neutralise acid content from stomach 
-	- Deliver enzymes for macronutrient digestion in duodenum
+	- Deliver enzymes for macronutrient digestion in duodenum ^8c84c7
 		- Secretes enzymes, but also proenzymes - inactive form of the enzyme, to be activated in the duodenum
 		- Encapsulates active enzymes within tough vesicles to prevent autodigestion 
 	- Inhibitory molecules

@@ -1,0 +1,97 @@
+#anki
+## Structure
+- Has a cell body (soma) and neurites (axons/dendrites)
+	- Axon - single, long, myelinated or covered in Schwann cells
+	- Dendrites - multiple, thin, short extensions
+- Neuroglia - specialised supporting cells
+	- Able to regenerate
+	- Myelin sheath
+		- Insulates neurons for faster transmission 
+		- Produced by Schwann cells in PNS or oligodendrocytes in CNS
+		- Rich in lipids and protein
+		- ![[Pasted image 20251027101627.png]]
+- Ganglion - structure containing multiple nerve cell bodies outside the CNS ![[Pasted image 20251027101943.png]]
+	- Preganglionic neurons (few) -> ganglion -> diverge into postganglionic neurons (many)
+- Matter of the brain ![[Pasted image 20251027102348.png|200]]
+	- Gray matter - cell bodies of neurons + neuroglia + unmyelinated neurites - on the surface of the brain, as well in the cerebrum
+	- White matter - axons (usually myelinated) - on the inside of the brain
+		- Axons have specific directions
+			- Bt hemispheres (left/right) - commissural fibres
+			- Front/back - association fibres
+			- Up/down - projection fibres
+			- ![[Pasted image 20251027102542.png]] ![[Pasted image 20251027102550.png]]
+	- In the spinal cord, gray matter is on the inside, surrounded by the white matter
+
+
+## Divisions of the nervous system
+- CNS
+	- Brain and spinal cord
+	- Covered by meninges
+	- Suspended in cerebrospinal fluid (CSF)
+	- Structure
+		- Spinal cord
+		- Brain ![[Pasted image 20251027102843.png|300]]
+			-  #tofinish nerves 
+			- Brain stem
+				- Split into 3 parts
+					- Medulla 
+						- Nuclei of cranial nerves
+						- Vital centres - regulate resp. rhythm, heart rate, blood pressure
+						- Non-vital centres - coughing, sneezing, swallowing, vomiting 
+					- Midbrain
+						- Nuclei of cranial nerves, Visual and auditory reflex centres
+					- Pons
+						- Nuclei of last 4 cranial nerves, connectoins between forebrain and cerebellum 
+				- Nuclei for all but the first 2 cranial nerves
+			- Cerebellum
+				- Has internal gray matter, middle white matter, and outer white matter 
+				- Coordinates motor activity for smooth, well timed movements - important for balance
+			- Cerebrum
+				- Split into 2 parts
+					- Telencephalon
+					- Diencephalon
+						- Thalamus - above
+							- All sensory except smell comes through here
+						- Hypothalams - below
+							- Autonomic, endocrine control 
+							- Thirst and appetite 
+							- Sex :o 
+				- External surface of the brain - infoldings called gyrus and sulcus
+					- ![[Pasted image 20251027103006.png|200]]
+				- #tofinish hemispheres
+				- ![[Pasted image 20251027103102.png]]
+					- Frontal, parietal, occipital, temporal, limbic, insula 
+					- Functions ![[Pasted image 20251027103418.png]]
+						- Frontal - motor
+						- Parietal - somatosensory (sensations)
+						- Occipital - visual
+						- Temporal - audio 
+						- Limbic - emotions
+						- #tofinish insula?
+			- Hemispheres
+				- Left - dominant hemisphere, specialised for language/math
+				- Right - visual-spatial skills/creativity
+				- Each hemisphere deals with sensory/motor for opposite side of body 
+				- ![[Pasted image 20251027103820.png]]
+			- Cerebral ventricles 
+				- #tofinish  
+		- Spinal cord
+			- Extends from skull to L2 only ![[Pasted image 20251027104831.png]]
+			- #tofinish 
+			- Spinal nerves
+				- Motor/ventral/anterior root -> end organ 
+				- Receptors -> dorsal root ganglion -> sensory/dorsal/posterior root
+			- CSF 
+				- Produced by choroid plexus in cerebral ventricles
+				- Fills cerebral ventricles 
+	- How did we figure out which lobe does what?
+		- Relation between lesions and outcome, animal experiments, PET/MRI
+	- Functional division of nervous system
+		- ![[Pasted image 20251027105320.png]]
+		- Sensory -> integration -> motor
+		- [[Introduction to the GI Tract#^bd79aa|Sympathetic ganglia]] lie close to the vertebral column
+		- Parasympathetic ganglia are located close to the organ
+		- ![[Pasted image 20251027105632.png]]![[Pasted image 20251027105625.png]]
+- PNS 
+	- Cranial/spinal nerves + their ganglia
+- 

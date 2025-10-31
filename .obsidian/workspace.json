@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ead74e23294301a3",
+        "id": "468a73e1cba5ec54",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dbeb72ef2769ac",
+            "id": "043268f5a9640147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 7/Introduction to molecular biology.md",
+                "file": "Lecture Notes/Week 5/Structure and Function of the skin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to molecular biology"
+              "title": "Structure and Function of the skin"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5eb846d121c7c92d",
+            "id": "13ddb21be114e0d8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -205,21 +205,24 @@
   },
   "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20251027095526.png",
-    "Attachments/Pasted image 20251027095224.png",
-    "Attachments/Pasted image 20251027094728.png",
-    "Attachments/Pasted image 20251027094304.png",
-    "Attachments/Pasted image 20251027094113.png",
-    "Lecture Notes/Week 7/Introduction to molecular biology.md",
-    "Attachments/Pasted image 20251027094037.png",
-    "Attachments/Pasted image 20251027093748.png",
-    "Attachments/Pasted image 20251027093651.png",
-    "Attachments/Pasted image 20251027093638.png",
-    "Attachments/Pasted image 20251027093533.png",
-    "Attachments/Pasted image 20251027093514.png",
+    "Attachments/Pasted image 20251030162255.png",
+    "Lecture Notes/Week 7/Endocrine system.md",
+    "Attachments/Pasted image 20251030144954.png",
+    "Attachments/Pasted image 20251030144452.png",
+    "Attachments/Pasted image 20251030143207.png",
+    "Attachments/Pasted image 20251030142838.png",
+    "Attachments/Pasted image 20251030141919.png",
+    "Attachments/Pasted image 20251030140934.png",
+    "Attachments/Pasted image 20251030140859.png",
+    "Home.md",
+    "Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3.md",
+    "Attachments/Pasted image 20251030103931.png",
+    "Attachments/Pasted image 20251030103549.png",
+    "Attachments/Pasted image 20251030103547.png",
+    "Lecture Notes/Week 7/Introduction to the nervous system.md",
+    "Lecture Notes/Week 2/Primary Tissues.md",
     "Lecture Notes/Untitled.md",
     "Lecture Notes/Week 7",
-    "Home.md",
     "Lecture Notes/Week 5/Liver and pancreas.md",
     "Lecture Notes/Week 5/Reproductive System.md",
     "Lecture Notes/Week 5/Introduction to the GI Tract.md",
@@ -239,9 +242,6 @@
     "Lecture Notes/Week 4/Introduction to Microbial Infection.md",
     "Lecture Notes/Week 5/Responses to Cell and Tissue Injury.md",
     "Lecture Notes/Week 5/(Guided Study) Enzymes in medicine.md",
-    "Lecture Notes/Week 5/.md",
-    "Lecture Notes/Week 4/Acute inflammation.md",
-    "Lecture Notes/Week 5/(Guided Study) Glasgow Coma Scale.md",
     "Lecture Notes/Week 5",
     "Lecture Notes/Week 4",
     "Lecture Notes/Week 3",

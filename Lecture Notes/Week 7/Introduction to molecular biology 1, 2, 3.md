@@ -1,0 +1,126 @@
+## Part 1 #anki 
+- RNA - Ribonucleic acid
+- DNA - Deoxyribonucleic acid
+	- Purines - two rings - Adenine, guanine
+	- Pyrimidines - single ring - Thymine, cytosine
+	- Purine always base pairs with pyrimidine 
+	- ![[Pasted image 20251027093651.png]]
+	- ![[Pasted image 20251027093514.png]]
+- Linked by 5'-3' phosphodiester linkage
+	- ![[Pasted image 20251027093638.png]]
+- Structure ![[Pasted image 20251027093533.png|400]]
+- Polarity of the DNA strands - 5' to 3' ![[Pasted image 20251027093748.png|250]]
+	- Antiparallel 
+- DNA packing
+	- Chromosomes 
+		- Dyed -> Gibbs binding pattern
+		- Become condensed as cell divides ![[Pasted image 20251027094037.png|300]]
+	- ![[Pasted image 20251027094113.png|300]]
+	- Double helix -> nucleosomes - [[Cells and Organelles 1 and 2#^5874d1|histones]] (beads on a string) -> telomere -> chromosome
+		- Histone is made of 8 subunits ![[Pasted image 20251027094304.png|300]]
+		- Wrapped with 147 nucleotide long DNA strand (1.7 turns)
+			- Histone fragments have long N-terminus (tails) and are positively charged
+			- Histone H1 helps to condense the nucleosomes together 
+			- ![[Pasted image 20251027094728.png]]
+- Remodelling 
+	- Remodelling complex is needed to decondense the chromatin to allow for protein access to the DNA ![[Pasted image 20251027095224.png]]
+	- Does this via post translational modification of histone tails
+- Genes only comprise <5% of genome - a lot of genome is "junk" DNA 
+	- Junk DNA - heterochromatin - dense, usually has either telomere or centromere inside ![[Pasted image 20251027095526.png]]
+	- Telomere - at the end of the chromosomes 
+	- Centromere - where the mitotic spindle binds to
+- Repetitive DNA
+	- SINE/LINE - Short/Long Interspersed repeats 
+	- Tandem repeats
+		- Satelite - telomeres - TTAGGG at the end of chromosomes
+		- Minisatelites - 7-100 bases repeated up to 4,000 times
+		- Microsatelites - 1-6 bases repeated >100 times
+- Use in forensics - PCR - compare sections of DNA
+- Myotonic dystrophy 
+	- Muscle wasting that gets worse with each generation in the lineage
+	- Repeat in the 3' region of the trinucleotide myotonic dystrophy gene 
+- Mitochondrial DNA (mtDNA)
+	- Maternally inherited
+	- Can be used for forensics
+
+
+## Part 2 
+
+
+
+
+
+## Part 3
+- Differences between DNA and RNA
+	- Function
+		- DNA - information storage
+		- RNA - genetic message, adaptor, structural RNA's, catalyst 
+- Transcription
+	- DNA -> RNA - controlled by RNA polymerase 
+		- Not as accurate as DNA replication
+		- Many copies are made simultaneously 
+	- ![[Pasted image 20251030101416.png]]
+		- Promoter - site of where the RNA polymerase binds to, goes 5' -> 3' 
+		- Transcription start site -> transcription termination site 
+	- Different RNA polymerases generate diff RNA's 
+		- RNA pol I - rRNA 
+		- RNA pol II - protein coding RNA
+			- Promoter - TATA box - 25 bases upstream of start site 
+			- TATA binding protein (TBP) distorts DNA once bound - facilitates binding of RNA polymerases and transcription factors 
+		- RNA pol III - rRNA
+	- Promoters - 2 types 
+		- Transcriptionally regulated gene
+		- Housekeeping gene 
+	- Enhancers 
+		- Short DNA sequences that are many bases away from the gene they facilitate - DNA loops back on itself so it can help with transcription factor binding and help stabilise transcription machinery 
+		- Position and orientation independent 
+		- Opposed by silencers 
+		- ![[Pasted image 20251030102210.png]]![[Pasted image 20251030102020.png]]
+	- Transcription factors
+		- 2 domains 
+			- DNA binding domain
+			- Activation domain
+	- Response to inter-cellular signalling ![[Pasted image 20251030102053.png]]
+		- Altered protein synthesis is slow
+		- Faster to alter the already existing protein
+	- Control of transcription 
+		- ![[Pasted image 20251030102408.png|400]]
+		- Protein synthesis
+		- Protein phosphorylation/dephosphorylation
+		- Ligand binding
+		- Released from an inhibitor
+		- Change of binding partner
+	- Absence of a transcription factor ![[Pasted image 20251030102545.png]]
+	- mRNA processing
+		- Structure of mRNA 
+			- 5' cap, noncoding sequence, coding sequence, noncoding sequence, poly-A tail
+		- ![[Pasted image 20251030102700.png]]
+			- RNA capping - adding the 5' cap
+			- Polyadenylation - adding a poly-A tail
+		- Why?
+			- Protect from exonucleases - hydrolyses RNA to recycle it 
+			- Aid export to ribosomes
+			- Helps to identify it as mRNA
+		- Colinear processing in bacteria 
+			- The entire DNA sequence is replicated into the mRNA sequence
+		- Prokaryote - only some bits are used
+			- ![[Pasted image 20251030103051.png]]
+			- Exons encode proteins, introns do not 
+			- Splicing ![[Pasted image 20251030103135.png|250]] 
+				- Introns removed as lariat by two esterification reactions 
+			- Open reading frame
+				- The final sequence of exons put together that will be translated
+			- Alternative splicing
+				- Exon order is always maintained 
+				- Can choose which exons to keep in the mRNA -> different protein isoforms
+				- ![[Pasted image 20251030103331.png]]
+			- Frasier syndrome ![[Pasted image 20251030103549.png]]
+				- Glomerulus problem 
+				- Wrong alternative splicing done - supposed to have a certain ratio of proteins with exon 9 expressed/not expressed
+				- Difference in ratio -> nephropathy 
+	- Gene number paradox - when ppl were trying to figure out the number of genes in the genome #tofinish 
+		- Alt. splicing solves this - making many different proteins from limited number of genes 
+	- Other modifications ![[Pasted image 20251030103931.png]]
+	- Post transcriptional modifications 
+		- Further alters the protein -> more different proteins from the same gene
+	- 
