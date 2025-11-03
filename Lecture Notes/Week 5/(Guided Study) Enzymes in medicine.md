@@ -11,7 +11,7 @@
 - Main catalytic driver is the catalytic triad - histidine, serine and aspartic acid
 	- Serine is the main cleaver 
 
-## Enzyme classifications (EC)
+## Enzyme classifications (EC) #anki 
 1. Oxidoreductases
 	- Oxidation and reduction
 	- Eg alcohol dehydrogenase

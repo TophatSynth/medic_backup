@@ -1,4 +1,4 @@
-## Intro 
+## Intro
 - Hormones secreted directly into the bloodstream - slower than NS, but longer lasting effects 
 - Endocrine glands - ductless glands with rich blood supply - usually acts on distant tissues
 - ![[Pasted image 20251030140859.png|400]]
@@ -44,7 +44,7 @@
 - Hypothalamus
 	- ![[Pasted image 20251030142838.png]]
 	- Hypothalamus + pituitary gland - coordinates endocrine system - coordinates activity of the other endocrine glands 
-		- Provides signal amplification #tofinish 
+		- Provides signal amplification - cascading amounts of hormones from Hypothalamus -> pituitary -> target gland -> target tissue
 		- Hypothalamus -(hormone targeting pituitary hormone)-> pituitary gland -(targeting hormone)-> target organ/endocrine gland ![[Pasted image 20251030143207.png|300]]
 		- All part of a negative feedback system - final targeting hormone usually inhibits the releasing hormone from hypothalamus/pituitary 
 		- Anterior lobe of pituitary gland is controlled via releasing/inhibitory hormones - eg growth hormone - GHRH/GHIH/GH
@@ -54,7 +54,6 @@
 	- 2 major lobes with 2 distinct tissues, located in a hollow of the sphenoid bone
 		- Anterior pituitary - adenohypophysis
 			- Vascular connection to hypothalamus - hormone release in response to hypothalamus hormones
-			- #tofinish what epithelial cells?
 			- Secretes 6 hormones 
 				- Growth Hormone (GH)
 				- Thyroid stimulating hormone (TSH)
@@ -81,7 +80,7 @@
 	- Produces parathyroid hormone
 		- Regulates calcium homeostasis - stimulates osteoclasts to breakdown bone matrix and increase blood Ca2+ levels 
 		- Promotes conversion of inactive -> active vitamin D (required for absorption of Ca2+ from food)
-- Adrenal/suprarenal #tofinish 
+- Adrenal/suprarenal
 	- Glands on top of the kidneys
 	- Has 2 distinct tissues
 		- Cortex - glandular tissue
@@ -95,7 +94,7 @@
 	- H-P-Adrenal axis 
 		- Eg cortisol feedback mechanism
 		- Stimulated by stress (exercise/hypoglycemia) or can be diurnal (peaks at 6-8am, dips at 12-2am) 
-		- Main effects - glucose mobilisation #tofinish, blood pressure, sensitivity to catecholamines
+		- Main effects - glucose mobilisation (glucose into the blood), blood pressure, sensitivity to catecholamines
 - Pancreas
 	- Acts as both endocrine and exocrine glands 
 	- Endocrine cells - islets of Langerhans embedded within the acinar cells 

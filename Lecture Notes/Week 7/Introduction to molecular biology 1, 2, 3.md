@@ -1,4 +1,4 @@
-## Part 1 #anki 
+## Part 1
 - RNA - Ribonucleic acid
 - DNA - Deoxyribonucleic acid
 	- Purines - two rings - Adenine, guanine
@@ -16,7 +16,7 @@
 		- Dyed -> Gibbs binding pattern
 		- Become condensed as cell divides ![[Pasted image 20251027094037.png|300]]
 	- ![[Pasted image 20251027094113.png|300]]
-	- Double helix -> nucleosomes - [[Cells and Organelles 1 and 2#^5874d1|histones]] (beads on a string) -> telomere -> chromosome
+	- Double helix -> nucleosomes - DNA wrapped around [[Cells and Organelles 1 and 2#^5874d1|histones]] (beads on a string) -> chromosome
 		- Histone is made of 8 subunits ![[Pasted image 20251027094304.png|300]]
 		- Wrapped with 147 nucleotide long DNA strand (1.7 turns)
 			- Histone fragments have long N-terminus (tails) and are positively charged
@@ -44,10 +44,50 @@
 	- Can be used for forensics
 
 
-## Part 2 
-
-
-
+## Part 2
+### DNA replication 
+- DNA strands are antiparallel to each other
+- Semiconservative model - Each strand is used as a template to create new strands 
+	- ![[Pasted image 20251101150335.png|200]]
+- Takes about 8 hrs to replicate the entire human genome
+- Replication
+	- Origins of replication 
+	- ![[Pasted image 20251101150618.png]]![[Pasted image 20251101150624.png]]
+	- New bases are added to create a duplicate strand (red bits above) - goes 5' - 3'
+	- Leading/lagging strands
+		- ![[Pasted image 20251101151435.png]]
+		- DNA replication starts from the middle and spreads out in two directions - one going 5'-3', the other going 3'-5' 
+		- 5'-3' strand is just replicated in one continuous line <- leading strand
+		- Since DNA replication can only go 5'-3', a different replication process is needed for 3'-5' <- called the lagging strand 
+		- RNA primer binds to DNA - starting point for DNA polymerase to create a new Okazaki fragment. It then replicates all the available DNA, replaces the old RNA primer with DNA, and joins it into the growing replication chain.  ![[Pasted image 20251101151603.png|300]]
+- Pathology - Werner's syndrome
+	- Premature ageing syndrome
+	- Defect with how the ends of chromosomes are replicated and maintained efficiently
+- Telomeres
+	- End bits of chromosomes
+	- Can be extended by telomerase - short, repetitive telomere sequences
+	- Done to create an extension on the template strand where the DNA polymerase can bind, in order to replicate the lagging strand
+	- ![[Pasted image 20251101152607.png]]
+	- Generally occurs in stem cells 
+- Accuracy of replication
+	- Mistakes are made by polymerases around once every 10,000 base additions 
+	- Errors can be removed by DNA polymerases during template synthesis, or after replication by certain complexes
+		- The post-replication pathway doesn't work properly in some individuals - hereditary non-polyposis -> increases risk of colon cancer
+	- Normal mutation rate - 1 error for every 3 genome replications 
+- Polymerase chain reaction (PCR)
+	- Exponentially amplify certain regions of DNA from a template
+	- Uses DNA primers to delineate replication area, DNA polymerases for replication, and a source of deoxynucleotides
+	- Heat to separate strands, cool and add primers + polymerase -> replication woo 
+	- Can then be cycled multiple times to create many copies of the same region 
+	- Useful when you only have a very small sample and need to have more -> used for tests
+		- EG HIV testing 
+- Inheritance patterns
+	- Amplifies the differences between two DNA sequences
+- Changes in number of chromosomes <- differences in amount of DNA content
+- DNA sequencing - determining the sequence of bases along the strand
+	- Chain termination/Sanger method - using a dideosyribonucleoside triphosphate (ddTP) instead of a deoxyribonucledoside triphosphate (dTP) -> unable to grow the DNA molecule from there. Used with a lot of different growing DNA strands, with all four types of bases, you can slowly determine the sequence of bases. 
+	- The ddTP is radioactive/fluorescent -> can visualise the bases and work out sequence
+	- ![[Pasted image 20251101171621.png]] ![[Pasted image 20251101171630.png]]![[Pasted image 20251101171743.png]]
 
 
 ## Part 3
@@ -67,7 +107,7 @@
 		- RNA pol II - protein coding RNA
 			- Promoter - TATA box - 25 bases upstream of start site 
 			- TATA binding protein (TBP) distorts DNA once bound - facilitates binding of RNA polymerases and transcription factors 
-		- RNA pol III - rRNA
+		- RNA pol III - tRNA
 	- Promoters - 2 types 
 		- Transcriptionally regulated gene
 		- Housekeeping gene 
@@ -103,7 +143,7 @@
 			- Helps to identify it as mRNA
 		- Colinear processing in bacteria 
 			- The entire DNA sequence is replicated into the mRNA sequence
-		- Prokaryote - only some bits are used
+		- Eukaryotes - only some bits are used
 			- ![[Pasted image 20251030103051.png]]
 			- Exons encode proteins, introns do not 
 			- Splicing ![[Pasted image 20251030103135.png|250]] 
@@ -118,9 +158,9 @@
 				- Glomerulus problem 
 				- Wrong alternative splicing done - supposed to have a certain ratio of proteins with exon 9 expressed/not expressed
 				- Difference in ratio -> nephropathy 
-	- Gene number paradox - when ppl were trying to figure out the number of genes in the genome #tofinish 
+	- Gene number paradox 
+		- The apparent paradox that an organism's biological complexity does not correlate with the number of its protein coding genes
 		- Alt. splicing solves this - making many different proteins from limited number of genes 
 	- Other modifications ![[Pasted image 20251030103931.png]]
 	- Post transcriptional modifications 
 		- Further alters the protein -> more different proteins from the same gene
-	- 

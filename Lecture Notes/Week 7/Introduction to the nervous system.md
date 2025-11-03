@@ -1,4 +1,3 @@
-#anki
 ## Structure
 - Has a cell body (soma) and neurites (axons/dendrites)
 	- Axon - single, long, myelinated or covered in Schwann cells
@@ -29,9 +28,13 @@
 	- Covered by meninges
 	- Suspended in cerebrospinal fluid (CSF)
 	- Structure
+		- ![[Pasted image 20251027102843.png|300]]
+			- Spinal cord
+			- Brain stem - medulla, pons, midbrain
+			- Cerebellum
+			- Cerebrum - Telencephalon, diencephalon
 		- Spinal cord
-		- Brain ![[Pasted image 20251027102843.png|300]]
-			-  #tofinish nerves 
+		- Brain 
 			- Brain stem
 				- Split into 3 parts
 					- Medulla 
@@ -52,14 +55,24 @@
 					- Diencephalon
 						- Thalamus - above
 							- All sensory except smell comes through here
-						- Hypothalams - below
+						- Hypothalamus - below
 							- Autonomic, endocrine control 
 							- Thirst and appetite 
 							- Sex :o 
-				- External surface of the brain - infoldings called gyrus and sulcus
+				- External surface of the brain has infoldings called gyrus and sulcus
 					- ![[Pasted image 20251027103006.png|200]]
-				- #tofinish hemispheres
-				- ![[Pasted image 20251027103102.png]]
+				- Hemispheres
+					- 2 hemispheres divided incompletely by the median longitudinal fissure
+					- Each hemisphere has:
+						- Cerebral cortex (gray matter)
+						- Cerebral white matter with nuclei (collections of cell bodies) embedded inside
+					- Functions
+						-  Left - dominant hemisphere, specialised for language/math
+						- Right - visual-spatial skills/creativity
+						- Each hemisphere deals with sensory/motor for opposite side of body 
+						- ![[Pasted image 20251027103820.png]]
+				- Lobes ![[Pasted image 20251027103102.png]]![[Pasted image 20251031181917.png]]
+					- Separated by sulci
 					- Frontal, parietal, occipital, temporal, limbic, insula 
 					- Functions ![[Pasted image 20251027103418.png]]
 						- Frontal - motor
@@ -67,17 +80,25 @@
 						- Occipital - visual
 						- Temporal - audio 
 						- Limbic - emotions
-						- #tofinish insula?
-			- Hemispheres
-				- Left - dominant hemisphere, specialised for language/math
-				- Right - visual-spatial skills/creativity
-				- Each hemisphere deals with sensory/motor for opposite side of body 
-				- ![[Pasted image 20251027103820.png]]
+						- Insula - bodily sensations
+				- 
 			- Cerebral ventricles 
-				- #tofinish  
+				- Interconnected spaces in the brain filled with CSF 
+				- Lateral ventricle - in cerebral hemispheres
+				- 3rd ventricle - between left and right diencephalon
+				- 4th ventricle - between cerebellum and pons/medulla
+				- Central canal - spinal cord
+				- ![[Pasted image 20251031183505.png]]![[Pasted image 20251031183524.png]]
 		- Spinal cord
 			- Extends from skull to L2 only ![[Pasted image 20251027104831.png]]
-			- #tofinish 
+			- External features
+				- Cervical and lumbosacral enlargements
+				- Conus medullaris
+				- Posterior median sulcus
+				- Anterior median fissure
+				- ![[Pasted image 20251031182535.png]]![[Pasted image 20251031182629.png]]
+			- Internal structure
+				- ![[Pasted image 20251031182911.png]]
 			- Spinal nerves
 				- Motor/ventral/anterior root -> end organ 
 				- Receptors -> dorsal root ganglion -> sensory/dorsal/posterior root
@@ -94,4 +115,3 @@
 		- ![[Pasted image 20251027105632.png]]![[Pasted image 20251027105625.png]]
 - PNS 
 	- Cranial/spinal nerves + their ganglia
-- 

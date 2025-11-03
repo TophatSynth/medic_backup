@@ -1,4 +1,4 @@
-## Glasgow Coma Scale
+## Glasgow Coma Scale #anki 
 - Higher score better response. Min 3, max 15
 	- 14-15 - mild brain injury
 	- 9-13 - moderate brain injury
