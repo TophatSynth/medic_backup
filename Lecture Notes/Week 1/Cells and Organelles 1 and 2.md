@@ -26,6 +26,9 @@ Eukaryotes: Has membrane lined organelles
 			- Phosphatidylserine - translocated to signal that the cell is dying
 
 ### Membrane proteins
+
+^52d85c
+
 - Small, uncharged molc. and hydrophobic molecules can move in and out of the cell easily, but others need help to move through PM
 #### Transport proteins
 - 2 types of membrane transport proteins:

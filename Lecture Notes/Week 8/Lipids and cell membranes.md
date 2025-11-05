@@ -1,0 +1,84 @@
+# What is a lipid
+- Low solubility 
+- Function
+	- Sources of energy
+	- Form membranes
+	- Participate in cell signalling
+- Various examples
+	- Fatty acids 
+		- Principle store of energy in the body 
+		- Carboxyl group with long hydrocarbon chain 
+		- Naturally occurring fatty acids have an even number of carbons 
+		- Most often part of a lipid molecule or complexed to a carrier protein
+		- Short and medium chain fatty acids can travel in the bloodstream 
+		- Long chain fatty acids are too large - have to be synthesised on site
+		- Trans fats - body cannot metabolise efficiently, so tends to accumulate when ingested
+		- Nomenclature - Carbon atoms:double bond 
+			- Eg 16:0
+			- Double bond location number with delta-number
+				- Eg D9, D12 etc 
+			- Omega fatty acids numbered from first C=C from methyl end
+				- ![[Pasted image 20251104101442.png]]
+			- Double bonds are never conjugated - always separated by at least one CH2 group 
+	- Sterols 
+		- Bile acids, steroid hormones, vitamins, cell membranes 
+- Inherited disorders in lipid pathways 
+	- Gauchers - 
+	- Lipid metabolism enzyme defects -> lipid accumulation 
+	- Mostly affects NS, liver, spleen and bone marrow 
+# Lipids in membranes 
+- Types
+	- Phospholipids - glycerophospholipids + some sphingolipids
+	- Glycolipids - always sphingolipids 
+	- Phospholipids
+		- ![[Pasted image 20251104101841.png|400]]![[Pasted image 20251104101833.png]]
+		- Glycerophospholipids
+			- Has a glycerol backbone
+		- Choline
+		- Ethanolamine
+		- Serine
+		- Inositol #tofinish
+	- Glycolipids #tofinish 
+		- Sphingolipids 
+			- Sphingosine core
+			- ![[Pasted image 20251104102039.png]]
+	- Sterols 
+		- Cholesterol 
+			- ![[Pasted image 20251104102638.png]]
+			- 
+- Fluid mosaic model
+	- Lipids and proteins in the membrane can undergo two types of movement ![[Pasted image 20251104102428.png]]
+		- Lateral 
+		- Rotational
+- Different membranes have different compositions 
+	- ![[Pasted image 20251104102827.png]]
+- How is the asymmetry of the lipid bilayer composition generated?
+	- New phospholipids are synthesised in the ER -> binds to the non-cytosolic part of the vessicle -> moved to the membrane (exocytosis), forms the non-cytosolic part of the membrane -> can then be transfered back into the inner layer by flippases - can be selective for specific phospholipids 
+- Endocytosis
+	- Movement of materials into the cell via vesicles 
+	- Especially important in immune responses
+- Lipid rafts 
+	- Organising centre for similar receptors/proteins - keeps them tgth 
+	- ![[Pasted image 20251104103557.png]]
+	- Helps with vesicle trafficking - receptor mediated endocytosis - and cell signalling
+- Membrane proteins - 4 types ![[Pasted image 20251104103715.png]]
+	- Transmembrane
+		- Can create channels/pores 
+	- Membrane associated
+		-  Usually contain domains that selectively bind to phospholipids
+		- Compartment-specific association (non/cytosolic)
+		- Eg pleckstrin homology domains (PH) 
+			- ~100 amino acid region found in many proteins that binds to certain types of phospholipid
+			- Removal of the PH domain alters a protein's membrane binding properties
+	- Lipid-linked
+		- Conjugated groups with long fatty tails 
+		- Glycosylphosphatidylinositol anchors (GPI) 
+			- ![[Pasted image 20251104104351.png]]
+			- Phospholipid tail embeds in the membrane 
+			- "phosphatidylinositol" - sugar bit at the bottom 
+	- Protein-attached
+		- Important in signal transduction 
+		- Attached to a receptor that is in the membrane
+		- ![[Pasted image 20251104104451.png]]
+			- Receptor binds -> G protein goes and does stuff
+- 

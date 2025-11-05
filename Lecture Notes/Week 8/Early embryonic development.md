@@ -1,0 +1,77 @@
+## Process of embryogenesis
+- First 8 weeks after fertilisation 
+## Fertilisation 
+- Gametes
+	- ![[Pasted image 20251104141133.png|400]]
+		- Acrosome contains enzymes for penetration of zona pellucida
+	- ![[Pasted image 20251104141137.png|400]]
+		- Plasma membrane surrounded by zona pellucida and corona radiata
+- Oogenesis 
+	- Birth - 1-2 million primary oocytes -> most degenerate until puberty 
+	- Puberty - 300,000 remain, only some will become mature, rest degenerate 
+	- Each month, one primary oocyte udnergoes meiosis I, divides into first polar body and secondary oocyte that is arrested in metaphase II (has 23 chromosomes) -> ovulated
+	- ![[Pasted image 20251104141647.png]]
+		- #tofinish tertiary follicle?
+		- Some cumulus oophorous cells + ECM form the corona radiata 
+			- Essential for capture of oocyte by the fimbria 
+		- Uterine tubes come into close contact with the ovary during ovulation - fimbriae of tubes sweep the ovum into the tube - peristaltic waves of muscle and cilia brings ovum into ampulla of uterine tube ![[Pasted image 20251104141902.png]] ![[Pasted image 20251104142001.png]]
+- Fertilisation - usually happens in the ampulla, but can happen anywhere in the uterine tube
+	- 3 phases 
+		1. Capacitation - passing through the corona radiata - takes ~7 hours
+		2. Acrosome reaction - penetration of the zona pellucida 
+		3. Penetration of the oocyte membrane - only one spermatozoon which loses its own plasma membrane
+			- Corona radiata - ECM, made of hyaluronic acid and GAG's - sperm gets through by secreting hyaluronidase - interacts with ZP3 receptor #tofinish in the corona radiata?
+			- Zona pellucida - jelly-like coat with glycoproteins or receptors - digested by lysosomal enzymes from acrosome
+			- Once male genetic material is released and meiosis recontinues, cortical granules release content -> degrade ZP3 receptors to prevent second penetration #tofinish 
+		- ![[Pasted image 20251104142207.png]]
+		- ![[Pasted image 20251104142740.png]]
+	- ![[Pasted image 20251104142754.png]]
+		- Male and female genetic material mixed and split like in mitosis 
+		- Cleavage of single cell zygote into multicellular embryo
+		- ![[Pasted image 20251104143045.png]]
+			- Keeps doubling
+			- Morula - 16+ cells 
+		- Inner cells that keep dividing but become smaller - blastomeres - do so by pumping water out of the cell 
+			- This fluid pools in the morula -> pushes inner cells to the side - inner cell mass and blastocyst cavity
+			- Blastomeres differentiate into embryoblast (inner cell mass) and single layered trophoblast
+		- Surrounded by outer membrane 
+		- ![[Pasted image 20251104143302.png]]
+- Implantation 
+	- On day 6-7, blastocyst reaches uterine cavity 
+	- Trophoblast form finger like protrusions -> implant into uterus 
+	- Host-vs-graft and graft-vs-host reactions are normally suppressed
+	- ![[Pasted image 20251104143600.png]]
+	- ^ Bilaminar disk - embryoblast differentiate into epiblast and hypoblast  - go from scattered cells to grouped 
+	- Day 8 - blastocyst is partially embedded in the endometrium 
+		- Trophoblast next to the epiblast differentiates into inner and outer layer - cytotrophoblast and syncytiotrophoblast
+		- Small cavity appears within the epiblast - amniotic cavity
+	- Blastocyst fully embedded
+		- Syncytiotrophoblast cells make lacunae -> invade maternal uterine blood vessels -> blood enters trophoblastic lacunar system - uteroplacental circulation
+	- Day 15 - primitive streak appears on the epiblast
+		- Thick structure in the midline, near the caudal region of the bilaminar disk 
+		- Defines the body axes
+		- Cranial end of primitive streak is expanded - primitive node, which contains the primitive pit 
+		- Primitive streak has a primitive groove inside
+		- ![[Pasted image 20251104144258.png]]
+	- Day 16 
+		- Epiblast cells migrate towards primitive streak, detach from the epiblast, displace hypoblast and fill in the new space (invagination) - makes a third layer
+		- Hypoblast becomes endoderm 
+		- Remaining epiblast becomes ectoderm 
+		- Cells between become mesoderm 
+		- ![[Pasted image 20251104144443.png]]
+			- Cells migrate through the primitive node - forms a hollow structure called notochordal process  #tofinish epiblast cells moves down towards hypoblast?
+	- Day 18 
+		- Notochordal process fuses with endoderm -> notochordal plate 
+		- Two edges of plate come together - fuse -> notochord
+		- ![[Pasted image 20251104145045.png]]
+		- #tofinish ![[Pasted image 20251104145104.png]]
+			- Notochord activates signalling pathway -> tissue differentiation and development 
+		- ![[Pasted image 20251104145217.png]]
+
+## Ectopic pregnancy 
+- Implantation of blastocyst in an abnormal location - placenta can form on most tissues or structures
+- Tubal pregnancies are most common (95%)
+- Can lead to spontaneous tubal abortion/rupture
+	- Rupture -> blastocyst falls into abdominal cavity and can implant on anything inside
+	- However, usually insufficient blood supply -> dies 
+	- However however, can be fatal if intraperitoneal rupture is undetected - lots of bleeding :/ 

@@ -1,0 +1,61 @@
+# Overview
+- 70kg man has 42L 
+	- ![[Pasted image 20251104090916.png|300]]
+	- Blood makes up approx 5L (7% of body weight)
+		- Contains both ECF (plasma) and ICF (RBC ICF)
+- ECF makes up 14L (20% of body weight)
+	- Plasma - 3L 
+	- Interstitial fluid - 11L
+	- Proteins too big to permeate through capillaries 
+- ICF makes up 28L (40% of body weight)
+	- Separated from ECF by membranes 
+	- Controlling movement of ions/molecules through membranes is very important for life
+	- Eg 
+		- ![[Pasted image 20251104091807.png]]
+		- #anki 
+
+# Cell membrane
+- Gives cell structures and organises organelles 
+- Phospholipid bilayer with many proteins embedded inside
+	- Proteins may be integral, peripheral, lipid anchored
+- Lipophilic substances can get through cell membrane easier bc polar head groups are relatively small and don't block very well
+- Lipophobic substances are blocked by lipid soluble part of the membrane
+- Composition: 
+	- 55% Protein
+	- 25% Phospholipid
+	- 13% Cholesterol
+	- 4% Other lipids
+	- 3% Carbohydrate
+- Membrane lipids 
+	- Phospholipids 
+	- Sphingolipids - contains amino alcohols - is amphipathic - in most cell membranes, especially nerve cells 
+	- Cholesterol - dissolved in the membrane - contributes to fluidity
+- [[Cells and Organelles 1 and 2#Membrane proteins|Membrane proteins]] 
+	- Channel proteins 
+	- Carrier proteins 
+- Transport control in and out of the membrane - Maintain a differential, against a concentration gradient
+	- Passive
+	- Active
+		- Requires ATP, up a concentration gradient 
+		- Primary active transport - use the energy source directly 
+		- Secondary active transport - indirect use of the energy source
+	- Rate of transport can be influenced by
+		- Concentration
+			- Fren :> 
+			- Rate of net diffusion into the cell is proportional to the outside concentration minus the inside concentration 
+			- Net diffusion is proportional to D(CO - Ci)
+				- D = diffusion
+				- C = concentration
+			- ![[Pasted image 20251104094408.png]]
+		- Electrical potential
+			- Electrostatic attraction
+			- Can move against a concentration gradient
+			- ![[Pasted image 20251104094639.png]]
+		- Pressure
+			- Pressure pushes molecules across membrane 
+	- Permeability co-efficient of a solute
+		- Rate of movement of that solute calculated in cm/sec
+		- Each molecule has a different permeability across cell membranes regardless of transport type
+	- Osmosis
+		- Tonicity - mechanical effects caused by osmosis - eg shrinking or swelling
+		- 

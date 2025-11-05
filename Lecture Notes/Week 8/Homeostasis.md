@@ -1,0 +1,25 @@
+- Approx 70% of fluid within cells is in the ICF, 30% is in the ECF (including transcellular fluid)
+- Homeostasis regulated by genetics, nervous and endocrine 
+- Control systems
+	- Open loop - no feedback, just controller sending signals - could result in run-away reactions 
+	- Closed loop - feedback system (controller -> output -> sensor -> controller)
+		- Negative feedback - returns towards set point
+			- Hunting - return to set point, overshoot, return the other way, repeat
+			- Set point may be altered at times of metabolic/physiological stress - eg fever, exercise, high altitude
+		- Positive feedback - moves away from set point
+			- Needs a termination mechanism
+			- Eg childbirth, blood clotting, initial response in action potential 
+			- Childbirth - uterine contraction -> fetus pushes against cervix -> increased oxytocin secretion from pituitary -> more contractions in uterus + increased uterine responsiveness to oxytocin
+			- Blood clotting - ![[Pasted image 20251103223327.png]]
+	- Feed forward control - response is generated in anticipation of a change to the system
+		- Eg anticipatory phase in digestive system - nutrient levels are controlled at safe levels during and after a meal 
+- Gain = Correction / Error 
+	- Degree of effectiveness of a negative feedback control system
+	- Eg BP w blood transfusion 
+		- Arterial BP goes from 100 -> 175 mmHg when baroreceptors not functions 
+		- BP goes 100 -> 125 mmHg when baroreceptors _do_ function 
+		- Correction is 125 - 175 = -50
+		- Error is 125 - 100 = 25 
+		- Gain = -50/25 = -2 
+		- Higher gain -> more effective but higher energy use 
+		- Lower gain -> less precise but lower energy use

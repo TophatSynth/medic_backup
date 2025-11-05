@@ -1,4 +1,4 @@
-## Scenario #anki 
+## Scenario
 It is 4am Monday morning. You are a first-year medical student. Your flatmate Sanjay Sharma, a previously healthy 19-year-old student, has recently returned to St Andrews University, having been away for the weekend attending a large event.
 - Infectious disease?
 
@@ -17,7 +17,6 @@ Realising that he is ill, you take him back to his bed and elicit the following 
 
 Various thoughts go through your head and you decide to ring NHS24. 
 
-
 Over the phone you concisely describe the situation as you understand it. A doctor arrives very promptly, further assesses the situation and calls the emergency services.
 - NHS24 - Provider of digital health and care services
 	- Can check symptoms, triage severity of case, mental health and addiction stuff
@@ -31,7 +30,7 @@ Further significant findings by the doctor include: -
  Glasgow Coma Score 14 (E4 V4 M6)
  neck stiffness on flexion, but not lateral rotation
  a positive Kernig’s sign
- a purpuric, non-blanching rash; please see examples within the footnote, both available as library resources
+ a purpuric, non-blanching rash
  normal pupils and fundi
 
 - Fever, tachypnea, tachycardia, low systolic bp, maybe mild brain damage
