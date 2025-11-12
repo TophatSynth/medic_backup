@@ -129,7 +129,7 @@ Eukaryotes: Has membrane lined organelles
 	- They merge with endosomes containing proteins to be destroyed and undergo autophagy to destroy them 
 - Clinical example of lysosomal enzyme abnormality
 	- Lysosomal storage diseases - mutation in genes that encodes lysosomal enzymes
-	- Gaucher disease - mutation that encodes lysosomal enzyme for the breakdown of glycolipids
+	- Gaucher disease - mutation that encodes lysosomal enzyme for the breakdown of glycolipids ^6db41c
 		- Type I - Spleen, liver enlargement and bone lesion. Doesn't affect lifespan, not v serious, most common
 			- Serine sub. asparagine
 		- Type II - Extensive neurological involvement, severe and rare, most often in infancy and results in early death

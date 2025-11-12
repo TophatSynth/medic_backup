@@ -33,8 +33,8 @@
 	- Stable - liver, kidney - low turnover state, can regenerate
 	- Permanent - neurons, skeletal muscle - functionally will not regenerate
 - Skin repair
-	- Clean cut with little tissue loss - If you can bring the skin edges together, it can heal itself quite well <- labile - primary intention healing
-	- Messy cut with loss of tissue - Will still heal by filling the gap bc labile, but requires a lot more repair by fibroblasts + has lost structures like nerves/sweat glands - second intention healing -> scar
+	- Clean cut with little tissue loss - If you can bring the skin edges together, it can heal itself quite well <- labile - primary intention healing  ^2d5152
+	- Messy cut with loss of tissue - Will still heal by filling the gap bc labile, but requires a lot more repair by fibroblasts + has lost structures like nerves/sweat glands - second intention healing -> scar 
 	- But cannot always seal skin together bc risk of foreign bodies and infection -> abscess 
 - Granulation tissue
 	- Loops of capillaries supported by myofibroblasts - Actively contracts to reduce wound size

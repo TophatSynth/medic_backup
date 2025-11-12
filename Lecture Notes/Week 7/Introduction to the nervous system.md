@@ -1,4 +1,4 @@
-## Structure
+## Structure 
 - Has a cell body (soma) and neurites (axons/dendrites)
 	- Axon - single, long, myelinated or covered in Schwann cells
 	- Dendrites - multiple, thin, short extensions
@@ -47,7 +47,7 @@
 						- Nuclei of last 4 cranial nerves, connectoins between forebrain and cerebellum 
 				- Nuclei for all but the first 2 cranial nerves
 			- Cerebellum
-				- Has internal gray matter, middle white matter, and outer white matter 
+				- Has internal gray matter, middle white matter, and outer grey matter 
 				- Coordinates motor activity for smooth, well timed movements - important for balance
 			- Cerebrum
 				- Split into 2 parts

@@ -54,8 +54,8 @@
 				- Produces endotoxins
 				- Elicits potent immune and inflammatory responses from the host
 			- ![[Pasted image 20251007173950.png]]
-	- Peptidoglycan - mesh-like polymer of sugars and amino acids
-		- Sugar component is alternating residues of N-acetylglucosamine and N-acetylmuramic acid
+	- Peptidoglycan - mesh-like polymer of sugars and amino acids ^ccf847
+		- Sugar component is alternating residues of N-acetylglucosamine and N-acetylmuramic acid (NAG and NAM)
 	- Gram staining process
 		1. Primary stain
 			- Uses crystal violet dye -> everything is purple! :D

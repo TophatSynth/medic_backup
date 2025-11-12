@@ -1,0 +1,63 @@
+[[Introduction to the nervous system]]
+- Glial cells in the CNS - Ependymal cells 
+- Schwann cells are the equivalent of Oligodendrocytes - both myelinate neurons 
+
+## Structure of a neuron 
+- ![[Pasted image 20251112091742.png]]
+	- Dendrites - receivers 
+	- Axon - senders - synapses into another dendrite or soma of another neuron
+	- If the received signal passes a potential threshold, the receiving neuron generates an action potential and tranduces it down the axon - electrical -> chemical signal -> pass to a target cell via nerve terminals
+- Different types of neurons
+	- ![[Pasted image 20251112092243.png]]
+	- Unipolar 
+		- One long branch
+	- Pseudo-unipolar - only one projection coming out of the soma, but branches two ways 
+	- Bipolar - one dendrite and one axon end 
+	- Multipolar - Multiple dendrites, one axon
+- Nerve conduction
+	- Electrical signals transmitted via the movement of ions 
+	- Can be conducted both passively and actively
+		- Passive - passive diffusion of ions through channel proteins - spreads down the axon but loses strength over time, like heat spreading along a metal rod
+		- Active - Generation of action potentials due to opening of voltage-gated ion channels 
+	- Factors influencing nerve conduction
+		- Resistance - larger diameter, lower resistance -> faster passive current flow 
+				- But there is not enough space to keep increasing the diameter to maintain speed of conductance over long distances 
+		- Capacitance - membrane potential in the nerve - increased as size of the nerve increases
+			- For current to pass along the nerve, it must overcome the membrane potential - more difficult in bigger nerves
+	- 5 types of nerve fibres, differing in their myelination and conduction speed
+- Electrical properties of the cell membrane
+	- Electrical currents moved across cell membrane by ions, carried by transporter proteins 
+- Ion channels - Passive, ligand gated, voltage gated 
+	- Each cell type expresses a specific range of ion transport proteins 
+
+## Neuronal conductance
+- Resting membrane potential is -60 to -70 mV
+- ![[Pasted image 20251112094106.png]]
+	- At rest, voltage gated/ligand gated Na channels inactive, leak K channels open 
+- ![[Pasted image 20251112094150.png]]
+	- Signal arrives -> Na channels open, small amount of Na enters 
+	- Graded potential 
+		- Small signal, decays temporally and spatially (over time and away from origin)
+			- Bc Na disperses in cytoplasm and also gets pumped out by Na/K ATPase
+		- Can be additive if multiple small signals arrive at the same time and place
+- ![[Pasted image 20251112094451.png]]
+	- Small signal cascades, causes some more Na channels to open -> more Na comes in -> membrane potential reached -> [[Ionic basis of the action potential#The action potential|action potential triggered]] 
+- Propagation of the action potential
+	- Direction 
+		- Action potentials are all or none in nature - threshold reached -> full action potential 
+		- Can only move away from source (due to refractory period of Na channels - K channels don't have that)
+			- ![[Pasted image 20251112095141.png]]![[Pasted image 20251112095231.png]]
+			- Absolute refractory period - inactivation of Na channels
+			- Relative refractory period - more difficult to elicit a second action potential bc the threshold potential has gone up 
+	- Frequency
+		- Sustained stimulus can produce continuous firing of action potentials 
+		- ![[Pasted image 20251112095437.png]]
+		- Firing rate increases as injected current increases
+		- Action potential spiking pattern is different between different cell types 
+	- Speed 
+		- Some axons have an additional feature to speed up neuronal transmission 
+		- Myelin sheath
+			- Speeds up propagation 10x
+			- Gaps between myelinated bits are called Nodes of Ranvier - where voltage gated Na+ channels are found - saltatory conduction - voltage seems to jump between nodes 
+			- Demyelinating disease -> impaired conduction 
+				- Eg multiple sclerosis - autoimmune disease attacking oligodendrocytes 

@@ -9,7 +9,7 @@
 ### Fatty acids
 - Saturated or unsaturated 
 	- Changes the 3D structure of the molecule
-	- Both hydrophobic and hydrophilic - amphipathic #anki 
+	- Both hydrophobic and hydrophilic - amphipathic
 - Can be stored as triacylglycerols/triglycerides
 	- 1 glycerol, three fatty acids
 

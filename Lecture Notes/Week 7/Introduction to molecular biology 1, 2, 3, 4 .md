@@ -74,7 +74,7 @@
 	- Errors can be removed by DNA polymerases during template synthesis, or after replication by certain complexes
 		- The post-replication pathway doesn't work properly in some individuals - hereditary non-polyposis -> increases risk of colon cancer
 	- Normal mutation rate - 1 error for every 3 genome replications 
-- Polymerase chain reaction (PCR)
+- Polymerase chain reaction (PCR) ^5ad4ee
 	- Exponentially amplify certain regions of DNA from a template
 	- Uses DNA primers to delineate replication area, DNA polymerases for replication, and a source of deoxynucleotides
 	- Heat to separate strands, cool and add primers + polymerase -> replication woo 
@@ -164,3 +164,77 @@
 	- Other modifications ![[Pasted image 20251030103931.png]]
 	- Post transcriptional modifications 
 		- Further alters the protein -> more different proteins from the same gene
+
+
+## Part 4
+- Transcription -(transportation)-> translation
+	- Nuclear pore complex ![[Pasted image 20251106140835.png]]
+	- Energy dependent process - proteins binding to mRNA, transporting it, cofactors etc 
+- Bases -> amino acids
+	- Genetic code is degenerate - multiple different combinations of bases can code for the same amino acid
+	- Start point of reading is very important - changing by one base means totally different amino acids - frameshift -> nonsense (caused by deletion, insertion, etc) ![[Pasted image 20251106141143.png]]
+	- Substitution/point mutation -> missence ![[Pasted image 20251106141418.png]]
+	- Mutations in non-coding regions can also have significant effects 
+	- Silent mutations - no change in amino acid sequence ![[Pasted image 20251106141534.png]]
+	- Mutation vs polymorphism
+		- Mutations -> changes in phenotype -> disease
+		- Polymorphisms -> changes in genotypes that don't contribute to disease 
+- Translation
+	- Initiation codon is the starting point to read information - AUG
+	- ![[Pasted image 20251106141850.png]]![[Pasted image 20251106141952.png]]
+	- Stop codon - doesn't code for anything, stops translation - UGA
+	- tRNA - adaptor between codon and specific amino acid
+		- Has an anti-codon loop that base pairs with the codon in mRNA 
+		- ![[Pasted image 20251106142100.png|300]]
+		- Each amino acid is bonded to the next by a peptide bond
+		- Aminioacyl-tRNA synthetases 
+			- Adds the correct amino acid to the correct rRNA
+			- 20 different types, each only recognises its one amino acid and its compatible rRNA's 
+			- Adds the amino acid onto the 3' terminus of the tRNA
+	- Ribosomes
+		- Free floating or RER
+		- Large and small subunits 
+			- ![[Pasted image 20251106142437.png]]
+			- Catalytic, binds to tRNA respectively
+		- E site, P site, A site ![[Pasted image 20251106142459.png]]
+	- Occurs in 3 phases
+		1. Initiation
+			- Scans mRNA for AUG
+			- Initiator tRNA for start codon at A site of the ribosome
+			- Moved to the P site, ready to bind the next tRNA 
+		2. Elongation
+			- New tRNA binds to A site, binds its amino acid to the one at the P site
+			- Grows the polypeptide chain, moves everything along - tRNA at the E site is ejected
+			- ![[Pasted image 20251106142701.png]]![[Pasted image 20251106142715.png]]
+			- Moving to next codon - Large subunit translocates first, then small subunit ![[Pasted image 20251106142814.png]]![[Pasted image 20251106142820.png]]
+		3. Termination
+			- Requires release factors 
+			- Ribosome dissociates to be reused
+	- Polysome - multiple ribosomes on the same mRNA strand ![[Pasted image 20251106142917.png]]
+- Inhibition of bacterial protein synthesis by antibiotics 
+	- Chloramphenicol - inhibits formation of peptide bonds 
+	- Tetracyclines - interferes with binding of tRNA to ribosome
+- Post translation
+	- Translocation to relevant part of the cell
+	- Protein folding
+	- Post-translational modification 
+- Co-translation - can modify peptide chain as its being produced 
+- Signal sequences 
+	- Part of the amino acid sequence that tells the cell where to put this protein 
+	- Usually signals to be put into nucleus, ER, or mitochondria 
+	- Is cleaved after 
+	- Eg Nuclear localisation signal - signals that it is supposed to go into the nucleus ![[Pasted image 20251106143429.png]]
+		- Mutated -> protein works fine but remains in the cytosol 
+	- Also dictate post-translational modifications
+- Pathology
+	- Too much/too little modification is harmful
+		- Eg Tau protein hyperphosphorylation is associated with dementia
+	- Defects in protein folding and modification 
+		- eg CFTR 
+- Mutations - can have a range of effects
+	- Class I - No transcription
+	- Class II - Protein incorrectly processed
+	- Class III - Inappropriately regulated
+	- Class IV - Inappropriate function
+	- Class V - Reduced transcription
+	- Class VI - Unstable protein

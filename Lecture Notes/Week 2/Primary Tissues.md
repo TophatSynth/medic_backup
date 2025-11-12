@@ -42,7 +42,7 @@
 	- Has a soma, receptive dendrites, transmitting axon and end terminal synapse
 		- Synaptic vesicles containing neurotransmitters release the molecules across channel proteins, they travel across the synaptic cleft, bind to receptors on the next nerve cell
 	- Myelin sheath with Nodes of Ranvier
-	- Different types !!!anki
+	- Different types 
 		- Unipolar
 			- Only has one nerve process - one axon
 			- Only occurs in invertebrates

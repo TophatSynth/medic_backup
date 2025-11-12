@@ -23,7 +23,7 @@
 	- Sterols 
 		- Bile acids, steroid hormones, vitamins, cell membranes 
 - Inherited disorders in lipid pathways 
-	- Gauchers - 
+	- [[Cells and Organelles 1 and 2#^6db41c|Gaucher disease]] 
 	- Lipid metabolism enzyme defects -> lipid accumulation 
 	- Mostly affects NS, liver, spleen and bone marrow 
 # Lipids in membranes 
@@ -31,14 +31,15 @@
 	- Phospholipids - glycerophospholipids + some sphingolipids
 	- Glycolipids - always sphingolipids 
 	- Phospholipids
-		- ![[Pasted image 20251104101841.png|400]]![[Pasted image 20251104101833.png]]
+		- ![[Pasted image 20251104101841.png|450]]![[Pasted image 20251104101833.png]]
 		- Glycerophospholipids
-			- Has a glycerol backbone
-		- Choline
-		- Ethanolamine
-		- Serine
-		- Inositol #tofinish
-	- Glycolipids #tofinish 
+			- Has a glycerol backbone, polar head group, and fatty acid chains
+		- All the phosphatidyl-X lipids are phospholipids (duh) - made from phosphatic acid + extra group:
+			- Choline
+			- Ethanolamine
+			- Serine
+			- Inositol
+	- Glycolipids
 		- Sphingolipids 
 			- Sphingosine core
 			- ![[Pasted image 20251104102039.png]]

@@ -16,7 +16,7 @@
 	- Cartilaginous joint - limited or no movement
 		- Synchondroses - primary cartilaginous joint made of hyaline cartilage, allows bone growth during adolescence but eventually ossifies (eg rib cage at first sternocostal joint and at the costochondral joints) (rest of cartilage is hyaline cartilage tho)
 			- ![[Pasted image 20250925132632.png|400]]
-		- Symphyses - secondary cartilaginous joint, often occurs in the midline (eg at pubic symphysis, between vertebrae, manubriosternal joint). Made of cartilage sandwich - bone, hyaline, fibrocartilage, hyaline, bone (limited movement) 
+		- Symphyses - secondary cartilaginous joint, often occurs in the midline (eg at pubic symphysis, between vertebrae, manubriosternal joint). Made of cartilage sandwich - bone, hyaline, fibrocartilage, hyaline, bone (limited movement)  ^d61c04
 	- Synovial joint - variety of movement
 		- Anatomy
 			- Fibrous capsule lined with collagenous synovial membrane that secretes synovial fluid 

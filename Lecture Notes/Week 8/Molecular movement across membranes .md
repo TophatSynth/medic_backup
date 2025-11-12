@@ -1,0 +1,143 @@
+## Transport across cell membranes
+- Uniport
+	- Passive 
+		- Simple diffusion
+		- Facilitated diffusion
+			- Carrier protein w/ conformational change but no additional energy required - potential/kinetic energy from concentration gradient is sufficient for driving conformation change
+	- Active
+		- Primary
+		- Secondary
+- Cotransport
+	- Symport
+	- Antiport
+- ![[Pasted image 20251105122213.png]]
+
+
+- Passive transport
+	-  ΔS = [S]outside - [S]inside 
+		- Concentration gradient across membrane
+	- ![[Pasted image 20251105122554.png|200]]
+	- Diffuse until equilibrium
+	- V inwards = P * delta S
+		- V inwards is rate of diffusion into cell (moles/sec/cm2 of membrane)
+		- delta S is concentration gradient across membrane 
+		- P is permeability coefficient (experimentally determined)
+- Partition coefficient - measure of how well a substance dissolves in lipid/aqueous phase 
+	- Shake the substance with a mixture of oil and water, allow to settle and measure the concentration of the substance in the oil and the water
+	- ![[Pasted image 20251105122946.png]]
+	- Higher K -> more lipophilic -> increased rate of movement through membrane
+	- Depends on lipophilic/hydrophilic nature, polarity, and size
+
+## Aquaporin channels 
+- Protein channels that transport water one molecule at a time while blocking other molecules 
+	- Very high rate of water transport
+	- Transport of similar sized molecules may be possible but decreases rapidly with size - eg urea diameter is only 20% larger -> 1000 times lower rate of transport than water 
+- ![[Pasted image 20251105123928.png]]
+	- Hydrophilic channels 
+- Regulated by various hormones, eg ADH
+	- Aquaporin 2 (AQP-2) regulated by ADH - stimulates movement of AQP-2 to the lumenal side of the renal cell membrane in late distal tubules, collecting tubules and collecting duct -> increased water reabsorption 
+
+## Protein channels 
+- Highly specific - eg Na+, Cl-, K+ 
+- Some are always open, some are gated
+- Gated channels 
+	- Voltage gated
+		- Potential difference applied across membrane -> open/close the gate
+		- Eg Na+ channel
+			- Lined with negatively charged amino acids that separate water from Na+ -> only the smaller, unhydrated Na+ is diffused 
+			- K+ cannot move through the Na+ channel - too large - different channel
+				- This one uses carbonyl oxygens to strip water away from K+ 
+	- Ligand gated
+		- Ligand binding -> open/close the gate
+- Facilitated diffusion 
+	- May be active transport or facilitation diffusion
+	- Ligand binds to specific carrier -> conformational change -> transports the substance through membrane 
+	- Has a Vmax - carrier takes time to change shape -> can saturate due to more ligands than limited number of carriers can deal with - limits rate of diffusion 
+- Active transport 
+	- Primary - energy directly from energy source eg ATP
+	- Secondary - energy from energy stored as a concentration difference from a secondary process - links movement of 2 or 3 substances 
+	- Can be coupled tgth ![[Pasted image 20251105125309.png]]
+		- High H+ concentration provides energy for secondary active transport of S 
+- Symporters 
+	- Eg Na+ glucose symporter 
+	- Both Na+ and glucose must be bound for the transporter to work 
+		- ![[Pasted image 20251105125543.png]]
+- Antiporters 
+	- Secondary active transport 
+	- ![[Pasted image 20251105125630.png]]
+- Movement through sheets
+	- Active transport through the cell membrane on one side of the sheet of cells, simple/facilitated diffusion on the opposite side 
+
+
+## Sodium/potassium pump - Na+/K+ ATPase
+- Cells need to maintain their intracellular ionic concentrations, despite the diffusion of ions across the membrane
+- Lots of Na outside, lots of K inside
+	- ![[Pasted image 20251106091228.png]]
+- Na+/K+ ATPase is an integral membrane protein - enzyme able to transport Na+ and K+ across the membrane
+	- Na+ has to move against both concentration and electrical gradient 
+	- Establishes a negative voltage inside the cell compared with the outside - vital for nerve function and signal transmission
+	- Too high Na conc means water osmoses inside - can burst cell 
+		- 3 Na out, 2 K in -> net transfer of ions out of the cell -> inside is more dilute -> prevent more water osmosing in 
+	- Binds with ATP on the inside of the cell membrane -> energy for the transport
+- Structure 
+	- 2 a and 2 b subunits 
+	- ![[Pasted image 20251106091558.png]]
+	- Na+ binds 3 per alpha subunit
+	- K+ binds 2 per alpha subunit
+	- Uses ATP 
+	- ![[Pasted image 20251106091808.png]]
+	- Most cells have ~1 mill Na/K pump sites
+	- ![[Pasted image 20251106091853.png]]
+- Km 
+	- High Km has a low affinity for its substrate <- requires a greater conc of substrate to achieve Vmax
+	- Km for Na+ is 20 mM 
+	- Km for K+ is 1 mM
+	- Therefore, intracellular Na conc is the rate limiting factor - usually only about 10 mM inside the cell 
+		- Therefore, can inc rate of reaction by increasing Na conc inside the cell
+		- Can also be inhibited by removing K conc on the outside
+- Inhibition by cardiac glycosides (digoxin)
+	- Digoxin - used to treat heart failure and arrhythmias - blocks Na/K pump by biding to K+'s site 
+		- Induces increase in intracellular Na -> influx of calcium in the heart and cause an increase in contractility (Na/Ca pump) 
+	- Increased K+ on the outside -> increases the amount of digoxin needed to inhibit the sodium pump 
+		- ![[Pasted image 20251106092548.png]]
+- Therapeutic Index (TI)
+	- The "safe zone" of dosage of a drug
+	- ![[Pasted image 20251106092736.png]]
+	- ![[Pasted image 20251106092750.png]]
+	- ![[Pasted image 20251106092934.png]]
+		- Remifentanil - very high TD50 - very hard to overdose
+		- Digoxin - very low TI - easy to overdose
+- Blood potassium concentrations
+	- Hypokalaemia - <3.5 mEq/L 
+	- Normokalaemia - 3.6-5.2 mEq/L
+	- Hyperkalaemia - >5.5 mEq/L
+	- Hypokalaemia -> increases digoxin toxicity 
+- Other transporters
+	- Na/Ca exchanger
+		- Secondary active antiport transporter
+		- ![[Pasted image 20251106094711.png]]
+	- Glucose transporters 
+		- ![[Pasted image 20251106094738.png]]
+		- Na+ dependent glucose transport - Sodium Glucose Transporters (SGLT)
+			- Secondary active co-transporter ![[Pasted image 20251106094806.png]]
+			- Allows for dense packing of glucose into cells 
+			- ![[Pasted image 20251106095109.png]]
+		- Intestinal glucose uptake using SGLT1
+			- ![[Pasted image 20251106095030.png]]
+- Diuretics
+	- Increase urinary output - used to treat hypertension and etc 
+	- But - increases urinary excretion of potassium -> at risk for digoxin toxicity
+	- Treatment -> administer a digoxin binding antibody -> dissociate from the sodium pump and reverse the toxicity 
+
+
+
+- Nernst equation - the electrical potential across a cell membrane as a single type of molecule diffuses across it 
+	- Assume cell membrane is selectively permeable to only one substance
+	- ![[Pasted image 20251107112217.png]]![[Pasted image 20251107112210.png]]
+- Simplified ![[Pasted image 20251107112345.png]]
+	- Monovalent ion at 37C 
+	- Use this to calculate other ions 
+	- Negative charge has negative z 
+- Cl- doesn't contribute to equilibrium potential in cells - its concentration just follows it
+- Na and K create the equilibrium potential due to the pumps 
+- The resting membrane potential is a negative value bc at rest the cell membrane is more permeable to K+ than Na+ 

@@ -1,0 +1,69 @@
+Chemotherapy #anki 
+- The use of chemicals (natural or synthetic) to inhibit the growth/replication of pathogens or cancerous cells within the body
+- Antibiotics and anti-bacterials are interchangeable
+
+History.....
+- Penicillin - penicillin G - most frequently used form
+- Semi-synthetic revolution
+	- Systematic screening of natural products 
+	- Ampicillin - took the penicillin nucleus and modified it
+- Streptomycin
+	- Semi-synthetic as well - taking anti-microbial agents from soil organisms -> stripped down to essential parts 
+
+## Chemotherapeutic agents (drugs weee eeeeeeeee)
+- Selective toxicity 
+	- The idea that the drugs are intended to be toxic to pathogens/cancerous cells, but be relatively harmless to the host/normal cells - preys on the biochemical differences between the target group of cells and "normal" cells 
+		- Eg we get folate from food, but bacteria synthesise it - target the folate synthesis mechanisms -> kill the bacteria but not us 
+- ![[Pasted image 20251111142859.png|400]]
+	- Potential antibiotic targets - cell wall, cell membrane, DNA, ribosomes
+	- Reactions - class I/II - if can stop those, can kill the bacteria 
+	- Outer cell wall targeting drugs 
+		- Beta-Lactam - eg Penicillin G
+			- Binds to penicillin binding proteins
+			- Prevents peptidoglycan cross-linking
+			- Cephalosporins - prevent complete disconnection of bacteria after binary fission - forms mechanically weak strands of bacteria
+			- ![[Pasted image 20251111143748.png]]
+			- 
+		- Glycopeptide - Vancomycin
+			- Prevents transglycosylation and transpeptidation - prevents elongation of the PDG layer 
+			- Targets C-terminal D-Ala-D-Ala ![[Pasted image 20251111143643.png]]
+		- Cyclic peptides - prevents carriage of building blocks of PDG past the cell membrane - eg Bacitracin
+		- Phophonic acids - inhibits first stage of PDG synthesis - eg Fosfomycin
+		- Lipopeptides - calcium-dependent membrane - depolarisation - causes calcium to leak out -> disrupts the membrane potential -> causes ✨ problems ✨ - eg daptomycin
+- Vancomycin
+- Penicillins - target bacterial cell walls - [[Microbial Structure#^ccf847|Peptidoglycan]] 
+	- In the absence of allergy, has very low toxicity -> high doses can be used
+	- Penicillin G and V 
+	- Beta-Lactamase-resistant Penicillins 
+		- Methicillin, Oxacillin
+		- Beta-Lactamase is produced by the bacteria - breaks down beta lactams
+	- Broad spectrum penicillins 
+		- Ampicillin and amoxicillin 
+	- Extended-spectrum penicilins
+		- Carbenicillin, Ticaracillin
+		- Extended-spectrum Beta-Lactamse producers - very bad bacteria that cause severe infections
+- Cephalosporins
+	- Comes from fungus Cephalosporium Acremonium
+	- Work by the same mechanisms as penicillins 
+	- Oral and parenteral
+	- Cephalexin, cefuroxime
+- Bacterial folate antagonists
+	- Sulphonamides and trimethoprim 
+	- Folate system important in cell metabolism and DNA replication
+- Aminoglycosides 
+	- Forms ionic bonds at the cell surface, penetrates the cell wall by a transport mechanism across the cell membrane, diffuses into the cytoplasm, and then binds to ribosomes
+	- Streptomycin, kanamycin
+		- Protein synthesis inhibition - either binds to ribosomes - at the interface between the two subunits or directly to the individual subunits; or causes misreading of mRNA
+		- Tetracyclines 
+			- Prevent attachment of tRNA to the acceptor site in ribosomes - prevents addition of new amino acids to peptide chain 
+			- Only weakly bound to ribosomes - can dissociate and then rebind to _other_ ribosomes -> more damage woo!
+		- Chloramphenicol, erythromycin and clindamycin
+			- Prevents addition of new amino acids to peptide chain by binding to ribosomes 
+			- Prevents association of peptidyltransferase to the amino acids -> no transpeptidation 
+			- May also prevent translocation of the ribosome down the mRNA template (erythromycin)
+- Misc
+- Fluoroquinolones
+	- Synthetic antibiotics 
+	- Broad spectrum agents or narrower spectrum drugs
+	- Inhibits supercoiling/uncoiling of DNA
+		- ![[Pasted image 20251111145632.png]]

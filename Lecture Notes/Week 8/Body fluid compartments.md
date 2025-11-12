@@ -12,7 +12,6 @@
 	- Controlling movement of ions/molecules through membranes is very important for life
 	- Eg 
 		- ![[Pasted image 20251104091807.png]]
-		- #anki 
 
 # Cell membrane
 - Gives cell structures and organises organelles 

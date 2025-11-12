@@ -1,0 +1,143 @@
+## Vertebral column #anki 
+- C7 vertebrae, C8 nerves; S5 fused vertebrae; Co1-4 fused vertebrae
+- Function
+	- Enables upright posture
+	- Supports body weight and skull
+	- Protects and transmits spinal cord and nerves
+	- Contributes to the thorax
+	- Provides attachment for muscles -> movement
+- Curvatures 
+	- Primary curvatures - whole back - present in fetuses - kyphosis
+	- Secondary curvatures - cervical and lumbar curves - develop when infant starts to walk - lordosis
+		- Gives flexibility, distributes stress
+	- ![[Pasted image 20251111101228.png|200]]![[Pasted image 20251110161904.png|200]]
+- Vertebrae 
+	- Typical structure
+		- ![[Pasted image 20251111101613.png]]
+		- Vertebral body - trabecular, has red bone marrow -> [[Red blood cells|erythropoesis]] 
+		- Intervertebral surface (endplate) 
+		- Vertebral foramen - forms the vertebral canal 
+			- Formed by the neural arch - left and right pedicles, laminae, and vertebral body 
+			- Transverse process - marks boundary bt pedicle and lamina
+				- Superior/inferior articular process - upper and lower structures where pedicle and lamina meet
+			- Spinous process - where the transverse processes meetup at the back 
+			- Superior vertebral notch/inferior vertebral notch - when stacked, form the intervertebral canal - where spinal nerves come out of 
+	- Regional 
+		- Cervical
+			- Typical
+				- ![[Pasted image 20251111102142.png]]
+				- Small body - allows for rotation + not much weight to hold
+				- Uncinate processes - cup-like curve in the top - articulates with above vertebrae
+					- Luschka's joints - synovial joint with articular cartilage 
+				- Spinous process - short and bifid (two-pronged) - Except C7 - normal spinous process
+				- Transverse process
+					- Transverse foramen - transmits the vertebral arteries and veins 
+				- S/I articular facets 
+			- Atlas (C1)
+				- ![[Pasted image 20251111102503.png]]
+				- Articulates with the occipital bone 
+				- No vertebral body 
+					- Instead has L/R lateral masses, joined by posterior arch 
+					- Also has anterior arch
+				- No spinous process
+			- Axis (C2)
+				- ![[Pasted image 20251111102611.png]]
+				- Has a vertebral body
+				- Bifid spinous process
+				- Has an odontoid process (Dens) above - articulates with anterior arch of Atlas 
+			- Rotation of the head and neck done through atlanto-axial joints (median and lateral) and atlanto-occipital joint
+		- Thoracic
+			- ![[Pasted image 20251111102816.png]]
+			- Larger body 
+			- Superior articular facets are flat and face postero-laterally in the arc of a circle -> allows rotation
+			- Articulates with ribs - costal demi-facets (on vertebral body) and transverse costal facets (on transverse process)
+				- Upper and lower costal demi-facets - allows the vertebrae to articulate with 2 ribs each 
+			- Long spinous process pointing inferiorly - overlaps 2 vertebrae 
+		- Lumbar
+			- ![[Pasted image 20251111103138.png|250]]
+			- Largest body - very thick and stumpy
+			- Superior articular facets - concave and face postero-medially - allows flexion/extension 
+			- Spinous process - quadrangular, stumpy and flat
+		- Sacrum
+			- ![[Pasted image 20251111103330.png]]
+			- Fusion of 5 vertebrae - vertebral body, transverse/spinous processes all fuse
+				- Median/intermediate/lateral crests - union of spinous, articular and transverse processes respectively 
+			- Sexual dimorphism - more curved to allow for more space for the infant to pass through
+				- Sacral promontory - anterior projection of So1 - shorter in females
+			- Sacral canal - contains cauda equina 
+				- Sacral hiatus - inferior opening of the sacral canal 
+				- Important in anaesthesia - can inject into it
+				- Cornua - two "horns" on either side of the hiatus - easily palpable 
+			- Posterior/anterior sacral foramen - posterior/anterior spinal nerves pass through  
+	- Joints 
+		1. Symphysis joints ([[Joints and muscles#^d61c04|secondary cartilaginous]]) - between endplates and intervertebral disks
+		2. Facet joints (zygapophyseal) - synovial joints between articular processes
+	- Intervertebral disc
+		- ![[Pasted image 20251111104003.png]]
+		- Contributes to shape of the spinal curvatures
+		- 20-25% of the length of the column 
+		- Nucleus polposus - gelatinous, 70-90% water - absrobs compressive forces between vertebrae
+		- Annulus fibrosus - strong, concentric rings of fibrocartilage - attached via anterior/posterior longitudinal ligaments
+		- ![[Pasted image 20251111104109.png|240]]![[Pasted image 20251111104130.png|180]]
+		- Can deform to allow movement between the vertebral bodies ![[Pasted image 20251111104241.png]]
+			- Puts pressure on nucleus pulposus, annulus fibrosus may degenerate and weaken from stress and age
+				- Can lead to herniated disk! yay! 
+				- Usually herniates postero-laterally 
+					- Compresses the spinal cord, cauda equina, or spinal nerve depending on location of herniation 
+					- ![[Pasted image 20251111104428.png]]
+- Ligaments (fuck ton of these..)
+	- ![[Pasted image 20251112135636.png]]![[Pasted image 20251112135644.png]]![[Pasted image 20251112135656.png]]
+	- Atlanto-occipital and anterior atlanto-axial membranes -> continues downwards as anterior longitudinal ligament
+		- Anterior longitudinal ligament - wide ligament running down the anterior surface of the vertebral bodies - preventing herniated disks - limits extension
+	- Tectorial membrane - extends between foramen magnum and C2 -> continues as posterior  longitudinal ligament 
+		- Posterior longitudinal ligament - narrow - can only protect certain parts of the vertebral disks - also limits hyperflexion
+	- Alar ligament - prevents excessive rotation of the atlas/axis
+	- Transverse ligament of atlas - keeps Dens close to the anterior arch 
+	- Ligamentum flavum - extends between vertebral laminae - limits sudden flexion 
+	- Ligamentum nuchae - extends between occipital bone and spinous process of C7 - limits flexion and provides muscle attachment 
+	- Supraspinous ligament - Between the tips of the spinous processes of sacrum to C7 
+	- Interspinous ligament - between the rest of the spinous processes of sacrum to C7 
+- Movement 
+	- Extension, flexion, lateral flexion, rotation 
+	- Motion segment - 2 neighbouring vertebrae and the links between them 
+## Muscles 
+- Can be classified into two types 
+	- Extrinsic
+		- Derived from hypoaxial myotome 
+		- Superficial 
+		- Involved in movement of the upper limbs and thoracic wall 
+		- Innervated by anterior rami of spinal nerves 
+	- Intrinsic
+		- Derived from epaxial myotome 
+		- Located deep, between the spinous processes and the angle of the ribs 
+		- Provides support and movement against gravity - strong
+		- Moves the vertebral column and head
+		- Innervated by the posterior rami of spinal nerves 
+- Layers
+	- Layer 1 + 2 -> extrinsic 
+	- Layer 1 (superficial) ![[Pasted image 20251112133128.png]]
+		- Trapezius 
+			- Elevates and rotates shoulders during abduction of arm 
+			- Connected to the skull and spinous processes on one side, and the scapula and clavicle on the other side
+		- Latissimus dorsi 
+			- Connected to the iliac crest, fascia and spines of T6-12 on side, and to the humerus on the other
+			- Shoulder extension, adduction of the arm
+	- Layer 2 ![[Pasted image 20251112133143.png]]
+		- Levator scapulae - scapular elevation
+		- Rhomboid major and minor - scapular retraction and elevation 
+		- Serratus posterior superior/inferior - inspiration and expiration, respectively
+	- Layer 3
+		- Keeps vertebral column upright and in extension against gravity
+		- 3 layers, S/M/D
+			- Layer 3a ![[Pasted image 20251112133324.png]]
+				- Splenius capitis and splenius cervicis
+				- Acting together - extends the neck/head
+				- Acting alone - rotation and lateral flexion
+			- Layer 3b
+				- Erector spinae, made of 3 columns 
+					- Iliocostalis - most lateral
+					- Longissimus - intermediate
+					- Spinalis - most medial
+			- Layer 3c ![[Pasted image 20251112133742.png]]
+				- Transversospinalis 
+- Deep neck muscles #tofinish 

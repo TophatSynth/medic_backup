@@ -1,0 +1,99 @@
+## Surgical site infection (SSI)
+- Infections occurring in an incision made for an invasive surgical procedure
+- Makes up ~20% of HCAI's, over 1/3 of post-operative deaths
+- Happens with 30 days of a surgery
+- Prevention is better than cure 
+- Signs of infection
+	- [[Acute inflammation#^352f99|Inflammation]]
+	- Erythema - skin redness
+	- Discharge
+	- Pain
+	- Failure to heal 
+	- Fluctuant collection 
+	- Systemic symptoms of sepsis 
+	- Pyrexia - fever 
+- Presentation of SSI's, from mild to severe 
+	- ![[Pasted image 20251106132818.png|200]]
+	- Wound discharge
+		- Purulent discharge
+	- Dehiscence - wound rupturing along incision
+	- Abscesses 
+	- Spread to deeper tissue
+	- Sepsis 
+	- Necrosis
+		- Fat necrosis - deeper than the epidermis -> subcutaneous tissue 
+	- Necrotising fasciitis - deep infection, destroys soft tissue until bone
+	- Gangrene - tissue death by lack of blood supply
+		- Gas gangrene - clostridium perfringens 
+- Risk factors of SSI's
+	- Patient factors - extremes of age, poor nutrition, diabetes mellitus, renal failure, immunosuppresion, current smoker
+	- Operation factors - preoperative shaving, site of incision, length of operation, tissue handling (skill of cutting), foreign material in surgical site, insertion of surgical drains, poor closure of the wound
+- How, why and when?
+	- Contamination of incision by normal microbiota 
+	- Can occur before, during and after surgery
+- Microbes involved
+	- Skin - Staph aureus, strep spp., enterococci spp.
+	- Bowel - E coli, Bacteroides fragilis, Clostridium perfringens, enterococci spp., anaerobic cocci 
+		- If able to get into blood/surgical site - bad >:/ 
+- Consequences
+	- Microbial penetration from superficial -> deeper tissues, bloodstream and other sites (heart valves, bones, joints, peritoneum, CNS) 
+	- Bacteraemia - transient bacteria in the blood
+	- Septicaemia - more permanent systemic infection 
+	- Sepsis - the disease _of_ septicaemia - systemic infection w/ multi organ failure
+- Factors influencing development of SSI's 
+	- Pre-operative
+		- MRSA screening
+		- Showering
+		- Only remove hair immediately pre-operative
+			- Clip, don't shave - small, local inflammation is bad
+		- Antibiotic prophylaxis - giving antibiotics before surgery
+		- Disinfection - hospital staff, surgical team and patient
+	- Intra-operative
+		- Sterile field, equipment, surgical site
+		- Maintaining good blood supply and homeostasis
+		- Wound closure + appropriate dressing
+		- Disinfection, topical antibiotics
+		- Using negative pressure dressing in high risk cases 
+		- Theatre design - laminar flow of air, air filters
+	- Post-operative
+		- Use appropriate dressings
+			- Gauze, non-adhesive fabrics 
+			- Occlusive dressings
+			- Vacuum/negative pressure dressings
+				- Vacuum - used for secondary intention healing or wounds with high amounts of exudate
+		- Aseptic/non-touch technique to change/remove dressings
+		- Minimise dressing changes 
+		- Sterile saline for wound cleansing 
+		- Keep pre/postoperative length of stay in hospital to a minimum 
+		- Device associated infections - catheters, cannulas, central lines 
+		- Prosthetic joint infections 
+			- Risk factors - rheumatoid arthritis, DM, malnutrition, obesity, anaemia, immunosuppression 
+			- Diagnostics - history, examination, blood culture, biopsy
+- Classification of surgeries 
+	- Class I - Clean, <10 cfu/ml
+		- Completely clean, no acute inflammation
+	- Class II - Clean/contaminated, 20-40 cfu/ml
+		- During an urgent/emergency surgery 
+		- Clean wounds with higher risk of infection
+		- Uncomplicated resp/GI/GU tract surgery
+	- Class III - Contaminated, 1000-1500 cfu/ml
+		- Outside object comes into contact with wound 
+		- Large amounts of spillage from GI tract into wounds
+	- Class IV - Dirty, >3500 cfu/ml
+		- Purulent inflammation 
+		- Foreign object lodged in wound
+		- Traumatic or infected wounds 
+	- CFU's - colony forming units - each dot on the dish ![[Pasted image 20251106135216.png]]
+- Incidence of SSI's
+	- ![[Pasted image 20251106134755.png]]
+- Wound closure
+	- Interrupted suture
+	- Interrupted mattress sutures
+	- Staples
+	- Continuous/subcuticular suture
+- Biofilms 
+
+## Wound healing
+- [[Responses to Cell and Tissue Injury#^2d5152|Primary vs secondary intention closure]] 
+	- ![[Pasted image 20251106131342.png]]
+	- Secondary intention - larger wound -> easier for bact to get in 

@@ -4,7 +4,7 @@ Main causes of acute inflammation
 - Physical - uv light, foreign bodies
 - Chemical - chemical burns!! :D 
 
-- 5 main physical characteristics of inflammation
+- 5 main physical characteristics of inflammation ^352f99
 	- Heat
 	- Redness
 	- Swelling
