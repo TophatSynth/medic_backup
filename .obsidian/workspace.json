@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f860602a946d0cc2",
+        "id": "511720a50c42e1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ffa6dc3b4cf77e",
+            "id": "4a191397bc07240c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
+                "file": "Lecture Notes/Week 9/Local anaesthetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles of Antimicrobial Chemotherapy"
-            }
-          },
-          {
-            "id": "ab672a7009c63716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Week 8/Ionic basis of the action potential.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ionic basis of the action potential"
+              "title": "Local anaesthetics"
             }
           }
         ]
@@ -89,7 +75,7 @@
             }
           },
           {
-            "id": "2624cfc033622ef5",
+            "id": "a0321f86b6f7503d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -218,25 +204,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96e28b055d5dcce1",
+  "active": "4a191397bc07240c",
   "lastOpenFiles": [
-    "Lecture Notes/Week 8/Ionic basis of the action potential.md",
+    "Home.md",
+    "Lecture Notes/Week 9/Local anaesthetics.md",
+    "Attachments/Pasted image 20251113102213.png",
+    "Attachments/Pasted image 20251113101454.png",
+    "Lecture Notes/Week 5/Urinary system.md",
+    "Lecture Notes/Week 9/Back bones, joints and muscles.md",
+    "Lecture Notes/Week 7/Introduction to the nervous system.md",
+    "Lecture Notes/Week 9/Introduction to public health.md",
     "Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
+    "Attachments/Pasted image 20251111145632.png",
+    "Lecture Notes/Week 8/Ionic basis of the action potential.md",
     "Attachments/Pasted image 20251111143748.png",
     "Attachments/Pasted image 20251111143643.png",
     "Attachments/Pasted image 20251111142859.png",
-    "Home.md",
-    "Lecture Notes/Week 9/Back bones, joints and muscles.md",
     "Attachments/Pasted image 20251112135656.png",
     "Attachments/Pasted image 20251112135644.png",
     "Attachments/Pasted image 20251112135636.png",
     "Attachments/Pasted image 20251111103330.png",
-    "Attachments/Pasted image 20251111103138.png",
-    "Attachments/Pasted image 20251111102816.png",
-    "Attachments/Pasted image 20251111102611.png",
     "Lecture Notes/Week 9/Science and medicine.md",
-    "Lecture Notes/Week 9/Introduction to public health.md",
-    "Lecture Notes/Week 7/Introduction to the nervous system.md",
     "Lecture Notes/Week 4/Microbial Structure.md",
     "Lecture Notes/Week 9/Spread of the nerve impulse.md",
     "Lecture Notes/Week 2/Primary Tissues.md",
@@ -255,8 +243,6 @@
     "Lecture Notes/Week 8.zip",
     "Lecture Notes/Week 5/Responses to Cell and Tissue Injury.md",
     "Lecture Notes/Week 1/Introduction to biomolecules.md",
-    "Lecture Notes/Week 8/(Guided study) Homeostatic control of body temperature.md",
-    "Case Studies/SBAR.md",
     "Case Studies/Untitled Document",
     "Lecture Notes/Week 8",
     "Lecture Notes/Week 7",

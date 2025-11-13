@@ -1,4 +1,4 @@
-Chemotherapy #anki 
+Chemotherapy
 - The use of chemicals (natural or synthetic) to inhibit the growth/replication of pathogens or cancerous cells within the body
 - Antibiotics and anti-bacterials are interchangeable
 

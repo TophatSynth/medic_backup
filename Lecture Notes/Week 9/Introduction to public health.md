@@ -1,4 +1,3 @@
-#anki 
 Health
 - The ability to adapt and self manage in the face of social, physical, and emotional challenges
 

@@ -1,4 +1,4 @@
-## Vertebral column #anki 
+## Vertebral column
 - C7 vertebrae, C8 nerves; S5 fused vertebrae; Co1-4 fused vertebrae
 - Function
 	- Enables upright posture
