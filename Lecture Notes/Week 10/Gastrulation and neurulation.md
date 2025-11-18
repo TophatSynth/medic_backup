@@ -1,0 +1,95 @@
+## [[Early embryonic development]]
+- Week 1 - Ovulation, conception in uterine tube, migration, division (morula, blastocyst), implantation by day 9 
+- Week 2
+	- Bilaminar disc with connecting stalk 
+	- Chorionic sac 
+	- Amniotic sac on dorsal side, yolk sac on ventral side 
+	- Primitive streak at day 14
+
+## [[Introduction to the body#Embryology - Development of body cavities|Gastrulation]] 
+- Primitive groove
+- Cell migration 1 - epiblast cells divide and migrate through primitive streak, displace/replace hypoblast cells -> endoderm and ectoderm ![[Pasted image 20251117202925.png|300]]
+- Cell migration 2 - Second wave of cells fills in the two layers -> trilaminar disc ![[Pasted image 20251117203001.png]]
+- Notochord ![[Pasted image 20251117203237.png|450]]![[Pasted image 20251117203247.png|400]]
+	- Tube -> disc -> solid rod (17-20 days)
+	- Grows from primitve pit rostrally - towards the "front" of the embryo #tofinish 
+	- Essential for setting up dorsal/ventral axes and inducing neurulation
+		- Dorsal/ventral axis 
+			- Ventral development uses signals from bone morphogenic proteins (BMP's)
+			- Notochord releases factors that block BMP (chordin, noggin, follistatin) -> prevents formation of skin on the dorsum, driving development of back/neural tissue instead
+- Neurulation
+	- Induced by notochord
+	- Epithelial cells become columnar in an area around notochord - neural plate
+	- Neurulation - neural plate -> groove -> tube ![[Pasted image 20251117204215.png]]
+	- Midline neural groove becomes apparent after day 19 
+	- Day 20-21 - cells on the edge of the plate thicken, forming a groove -> folds to form the neural fold ![[Pasted image 20251117204349.png]]
+	- Day 22 onwards - Edges of the fold roll over to make a tube ![[Pasted image 20251117204459.png]]
+	- Closure - Folds close from the middle, towards the cephalic/cranial and caudal directions #tofinish why called cephalic 
+		- Open ends are called anterior and posterior neuropores - close to form a complete tube 
+		- Anterior neuropore closes at day 25, posterior neuropore at day 28
+		- Rostral tube goes on to form the brain - has three dilations that form the primary brain vesicles 
+	- Secondary neurulation - medullary cord forms, develops a lumen, fuses with the caudal end of the neural tube - lengths the neural tube ![[Pasted image 20251117205225.png]]
+	- Neural tube defects 
+		- Failure of the neuropores to close off 
+		- Anterior neuropore - brain/skull defects 
+		- Posterior neuropore - spina bifida 
+		- ![[Pasted image 20251117205634.png]]
+- Neural crest 
+	- Derives from the edges of the neural plate ![[Pasted image 20251117205906.png|200]]
+	- Undergo [[Cell Adhesion and Extracellular Matrix#^f21d1e|EMT]] - become motile, migrate away from the neural tube to all over the body - contributes a lot to sensory NS and ANS 
+	- Pathologies 
+- Mesoderm 
+	- Paraxial, intermediate, lateral plate mesoderm ![[Pasted image 20251117210253.png|250]]![[Pasted image 20251117210323.png]]
+	- Somites - paired segments of the paraxial mesoderm in the trunk section of the embryo
+		- 3-4 form per day from day 20-30, with 42-44 pairs developing in total - later regression in the tail end -> leaves ~37 pairs
+		- These form the spinal nerve pairs
+			- 4 occipital
+			- 8 cervical 
+			- 12 thoracic
+			- 5 Lumbar
+			- 5 Sacral
+			- 3 (ish) coccygeal 
+		- Formation 
+			- Interaction of a fibroblast growth factor (FGF) wave front and "Notch clock" ![[Pasted image 20251117210715.png]]
+			- Internal timer in the paraxial mesoderm cells - 90 minute cycle - notch signalling clock
+			- A wave of FGF signal passes through the embryo in a cranial-caudal direction - when it hits the cells, they change into part of a somite based on where they are in their clock cycle 
+				- Early in the clock cycle -> front end of the somite segment
+				- Late in the clock cycle -> tail end of the segment 
+			- Rinse and repeat to form the somites
+		- Hox genes
+	- Derivatives of mesoderm 
+		- ![[Pasted image 20251117211349.png]]
+		- Paraxial 
+			- Head
+			- Somite -> sclerotome (axial skeleton nerves), myotome, dermatome
+		- Intermediate 
+			- Kidney
+			- Urogenital structures
+			- Gonads
+		- Lateral plate
+			- Splanchnic - Visceral coverings, heart, blood vessels, blood, spleen
+			- Somatic - Parietal coverings, limb cartilage/bone, limb/lateral/ventral trunk dermis #tofinish lateral trunk?
+		- Midline 
+			- Prechordal plate - future site of the mouth 
+			- Notochord - [[Back bones, joints and muscles#Vertebral column|nucleus pulposus]] 
+- Endoderm
+	- Craniocaudal folding ![[Pasted image 20251117211606.png]]![[Pasted image 20251117211743.png]]
+	- Pinches off the yolk sac, brings in the remainder -> primitive gut tube
+		- Small connection to the yolk sac (vitelline duct) remains, closed by 5-6 weeks 
+	- Endoderm becomes amnion encapsulating the folded embryo #tofinish what is the outside layer of the amniotic cavity?
+	- Lateral plate mesoderm lines the cavities and surrounds the gut tube #tofinish ?
+	- Endoderm derivatives
+		- Lining of the gut tube and distal urogenital system ![[Pasted image 20251117212146.png]]
+			- Connection between urinary bladder and cloaca 
+		- Can sometimes have a remnant of the vitelline duct - Mechel's diverticulum 
+			- Rule of 2: Occurs in 2% of the population, affects males 2x more than females, 2% of them are symptomatic, mostly in children <2 years old. Is located 2 feet proximal to the ileocaecal valve, <2 inches long, has 2 types of mucosal lining  
+- Ectoderm derivatives
+	- Epidermis and associated glands
+	- Nails and enamel of teeth 
+	- Lens and cornea of eye
+	- Olfactory epithelium 
+	- Oral and anal epithelium
+	- Salivary and mammary glands 
+	- Adenohypophysis #tofinish 
+	- Terminal male urethra, labia majora and outer surface of labia minora
+	- Neural tube, neural crest and their derivatives

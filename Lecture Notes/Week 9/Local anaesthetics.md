@@ -1,4 +1,4 @@
-## Use of local anaesthetics #anki
+## Use of local anaesthetics (LA)
 - When loss of consciousness is neither necessary or desirable - eg to avoid high doses of general anaesthetics - not very safe to give often
 - Post-operative analgesia 
 - In major surgery - sedation + local anaesthetics 
@@ -9,7 +9,7 @@
 	- Amides are most commonly used - esters are more unstable and can be metabolised into compounds associated with allergic reactions -> bad :( 
 	- Amides - lidocaine, prilocaine, bupivacaine, articaine 
 	- Ester - tetracaine, chloroprocaine, benzocaine 
-	- Different drugs within each class bc each has different onset time, duration, vasoconstriction effects
+	- Different drugs within each class bc each has different onset time, duration, vasodilation effects
 - Mechanism of action
 	- Works by reversibly blocking voltage-gated Na+ channels -> stabilises excitable membranes and prevents them from being depolarised
 	- Structure of a peripheral nerve
@@ -21,5 +21,49 @@
 		- Length of nerve exposed to drug 
 		- Duration of nerve exposure to drug
 		- Drug concentration
-
+	- Blocking of Na channels
+		- ![[Pasted image 20251113105151.png]]
+		- Hydrophobic pathway (non-use-dependent)
+		- Hydrophilic pathway (use-dependent) - more effective the more frequently the Na channel fires
+		- Local anaesthetics can be neutral or protonated (ionised), depending on pH - unionised needs higher pH 
+			- Can pass through the membrane when neutral, but not when protonated, regardless of pathway
+			- But is only able to block when ionised 
+		- Most local anaesthetics are weak bases - pKa values between 8-9
+			- Henderson-Hasselbalch equation for a weak base: ![[Pasted image 20251113103522.png]]
+			- Gives you the proportion of ionised:unionised for a specific pH 
+			- ![[Pasted image 20251113103709.png]]
+			- The unionised base can move between the cell membrane easily -> equilibrium for just the unionised base 
+			- In this case, there is more unionised base outside -> less blocking 
+			- Need higher pH outside for better blocking of pain signals 
+	- Onset and duration of action 
+		- Most local anaesthetics work via the use-dependent pathway - binds to open/inactive channels - faster onset in faster firing neurons
+		- Duration dictated by rate of removal of drug 
+			- Blood flow
+				- Most La's cause vasodilation, except cocaine (vasoconstriction) and prilocaine 
+				- Therefore, use adrenaline -> vasoconstriction -> decreases blood flow and rate of removal, BUT☝️can cause ischaemia 
+			- Action of plasma esterases (just ester-linked LA's)
+			- Hydrophobicity
 ## Application 
+- Route of administration
+	- Surface (spray on nose, mouth, skin etc)
+	- Infiltration (Injection into tissues to reach nerve terminals)
+	- Nerve block (Block a small/large region by injection around the main nerve innervating a region of tissue) 
+	- Intravenous regional (Contains LA to a limb)
+	- Epidural (Thoracic, lumbar and sacral regions)
+	- Subarachnoid (Duh)
+- Eutectic mixture of local anaesthetics (EMLA)
+	- Used for dermal anaesthesia
+	- Mixture of lignocaine and prilocaine - melting point of mixture is lower than that of individual substances - lower melting point means higher solubility 
+	- Therefore higher conc can be used -> more chance of infiltration through skin
+- Side effects
+	- Cardiovascular 
+		- Dysrhythmias - arrythmia 
+		- Sudden fall in blood pressure due to vasodilation
+	- CNS
+		- Restlessness
+		- Tremors, convulsions
+		- Respiratory centre depression - the respiratory centre in the brain doesn't react as well to CO2 levels -> lowered resp rate
+		- Death :D 
+- Dealing with toxicity 
+	- CPR, manage arrhythmia as per normal protocol, cardiopulmonary bypass
+	- Intravenous lipid emulsion - like a lipid sponge, soaking up all the LA's 

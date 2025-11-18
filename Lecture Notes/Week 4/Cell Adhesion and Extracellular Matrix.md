@@ -94,7 +94,7 @@
 	- Muscle cell has an adaptor protein (dystrophin) missing due to premature transcription termination - actin inside the cell is not connected - weaker structure - muscle tearing
 	- Muscle wasting, weakness, inability to walk by 12 years
 	- Treatment using experimental drug - overrides premature stop signal mutation 
-- Cancer progression
+- Cancer progression ^f21d1e
 	- Carcinoma develops, have not breached the basement membrane at first
 	- Epithelial to mesenchymal transition (EMT) - cancer cells convert to mesenchymal cells - expression of cadherins reduced - produce actin-based protrusions called invadipodia and metalloproteases (MMP's) - break through the basal membrane 
 	- Express integrins - promotes interaction with ECM and other cells

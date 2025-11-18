@@ -1,4 +1,4 @@
-## Vertebral column
+## Vertebral column 
 - C7 vertebrae, C8 nerves; S5 fused vertebrae; Co1-4 fused vertebrae
 - Function
 	- Enables upright posture
@@ -32,6 +32,7 @@
 				- Spinous process - short and bifid (two-pronged) - Except C7 - normal spinous process
 				- Transverse process
 					- Transverse foramen - transmits the vertebral arteries and veins 
+					- C7 - only transmits veins 
 				- S/I articular facets 
 			- Atlas (C1)
 				- ![[Pasted image 20251111102503.png]]
@@ -51,7 +52,8 @@
 			- Larger body 
 			- Superior articular facets are flat and face postero-laterally in the arc of a circle -> allows rotation
 			- Articulates with ribs - costal demi-facets (on vertebral body) and transverse costal facets (on transverse process)
-				- Upper and lower costal demi-facets - allows the vertebrae to articulate with 2 ribs each 
+				- Upper demi-facets and transverse costal facets - articulate with the head and tubercle of the vertebra's corresponding rib respectively
+				- Lower demi-facet - articulates with the head of the rib below it
 			- Long spinous process pointing inferiorly - overlaps 2 vertebrae 
 		- Lumbar
 			- ![[Pasted image 20251111103138.png|250]]
@@ -140,4 +142,3 @@
 					- Spinalis - most medial
 			- Layer 3c ![[Pasted image 20251112133742.png]]
 				- Transversospinalis 
-- Deep neck muscles #tofinish 
