@@ -77,7 +77,7 @@
 	- PNS 
 		- 31 Spinal pairs total: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal
 			- C/T/L/S
-			- Serve dermatomes (sensory) and myotomes (motor)
+			- Serve dermatomes (sensory) and myotomes (motor) ^3b3ccf
 		- 12 cranial pairs total 
 			- Originate from the brainstem
 			- Functions mostly in the head/neck, except vagus nerve (CNX)

@@ -56,5 +56,5 @@
 - Protection of fetus
 - Dose of radiation
 	- ![[Pasted image 20250925144707.png|500]]
-- ALARA - As Low As Reasonably Achievable
+- ALARA - As Low As Reasonably Achievable ^2ec1fc
 - 

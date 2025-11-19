@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"e21d856e63c7db65","type":"text","text":"## Day 1 \n- Fertilisation - sperm meets ovum in Fallopian tubes\n\t- Capacitance - sperm secretes hyaluronidase to get through corona radiata \n\t- Penetration of zona pellucida - bind to ZP3 receptors to release acrosomal enzymes\n\t- Mixing of genetic material - release of male genetic material into the ovum -> cortical granules release contents -> degrade ZP3 receptors\n- Mitosis","x":-82,"y":-219,"width":555,"height":320},
+		{"id":"97a25ff87073c01b","type":"text","text":"## Day 3\n- The embryo has become a morula (16+ cells)","x":556,"y":-150,"width":340,"height":120},
+		{"id":"e86c4495082fdfc7","type":"text","text":"## Day 15 \n- Primitive streak, node, groove and pit appear in the midline ","x":-12,"y":129,"width":415,"height":158},
+		{"id":"038c824f9f8067c7","type":"text","text":"## Week 4\n- Craniocaudal folding\n\t- Yolk sac pinched off -> gut tube - lined inside with endoderm, lined outside with visceral lateral plate mesoderm\n\t- Embryonic cavity formed - lined with somatic lateral plate mesoderm \n\t- Amniotic cavity surrounds embryo - lined inside with ectoderm, outside with mesoderm ","x":-200,"y":584,"width":759,"height":201},
+		{"id":"c9a2c617c479d2c9","type":"text","text":"## Day 6-7 (*sigh*)\n- Blastocyst has entered the uterine cavity\n- Embryoblasts differentiate into epiblast and hypoblast cells - first as scattered cells, then as distinct layers\n- Trophoblast forms finger-like protusions to implant into the uterine wall ","x":1022,"y":80,"width":420,"height":257},
+		{"id":"3b704d8c9e069227","type":"text","text":"## Day 16 \n- Gastrulation \n\t- Epiblast cells migrate through the primitive streak, displace and then replace the hypoblast -> ectoderm, mesoderm and endoderm","x":-601,"y":101,"width":492,"height":195},
+		{"id":"7787c09cbb9fbecf","type":"text","text":"## Day 17\n- Notochordal process starts to form from the primitive node, growing down the primitive streak","x":-519,"y":371,"width":437,"height":122},
+		{"id":"560ce641814a18ff","type":"text","text":"## Day 18\n- Notochordal process starts to fuse with endoderm -> notochordal plate \n- Edges of the plate come together and fuse -> notochord\n- Neurenteric canal is present\n- Neurulation starts - neural plate starts to form","x":-12,"y":331,"width":467,"height":231},
+		{"id":"1ca7f148ee024417","type":"text","text":"## Day 20 - 21\n- Neural groove forms fully, folds to form the neural fold \n- Somites start to form along the paraxial mesoderm","x":1064,"y":371,"width":337,"height":178},
+		{"id":"a76f34fe482b76f2","type":"text","text":"## Day 22\n- Neural fold turns into neural tube -> anterior and posterior neuropores\n- Rostral part dilates to form the brain vesicles \n- Secondary neurulation happens \n- Neural crest cells undergo EMT and migrate all over the body","x":1109,"y":584,"width":331,"height":162},
+		{"id":"09f43bb2a5dcddcc","type":"text","text":"## Day 0 \n- Oogenesis \n\t- 1-2 million primary oocytes at birth -> 300,000 remain by puberty\n\t- Once a month, one will undergo meiosis I and be arrested in metaphase II as a secondary oocyte -> ovulated","x":-575,"y":-200,"width":440,"height":225},
+		{"id":"cd2a18c3c2f38c2a","type":"text","text":"## Day 8 \n- Implantation \n- Trophoblast differentiates into cytotrophoblast and syncytiotrophoblast - extend lacunae (tubes) further into the uterine wall to reach the uterine blood vessels - uteroplacental circulation\n- Amniotic cavity appears in epiblast, yolk sac appears in hypoblast - both surrounded by chorionic sac made from blastocyst cavity","x":515,"y":25,"width":426,"height":300},
+		{"id":"1f73771773d9a0b6","type":"text","text":"## Day 19\n- Neural plate grows, neural groove starts to become apparent","x":574,"y":354,"width":337,"height":139},
+		{"id":"68026dab84bb6d70","type":"text","text":"## Day 25 and 28\n- Anterior and posterior neuropores close","x":726,"y":605,"width":275,"height":120},
+		{"id":"9d59158153dfb716","type":"text","text":"## Day 5\n- The morula has become a blastocyst\n- The cells inside keep dividing and getting smaller -> blastomeres and blastocyst cavity\n- The blastomeres differentiate into embryoblasts (inner cell mass) and trophoblasts (outer lining)","x":1001,"y":-219,"width":420,"height":230}
+	],
+	"edges":[
+		{"id":"01f159f739fe6c68","fromNode":"09f43bb2a5dcddcc","fromSide":"right","toNode":"e21d856e63c7db65","toSide":"left"},
+		{"id":"1393e07b8f5cc979","fromNode":"e21d856e63c7db65","fromSide":"right","toNode":"97a25ff87073c01b","toSide":"left"},
+		{"id":"31744f0208a149f1","fromNode":"97a25ff87073c01b","fromSide":"right","toNode":"9d59158153dfb716","toSide":"left"},
+		{"id":"5548c3030fdae22b","fromNode":"9d59158153dfb716","fromSide":"right","toNode":"c9a2c617c479d2c9","toSide":"right"},
+		{"id":"edb2e5b4e29fcb64","fromNode":"7787c09cbb9fbecf","fromSide":"right","toNode":"560ce641814a18ff","toSide":"left"},
+		{"id":"7ac1cff79b768909","fromNode":"560ce641814a18ff","fromSide":"right","toNode":"1f73771773d9a0b6","toSide":"left"},
+		{"id":"3504e8719c19dba1","fromNode":"1f73771773d9a0b6","fromSide":"right","toNode":"1ca7f148ee024417","toSide":"left"},
+		{"id":"a1dccaaccbff2315","fromNode":"c9a2c617c479d2c9","fromSide":"left","toNode":"cd2a18c3c2f38c2a","toSide":"right"},
+		{"id":"7c35beea52b096ac","fromNode":"cd2a18c3c2f38c2a","fromSide":"left","toNode":"e86c4495082fdfc7","toSide":"right"},
+		{"id":"f239dec9d072aff4","fromNode":"e86c4495082fdfc7","fromSide":"left","toNode":"3b704d8c9e069227","toSide":"right"},
+		{"id":"548613c600f44129","fromNode":"3b704d8c9e069227","fromSide":"left","toNode":"7787c09cbb9fbecf","toSide":"left"},
+		{"id":"1345c4b023b4a93c","fromNode":"1ca7f148ee024417","fromSide":"right","toNode":"a76f34fe482b76f2","toSide":"right"},
+		{"id":"f648db8117d54e95","fromNode":"a76f34fe482b76f2","fromSide":"left","toNode":"038c824f9f8067c7","toSide":"right"},
+		{"id":"edd601a4d38d4875","fromNode":"a76f34fe482b76f2","fromSide":"left","toNode":"68026dab84bb6d70","toSide":"top"}
+	]
+}

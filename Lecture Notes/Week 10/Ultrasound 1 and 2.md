@@ -1,0 +1,101 @@
+# Part 1 - Introduction
+- Attenuation of the sound wave results in a limit to the depth of the body that can be imaged by ultrasound 
+- Ultrasound machines
+	- Has a monitor, US unit (processes ultrasound signals), control panel, transducer (produces/receives US waves) and data storage
+- Piezoelectric effect
+	- Stress -> generation of electrical charge and vice versa 
+	- Allows for production and detection of US waves 
+	- Electric current -> vibration -> US wave -> deformation -> electric current
+- 3 types of transducers ![[Pasted image 20251119112239.png]]
+	- Linear array probe
+		- High frequency probe - causes high attenuation 
+		- Good image resolution, but low depth of imaging 
+		- Flat "footprint" (wave emission point) produces undistorted images 
+	- Curved array probe (Curvilinear probe)
+		- Low frequency probe
+		- Lower image resolution, but good depth of imaging - good for abdominal scanning 
+		- Curved footprint - slight distortion of images
+	- Phased array probe
+		- The US wave is generated from the centre of the footprint 
+		- Allows for small probe with large scanning area 
+		- Intraluminal probe
+			- Can be used in small orifices
+			- Allows clearer imaging by getting closer to the structure you want to image
+			- Allows for high frequency to be used as less tissue in the way
+- Imaging modes
+	- B-mode ![[Pasted image 20251119113151.png]]
+		- Brightness/2D mode
+		- 2D image - each returning wave is a pixel, its brightness determined by the signal's amplitude, its position on screen by the signal's depth (calculated from the time taken to return)
+		- Shades seen
+			- Isoechoic - Shade of gray with the same brightness/echogenicity (ability to return waves) as the surrounding tissues
+			- Hyperechoic - Shade of gray that is brighter than the surrounding tissues
+			- Hypoechoic - Shade of gray that is darker than the surrounding tissues
+			- Anechoic - Completely black due to absence of returning signal - likely to be fluid or air
+	- Doppler ultrasound
+		- Colour doppler - displays the direction and magnitude of blood flow - colour depends on whether the blood is moving towards or away from the probe
+			- BART - Blue Away, Red Towards 
+		- Power doppler - Better visualisation of small vessels but no directional information
+		- Pulsed doppler - Allows a sampling of the blood volume at a specific position in a vessel - allows you to identify if its a vein or an artery based on rhythm of blood flow 
+	- M-Mode
+		- Motion mode - for analysing tissue motion
+		- Scan line selected on a 2D scan to target a particular structure to assess its movement 
+		- Changes displayed under the original image 
+		- Useful for looking at the cardiac valves/walls 
+	- 3D imaging
+		- Stacks of parallel cross-sectional images -> compiled into 3D image 
+		- Currently mostly used to create 3D image of foetus to check for abnormalities
+- Basic controls
+	- Frequency - resolution vs penetration
+	- Gain - amplification of returning signals - increase -> brighter and more saturated images - important to select appropriate gain to view images - not the same as screen brightness
+	- Depth/scale - determined by time taken for echo to return - can be automatically determined by measuring software
+	- Presets - can save presets for settings for specific structures 
+	- Probe orientation - Marker on the side of the probe that corresponds to a specific side of the screen - should be pointed at the cranial end in longitudinal images, and at the right side in a transverse image 
+- Probe manoeuvring ![[Pasted image 20251119114724.png]]
+	- PART - (vertical) Pressure, Alignment, Rotation, Tilt 
+	- Tilt - particularly important bc it affects which parts you can actually see
+- Artefacts
+	- Acoustic shadowing
+		- US waves bouncing off of hard surfaces -> cannot visualise the structures behind/deep to them 
+	- Acoustic enhancements 
+		- US waves pass through fluid filled structures more easily -> regions behind them receive more energy than expected - show up uniformly brighter 
+		- Used in pregnancy US - full bladder -> better imaging
+	- Anisotropy 
+		- Changes in echoic appearance depending on angle of US emission relative to the structure - if parallel, the wave bounces back and can be imaged. If oblique, may bounce away, leading to false diagnosis of rupture - most commonly seen with tendons 
+
+## Part 2 - Clinical applications
+- Risks vs benefits
+	- Excellent safety records 
+	- But - has enough energy to heat tissues slightly - DON'T PUT NEAR EYES - WILL GET COOKED
+	- Can also produce small pockets of gas in body fluids/tissues - cavitation 
+- Thermal Index (TI) and Mechanical Index (MI)
+	- Provides indication of the relative potential for a tissue temperature rise/cavitation respectively 
+- Minimise risks - [[Introduction to medical imaging#^2ec1fc|ALARA]] 
+	- Use only when medically indicated
+	- Use at lowest acoustic output possible
+	- Use for the shortest exposure time possible 
+- Ultrasound uses as a junior doctor
+	- Point of Care Ultrasound (POCUS) (hocus pocus... 🪄🎩)
+		- Goal directed, bedside US examination - done to answer a specific diagnostic question, or to visualise internal structures to guide performance of an invasive procedure
+	- Ultrasound guided vascular access - phlebotomy 
+		- Can be visualised longitudinally along the blood vessel, or transverse to it (in-plane and out-of-plane, respectively) ![[Pasted image 20251119121705.png]]
+	- Central venous catheter insertion
+		- Done for taking blood/injecting medication - both need a large vessel to either dilute the medication or to get a lot of blood - done with the vena cava 
+	- Focused Assessment with Sonography for Trauma (FAST) or extended FAST (eFAST)
+		- To identify intra-abdominal bleeding - detecting presence of free fluid in the peritoneal cavity
+		- Part of initial evaluation in A&E of blunt abdominal trauma patients 
+		- No attempt to visualise specific organs or injuries - just the fluid 
+		-  ![[Pasted image 20251119122531.png]]
+		- Patient supine -> check for fluid above and below the pelvic brim -> bleeding in the thoracic/abdominal cavity or the pelvic cavity 
+			- Hepatorenal recess - is a potential space that can be filled by fluid 
+		- eFAST incorporates the evaluation of lungs/heart to diagnose pneumothorax, hemothorax and pericardial effusions ![[Pasted image 20251119123457.png]]
+	- Echocardiography - US visualisation of the heart 
+- Other uses
+	- More needle injections....... 
+	- Cranial ultrasound
+	- Breast ultrasound
+	- Biopsy (more needles!)
+	- Antenatal screening (babies)
+		- ![[Pasted image 20251119124115.png]]
+		- TI and MI are critical - ALARA!!!!!!!!! 
+	- Lithotripsy
+		- Crushing kidney/gall stones to help them get excreted

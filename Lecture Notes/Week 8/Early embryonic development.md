@@ -9,7 +9,7 @@
 - Oogenesis 
 	- Birth - 1-2 million primary oocytes -> most degenerate until puberty 
 	- Puberty - 300,000 remain, only some will become mature, rest degenerate 
-	- Each month, one primary oocyte udnergoes meiosis I, divides into first polar body and secondary oocyte that is arrested in metaphase II (has 23 chromosomes) -> ovulated
+	- Each month, one primary oocyte undergoes meiosis I, divides into first polar body and secondary oocyte that is arrested in metaphase II (has 23 chromosomes) -> ovulated
 	- Antral/secondary follicle ![[Pasted image 20251104141647.png]]
 		- Some cumulus oophorous cells + ECM form the corona radiata 
 			- Essential for capture of oocyte by the fimbria 

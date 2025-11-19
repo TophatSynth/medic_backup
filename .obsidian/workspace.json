@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd397cbecac7105",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1369d18774985cc7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Week 10/Gastrulation and neurulation.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gastrulation and neurulation"
+              "title": "Home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tofinish",
+                "query": "tag:#anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "7436e5a07937bfa0",
+            "id": "01b96aa49eb44d59",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,22 +204,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1369d18774985cc7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lecture Notes/Week 8/Early embryonic development.md",
-    "Lecture Notes/Week 10/Gastrulation and neurulation.md",
-    "Attachments/Pasted image 20251117212146.png",
-    "Attachments/Pasted image 20251117211743.png",
-    "Attachments/Pasted image 20251117211606.png",
-    "Lecture Notes/Week 9/Back bones, joints and muscles.md",
-    "Attachments/Pasted image 20251117211349.png",
-    "Attachments/Pasted image 20251117211347.png",
-    "Attachments/Pasted image 20251117211343.png",
-    "Attachments/Pasted image 20251117210715.png",
-    "Attachments/Pasted image 20251117210323.png",
-    "Attachments/Pasted image 20251117210253.png",
-    "Attachments/Pasted image 20251117210222.png",
     "Home.md",
+    "Embryology.canvas",
+    "Lecture Notes/Week 10/Gastrulation and neurulation.md",
+    "Lecture Notes/Week 8/Early embryonic development.md",
+    "Lecture Notes/Week 10/Ultrasound 1 and 2.md",
+    "Attachments/Pasted image 20251119122531.png",
+    "Attachments/Pasted image 20251119121705.png",
+    "Attachments/Pasted image 20251119114724.png",
+    "Lecture Notes/Week 10/Spinal cord, spinal nerve, meninges.md",
+    "Attachments/Pasted image 20251119093120.png",
+    "Attachments/Pasted image 20251119124115.png",
+    "Attachments/Pasted image 20251119123457.png",
+    "Attachments/Pasted image 20251119113151.png",
+    "Attachments/Pasted image 20251119112239.png",
+    "Attachments/Pasted image 20251119095057.png",
+    "Attachments/Pasted image 20251119094211.png",
+    "Feedback for MD2001.md",
+    "Lecture Notes/Week 10/Uncertainty reflective piece.md",
+    "Lecture Notes/Week 9/Back bones, joints and muscles.md",
     "Lecture Notes/Week 10",
     "Lecture Notes/Week 9/Muscle types (DR).md",
     "Lecture Notes/Week 9/Local anaesthetics.md",
@@ -236,13 +241,9 @@
     "Lecture Notes/Week 9/(Guided Study) Reading a scientific paper.md",
     "Lecture Notes/Week 9",
     "Lecture Notes/Week 8/Lipids and cell membranes.md",
-    "Feedback for MD2001.md",
     "Lecture Notes/Week 8/Surgical site infection.md",
     "Lecture Notes/Week 1/Cells and Organelles 1 and 2.md",
     "Lecture Notes/Week 8/Making an infection diagnosis.md",
-    "Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
-    "Lecture Notes/Week 7/Endocrine system.md",
-    "Lecture Notes/Week 8/Body fluid compartments.md",
     "Lecture Notes/Week 8.zip",
     "Case Studies/Untitled Document",
     "Lecture Notes/Week 8",

@@ -1,0 +1,11 @@
+1. 1. Prior to the scenario how did you feel?
+2. Did you have any strategies to help cope with the uncertainty of what was about to happen?
+3. Look at the ‘Teamwork in healthcare lecture’. Within your group, can you think what the enablers or barriers to effective teamworking were?
+4. What are your key ‘take home messages’ from this session?
+
+
+Before the scenario, I felt somewhat nervous about what we would have to do as I had no idea what to expect, but also excited as it was a new thing that I could potentially learn about or learn from. I dealt with it by chatting to my friends and groupmates both about what we thought might happen during the scenario, as well as other, benign subjects to help take my mind off of the situation. It helped a lot as I went in feeling somewhat confident that I would be able to handle whatever was thrown at us. 
+
+Collectively, I think our group did very well during the scenario. We quickly and efficiently assessed the situation, performed the necessary checks, and called 999. I was the one calling on the phone and going off to retrieve the AED, while some of my groupmates started on CPR and the rest moved the bystander to a safe location nearby. This effectiveness comes from weeks of having gotten to know each other and work together as a team in both classroom and clinical settings. However, there was one point at which only one group member was handling the patient, while the rest were stood around, unsure of what to do, which I would attribute to the bystander effect, as well as the group still collectively getting our bearings as we had just been thrown into the scenario. 
+
+Reflecting on my own personal performance, I think I did quite well in looking for a phone to call 999 with while my groupmate checked on the patient, as well as going off to get the AED immediately after. I did, however, forget to let my groupmates know that I was leaving to get the AED, which could have caused some confusion or disrupt the giving of care to the patient. Thankfully it didn't, but in future scenarios I must remember to prioritise communication with the rest of my group. Overall, I think we did quite well and I am satisfied that I am reasonably well equipped to deal with a cardiac arrest/myocardial infarction. 
