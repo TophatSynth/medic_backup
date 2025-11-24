@@ -8,7 +8,7 @@ Spinal cord covered with 3 layers of meninges
 		- Outermost, thick layer 
 		- Called the dural sac in the vertebral canal, not attached to bone there - cauda equina inside
 		- Ends at the lower border of S2 vertebra, where it fuses with filum terminale ![[Pasted image 20251119090919.png]]
-	- Epidural space (Extradural space)
+	- Epidural space (Extradural space) ^cbf263
 		- Between dura and periosteum mater, all the way from the foramen magnum to sacral hiatus 
 		- ![[Pasted image 20251119091140.png]]
 		- Filled with fat, with a venous plexus embedded inside

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Lecture Notes/Week 11/History Taking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "History Taking"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anki",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "01b96aa49eb44d59",
+            "id": "d1b6608ebf72f7fa",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,21 +207,29 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
-    "Embryology.canvas",
+    "Lecture Notes/Week 11/History Taking.md",
+    "Lecture Notes/Week 11",
+    "Lecture Notes/Untitled.md",
+    "Lecture Notes/Week 10/Synapse 1 and 2.md",
+    "Attachments/Pasted image 20251120143044.png",
+    "Lecture Notes/Week 4/Structure of the airway and lungs.md",
+    "Lecture Notes/Week 10/Vasculature of the spinal cord.md",
+    "Attachments/Pasted image 20251120093653.png",
+    "Attachments/Pasted image 20251120093946.png",
+    "Attachments/Pasted image 20251120091630.png",
     "Lecture Notes/Week 10/Gastrulation and neurulation.md",
-    "Lecture Notes/Week 8/Early embryonic development.md",
-    "Lecture Notes/Week 10/Ultrasound 1 and 2.md",
-    "Attachments/Pasted image 20251119122531.png",
-    "Attachments/Pasted image 20251119121705.png",
-    "Attachments/Pasted image 20251119114724.png",
+    "Attachments/Pasted image 20251120144959.png",
+    "Attachments/Pasted image 20251120144906.png",
+    "Attachments/Pasted image 20251120144558.png",
+    "Attachments/Pasted image 20251120144229.png",
+    "Attachments/Pasted image 20251120143715.png",
+    "Attachments/Pasted image 20251120142119.png",
+    "Lecture Notes/Week 10/Medical career structure.md",
+    "Embryology.canvas",
     "Lecture Notes/Week 10/Spinal cord, spinal nerve, meninges.md",
-    "Attachments/Pasted image 20251119093120.png",
-    "Attachments/Pasted image 20251119124115.png",
-    "Attachments/Pasted image 20251119123457.png",
-    "Attachments/Pasted image 20251119113151.png",
-    "Attachments/Pasted image 20251119112239.png",
-    "Attachments/Pasted image 20251119095057.png",
-    "Attachments/Pasted image 20251119094211.png",
+    "Lecture Notes/Week 8/Early embryonic development.md",
+    "Lecture Notes/Week 10/Sunscreen Lab Report.md",
+    "Lecture Notes/Week 10/Ultrasound 1 and 2.md",
     "Feedback for MD2001.md",
     "Lecture Notes/Week 10/Uncertainty reflective piece.md",
     "Lecture Notes/Week 9/Back bones, joints and muscles.md",
@@ -237,20 +245,13 @@
     "Lecture Notes/Week 4/Microbial Structure.md",
     "Lecture Notes/Week 9/Spread of the nerve impulse.md",
     "Lecture Notes/Week 2/Primary Tissues.md",
-    "Lecture Notes/Week 8/Molecular movement across membranes .md",
-    "Lecture Notes/Week 9/(Guided Study) Reading a scientific paper.md",
     "Lecture Notes/Week 9",
-    "Lecture Notes/Week 8/Lipids and cell membranes.md",
-    "Lecture Notes/Week 8/Surgical site infection.md",
-    "Lecture Notes/Week 1/Cells and Organelles 1 and 2.md",
-    "Lecture Notes/Week 8/Making an infection diagnosis.md",
     "Lecture Notes/Week 8.zip",
     "Case Studies/Untitled Document",
     "Lecture Notes/Week 8",
     "Lecture Notes/Week 7",
     "Lecture Notes/Week 5",
     "Lecture Notes/Week 4",
-    "Lecture Notes/Week 3",
-    "Lecture Notes/Week 2"
+    "Lecture Notes/Week 3"
   ]
 }

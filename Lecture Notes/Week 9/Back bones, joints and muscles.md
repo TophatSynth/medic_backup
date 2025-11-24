@@ -105,12 +105,12 @@
 ## Muscles 
 - Can be classified into two types 
 	- Extrinsic
-		- Derived from hypoaxial myotome 
+		- Derived from hypoaxial myotome  ^4e2e08
 		- Superficial 
 		- Involved in movement of the upper limbs and thoracic wall 
 		- Innervated by anterior rami of spinal nerves 
 	- Intrinsic
-		- Derived from epaxial myotome 
+		- Derived from epaxial myotome  ^43a58a
 		- Located deep, between the spinous processes and the angle of the ribs 
 		- Provides support and movement against gravity - strong
 		- Moves the vertebral column and head

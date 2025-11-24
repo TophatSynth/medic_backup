@@ -1,0 +1,21 @@
+- Undergrad (6 yrs) -> foundation years (2 yrs) -> specialty training (3-9 yrs) -> consultant/GP 
+- Core portfolio 
+- Foundation 
+	- 2 years, 6 rotations of 4 months each
+	- Specialised foundation training - allows you to attend extra teaching 
+	- Able to do things part time - extend the FY years 
+	- Plan it well in advance
+- Postgraduate training - specialty training
+	- Core and higher specialty training 
+	- Many different pathways you can take 
+	- Competency based pathways becoming more common - need to show proof of skills developed 
+	- Flexible training and less-than-full-time -> happier life 
+	- Group 1 specialties - Internal medicine + other specialty
+		- 3 years internal medicine training + 4 years internal medicine + specialty training 
+	- Group 2 - single specialty 
+		- 2 years internal medicine training + 4 years specialty training 
+	- Competition ratios - waaaaay less posts than number of graduates 
+	- GP training is after FY - 3 years 
+- Tips 
+	- Clinical practice is not mandatory - other options exist
+	- Communityyyyyyyyy

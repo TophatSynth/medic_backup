@@ -82,6 +82,8 @@
 			- Rinse and repeat to form the somites
 		- Homeobox genes (Hox genes)
 			- Directs formation of body structure at the right place along the body 
+		- Paraxial mesoderm remains unsegmented in the head region of the embryo -> contributes to formation of bones and muscles there
+		- Age of the embryo can be determined by the number of somites
 	- Derivatives of mesoderm ![[Pasted image 20251117211349.png]]
 		- Paraxial 
 			- Head

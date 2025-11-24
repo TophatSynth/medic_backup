@@ -1,0 +1,52 @@
+## Blood supply
+- Arteries - found in the subarachnoid space ![[Pasted image 20251120091524.png]]
+	- Longitudinal arteries 
+		- Branches off the subclavian artery -> vertebral artery 
+		- 2 posterior spinal arteries and 1 anterior spinal artery
+		- Lies on the surface of the cord
+	- Segmental arteries
+		- Supplies additional blood to lower thoracic region and below 
+			- Cervical - vertebral arteries; Thoracic - intercostal arteries; lumbar - lumbar arteries
+		- Enter vertebral canal via the intervertebral foramina 
+		- Also splits to form radicular arteries - supplies the roots of spinal nerves
+- Veins  ![[Pasted image 20251120091630.png]]
+	- Longitudinal veins - surface of cord, no valves - blood can flow in either direction
+		- Means cancer can spread through them to the vertebral bodies/elsewhere in the body very easily 
+	- Internal vertebral venous plexus - in the [[Spinal cord, spinal nerve, meninges#^cbf263|epidural space]] 
+	- External vertebral venous plexus - drains medullary cavity of the vertebral bodies -> segmental veins (following the segmental arteries) -> lumbar and azygos veins 
+		- Medullary cavity is the bone marrow bit of the vertebral bodies
+		- Ext. and int. vertebral venous plexuses have connections 
+		- ![[Pasted image 20251120091918.png]]
+
+## Formation of the vasculature 
+- Is there more than one FGF wave? 🤷‍♂️
+- ![[Pasted image 20251120095230.png]]
+	- Neural crest forms the dorsal root and SNS ganglion and other ganglia
+- ![[Pasted image 20251120093653.png]]
+- Cells in the ventral and medial walls of the somite migrate to surround the neural tube and notochord -> sclerotome - axial skeleton 
+	- Each vertebral body is derived from its 2 adjacent somites ![[Pasted image 20251120093946.png|250]]
+	- Nerves branch out of the neural tube, through the sclerotome towards the myotome ![[Pasted image 20251120094102.png]]
+- Dermatomyotome 
+	- Dorsal somite wall -> dermatomyotome - tube structure 
+	- Shaft of the tube is dermatome -> dermis 
+	- Ends of tube are myotome -> develops into muscle
+		- Dorsomedial muscle cells -  [[Back bones, joints and muscles#^43a58a|epaxial]]/epimere myotome -> intrinsic back muscles 
+		- Ventrolateral muscle cells - [[Back bones, joints and muscles#^4e2e08|hypaxial]]/hypomere myotome -> extrinsic back muscles and limb muscles
+	- As the myotome cells migrate towards their respective regions, the axons from their respective segments of neural tube follow them - most muscles are derived from more than one myotome 
+	- Same for dermatome - axon come from the dorsal root ganglion 
+	- ![[Pasted image 20251120095121.png|200]]![[Pasted image 20251120095302.png|200]]
+	- Dermatome map ![[Pasted image 20251120095346.png|200]]
+		- C4: Tip of the shoulder
+		- C6: Thumb
+		- C7: Middle finger
+		- C8: Little finger
+		- T10: Umbilicus
+		- L5: Big toe
+		- S1: Heel
+	- Myotome map ![[Pasted image 20251120095436.png]]
+		- Specific joint movements used to test myotomes
+		- Abduction of upper limbs - C5 
+- Pathology 
+	- Shingles/chickenpox - caused by varicella zoster virus
+	- AFter initial infection (chickenpox), the virus lies dormant in a dorsal root ganglion -> can reactivate as shingles in later life - very painful lesions and rash
+	- Rash develops in the dermatome supplied by that specific dorsal root ganglion 
