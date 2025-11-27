@@ -1,0 +1,31 @@
+## Why study ion channel function? #anki 
+- Underlie most biological processes
+- Represent some of the major pathways for drugs to get into cells 
+
+## How to measure the current through an open ion channel?
+- Ohm's law -> V = IR
+- Patch clamp
+	- Direct recording of ionic currents from cell surface ion channels
+- Planar lipid bilayer techniques - direct record of ionic currents from intracellular ion channels
+	- ![[Pasted image 20251125102235.png]]
+- What info can we get from single channel measurements
+	- What opens the channel - voltage, ligand, stretch, light 
+	- Channel gating - taking the measurements from the channel (ion flow) and digitising that into binary measurements ![[Pasted image 20251125103003.png]]
+	- ![[Pasted image 20251125103113.png]]
+	- Single channel conductance
+		- How "good" a channel is at letting current through 
+	- What ions flow through the channel (ion selectivity) 
+	- Inhibitors of the channel
+		- Cardiac excitation-contraction coupling 
+			- ![[Pasted image 20251125104209.png]]
+			- RyR (Ryanodine receptor)- Ca binding causes contractions, brings Ca out of the cell - RyR is a macromolecular complex
+			- SERCA - Ca binding causes relaxation, brings Ca back into the cell
+			- Catecholaminergic polymorphic ventricular tachycardia (CPVT) - inheritable autosomal dominant condition
+				- Symptoms - dizzy spells, fainting episodes, sudden cardiac death, ventricular tachycardia
+				- Underlying mechanism - 69 different point mutations -> very difficult to figure out how to treat it
+		- Skeletal muscle excitation-contraction coupling
+			- ![[Pasted image 20251125104601.png]]
+			- RyR - mechanical coupling with LTCC causes contraction instead of Ca binding
+			- Ryanodine receptor type 1 channel mutations -> Malignant hyperthermia 
+				- Pharmacogenetic disorder of skeletal muscle
+				- Severe reaction to commonly used anaesthetics and depolarising muscle relaxants -> high fever, muscle rigidity, tachycardia 

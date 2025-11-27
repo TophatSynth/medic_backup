@@ -1,0 +1,75 @@
+## Epidemiology #anki
+- The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to control of health problem
+- Factors influencing disease epidemiology
+	- Disease type - communicable or non-communicable
+	- Mode of transmission
+	- Genetic composition, immunity, nutrition state of the population
+	- Human interaction with their environment
+	- Human behaviours 
+	- Pathogen virulence
+	- Vaccination status of the population
+- Epidemiologic triangle ![[Pasted image 20251125091315.png]]
+- Mortality rates - estimate of the portion of a population that died of a condition during a specified time period
+	- Needs a denominator population and a time frame
+- Case fatality rate (CFR) - proportion of cases of a specified condition that are fatal within a specified time 
+	- Weaknesses
+		- May underestimate number of deaths, especially in the early days of an outbreak, or if there are breakdowns in the reporting system
+		- May overestimate if the denominator is limited - eg CFR for a rare condition
+		- It assumes that everyone who is infected has been tested and identified 
+	- The best way is to calculate it as a proportion of all cases - more testing -> higher CFR accuracy, though it reduces the numerator 
+- Infection fatality rates (IFR)
+	- Proportion of cases of a specified condition that die divided by total infected people
+	- In cases where majority of patients are asymptomatic/mild symptoms, but testing is only done on symptomatic cases, IFR is a more accurate measure of the lethality of a pathogen - eg covid
+	- IFR accuracy depends on the detection and reporting of asymptomatic or mild symptom cases
+	- Testing all infected cases is costly and countries may not be able to do that
+- Infection rates and R0 
+	- Infection rate - rate at which infection spreads within a population 
+	- R0 - the basic reproduction number denoting the number of cases that can be potentially infected by one case where everybody is susceptible
+		- Spread of disease is less likely when R0 < 1 and is more likely when R0 > 1. The larger the R0 -> harder to control the spread of the disease
+		- It is not a biological constant, but rather influenced by behaviour, infectiousness of cases, pathogen virulence, environment etc
+- Denominators  
+	- Population at risk/under study in a given area over a period of time 
+- Time frame 
+	- Person-time - an estimate of the actual time a person is at risk of infection (years, months, days)
+		- Calculated by multiplying the number of people to the time of exposure 
+		- Eg 1000 people exposed in one year = 1000 person years
+	- n-year follow-up - timeframe on an exposure or outcome 
+		- Eg 5 year mortality of 10 per 10,000 people
+- Incidence
+	- New cases of a disease, infections etc
+	- Person-time ![[Pasted image 20251125093320.png]]
+	- N years of follow-up ![[Pasted image 20251125093340.png]]
+- Prevalence 
+	- Proportion of population that has the disease
+	- Point prevalence - at a specified time 
+		- Point prevalence rate = (Number of people with disease at a point in time * 100)/total number of people in the group
+	- Period prevalence - over a specified period
+		- Period prevalence rate = (Number of people with the disease during a time period * 100)/Average number of people in the group
+- Epidemiologist's bathtub
+	- ![[Pasted image 20251125093734.png]]
+- Patterns of outcome occurence
+	- Sporadic - occasional cases occuring irregularly
+	- Endemic - persistent background level of occurrence (low to moderate levels)
+	- Outbreak - greater than expected cases of the endemic case- one case in a new area is an outbreak - turns into epidemic if not controlled
+	- Epidemic - occurrence in excess of the expected level for a given time period - disease spreads rapidly over a larger geographical area and involving many more people
+	- Pandemic - epidemic spreading over more than one continent 
+- Effect estimates
+	- Risk = number of outcomes * 100 / total number of people
+	- Relative risk (RR) = risk in exposed / risk in unexposed
+	- Relative risk reduction (RRR) = (1-relative risk) * 100
+	- Absolute risk reduction (ARR) = risk in unexposed / risk in exposed
+	- Number needed to treat = 1 / absolute risk reduction
+		- Number of patients needed to treat to prevent one additional new case
+- Confidence intervals 
+	- Range of plausible values - values near limits less plausible than those in the middle - the wider the interval, the greater the uncertainty
+	- ![[Pasted image 20251125095357.png]]
+- Study designs
+	- Cross-sectional studies - studies a proportion of the population at a given time
+		- Done to estimate exposures, prevalence, association, symptoms etc
+		- Done using surveys 
+	- Case-control studies - studies cases with an outcome compared to controls without an outcome
+	- Cohort studies - studies a group of people over a period of time for exposures and/or outcomes
+	- Randomised control studies (RCT) - studies a sample of a population in participants are randomised for an exposure or no exposure 
+- Confounding and bias
+	- Confounding - the true relationship of two things confused by a third factor
+	- Bias - systematic error due to human bias

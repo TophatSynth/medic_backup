@@ -1,0 +1,83 @@
+## Synaptic transmission
+- Can be chemical or electrical 
+	- Electric synapses - low resistance pathway between neighbouring cells - gap junction 
+		- Gap junction made of two hemichannels (called connexons) - hemichannels made from connexins
+	- Chemical synapse - neurotransmitters 
+		- ![[Pasted image 20251125141515.png]]
+		- [[Synapse 1 and 2#^de05c1|Ionotropic and metabotropic receptors]] 
+
+## Neurotransmitters
+- Substances that facilitate transmission between pre- and post-synaptic cells in chemical synapses
+- Needs to satisfy four criteria
+	- Synthesis, storage, release, inactivation
+	- Must be synthesised and stored pre-synaptically, only released following pre-synaptic depolarisation, and there must be a mechanism for inactivating them 
+- Types of neurotransmitters
+	- Amino acids - eg glutamate, aspartate, GAGA, glycine
+		- Glutamate - used in most fast excitatory synapses 
+			- Ionotropic receptors - eg NMDA (calcium channel)
+			- Metabotropic receptors - eg Kainate - closes K+ channels and opens Ca2+ channels 
+			- Reuptake relies on excitatory amino acid transporters (EAAT's)
+			- Dysfunction of glutamate
+				- Pain - opioids inhibit the release of/response to glutamate - prevents Ca channel opening in pre-synaptic cell and increases K efflux in post-synaptic cell -> inhibits pain signals ![[Pasted image 20251125142921.png]]
+				- Migraine 
+					- Before the pain, disturbances in vision - visual aura 
+					- Caused by wave of glutamate release all over the cortex of the brain 
+		- Gamma-aminobutyric acid (GABA)
+			- Used by half of all inhibitory synapses in the CNS
+			- Release activates ligand-gated chloride channels -> hyperpolarisation - GABA A or GABA C receptors
+			- Metabotropic receptors (GABA B) -> opens K channels and closes Ca channels 
+			- Reuptake relies on pre-synaptic reuptake
+			- Dysfunction
+				- Anxiety disorders - reduced levels of GABA in CNS -> psychological and somatic symptoms 
+					- Treatment using benzodiazepines - can enhance the inhibitory synaptic transmission at GABA A ![[Pasted image 20251125143524.png]]
+				- Alcohol use disorder 
+					- Can use benzodiazepines to deal with withdrawal symptoms from alcohol addiction
+			- Glycine 
+				- Makes up the remaining half of inhibitory synapses in CNS
+				- Activates ligand-gated chloride channels as well (GlyR)
+				- Co-agonist of NMDA receptor
+				- Reuptake relies on pre-synaptic reuptake
+				- Dysfunction 
+					- Tetanus
+						- Caused by toxin from Clostridium tetani 
+						- Inhibits release of glycine 
+						- Mild effects - inhibition of normal reflex arcs in muscles innervated by cranial nerves - causes muscle rigidity ![[Pasted image 20251125143856.png]]
+						- More serious effects - epileptiform fits 
+						- Treated with anti-toxins and benzodiazepines 
+		- Amines - Acetylcholine, dopamine, nor/adrenaline, serotonin
+			- Dopamine
+				- Pleasure and addiction 
+				- Release activates metabotropic receptors 
+					- D1 - excitatory, D2 - inhibitory
+				- Dysfunction
+					- Signalling altered by some recreational drugs - eg chronic use of drugs impairs pleasure reception from other sources
+					- Loss of dopaminergic neurons in Parkinson's disease 
+			- Noradrenaline
+				- Excitatory neurotransmittor - involved in wakefulness and attention
+				- Release activates metabotropic receptors 
+					- alpha - excitatory, Beta - inhibitory 
+				- Reuptake relies on pre-synaptic reuptake
+				- Dysfunction
+					- Depression - hypofunction of transmission
+					- Noradrenaline reuptake inhibitors -> prevent presynaptic reuptake and potentiate effects of noradrenaline
+			- Serotonin 
+				- Excitatory - wakefulness, mood and sleep
+				- Metabotropic receptors
+				- Pre-synaptic uptake
+				- Dysfunction
+					- Depression 
+						- SSRI's (Selective serotonin reuptake inhibitors) prevent presynaptic reuptake -> potentiate effects of serotonin 
+						- Recreational drugs disrupt treatment resistant depression - emerging evidence that may support use in clinical settings
+			- Acetylcholine
+				- Excitatory - PNS and CNS, neuromuscular junction
+				- Ionotropic - nicotinic acetylcholine receptor (nAChR)
+				- Metabotropic - muscarinic AChR (mAChR)
+				- Termination via acetylcholinesterase
+				- Dysfunction
+					- Myasthenia gravis - autoantibodies to nAChR -> progressive loss of receptors 
+					- Acetylcholinesterase inhibitors can help with symptom mgmt 
+					- But the inhibitors can be toxic - insecticides and nerve gases
+		- Peptides
+			- Endorphins and enkephalins
+				- Act on opioid receptors as endogenous ligands 
+				- However, opioids cause downregulation of opioids receptors in the CNS -> opioid tolerance and increase intake

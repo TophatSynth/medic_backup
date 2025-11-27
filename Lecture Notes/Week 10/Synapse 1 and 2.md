@@ -22,7 +22,7 @@
 			- Ca channel activates, allowing Ca to enter and bind to the synaptotagmin -> ca-bound synaptotagmin catalyses membrane fusion
 			- ![[Pasted image 20251120132844.png]]
 	2. Postsynaptic activity 
-		- Ligand gated ion channel (Ionotropic receptors) ![[Pasted image 20251120133039.png]]![[Pasted image 20251120133214.png]]
+		- Ligand gated ion channel (Ionotropic receptors) ![[Pasted image 20251120133039.png]]![[Pasted image 20251120133214.png]] ^de05c1
 			- Neurotransmitter binds to receptor -> allows ions to pass through - specific to certain ions only -> depolarise/repolarise the cell
 		- G protein coupled receptor (metabotropic receptors)
 			- Neurotransmitter binds to receptor -> causes G protein complex to move around inside of plasma membrane to bind to membrane enzymes -> allows them to catalyse the synthesis of messenger molecules -> can open other channel proteins or regulate transcription factors

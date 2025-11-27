@@ -1,0 +1,54 @@
+## Key points
+- 2 way process, using communication skills -> get as much detail as possible
+- It will take almost an hour for a full history taking
+
+## Structure
+- Introduce, obtain identifying info, explain, obtain consent... etc
+- Presenting complaint 
+	- Described using patient's own words in one sentence
+- History of presenting complaint 
+	- Establish timeline of events - detailed chronology from first symptom to time of interview
+	- Careful use of open/closed questions, relevant to main system being covered - constantly think abt what are the possible diagnoses 
+		- Acute vs chronic, duration, frequency, speed of onset
+		- Severity, character, radiation 
+		- Associated symptoms, aggravating/relieving factors 
+		- Impact on everyday life 
+		- SOCRATES
+- Past medical history
+	- Any prior treatments, admissions, operations and illnesses in chronological order
+	- On-going, fully resolved, managed by medication etc 
+	- JAM THREADS - common risk factors
+		- Jaundice
+		- Anaemia and other blood stuff
+		- Myocardial infarction
+		- Tuberculosis
+		- Hypertension and heart disease
+		- Rheumatic fever
+		- Epilepsy
+		- Asthma and COPD
+		- Diabetes
+		- Stroke
+- Drug history
+	- Prescribed, over the counter, herbal, illicit drugs etc
+	- Why and if they are taking the medication - 
+	- Name of drug, dose, administration route, frequency, duration of impact
+	- Allergies - medications or other things - adverse reaction vs "just" an allergy 
+- Family history
+	- "Are your parents still alive?" -> "How old are they?" -> "Any health problems?" or "When did they die/what age/what did they die from"
+	- "Any siblings?" -> "Age" -> "Any problems?"
+	- Same for children
+	- "Any health problems running in your family?"
+	- Can draw family tree
+- Social history 
+	- Employment -> risks to health? 
+	- Exercise
+	- Smoking - Pack years - the number of cigarettes per day per year - eg 1 pack year is 1 pack/day for 1 year
+	- Alcohol - probably have to calculate units later - advised max 14 units per week
+	- Home circumstances - living with ppl? where? help at home/carers? coping well? pets? driving?
+- Systems enquiry
+	- Screening questions for remaining body systems not covered yet
+- Ideas, concerns, expectations - ICE
+	- Do you have any thoughts as to what the problem may be?
+	- Anything you're particularly worried about?
+	- What are you expecting to get out of this?
+- [[SBAR]] summary
