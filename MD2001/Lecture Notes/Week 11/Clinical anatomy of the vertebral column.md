@@ -13,7 +13,7 @@
 	- Steroid injection may help
 	- Surgery as last resort
 
-## Kyphosis #tofinish primary curvature?
+## (Excessive) Kyphosis
 - Excessive convex curvature of the spine, especially the thoracic region 
 - Caused by osteoporosis - calcium deficiency -> bones are porous -> weak, fracture easily -> wedge shaped vertebral body rather than rectangular 
 - Osteoporosis can be visualised DEXA
@@ -22,9 +22,9 @@
 
 - Lumbarisation - S1 is detached from sacrum
 - Sacralisation - L5 is fused to sacrum
-- Spondylosis - osteoarthritis (degeneration) of the spine/facet joints -> abnromal fusion and immobilisation
+- Spondylosis - osteoarthritis (degeneration) of the spine/facet joints -> abnormal fusion and immobilisation
 	- Common in cervical and lumbar regions
-- Spondylolysis - Stress fracture through the pars interarticularis of the lumbar vertebrae #tofinish laminae? pedicle
+- Spondylolysis - Stress fracture through the pars interarticularis (pedicle) of the lumbar vertebrae 
 	- Scotty dog - snapped neck  
 - Spondylolithesis - Anterior slip of a vertebra on the lower segment due to a fracture of the pedicle or weakness of the ligamentum flavum 
 - Akylosing spondylitis - inflammatory disease of the joints/ligaments of the spine -> eventually causes ankylosis of vertebral and sacroiliac joint (bamboo spine)
@@ -35,4 +35,4 @@
 		- Incontinence
 		- Numbness
 		- Emergency
-	- Emergence - can be treated and recovered fully if treated promptly, if not - permanent effects eg incontinence
+	- Emergency - can be treated and recovered fully if treated promptly, if not - permanent effects eg incontinence

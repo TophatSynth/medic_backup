@@ -1,4 +1,4 @@
-## Epidemiology #anki
+## Epidemiology
 - The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to control of health problem
 - Factors influencing disease epidemiology
 	- Disease type - communicable or non-communicable

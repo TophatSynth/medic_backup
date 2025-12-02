@@ -7,7 +7,7 @@ a) Outline the basis of the ethical theories of consequentialism, deontology and
     - It follows a moral rule
 3. Virtue ethics (1 mark)
 	- It is what a virtuous person would do. 
-4. Describe 2 weaknesses of the theory of consequentialism, and 2 weaknesses of the theory of deontology (4 marks) #anki 
+4. Describe 2 weaknesses of the theory of consequentialism, and 2 weaknesses of the theory of deontology (4 marks) 
      - Consequentialism: It is difficult to determine which consequences are better than others. It is difficult to determine if the benefits of a consequence outweigh its cost. 
      - Deontology: Moral rules must be followed, even if the consequences promote suffering. Moral rules are not always applicable to every situation. 
 5. Explain what is meant by the doctrine of double effect (2 marks),
@@ -51,7 +51,7 @@ a) Outline the basis of the ethical theories of consequentialism, deontology and
     - Transmission via inanimate objects
 4. A variety of tests can be done to confirm an infection diagnosis. Detection of IgG levels in an infected patient is an example of what type of investigative technique? (1 mark)
     - Serrous testing 
-    - **Serological**
+    - **Serological** 
 5. Describe what is meant by the sensitivity and specificity of a test? (2 marks)
     - Sensitivity: the ability of the test to detect **all of the** true positives 
     - Specificity: the ability of the test to detect **all of the** true negatives
@@ -71,11 +71,11 @@ a) Outline the basis of the ethical theories of consequentialism, deontology and
     - To aid in keratin filament aggregation 
     - To aid in skin lubrication 
     - To aid in skin moisturising 
-    - **Main component of keratohyaline essential for cornification** #anki 
+    - **Main component of keratohyaline essential for cornification** 
 6. Name three diseases associated with filaggrin mutations (1.5 marks)
 	- Eczema
 	- Keratinisation disorders
-	- Asthma #anki 
+	- Asthma
 
 **Question 5:** The human body contains several hundred lymph nodes, but only a few are easily palpated.
 1. Name 3 main groups of palpable lymph nodes. (3 marks)
@@ -151,14 +151,14 @@ Cure/Controllability: **Patient's beliefs about whether illness can be cured and
     - A blockage or disturbance in bile secretion from the gall bladder leads to supersaturation of cholesterol into gallstones
 3. What condition can be caused by blockage of the vessel indicated by gallstones? (0.5 mark)
     - Cholestasis 
-4. What part of the pancreas is not retroperitoneal? (2 mark) #anki 
+4. What part of the pancreas is not retroperitoneal? (2 mark) 
     - The tail
 5. What is the main arterial supply of the pancreas? (1 mark)
     - The celiac artery 
     - **Splenic and pancreatico-duodenal**
 6. What is the main venous supply of the liver? (1 mark)
     - Hepatic vein
-7. Name the 4 lobes of the liver. (2 marks) #anki 
+7. Name the 4 lobes of the liver. (2 marks) 
     - Right and left lobes, 
     - Caudate, quadrate
 
@@ -294,7 +294,7 @@ d) Name the 5 longitudinal ligaments that pass between vertebral bodies and conn
 1. Describe the normal appearance of an erythrocyte under the light microscope and how it would differ in patients suffering from anaemia due to severe iron deficiency (3 marks).
     - Normally erythrocytes have a red-coloured spherical shape with a lighter coloured centre due to its biconcave shape. 
     - Anaemic erythrocytes would look smaller and have an irregular shape, as there is not enough haemoglobin in the cell. 
-    - **Normal erythrocytes will appear as small round cells with a red stain inside denoting the haemoglobin content. In severe anaemia, the lower amounts of haemoglobin present will often be in a ring around the edge of the cell, leaving a clear central area. These cells may also be slightly smaller than normal healthy erythrocytes.** #anki 
+    - **Normal erythrocytes will appear as small round cells with a red stain inside denoting the haemoglobin content. In severe anaemia, the lower amounts of haemoglobin present will often be in a ring around the edge of the cell, leaving a clear central area. These cells may also be slightly smaller than normal healthy erythrocytes.** 
 2. Describe the normal appearance of a neutrophil on a normal blood film, and how it would differ from a small lymphocyte (3 marks)
     - A neutrophil would have a darker coloured lobed nuclei inside.
     - A small lymphocyte conversely has 

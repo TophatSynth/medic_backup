@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"1a4181f2f4ca7039","type":"text","text":"## Follicular phase\n- FSH stimulates primordial follicle -> tertiary follicles\n- These produce oestrogen and inhibin B\n- The singular dominant follicle secretes oestrogen","x":-999,"y":110,"width":379,"height":210},
+		{"id":"047de65cf44664d5","x":-1600,"y":396,"width":380,"height":208,"type":"text","text":"## Proliferative phase\n- Oestrogen causes increased endometrial growth and vascular innervation \n- Cervical mucus secretions start to be modified"},
+		{"id":"688c88c7e7868a81","type":"text","text":"Dominant follicle doesn't degenerate bc FSH stimulates the production of additional FSH receptors within it -> increased sensitivity even as FSH levels decline \nFSH also induces development of LH receptors inside the dominant follicle","x":-865,"y":829,"width":420,"height":209},
+		{"id":"cc89edbe9b539519","type":"text","text":"Negative feedback of inhibin B/oestrogen with FSH causes the non-dominant follicles to degenerate","x":-1099,"y":494,"width":359,"height":220},
+		{"id":"a875b89834294e90","x":-480,"y":340,"width":392,"height":220,"type":"text","text":"- Oestrogen levels have been rising steadily... somehow. Reaches a threshold -> induces a switch from negative to positive feedback loop with the APG\n\t- APG expresses more GnRH receptors \n\t- Surge of LH secretion (x10) + smaller rise in FSH "},
+		{"id":"48d21eabfb368a9f","x":60,"y":560,"width":396,"height":220,"type":"text","text":"# Ovulation! \n- Rupture of follicle -> release of oocyte ~36-44 hours after LH surge - follicle becomes corpus luteum \n- Cervical mucus secretion modification continues -> increased amount of watery mucus"},
+		{"id":"b0e48ab679a893f7","type":"text","text":"# Phase 1 ","x":-919,"y":-80,"width":151,"height":71},
+		{"id":"632707ad713a75ca","x":-1018,"y":-240,"width":250,"height":60,"type":"text","text":"# Day 1 - 14"},
+		{"id":"b195d34364c6d86f","x":600,"y":-80,"width":250,"height":60,"type":"text","text":"# Phase 2"},
+		{"id":"9bf21dfeeb11423b","x":561,"y":-265,"width":250,"height":60,"type":"text","text":"# Day 15 - 28"},
+		{"id":"ab3cb2ebb974cf28","x":725,"y":117,"width":275,"height":60,"type":"text","text":"Progesterone levels increase"}
+	],
+	"edges":[
+		{"id":"d5c4c821b839ab82","fromNode":"b0e48ab679a893f7","fromSide":"bottom","toNode":"1a4181f2f4ca7039","toSide":"top"},
+		{"id":"a1965469537d791d","fromNode":"1a4181f2f4ca7039","fromSide":"bottom","toNode":"cc89edbe9b539519","toSide":"top"},
+		{"id":"086817cef9f3ae5c","fromNode":"1a4181f2f4ca7039","fromSide":"bottom","toNode":"688c88c7e7868a81","toSide":"top"},
+		{"id":"a10a2b4c3d4eb768","fromNode":"1a4181f2f4ca7039","fromSide":"left","toNode":"047de65cf44664d5","toSide":"right"},
+		{"id":"e325696e160bb0af","fromNode":"b0e48ab679a893f7","fromSide":"right","toNode":"b195d34364c6d86f","toSide":"left"},
+		{"id":"31169157f51edbd0","fromNode":"1a4181f2f4ca7039","fromSide":"right","toNode":"a875b89834294e90","toSide":"top"},
+		{"id":"45df9cbde5bb89c9","fromNode":"688c88c7e7868a81","fromSide":"right","toNode":"a875b89834294e90","toSide":"left"},
+		{"id":"83cc7f2249e3d844","fromNode":"a875b89834294e90","fromSide":"right","toNode":"48d21eabfb368a9f","toSide":"left"},
+		{"id":"f0013dd665edfb6e","fromNode":"047de65cf44664d5","fromSide":"bottom","toNode":"48d21eabfb368a9f","toSide":"bottom"},
+		{"id":"3d7000e7f9e397f6","fromNode":"b0e48ab679a893f7","fromSide":"top","toNode":"632707ad713a75ca","toSide":"bottom"},
+		{"id":"a5c6f787405d14c1","fromNode":"b195d34364c6d86f","fromSide":"top","toNode":"9bf21dfeeb11423b","toSide":"bottom"},
+		{"id":"3152a0d65dd9c4f5","fromNode":"b195d34364c6d86f","fromSide":"bottom","toNode":"ab3cb2ebb974cf28","toSide":"top"}
+	]
+}

@@ -1,4 +1,4 @@
-## Why study ion channel function? #anki 
+## Why study ion channel function?
 - Underlie most biological processes
 - Represent some of the major pathways for drugs to get into cells 
 

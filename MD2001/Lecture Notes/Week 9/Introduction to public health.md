@@ -1,9 +1,17 @@
+![[Pasted image 20251201110110.png]] 
+
+
+
+
+
+
+
 Health
 - The ability to adapt and self manage in the face of social, physical, and emotional challenges
 
 Determinants of health
 - Conditions in which we are born, grow, live and work
-- Commercial determinants of health - private sector activities that affect ppl's health +/-ve, in/directly
+- Commercial determinants of health - private sector activities that affect ppl's health +/-ve, in/directly 
 
 Spatial clustering
 - Unhealthy commodities - eg gambling, takeaway, smoking - tend to cluster in disadvantaged areas 
@@ -24,3 +32,23 @@ Whole systems approach
 TED talk about inequalities
 - GDP only matters in low income countries
 - In developed/developing countries, the main determinant of mental, physical, social and economic health is inequality within the country itself. 
+
+Health protection 
+- Prevention, not cure 
+- Also managing outbreaks and other incidents that threaten the public's health
+
+- How?
+	- Risk assessment - understanding time, people, place
+	- Risk management - controlling the disease
+	- Risk communication - education 
+
+![[Pasted image 20251201111350.png]]
+
+Public health is the wider determinants of health
+Health protection is the prevention of disease and control of infections
+Health promotion is increased patient self management of care 
+
+- Every healthcare contact is an opportunity for health improvement
+- Health belief model - spread knowledge -> attitudes and beliefs will change
+- Risk model - Risk context, risk perception, risk behaviour - change context/understanding of the risk -> change the behavious
+- Transtheoretical model - cyclic model of reflection, determination, action, and repeat 

@@ -3,8 +3,7 @@ Impact factor
 - Eg Lancet 88.5 citations per year for the last two years
 
 Researching
-- Always start with high quality secondary research - the data has already been validated by experts 
-#tofinish empirical evidence?
+- Always start with high quality secondary research - the data has already been validated by experts
 
 ## Forest plots
 - List of individual studies
