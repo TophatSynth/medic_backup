@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "MD2001/MCQ Revision Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "MCQ Revision Questions"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "a31c4b3dc06210ec",
+            "id": "ca8b068bfc06b5c4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -203,9 +204,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96e28b055d5dcce1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "MD2001/MCQ Revision Questions.md",
+    "MD2001/SWA Revision Questions.md",
+    "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
+    "MD2001/Lecture Notes/Week 11/Sim Patient Reflection.md",
     "MD2001",
     "MD2001/Feedback for MD2001.md",
     "MD2001/Lecture Notes/Week 9/Introduction to public health.md",
@@ -238,11 +243,8 @@
     "MD2001/Lecture Notes/Week 8/Ionic basis of the action potential.md",
     "MD2001/Lecture Notes/Week 8/Molecular movement across membranes .md",
     "MD2001/Lecture Notes/Week 11/Untitled.md",
-    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
     "Attachments/Pasted image 20251125143856.png",
-    "MD2001/Lecture Notes/Week 11/History Taking.md",
     "MD2001/Lecture Notes/Week 11",
-    "MD2001/Lecture Notes/Week 10/Synapse 1 and 2.md",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Week 10",
     "MD2001/Lecture Notes/Week 9",
