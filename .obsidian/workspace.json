@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD2001/MCQ Revision Questions.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCQ Revision Questions"
+              "title": "Home"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ca8b068bfc06b5c4",
+            "id": "846f138c726cc96f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/MCQ Revision Questions.md",
     "MD2001/SWA Revision Questions.md",
     "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
@@ -242,10 +242,8 @@
     "Attachments/Pasted image 20251125093320.png",
     "MD2001/Lecture Notes/Week 8/Ionic basis of the action potential.md",
     "MD2001/Lecture Notes/Week 8/Molecular movement across membranes .md",
-    "MD2001/Lecture Notes/Week 11/Untitled.md",
     "Attachments/Pasted image 20251125143856.png",
     "MD2001/Lecture Notes/Week 11",
-    "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Week 10",
     "MD2001/Lecture Notes/Week 9",
     "Lecture Notes/Week 8.zip",
