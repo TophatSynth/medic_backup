@@ -1,0 +1,65 @@
+## Overview
+- Abnormal immune system response to gluten - inflammatory response in the small intestine -> malabsorption 
+	- Small number of ppl also react to oats 
+- 1 in 50-200 ppl have coeliac disease
+- Diagnosed based on blood tests, biopsies of the small intestine while consuming gluten and other symptoms 
+	- Symptomatic
+		- Classic symptoms - malnutrition, malabsorption, chronic diarrhoea, cramping, bloating, mouth ulcers
+		- Non-classic symptoms - symptoms unrelated to malabsorption, usually outside of the intestine
+	- Subclinical 
+		- Have coeliac disease but don't have the typical symptoms 
+	- Non-responsive coeliac disease (NRCD) - persistence of symptoms despite not eating gluten for 6 - 12 months
+- Many ppl are actually asymptomatic, but: 
+	- Absolutely wild sentence btw ![[Pasted image 20260102160939.png]]
+- Disrupts the structure/function of the mucosal lining of the small intestine 
+- Not too well researched.. :/ current evidence on certain things remain contradictory (reporting bias?)
+
+## Causes
+- Risk factors
+	- Intestinal microbiota, antibiotic use
+	- Large amounts of gluten early in infancy may increase the risk of developing coeliac in those who are already genetically predisposed 
+- Genetic causes
+	- It appears that multiple alleles are required for coeliac to present — not everyone with the two most common alleles have the disease, and some ppl with coeliac have neither of the alleles 
+	- HLA-DQ protein - these are antigen-presenting receptors, used by APC's - used by the immune system to distinguish bt body cells and other cells 
+		- Coeliac disease usually has either HLA-DQ2 or HLA-DQ8
+		- They bind more tightly to gluten proteins -> activates T-cells -> autoimmune response
+		- The prevalence of HLA-DQ2 has increased over time, contrary to common sense - may have been genetically favoured in the past because it helps protect against tooth decay
+
+## Complications 
+- Malabsorption
+	- Maldigestion -> nutritional deficiencies, eg iron, folate, vit D, [[Red blood cells#Nutrients|cobalamin]] 
+		- Anaemia is a common one
+	- Osteoporosis <- malabsorption + autoimmunity (complex combination of factors) -> increased fracture risk
+		- Improves significantly within 1 year on a gluten free diet - better recovery in children than adults (and more important for them!! Growth!!)
+	- Can affect hormones -> delayed periods/puberty, reproductive disorders (eg infertility, miscarriages/pregnancy complications, early menopause)
+		- Evidence thus far is contradictory — meta analyses are contradictory (how? different weighting? samples?)
+		- Seems to be that miscarriages/infertility may be caused by non-specific inflammation + nutrient deficiencies —  [[Red blood cells#Nutrients|folate!!]] 
+		- Strict GF diet should be beneficial for women w/ coeliac planning pregnancy
+- Inflammation
+	- Bowel dmg -> lactose intolerance
+	- Intestinal inflammation -> systemic inflammation
+		- Headaches, fatigue, brain fog, joint/muscle pain
+	- Higher risk of certain gastrointestinal cancers 
+		- Non-Hodgkin lymphoma 
+			- Enteropathy-associated T-cell lymphoma (EATL) in NRCD 
+		- Intestinal adenocarcinoma
+		- Overall cancer risk is debatable — might be increased incidence due to increased screening when found with either coeliac or cancer, might be that we're catching coeliac quicker nowadays before it has a chance to cause cancer, or that GF foods are easier to obtain now 
+	- Chronic inflammation may lead to an increased risk of cardiovascular diseases — though the evidence is kinda sparse.. 
+		- GF diet may increase risk of CVD's - esp in conjunction with other CVD risk factors
+- Diet
+	- Can be quite malnutritious, often being poor in fibre and mineral content + high levels of sugar and fat <- GF alternative foods only, or the whole diet? 
+- Nerves/neurological
+	- Common symptoms - headache, brain fog
+	- Peripheral neuropathy (nerve damage)
+	- Potential epilepsy - unclear, though
+	- Ataxia - damage to the cerebellum/NS -> poor muscle coordination, clumsy, unbalanced 
+	- Untreated -> cognitive impairment 
+	- Some ppl are not coeliac but do still suffer from gluten-related neurological disorders 
+	- Full recovery is not very frequent
+		- Coeliac disease patients with neurological conditions were found to have white matter abnormalities - more permanent damage
+		- Prompt diagnosis — especially in children — is very important 
+- Psychological
+	- Mental health 👎
+		- An increased risk for ASD, ADHD, depression, anxiety and ED was found amongst coeliac sufferers in comparison to controls 
+		- 
+	- Eating disorders 

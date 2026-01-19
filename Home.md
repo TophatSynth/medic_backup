@@ -17,8 +17,6 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-    columnSize:
-      file.name: 400
 
 ```
 
@@ -50,5 +48,4 @@ views:
 
 ```
 
-[[Feedback for MD2001]]
 ### 4 hours of scheduled activities, 4.5 hours of independent studies per day

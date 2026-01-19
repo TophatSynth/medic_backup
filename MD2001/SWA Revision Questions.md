@@ -11,7 +11,7 @@
 	- If instead of anaesthesia, the goal of the procedure was to obtain cerebrospinal fluid for analysis, through which two additional layers (not spaces) would the needle need to pass? (1 mark)
 		- Dural sac and arachnoid mater
 	- State the vertebral level of the inferior-most extent of each of the meningeal layers and the spinal cord. (4 marks) *
-		- Dura mater and arachnoid mater - S5 **S2** #anki
+		- Dura mater and arachnoid mater - S5 **S2** 
 		- Pia mater - Co1
 		- Spinal cord - L2
 TOTAL MARKS = 10
@@ -28,7 +28,7 @@ TOTAL MARKS = 10
 | 5      | Vector only    | Vector + Gene C | Liver     | 216                                        ||
 
 - Which of the samples above is a positive control? (1 mark) 
-	- 3 **4** #tofinish 
+	- 3 **4** 
 - Why is it necessary to include sample 2? (1 mark) 
 	- To determine the extent of the effect of Gene A on Gene B
 - What can you conclude from the experiment? Justify your answer. (1.5 marks) 
@@ -37,9 +37,9 @@ TOTAL MARKS = 10
 - You know that the product of gene A activates the expressions of Gene C in liver cells, but not in muscle cells. Suggest one potential reason for this. (1 mark) 
 	- Muscles have an additional protein or gene that suppresses the process of gene A activating gene C. 
 - A patient has a mutation which changes a single base in the coding region of gene A which changes one amino acid. What is the name for this type of mutation? (0.5 marks)
-	- Point mutation #tofinish 
+	- Point mutation 
 - If there is a single base change in the coding region of gene A which changes one amino acid what aspect of its function may be affected? (1 mark) 
-	- The function of its protein may change or cease to work completely #tofinish **DNA binding or activation function** 
+	- The function of its protein may change or cease to work completely **DNA binding or activation function** 
 - A different patient has a mutation in a non-coding part of gene B which means it cannot be activated by gene A. What is the most likely position of the mutation? (1 mark) 
 	- The transcription binding site **promoter or enhancer** 
 - While the product of gene A activates the expression of gene C in liver cells what additional steps have to occur before the product of gene C is available in the cell? (3 marks) 
