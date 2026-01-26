@@ -1,0 +1,9 @@
+- Genetic disorder - some is linked to RYR1 gene, some seem to be unrelated 
+	- Genetic -> increases probability that Ca2+ channel is open -> more contraction 
+- Potentially fatal 
+- Triggered via inhalation of anaesthetic agents - can happen during administration or up to several hours later
+- Tachypnea, low spO2, high blood CO2, tahy cardia, hyperthermia, rigidity, sweating, large swings of blood pressure
+- -> respiratory/lactic acidosis, muscle rigidity, breakdown of muscle tissue -> release of K+ -> hyperkalemia 
+- "Ca2+‐induced Ca2+ release from the SR is enhanced compared with fibers from unaffected subject" #tofinish 
+- Neuroleptic agents - drugs used to treat mental disorders like schizophrenia - can trigger condition similar to MH (neuroleptic malignant syndrome) - abnormally high neuronal input to the muscle cells 
+- Treatment - Dantrolene (prevent uncontrolled contractions), diuretics (prevent damage to kidneys), sodium bicarbonate (lactic acidosis)

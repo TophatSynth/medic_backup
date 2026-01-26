@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e08db1ad80adcc26",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "019197426c96c925",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Other Notes"
+                "file": "MD2002/Lecture Notes/Week 1/Introduction to the limbs.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Other Notes"
+              "title": "Introduction to the limbs"
+            }
+          },
+          {
+            "id": "af7cb083753691bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 1/Structure of skeletal, cardiac and smooth muscle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure of skeletal, cardiac and smooth muscle"
             }
           }
         ]
@@ -73,7 +89,7 @@
             }
           },
           {
-            "id": "abc6b11ca619803f",
+            "id": "489f1c327942a6ac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -201,31 +218,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "abc6b11ca619803f",
+  "active": "019197426c96c925",
   "lastOpenFiles": [
+    "MD2002/Lecture Notes/Week 1/Structure of skeletal, cardiac and smooth muscle.md",
+    "MD2002/Lecture Notes/Week 1/Introduction to the limbs.md",
+    "Home.md",
+    "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
+    "Attachments/Pasted image 20260126124516.png",
+    "Attachments/Pasted image 20260126123411.png",
+    "Attachments/Pasted image 20260126123036.png",
+    "Attachments/Pasted image 20260126122819.png",
+    "Attachments/Pasted image 20260126122816.png",
+    "Attachments/Pasted image 20260126122556.png",
+    "Attachments/Pasted image 20260126122542.png",
+    "Attachments/Pasted image 20260126122526.png",
+    "Attachments/Pasted image 20260126122305.png",
+    "Attachments/Pasted image 20260126122257.png",
+    "MD2002/Clinical Skills/GALS.md",
+    "MD2002/Clinical Skills/Untitled.md",
+    "MD2002/Lecture Notes/Week 1/Malignant Hyperthermia.md",
+    "MD2001/Lecture Notes/Week 3/Red blood cells.md",
+    "MD2001/Lecture Notes/Week 11/Ion channels and disease.md",
+    "MD2001/Lecture Notes/Week 7/Introduction to the nervous system.md",
+    "MD2001/Lecture Notes/Embryology.canvas",
+    "Other Notes/Lymphoma.md",
+    "Other Notes/Asthma.md",
+    "Other Notes/Peanut Allergies.md",
+    "Other Notes/Eczema.md",
+    "MD2002/Lecture Notes/Week 1",
+    "MD2001/Lecture Notes/Week 10/Ultrasound 1 and 2.md",
+    "MD2001/Lecture Notes/Week 10/Synapse 1 and 2.md",
+    "MD2001/Lecture Notes/Week 10/Vasculature of the spinal cord.md",
+    "Other Notes/Craniocaudal and lateral folding.md",
+    "MD2001/Lecture Notes/Week 11/History Taking.md",
+    "MD2001/Lecture Notes/Week 11/Communication video review .md",
     "README.md",
+    "MD2001/Lecture Notes/Week 11/Introduction to epidemiology.md",
+    "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
     "Untitled Document",
     "Untitled Folder",
     "MD2001/Clinical Skills/Vital Signs.md",
     "MD2001/Clinical Skills/Secondary Survey.md",
-    "MD2001/Clinical Skills/Primary Survey.md",
-    "MD2001/Clinical Skills/Differential Diagnoses.md",
-    "MD2001/Clinical Skills/BLS.md",
-    "MD2001/Case Studies/Self-appraisal Timothy Cheng Sanjay Sharma.md",
-    "MD2001/Case Studies/Case Study Muneeb Khan Notes.md",
-    "MD2001/Case Studies/Sanjay Sharma Case Study Preread.md",
-    "MD2001/Case Studies/SBAR.md",
-    "MD2001/Case Studies/DR Reflection.md",
-    "MD2001/Case Studies/DNACPR.md",
-    "MD2001/Case Studies/Case study Muneeb Khan preread.md",
-    "MD2001/Case Studies/(Case Study) Rosie Turner Preread.md",
-    "MD2001/Feedback for MD2001.md",
-    "MD2001/MCQ Revision Questions.md",
-    "MD2001/SWA Revision Questions.md",
-    "Home.md",
-    "Other Notes/MUAC.md",
-    "Attachments/WhatsApp Image 2026-01-18 at 21.50.57.jpeg",
-    "Attachments/Pasted image 20260118215244.png",
     "Portfolio/Timothy Cheng DR Reflection.odt",
     "Portfolio/Timothy Cheng certificate-of-completion-why-infection-prevention-and-control-matters.pdf",
     "Portfolio/certificate-of-completion-hand-hygiene-assessment.pdf",
@@ -233,22 +266,6 @@
     "Portfolio/Sanjay Sharma Referral Letter Timothy Cheng.pdf",
     "Portfolio/Self appraisal Timothy Cheng Sanjay Sharma.odt",
     "Portfolio/Self appraisal first patient encounter Timothy Cheng.docx",
-    "Portfolio/Urinalysis Self Reflection Timothy Cheng.doc",
-    "Other Notes/Asthma.md",
-    "Other Notes/Peanut Allergies.md",
-    "Other Notes/Lymphoma.md",
-    "Other Notes/Eczema.md",
-    "Other Notes/Coeliac's Disease.md",
-    "MD2001/Lecture Notes/Week 4/(Practical) Blood Vessels.md",
-    "Attachments/Pasted image 20260102160939.png",
-    "MD2001/Lecture Notes/Embryology.canvas",
-    "MD2001/Lecture Notes/Menstrual cycle diagram.canvas",
-    "Attachments/Pasted image 20251201111350.png",
-    "Attachments/Pasted image 20251201110110.png",
-    "Attachments/Pasted image 20251125104601.png",
-    "Attachments/Pasted image 20251125104209.png",
-    "Attachments/Pasted image 20251125103003.png",
-    "Attachments/Pasted image 20251125102235.png",
-    "Attachments/Pasted image 20251125093734.png"
+    "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]
 }

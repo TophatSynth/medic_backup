@@ -45,9 +45,11 @@
     "//Lecture Notes/Lecture Notes/Week 11",
     "/",
     "//MD2002",
-    "//MD2001/MD2001/Case Studies",
-    "//MD2001/MD2001/Clinical Skills",
-    "//MD2001/MD2001/Portfolio"
+    "//MD2001/MD2001/Portfolio",
+    "//MD2001/MD2001/Lecture Notes/MD2001/Lecture Notes/Week 11",
+    "//MD2002/MD2002/Lecture Notes",
+    "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 1",
+    "//MD2002/MD2002/Clinical Skills"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

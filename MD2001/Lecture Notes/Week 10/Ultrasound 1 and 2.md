@@ -9,7 +9,7 @@
 - 3 types of transducers ![[Pasted image 20251119112239.png]]
 	- Linear array probe
 		- High frequency probe - causes high attenuation 
-		- Good image resolution, but low depth of imaging 
+		- Good image resolution, but low depth of imaging (5cm ish)
 		- Flat "footprint" (wave emission point) produces undistorted images 
 	- Curved array probe (Curvilinear probe)
 		- Low frequency probe
