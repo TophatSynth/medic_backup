@@ -11,7 +11,7 @@
 
 # Overview of muscles
 - 3 types weee (did this ady) [[Back bones, joints and muscles]]
-- Origin and insertion
+- Origin and insertion 
 	- Origin is usually the proximal end of the muscle - remains fixed during muscular contraction
 	- Insertion usually the distal end, usually the end that moves the most 
 	- Usually shorten in insertion -> origin direction
@@ -38,7 +38,7 @@
 - Antagonist
 	- Directly opposes the movement
 - Fixator
-	- Holds the rest of the body in place while th emovement occurs — stability
+	- Holds the rest of the body in place while the movement occurs — stability
 
 ## Fascia 
 ![[Pasted image 20260126112147.png]]
@@ -53,27 +53,28 @@
 		- Forms retinaculae - holds tendons in place so that they don't burst out of the skin during contraction (think flexion of wrist)
 		- Is a potential space
 			- Can bleed into it - Compartment syndrome
-			- Causes compression of nerves/arteries/veins -> distal ischemia and 
+			- Causes compression of nerves/arteries/veins -> distal ischemia 
 		- Fasciotomy - cut through fascia to let pressure out
 		- Muscles in the same compartment generally have the same action and nerve supply
 
 ### Deep fascia of the limbs
-#### Upper arm - the whole "arm" 
+#### Upper arm - the whole "arm"  ![[Pasted image 20260126154431.png]]
 - Arm - "upper arm"
-	- Anterior and posterior compartments #tofinish 
-- Forearm #tofinish 
+	- Anterior and posterior compartments, separated by medial and lateral intramuscular septae, all surrounded by the brachial fascia
+- Forearm 
 	- Anterior/posterior compartments 
-	- Forms interosseous membrane between 
+		- Flexor/pronator, and extensor/supinator, respectively
+	- Surrounded and separated by antebrachial fascia 
+		- Also forms interosseous membrane between 
 	- Thickens at the wrist to form flexor retinaculum (carpal tunnel) 
 
-#### Lower limb
+#### Lower limb ![[Pasted image 20260126161658.png]]
 - Thigh
 	- Thick fascia around the thigh - fascia lata
 	- Thickened laterally to form the iliotibial tract 
 	- Forms anterior, medial and posterior compartments (extensor, adductor, flexor respectively)
 - Leg
-	- Anterior, lateral, and 2 posterior compartments 
-	- #tofinish 
+	- Anterior, lateral, and 2 posterior compartments - extensor, everters, flexor, plantar flexor 
 
 ## [[Introduction to the nervous system|Neurons]]
 - Nerve is bundle of neuron
@@ -100,7 +101,7 @@
 	- Upper limb - subclavian artery
 	- Lower limb - external iliac artery (+ some internal iliac)
 - Venous drainage
-	- Superficial - individually named, eventually drains to deep veins via perforating veins #link 
+	- Superficial - individually named, eventually drains to deep veins via perforating veins [[Blood vessels and lymphatics]]
 	- Deep - accompanies arteries and takes their name ![[Pasted image 20260126114452.png]]
 		- Venae comitantes of XX artery 
 		- Venous muscular pump - muscles in the leg squeeze and push blood ![[Pasted image 20260126114615.png]]
@@ -108,9 +109,11 @@
 ## Lymphatics
 - Follows deep and superficial veins 
 - Nodes - Axillary in UL (upper limb), inguinal in LL (lower limb) 
-- #tofinish thumb movement
 
 ## Movement and myotomes
+- Thumb movement 
+	- Across the palm and back - flexion and extension 
+	- Side to side along the coronal plane of the thumb
 - Hilton's law - "Any nerve that moves a muscle connected to a joint, also serve the skin nerves over those muscles and inside of that joint"
 
 every muscle, >= two attachments
