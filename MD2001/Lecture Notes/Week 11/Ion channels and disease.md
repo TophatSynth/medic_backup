@@ -18,14 +18,14 @@
 	- Inhibitors of the channel
 		- Cardiac excitation-contraction coupling 
 			- ![[Pasted image 20251125104209.png]]
-			- RyR (Ryanodine receptor)- Ca binding causes contractions, brings Ca out of the cell - RyR is a macromolecular complex
-			- SERCA - Ca binding causes relaxation, brings Ca back into the cell
+			- RyR (Ryanodine receptor)- Ca binding causes contractions, brings Ca out of the sarcoplasmic reticulum - RyR is a macromolecular complex
+			- SERCA - Ca binding causes relaxation, brings Ca back into the SR
 			- Catecholaminergic polymorphic ventricular tachycardia (CPVT) - inheritable autosomal dominant condition
 				- Symptoms - dizzy spells, fainting episodes, sudden cardiac death, ventricular tachycardia
 				- Underlying mechanism - 69 different point mutations -> very difficult to figure out how to treat it
 		- Skeletal muscle excitation-contraction coupling
 			- ![[Pasted image 20251125104601.png]]
-			- RyR - mechanical coupling with LTCC causes contraction instead of Ca binding
-			- Ryanodine receptor type 1 channel mutations -> Malignant hyperthermia 
+			- RyR - mechanical coupling with LTCC (L-type calcium channel) causes contraction instead of Ca binding
+			- Ryanodine receptor type 1 channel mutations -> [[Malignant Hyperthermia]]  
 				- Pharmacogenetic disorder of skeletal muscle
 				- Severe reaction to commonly used anaesthetics and depolarising muscle relaxants -> high fever, muscle rigidity, tachycardia 

@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ltcc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,8 +218,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96e28b055d5dcce1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MD2001/Lecture Notes/Week 11/Ion channels and disease.md",
     "MD2002/Lecture Notes/Week 1/Excitation-contraction coupling.md",
     "MD2002/Lecture Notes/Week 1/Sarcomere structure & muscle contraction.md",
     "Home.md",
@@ -245,7 +246,6 @@
     "MD2002/Clinical Skills/Untitled.md",
     "MD2002/Clinical Skills/GALS.md",
     "MD2001/Lecture Notes/Week 3/Red blood cells.md",
-    "MD2001/Lecture Notes/Week 11/Ion channels and disease.md",
     "MD2001/Lecture Notes/Week 7/Introduction to the nervous system.md",
     "Other Notes/Lymphoma.md",
     "Other Notes/Asthma.md",
