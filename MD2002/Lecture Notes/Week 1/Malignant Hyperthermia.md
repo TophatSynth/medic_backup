@@ -6,4 +6,4 @@
 - -> respiratory/lactic acidosis, muscle rigidity, breakdown of muscle tissue -> release of K+ -> hyperkalemia 
 - "Ca2+‐induced Ca2+ release from the SR is enhanced compared with fibers from unaffected subject" #tofinish 
 - Neuroleptic agents - drugs used to treat mental disorders like schizophrenia - can trigger condition similar to MH (neuroleptic malignant syndrome) - abnormally high neuronal input to the muscle cells 
-- Treatment - Dantrolene (prevent uncontrolled contractions), diuretics (prevent damage to kidneys), sodium bicarbonate (lactic acidosis)
+- Treatment - Dantrolene (prevent uncontrolled contractions), diuretics (prevent damage to kidneys), sodium bicarbonate (lactic acidosis), cessation of anaesthesia, aggressive cooling efforts

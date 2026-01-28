@@ -90,7 +90,7 @@
 		- 
 	- Carpal joints
 		- Intercarpal joints, mid-carpal joints (between rows) - gliding synovial joints
-		- Pisoiotriquetral joint - joint bt pisiform and triquetrum 
+		- Pisotriquetral joint - joint bt pisiform and triquetrum 
 		- Carpal-metcarpal joints (CMCJ's) - all condyloid except first CMCJ (thumb)
 - Carpal tunnel
 	- Carpal arch formed by the proximal row of carpal bones 
@@ -110,7 +110,7 @@
 		- Superior thoracic artery - supplies intercostal spaces of ribs 1 and 2
 	- 2nd behind Pec minor
 		- Thoraco-acromial artery - "pokes up behind pec minor and goes blegh :P" 
-		- Lateral thoracic artery - Moves down the lateral thorax along the mid-axillary line #tofinish, supplies the lateral and anterior thoracic wall + lateral aspect of the breast
+		- Lateral thoracic artery - Moves down the lateral thorax along the mid-axillary line, supplies the lateral and anterior thoracic wall + lateral aspect of the breast
 	- 3rd after Pec. minor
 		- Subscapular artery - "chonky", branches -> thoraco-dorsal artery (supplies the post. thoracic wall), circumflex scapular artery (goes around the scapula)
 		- Ant./Post. circumflex humeral artery - go around the humerus, form an anastamosis 
@@ -126,19 +126,20 @@
 		- Superior Ulnar collateral
 		- Inferior Ulnar Collateral
 - Radial and ulnar arteries 
-	- Ulnar larger/deeper than radial
-	- Forms anastomosis 
-	- Anterior/posterior?? #tofinish 
-	- Anatomical snuffbox :D Druggssssssss
+	- Ulnar larger/deeper than radial - more difficult to palpate, so we use the radial 
+	- Radial/ulnar recurrent branches - go back "up" the arm and anastomosise with the sup./inf. ulnar collateral arteries
+	- Radial artery starts anterior in the forearm, but "dips" down into the wrist and enters the hand posteriorly
+		- Passes by the anatomical snuffbox :D Druggssssssss
+	- Ulnar artery remains anterior when entering the hand
 - Interosseous arteries
-	- Branches deep off the ulnar artery -> Anterior interosseous + Posterior interosseous
+	- Ulnar artery quickly branches off deep as the common interosseous artery -> Anterior interosseous + Posterior interosseous (runs down the ant./post. sides of the interosseous membrane, supplying the ant./post. compartments of muscles)
 - Wrist 
-	- Neither radial/ulnar enter carpal tunnel - radial passes posteriorly to the carpal bones, ulnar poasses anteriorly (superficially) 
-	- Allen's Test - testing for flow through the anastamoses 
+	- Neither radial/ulnar enter carpal tunnel - radial passes posteriorly to the carpal bones, ulnar passes anteriorly (superficially) through Guyon's Canal
+	- Allen's Test - testing for flow through the anastamoses - compress both arteries, palm goes pale, release one artery at a time, check if palm goes back to being pink
 	- Each one gives a palmar and dorsal carpal branch (4 in total), connect up to form dorsal/palmar carpal arches 
 - Scaphoid fractures 
 	- Easily fractured 
-	- Scaphoid gets blood supply from distal end - if fractured, can cause necrosis #tofinish 
+	- Scaphoid gets blood supply from distal end - if fractured, can cause avascular necrosis 
 
 
 ## Veins 

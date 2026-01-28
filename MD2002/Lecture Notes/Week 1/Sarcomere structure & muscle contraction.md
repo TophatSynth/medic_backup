@@ -1,0 +1,59 @@
+#anki 
+## Sarcomere structure
+- Muscle development ![[Pasted image 20260128090747.png]]
+	- Mesoderm cells -> myoblasts -> myotube -> mature skeletal muscle fiber
+	- Satellite cells - stem cells that lie on the outside of the fiber, can fuse into the fiber to repair the cells (think damage or exercise) or to contribute more nuclei and therefore more energy (metabolism for exercise) 
+- Recap
+	- Myofibres - muscle cells or myocytes
+	- Myofibrils - lots of sarcomeres end to end. Myofibrils are bundled together to form myofibres
+	- Myofilament - actin or myosin
+- Structure
+	- T tubules - extensions of the sarcolemma invaginating into the cell ![[Pasted image 20260128091310.png]]![[Pasted image 20260128091400.png]]
+		- Transmits the electrical impulses from neurons deep into the cell structure
+		- Triad - Closely associated with the terminal cisternae of the SR to stimulate release of Ca2+ -> enables the whole cell to contract almost simultaneously
+		- Usually placed between A and I bands of myofibril
+	- Sarcoplasmic reticulum 
+		- Smooth endoplasmic reticulum that surrounds each individual myofibrils ![[Pasted image 20260128091448.png]]
+		- Stores calcium and releases it on stimulation -> contraction
+	- Sarcomere ![[Pasted image 20260128091826.png]]![[Pasted image 20260128091834.png]]![[Pasted image 20260128092510.png]]
+		- Z discs form boundaries bt sarcomeres 
+		- Each sarcomere has actin and myosin (thin and thick respectively)
+		- I band - only actin (thin filaments)
+		- A band - actin and myosin (thick and thin overlap)
+		- H zone - only myosin 
+		- M line - myosin fibres linked by titin and accessory proteins to stay in the middle of the sarcomere
+		- Myosin is pulled towards Z discs by elastic titin filaments
+		- Main supporting proteins include titin and [[Cell Adhesion and Extracellular Matrix#Disease in the ECM|dystrophin]] 
+		- Myosin and actin proportions are 1:2, arranged in a hexagonal pattern 
+	- Myosin
+		- Bipolar assemblies of multiple myosin-II molecules ![[Pasted image 20260128092714.png]]![[Pasted image 20260128092722.png]]
+			- Each molecule consists of:
+			- Two intertwined heavy chains (MHC) - forms the twin heads, then tails form the myosin chain
+			- Two essential light chains (MLC-1) - stabilises the heads
+			- Two regulatory light chains (MLC-2) - regulates ATP activity of myosin
+		- Actin - two intertwined alpha-helical chains of actin
+			- Regulatory proteins:
+			- Tropomyosin - prevents myosin binding to actin in relaxed state - covers myosin binding site
+			- Troponin - binds actin, tropomyosin and calcium tgth
+				- TnC – binds Ca2+
+				- TnT – binds tropomyosin
+				- TnI – binds actin (inhibits contraction)
+		- Ca released from SR -> binds to TnC -> causes conformational change in TnI, TnT rotates tropomyosin to uncover myosin binding sites on actin
+		- ![[Pasted image 20260128094221.png]]
+- Sarcomere shortening
+	- At rest, the A/I bands are similar width 
+	- During contraction - myosin binds to actin, pulling inwards - shortening the sarcomere 
+		- I band reduces in size, but A band remains the same width
+
+# Cross bridge formation & the power stroke
+- ![[Pasted image 20260128093204.png]]
+- The neuromuscular junction
+	- Motor neurons have multiple branches, each going to a single myofibres
+	- Voltage gated calcium channels open -> Ca enters -> vesicles containing Ach fuse w/ membrane, released into the synaptic cleft, attaches to Nicotinic Ach receptors (nAchR) -> action potential is generated -> Acetylcholinesterase rapidly breaks Ach down in synaptic cleft
+	- ![[Pasted image 20260128093806.png]]
+	- T tubule transmits action potential deeper into the cell 
+- End of contraction
+	- Action potential stops - Ca is pumped back into the SR by sarco-endoplasmic reticulum calcium ATPase (SERCA) #link
+	- Ca binds to calsequestrin and calreticulin within the SR
+- ![[Pasted image 20260128094024.png]]
+	- AP - Action Potential
