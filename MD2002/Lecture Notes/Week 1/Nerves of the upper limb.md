@@ -1,0 +1,17 @@
+# Brachial plexus 
+- Nervous supply to the entire upper limb + all extrinsic back muscles (except trapezius - accessory spinal nerve)
+- Made of ventral rami of C5-8 + T1
+- Pattern - Rooyd, trunks, divisions, cords, nerves/branches
+- Dermatomes ![[Pasted image 20260129092631.png]]
+- #tofinish peripheral nerve/dermatome difference?????
+- Compartments - muscles in each compartment have the same named nerve supply (usually)
+- Travels from the root of the neck, into the axilla - once in the arm, split into peripheral nerves
+- ![[Pasted image 20260129093020.png]]
+- Roots - C5-8, T1
+	- Found bt scalenus medius and scalenus anterior ![[Pasted image 20260129093206.png]]
+- Trunks 
+	- C5 and C6, C8 and T1 come together -> S/M/I trunks
+	- Not water but wires - each root keeps its identity within the trunk and can branch off independently later
+- Divisions 
+	- Split further behind the clavicle 
+	- Each trunk has an ant. division 

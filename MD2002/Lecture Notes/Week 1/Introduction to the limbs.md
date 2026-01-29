@@ -1,4 +1,4 @@
-# Overview of the limbs #anki
+# Overview of the limbs
 -  Difference in function and ability bt lower and upper limbs — adapted for diff functions 
 - Development
 	- Starts at somites at C5-T1 and L2-S2 (2 days later) as buds

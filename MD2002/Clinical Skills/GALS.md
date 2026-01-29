@@ -17,6 +17,8 @@
 4. Ask patient to walk for a bit, turn, and walk back
 5. Ask patient to walk on toes, then on heels
 - Describe the gait (normal, antalgic, ataxic)
+	- Antalgic gait - leaning away from the side with pain 
+	- Ataxic gait - drunken walk, wide stance
 
 ## Arms 
 6. Shoulder 
@@ -37,14 +39,31 @@
 	- Squeeze across metacarpophalagneal joint (MCPJ's) to check for tenderness <- inflammatory joint disease
 
 ## Spine
-1. Cervical 
+10. Cervical 
 	- Touch chin to chest (flexion)
 	- Look up towards the ceiling (extension)
 	- Look over shoulder – both sides (rotation)
 	- Move each ear down towards either shoulder (lateral flexion)
-2. Thoracic
+11. Thoracic
 	- Either crouch behind patient and hold their hips, or ask them to sit on the couch {I know which one I'm doing...} to prevent pelvic rotation. Ask patient to turn to each side to look behind them (rotation)
-3. Lumbar
+12. Lumbar
 	- Keep legs straight and try to touch toes (flexion)
 	- At the same time, place fingers on two adjacent spinous processes (vertebral movement) - gap should increase on flexion then return to og distance when standing normally
 	- Stand upright, then slide hands down the side of each thigh in turn (lateral flexion)
+
+## Legs - Lie on side
+13. Hips 
+	- Test each side individually
+	- Bring knee towards chest (hip flexion)
+	- Hold knee and ankle, have the hip and knee bent to 90 degrees, then rotate hip side to side
+14. Knees
+	- Test each side individually
+	- Heel kick (but like, slow) (flexion)
+	- Lie on back, place hand under knee, ask patient to press hand hand into the couch with back of knee (extension) 
+	- Patellar tap (??) or cross fluctuation test (????)
+15. Ankles - lie on back again
+	- Keep knees straight and point toes towards head (dorsi-flexion)
+	- Then point toes back "down" (plantar flexion)
+16. Feet
+	- Inspect soles for callus formation (abnormal weight distribution)
+	- Squeeze across the metatarsophalangeal (MTPJ's) (inflammation)

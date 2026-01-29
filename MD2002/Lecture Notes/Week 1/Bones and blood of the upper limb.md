@@ -140,14 +140,34 @@
 - Scaphoid fractures 
 	- Easily fractured 
 	- Scaphoid gets blood supply from distal end - if fractured, can cause avascular necrosis 
-
+- Superficial arteries of the hand ![[Pasted image 20260129091113.png]]
+	- Ulnar artery enters hand, gives off deep branch, continues as superficial branch -> superficial palmar arch w/ radial artery 
+	- Arch -> 3 common palmar digital arteries 
+		- Each divides into 2 proper palmar digital arteries, #tofinish 6 but 5 fingers?
+- Deep arteries of the hand ![[Pasted image 20260129091104.png]]
+	- Radial artery passes post. on the scaphoid and trapezium 
+	- Reenters palmar surface through the 1st dorsal interosseous muscle
+	- Forms deep palmar arch w/ deep branch of ulnar
+	- Going out of the muscle -> branches radialis indicis artery 
+	- #tofinish various arteries branching arteries in thumb and 1st finger?
 
 ## Veins 
 ### Deep
+- Venae comitantes #link - mostly follow arterial supply
+- Brachial veins coalesce w/ basilic vein at lower border of Teres Major into Axillary vein
 ### Superficial
+- Dorsal venus network/arch in hand -> cephalic and basilic veins
+- Cephalic - lateral, goes over anatomical snuffbox (cannula)
+- Basilic - medial 
+- Cubital fossa!! - median cubital vein #tofinish branching bt the two? 
 
 ### Central venus system
-
+- Basilic vein joins brachial vein at lower border of Teres Major
+- Cephalic vein goes through delto-pectoral groove, pierces deep fascia to join axillary vein 
 
 ## Lymphatics
-
+- Superficial lymph - drains along same route of superficial veins
+- Deep lymph - drains along deep vein routes 
+- Nodes - axillary nodes - drain the arm and lateral wall/areola ![[Pasted image 20260129092147.png]]
+	- #tofinish specific nodes?
+	- #tofinish any along the arm that we need to know?

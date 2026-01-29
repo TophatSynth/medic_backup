@@ -1,5 +1,3 @@
-#anki 
-
 # Excitation contraction coupling in skeletal muscle
 - Linkage between excitation of the muscle fibre membrane, and the onset of contraction
 - ![[Pasted image 20260128100842.png]]
@@ -33,14 +31,15 @@
 	- Ach - slows down pulse, localised to pacemakers
 	- Noradrenaline - increases rate and strength, diffuses through the heart cell 
 - Cardian action potential ![[Pasted image 20260128102824.png]]
-	- #tofinish which ions are involved?
 	- Contraction occurs during ventricular action potential
-	- Ca-induced ca release (CICR) in cardiac muscle 
+	- Ca-induced Ca release (CICR) in cardiac muscle 
 		- Ca flows through DHP channel -> Ca then triggers RyR2 to release rest of Ca
 		- Requires extracellular Ca - approx 25% is from outside to induce CICR
 		- ![[Pasted image 20260128103214.png]]
 - Relaxation
 	- Ca ATPase in SR pumps ca into SR, same happens in the cell membrane (Na/Ca exchange pump, Na:Ca - 3:1)
+	- 75% of Ca is pumped out of the cell, 25% into the SR 
+		- Net flow out of the cell - is replenished via other means ( #tofinish learn on thursday?)
 - Pathology 
 	- One type of arrythmia - Too much Ca is being pumped out -> too much Na inside the cell Na/K pump can't cope with so much Na -> leads to depolarisation  
 	- RyR type 2 channelopathy 

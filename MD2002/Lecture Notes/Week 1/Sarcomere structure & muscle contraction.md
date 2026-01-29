@@ -1,4 +1,3 @@
-#anki 
 ## Sarcomere structure
 - Muscle development ![[Pasted image 20260128090747.png]]
 	- Mesoderm cells -> myoblasts -> myotube -> mature skeletal muscle fiber
@@ -23,7 +22,7 @@
 		- H zone - only myosin 
 		- M line - myosin fibres linked by titin and accessory proteins to stay in the middle of the sarcomere
 		- Myosin is pulled towards Z discs by elastic titin filaments
-		- Main supporting proteins include titin and [[Cell Adhesion and Extracellular Matrix#Disease in the ECM|dystrophin]] 
+		- Main other supporting proteins include titin and [[Cell Adhesion and Extracellular Matrix#Disease in the ECM|dystrophin]] 
 		- Myosin and actin proportions are 1:2, arranged in a hexagonal pattern 
 	- Myosin
 		- Bipolar assemblies of multiple myosin-II molecules ![[Pasted image 20260128092714.png]]![[Pasted image 20260128092722.png]]
@@ -47,13 +46,13 @@
 
 # Cross bridge formation & the power stroke
 - ![[Pasted image 20260128093204.png]]
-- The neuromuscular junction
-	- Motor neurons have multiple branches, each going to a single myofibres
+- The neuromuscular junction #anki wait for thursday 
+	- Motor neurons have multiple branches, each going to a single myofibre
 	- Voltage gated calcium channels open -> Ca enters -> vesicles containing Ach fuse w/ membrane, released into the synaptic cleft, attaches to Nicotinic Ach receptors (nAchR) -> action potential is generated -> Acetylcholinesterase rapidly breaks Ach down in synaptic cleft
 	- ![[Pasted image 20260128093806.png]]
 	- T tubule transmits action potential deeper into the cell 
 - End of contraction
-	- Action potential stops - Ca is pumped back into the SR by sarco-endoplasmic reticulum calcium ATPase (SERCA) #link
+	- Action potential stops - Ca is pumped back into the SR by sarco-endoplasmic reticulum calcium ATPase ([[Ion channels and disease|SERCA]])
 	- Ca binds to calsequestrin and calreticulin within the SR
 - ![[Pasted image 20260128094024.png]]
 	- AP - Action Potential
