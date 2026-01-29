@@ -6,7 +6,7 @@
 - #tofinish peripheral nerve/dermatome difference?????
 - Compartments - muscles in each compartment have the same named nerve supply (usually)
 - Travels from the root of the neck, into the axilla - once in the arm, split into peripheral nerves
-- ![[Pasted image 20260129093020.png]]
+- ![[Pasted image 20260129093020.png]]![[Pasted image 20260129094146.png]]
 - Roots - C5-8, T1
 	- Found bt scalenus medius and scalenus anterior ![[Pasted image 20260129093206.png]]
 - Trunks 
@@ -14,4 +14,39 @@
 	- Not water but wires - each root keeps its identity within the trunk and can branch off independently later
 - Divisions 
 	- Split further behind the clavicle 
-	- Each trunk has an ant. division 
+	- Each trunk has an ant. and a post. division 
+	- All post. come tgth to form the posterior cord 
+		- "it does posterior stuff" - goes down the posterior aspect of the arm, only posterior functions, will always be psoterior (except when it isn't)
+	- Ant. division of upper and middle trunk -> lateral cord
+	- Ant. divison of inf. trunk -> medial cord
+- Terminal nerves 
+	- Lateral cord -> musculocutaneous nerve
+	- Lateral + medial cords -> median nerve
+	- Posterior cord -> radial and axillary nerves - remember, the posterior stuff is posterior!!!!!!!!!!!!!!!!!!!!!!
+	- Medial cord -> ulnar nerve 
+	- ![[Pasted image 20260129094311.png]]![[Pasted image 20260129094507.png]]
+- Minor branches! 😭 #tofinish 
+	- Non upper limb
+		- Phrenic nerve (C5) #tofinish 
+		- 1st intercostal nerve (T1) - supplies the ribs
+	- Roots
+		- Long thoracic nerve (C5-7) - goes behind all the other nerves to go and supply the thorax
+		- Dorsal scapular nerve (C5) - rhomboid major and minor (a bit of levator scapulae)
+	- Trunks
+		- Suprascapular (C5/6, superior trunk) 
+		- Subclavius nerve (C5, superior trunk)
+	- Cords 
+		- Lateral pectoral nerve (C5-7, ant. cord) 
+		- Lower subscapular, thoracodorsal, upper sabscapular nerve (C5-8, post. cord) 
+		- Medial antebrachial cutaneous, medial brachial cutaneous, medial pectoral nerve (C8/T1, med. cord)
+	- Other 
+		- Suprascapular nerve #tofinish 
+- Injuries
+	- Obstetric vs traumatic 
+		- Obstetric - being birthed, pulling on head -> tension in neck/shoulder 
+		- Traumatic - eg landing on the side of your head, same thing
+	- Erb's palsy - upper brachial plexus injury
+		- Roots C5/6
+		- Internal rotation and extension of the arm, palmar flexion - Waiter's Tip
+	- Klumpkey's palsy - lower brachial plexus injury #tofinish 
+	- 
