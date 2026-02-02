@@ -140,34 +140,38 @@
 - Scaphoid fractures 
 	- Easily fractured 
 	- Scaphoid gets blood supply from distal end - if fractured, can cause avascular necrosis 
-- Superficial arteries of the hand ![[Pasted image 20260129091113.png]]
+- Superficial arteries of the hand   ![[Pasted image 20260129091113.png]]
 	- Ulnar artery enters hand, gives off deep branch, continues as superficial branch -> superficial palmar arch w/ radial artery 
+		- Might sometimes not connect up with radial artery -> "hook"
 	- Arch -> 3 common palmar digital arteries 
-		- Each divides into 2 proper palmar digital arteries, #tofinish 6 but 5 fingers?
+		- Each divides into 2 proper palmar digital arteries 
+		- These run up the lateral side of the pinky, both sides of the 3rd and 4th finger, and the medial side of the index finger
+		- Most medial side of the arch gives off another proper palmar digital artery - runs along the medial side of the pinky
 - Deep arteries of the hand ![[Pasted image 20260129091104.png]]
 	- Radial artery passes post. on the scaphoid and trapezium 
 	- Reenters palmar surface through the 1st dorsal interosseous muscle
-	- Forms deep palmar arch w/ deep branch of ulnar
-	- Going out of the muscle -> branches radialis indicis artery 
-	- #tofinish various arteries branching arteries in thumb and 1st finger?
-
+	- Out of the muscle -. branches -> Forms deep palmar arch w/ deep branch of ulnar - mostly contributed to by the radial artery
+		- Also gives the princeps policis artery and radialis indicis artery (lateral surface of the index finger)
+	- Deep palmar arch gives palmar metacarpal arteries - anastomose with common digital palmar arteries 
 ## Veins 
 ### Deep
-- Venae comitantes #link - mostly follow arterial supply
+- Venae comitantes ([[Introduction to the limbs]]) - mostly follow arterial supply
 - Brachial veins coalesce w/ basilic vein at lower border of Teres Major into Axillary vein
 ### Superficial
 - Dorsal venus network/arch in hand -> cephalic and basilic veins
 - Cephalic - lateral, goes over anatomical snuffbox (cannula)
 - Basilic - medial 
-- Cubital fossa!! - median cubital vein #tofinish branching bt the two? 
+- Cubital fossa!! - median cubital vein - branch bt the cephalic and basilic veins
 
 ### Central venus system
 - Basilic vein joins brachial vein at lower border of Teres Major
 - Cephalic vein goes through delto-pectoral groove, pierces deep fascia to join axillary vein 
+- Axillary vein also receives blood from body wall from as low as the lower abdomen 
 
 ## Lymphatics
 - Superficial lymph - drains along same route of superficial veins
 - Deep lymph - drains along deep vein routes 
-- Nodes - axillary nodes - drain the arm and lateral wall/areola ![[Pasted image 20260129092147.png]]
-	- #tofinish specific nodes?
-	- #tofinish any along the arm that we need to know?
+- Nodes
+	- Cubital lymph nodes 
+	- Axillary nodes - drain the arm and lateral wall/areola of breast![[Pasted image 20260129092147.png]]
+		- Anterior, posterior and lateral groups (also called Pectoral, subscapular and humeral groups respectively) -> drain to central group (really deep in axilla but palpatable) -> apical nodes (can't palpate. too deep) -> supraclavicular nodes -> subclavian lymph trunk -> lymphatic duct 

@@ -1,0 +1,107 @@
+# Pectoral 
+- Pectoral region - anterior chest 
+	- 4 muscles ![[Pasted image 20260129160828.png]]
+		- Subclavius - moves clavicle
+		- Pectoralis major (Med. and lat. pectoral nerves) - moves humerus
+			- 2 heads - clavicular and sternocostal heads
+			- Medial rotation, adduction (flexion/extension) 
+		- Pectoralis minor (med. pectoral) - moves scapula 
+			- Connects to coracoid process, and costochondral joins 
+			- Stabilises/depresses scapula
+		- Serratus anterior (long thoracic nerve) - moves scapula
+			- Attaches to ribs, passing ant. to scapula, attaches to its medial border 
+			- Scapular rotation
+			- Prevents "winging" - push forwards, scapula move backwards instead of around the thoracic wall 
+- Extrinsic back muscles - 
+	- 4 muscles 
+		- Latissimus dorsi (thoracodorsal nerve) - moves humerus 
+			- Humerus to T8/12 and iliac crest 
+			- Extension, adduction (medial rotation)
+		- Trapezius (spinal accessory nerve) - moves scapula
+		- Rhomboids (dorsal scapular nerve) - moves scapula
+			- Medial border of scapula to spinous processes
+		- Levator scapulae (cervical nerves/dorsal scapular nerve) - moves scapula
+- Scapular movements - needed for full range of arm movement bc glenohumeral joint is limited![[Pasted image 20260129161912.png]]
+	- Elevation/depression
+		- Elevation - Upper trapezius (levator scapulae, rhomboids)
+		- Depression - Gravity (inferior parts of pectoralis major/minor)
+	- Protraction/Retraction
+		- Protraction - Serratus anterior (pec minor)
+		- Retraction - Midle trapezius (rhomboids and lat dorsi)
+	- Upward/downward rotation 
+		- Upwards - upper trapezius (serratus anterior)
+		- Downwards - latissimus dorsi (levator scapulae)
+- Intrinsic shoulder muscle
+	- Attaches scapula to humerus and moves the glenohumeral joint - deltoid, teres major, rotator cuff muscle
+	- Deltoid  ![[Pasted image 20260129162406.png]]
+		- Multipennate 
+		- Anterior part - clavicular, flexion/medial rotation
+		- Middle part - acromial, abduction
+		- Posterior part - spine of scapula , extension, lateral rotation
+		- Needs supraspinatus to help abduction 
+		- Innervated by the axillary nerve (C5/6, post. cord)
+	- Teres major ![[Pasted image 20260129162507.png]]
+		- Attaches medial border of scapula to intertubercular sulcus of humerus 
+		- Medial rotation and adduction 
+		- Innervated by the lower subscapular nerve (C5/6 -> post. cord)
+	- Rotator cuff - group of muscles ![[Pasted image 20260129162759.png]]
+
+		- 4 muscles
+			- Supraspinatus - suprascapular nerve
+				- Attaches onto greater tuberosity of humerus
+				- Responsible for the first 15 degrees of abduction
+				- Passes right under the acromion - has subacromial bursa between
+			- Infraspinatus - suprascapular nerve
+				- Attaches onto greater tuberosity of humerus
+				- Lateral rotation
+			- Teres Minor - axillary nerve
+				- Attaches onto greater tuberosity of humerus
+				- Lateral rotation
+			- Subscapularis - U/L subscapular nerves
+				- Attaches onto the lesser tubercle of humerus
+				- Medial rotation
+		- Very important for glenohumeral joint stability - holds the humeral head in the glenoid fossa
+- Fascia 
+	- Deep fascia for each muscle
+		- Clavipectoral fascia around pectoralis minor
+		- Pectoral fascia around pectoralis major 
+		- Brachial fascia - wraps around almost the entire upper limb
+		- Infraspinatus and supraspinatus fascia - very very very dense - muscles connect onto them
+- Gateways
+	- Anterior gateway - Axilla - connects neck to upper limb ![[Pasted image 20260129163511.png]]
+		- Pyramidal shape
+			- Ant - pec major/minor and fascia
+			- Post - scapula/subscapularis 
+			- Med - Ribs 1 to 4, serratus ant.
+			- Lat - Humerus 
+			- Floor - skin and axillary fascia
+			- Above - cervico-axillary canal (1st rib, scapula, clavicle)
+			- Ant. fold - pec major
+			- Post. fold - Teres major, Lat dorsi 
+		- Axillary sheath - continuation of prevertebral fascia in the neck
+			- Surrounds brachial plexus
+	- Posterior gateways ![[Pasted image 20260201184850.png]]![[Pasted image 20260129164127.png]]
+		- Quadrangular space ![[Pasted image 20260129164316.png]]
+			- Borders
+				- Teres minor/major
+				- Humerus 
+				- Long head of triceps
+			- Contains 
+				- Post. circumflex humeral artery
+				- Axillary nerve
+		- Upper triangular space (triangular space) ![[Pasted image 20260129164320.png]]
+			- Borders
+				- Teres minor/major
+				- Long head of triceps
+			- Contains 
+				- Circumflex scapular artery for anastomosis
+		- Lower triangular space (triangular interval)  ![[Pasted image 20260129164348.png]]
+			- Borders
+				- Lateral head of triceps
+				- Long head of triceps 
+				- Teres major
+			- Contains
+				- Radial nerve
+				- Profunda brachii artery 
+				- Leads to spiral groove
+			- Interval bc nothing's passing through it 

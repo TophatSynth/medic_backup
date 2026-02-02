@@ -9,7 +9,7 @@
   "displayTitle": "",
   "PDFIndexing": false,
   "officeIndexing": false,
-  "imagesIndexing": true,
+  "imagesIndexing": false,
   "aiImageIndexing": false,
   "unsupportedFilesIndexing": "default",
   "splitCamelCase": true,

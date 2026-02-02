@@ -79,5 +79,14 @@
       ],
       "key": " "
     }
-  ]
+  ],
+  "make-md:mk-spaces": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": []
 }

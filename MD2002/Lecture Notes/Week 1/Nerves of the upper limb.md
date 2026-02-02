@@ -1,9 +1,9 @@
-# Brachial plexus 
+# Brachial plexus  
 - Nervous supply to the entire upper limb + all extrinsic back muscles (except trapezius - accessory spinal nerve)
 - Made of ventral rami of C5-8 + T1
-- Pattern - Rooyd, trunks, divisions, cords, nerves/branches
+- Pattern - Roots, trunks, divisions, cords, nerves/branches
 - Dermatomes ![[Pasted image 20260129092631.png]]
-- #tofinish peripheral nerve/dermatome difference?????
+- Spinal nerves serve dermatomyotomes, but once they split and recombine etc, the peripheral nerves will serve only sections of the dermatomyotome(s) - therefore, damaging the root before it splits will damage the whole dermatomyotome, but damaging the peripheral nerves will only damage parts of the dermatomyotome(s)
 - Compartments - muscles in each compartment have the same named nerve supply (usually)
 - Travels from the root of the neck, into the axilla - once in the arm, split into peripheral nerves
 - ![[Pasted image 20260129093020.png]]![[Pasted image 20260129094146.png]]
@@ -25,9 +25,9 @@
 	- Posterior cord -> radial and axillary nerves - remember, the posterior stuff is posterior!!!!!!!!!!!!!!!!!!!!!!
 	- Medial cord -> ulnar nerve 
 	- ![[Pasted image 20260129094311.png]]![[Pasted image 20260129094507.png]]
-- Minor branches! 😭 #tofinish 
-	- Non upper limb
-		- Phrenic nerve (C5) #tofinish 
+- Minor branches! 😭 
+	- Non upper limb (don't care)
+		- Phrenic nerve (C5)  
 		- 1st intercostal nerve (T1) - supplies the ribs
 	- Roots
 		- Long thoracic nerve (C5-7) - goes behind all the other nerves to go and supply the thorax
@@ -36,17 +36,24 @@
 		- Suprascapular (C5/6, superior trunk) 
 		- Subclavius nerve (C5, superior trunk)
 	- Cords 
-		- Lateral pectoral nerve (C5-7, ant. cord) 
-		- Lower subscapular, thoracodorsal, upper sabscapular nerve (C5-8, post. cord) 
+		- Lateral pectoral nerve (C5-7, lat. cord) 
+		- Lower subscapular, upper sabscapular nerve (C5/6, post. cord), Thoracodorsal (C6-8, post. cord)
 		- Medial antebrachial cutaneous, medial brachial cutaneous, medial pectoral nerve (C8/T1, med. cord)
 	- Other 
-		- Suprascapular nerve #tofinish 
+		- Suprascapular nerve 
+			- Goes through the suprascapular foramen while the suprascapular artery goes over it
+		- Intercostal brachial nerve (T2) - cutaneous in axilla
+		- Nerve to subclavius 
 - Injuries
 	- Obstetric vs traumatic 
 		- Obstetric - being birthed, pulling on head -> tension in neck/shoulder 
 		- Traumatic - eg landing on the side of your head, same thing
 	- Erb's palsy - upper brachial plexus injury
 		- Roots C5/6
-		- Internal rotation and extension of the arm, palmar flexion - Waiter's Tip
-	- Klumpkey's palsy - lower brachial plexus injury #tofinish 
-	- 
+		- Inability to laterally rotate shoulder, unable to flex elbow, inability to supinate forearm - Waiter's Tip
+		- Changes in sensation of C5/6
+	- Klumpkey's palsy - lower brachial plexus injury 
+		- Roots C8/T1
+		- Being birthed, yanking arm "up" 
+		- Changes in sensation of C8/T1
+		- Metacarpalphalangeal joint is extended, interphalangeal joint is flexed - claw hand + muscle wasting in small muscles

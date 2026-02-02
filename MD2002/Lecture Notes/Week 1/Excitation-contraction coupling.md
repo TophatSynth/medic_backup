@@ -39,7 +39,7 @@
 - Relaxation
 	- Ca ATPase in SR pumps ca into SR, same happens in the cell membrane (Na/Ca exchange pump, Na:Ca - 3:1)
 	- 75% of Ca is pumped out of the cell, 25% into the SR 
-		- Net flow out of the cell - is replenished via other means ( #tofinish learn on thursday?)
+		- Net flow out of the cell - is replenished via other means 
 - Pathology 
 	- One type of arrythmia - Too much Ca is being pumped out -> too much Na inside the cell Na/K pump can't cope with so much Na -> leads to depolarisation  
 	- RyR type 2 channelopathy 

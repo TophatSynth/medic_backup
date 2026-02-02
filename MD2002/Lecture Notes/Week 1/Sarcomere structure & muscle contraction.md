@@ -30,6 +30,7 @@
 			- Two intertwined heavy chains (MHC) - forms the twin heads, then tails form the myosin chain
 			- Two essential light chains (MLC-1) - stabilises the heads
 			- Two regulatory light chains (MLC-2) - regulates ATP activity of myosin
+			- Only has heads in area of overlap with actin — nothing near the M line
 		- Actin - two intertwined alpha-helical chains of actin
 			- Regulatory proteins:
 			- Tropomyosin - prevents myosin binding to actin in relaxed state - covers myosin binding site
@@ -46,7 +47,7 @@
 
 # Cross bridge formation & the power stroke
 - ![[Pasted image 20260128093204.png]]
-- The neuromuscular junction #anki wait for thursday 
+- The neuromuscular junction
 	- Motor neurons have multiple branches, each going to a single myofibre
 	- Voltage gated calcium channels open -> Ca enters -> vesicles containing Ach fuse w/ membrane, released into the synaptic cleft, attaches to Nicotinic Ach receptors (nAchR) -> action potential is generated -> Acetylcholinesterase rapidly breaks Ach down in synaptic cleft
 	- ![[Pasted image 20260128093806.png]]

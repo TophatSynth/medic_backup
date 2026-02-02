@@ -54,5 +54,4 @@ views:
 - Ant./Post. — anterior/posterior
 - Ven./Dor. — ventral/dorsal
 - Lat./Med. — lateral/medial
-- Sup./Int./Mid./Deep — Superficial/Intermediate/Middle/Deep
-- 
+- Sup./Int./Mid./Deep — Superficial/Intermediate/Middle/Deep 
