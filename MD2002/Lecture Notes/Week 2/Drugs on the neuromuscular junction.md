@@ -11,7 +11,7 @@
 ## Inhibiting ACh release ![[Pasted image 20260202111902.png]]
 - LA's and general anaesthetics 
 - Inhibitors/competitors of calcium - Mg ions and some antibiotics (tetracycline) -> inhibit vesicle fusion
-- Neurotoxins - Botulinum toxin (Botox, from clostridium botulinum), Beta-bungarotoxin (from snakes)
+- Neurotoxins - Botulinum toxin (Botox, from clostridium botulinum), Beta-bungarotoxin (from snakes) - inhibit ACh release
 	- Botox - can also be used for muscle spasticity - also a treatment for hyperhydrosis (Botox inhibits ACh release - ACh triggers sweat glands -> inhibition stops excessive sweating)
 
 ## Clinical use for NMJ-blocking drugs
@@ -48,10 +48,11 @@
 				- Desensitisation blockade - depolarisation cannot occur even once drug is gone <- seems to be a mild conformational change that takes a while to reverse 
 
 ## NMJ blocking drugs ![[Pasted image 20260202114626.png]]
-- Different drugs have different onset and duration -> used for idfferent functions (eg fast acting drug for rapid intubation)
+- Different drugs have different onset and duration -> used for different functions (eg fast acting drug for rapid intubation)
 - Also different side effects -> appropriate for different patients 
-- #tofinish mnemonic for drugs 
-	- PVRAMS
+- Mnemonic
+	- Patient Virtuosity Really Aids Meaningful Sleep
+	- Pancuronium Vecuronium Rocuronium Atracurium Mivacurium Suxomethonium
 
 # Restoring transmission
 ## Metabolism and elimination of NMJ blockers 
@@ -65,7 +66,7 @@
 ### Anticholineseterase drugs
 - Types of cholineseterases
 	- Acetylcholinesterases (ACh.E) 
-		- "True" colinesterase - specific for hydroysis of ACh
+		- "True" cholinesterase - specific for hydroysis of ACh
 		- Present in the conducting tissue as well as RBC's
 		- Bound to the basal lamina in the synaptic cleft
 	- Plasma cholinesterases 
@@ -80,8 +81,8 @@
 	- ANS - lots of involuntary stuff
 - Clinical uses
 	- Anaesthesia - reverse non-depolarising muscle blockade, or to counteract PSNS effects 
-		- Blocke ACh.E's -> ACh is not broken down -> can then compete with the blockers more -> restore transmission 
+		- Blocked ACh.E's -> ACh is not broken down -> can then compete with the blockers more -> restore transmission 
 	- Treating [[Neurotransmitters#Neurotransmitters|Myasthenia Gravis]] - increased amount of ACh -> increased transmission  
 	- Treating glaucoma (optical nerve damaged, usually from increased intraocular pressure -> vision loss if untreated) - facilitates the drainage of aqueous humour -> lower the intraocular pressure
 - Selective relaxant binding agent (SRBA)
-	- Binds to the anticholinesterase -> rapidly reverse the effects 
+	- Binds to the NMJ blockers -> rapidly reverse the effects 

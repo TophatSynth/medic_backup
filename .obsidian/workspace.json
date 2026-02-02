@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Drugs on the neuromuscular junction"
             }
           }
         ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Drugs on the neuromuscular junction"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Drugs on the neuromuscular junction"
             }
           },
           {
@@ -204,25 +204,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96e28b055d5dcce1",
+  "active": "ce1fedf89df27dc2",
   "lastOpenFiles": [
-    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
+    "Attachments/Pasted image 20260202115421.png",
     "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
+    "Attachments/Pasted image 20260202114626.png",
+    "Attachments/Pasted image 20260202113925.png",
+    "Attachments/Pasted image 20260202113735.png",
+    "Attachments/Pasted image 20260202111902.png",
+    "Home.md",
+    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
     "MD2001/Lecture Notes/Week 8/Ionic basis of the action potential.md",
     "Attachments/Pasted image 20251106103349.png",
     "MD2001/Lecture Notes/Week 9/Spread of the nerve impulse.md",
     "MD2001/Lecture Notes/Week 7/Introduction to the nervous system.md",
-    "Home.md",
     "MD2002/Lecture Notes/Week 2/Introduction to metabolism.md",
     "Attachments/Pasted image 20260202124035.png",
     "Attachments/Pasted image 20260202123626.png",
     "Attachments/Pasted image 20260202122407.png",
     "Attachments/Pasted image 20260202122204.png",
     "Attachments/Pasted image 20260202122056.png",
-    "Attachments/Pasted image 20260202121952.png",
-    "Attachments/Pasted image 20260202121716.png",
-    "Attachments/Pasted image 20260202113925.png",
-    "Attachments/Pasted image 20260202115421.png",
     "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
     "MD2002/Lecture Notes/Week 1/Skeletal muscle force generation, energy usage & fibre type.md",
     "MD2002/Lecture Notes/Week 1/Pectoral and scapular regions.md",
