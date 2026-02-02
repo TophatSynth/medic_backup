@@ -1,10 +1,10 @@
-# Metabolism #anki
+# Metabolism
 - 2 types
 	- Catabolism - degradation of molecules to release energy
 	- Anabolism - synthesis of new molecules to store energy 
 	- ![[Pasted image 20260202122204.png]]![[Pasted image 20260202122407.png]]
 - ATP - Adenosine triphosphate ![[Pasted image 20260202122056.png]]
-	- Energy stored in phosphate bonds - 30.5kJ/mol released
+	- Energy stored in phosphate bonds - -30.5kJ/mol released
 	- AMP/ADP - adenosine mono/diphosphate
 -  ![[Pasted image 20260202121952.png]]
 - 2 nutritional states

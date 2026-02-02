@@ -1,4 +1,3 @@
-#anki
 # Overview of neurotransmission at the NMJ ![[Pasted image 20260202111343.png]]
 - Ach -> nicotinic Ach receptor -> Ach degraded very quickly after
 - Feedback mechanism for when a large signal is needed - Little bit of Ach released -> feedback excitatory -> more Ach released - ACh broken down by ACh.E really fast -> ends the feedback mechanism by virtue of no ACh left
@@ -85,4 +84,4 @@
 	- Treating [[Neurotransmitters#Neurotransmitters|Myasthenia Gravis]] - increased amount of ACh -> increased transmission  
 	- Treating glaucoma (optical nerve damaged, usually from increased intraocular pressure -> vision loss if untreated) - facilitates the drainage of aqueous humour -> lower the intraocular pressure
 - Selective relaxant binding agent (SRBA)
-	- Binds to the NMJ blockers -> rapidly reverse the effects 
+	- Binds to the NMJ blockers -> rapidly reverse the effects of rocuronium and vecuronium
