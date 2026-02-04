@@ -45,7 +45,6 @@
 		- Medial rotation and adduction 
 		- Innervated by the lower subscapular nerve (C5/6 -> post. cord)
 	- Rotator cuff - group of muscles ![[Pasted image 20260129162759.png]]
-
 		- 4 muscles
 			- Supraspinatus - suprascapular nerve
 				- Attaches onto greater tuberosity of humerus

@@ -25,6 +25,7 @@
 	- Posterior cord -> radial and axillary nerves - remember, the posterior stuff is posterior!!!!!!!!!!!!!!!!!!!!!!
 	- Medial cord -> ulnar nerve 
 	- ![[Pasted image 20260129094311.png]]![[Pasted image 20260129094507.png]]
+	- ![[Pasted image 20260203152506.png]]![[Pasted image 20260203152731.png]]
 - Minor branches! 😭 
 	- Non upper limb (don't care)
 		- Phrenic nerve (C5)  
@@ -48,7 +49,7 @@
 	- Obstetric vs traumatic 
 		- Obstetric - being birthed, pulling on head -> tension in neck/shoulder 
 		- Traumatic - eg landing on the side of your head, same thing
-	- Erb's palsy - upper brachial plexus injury
+	- Erb's palsy - upper brachial plexus injury ^e1269d
 		- Roots C5/6
 		- Inability to laterally rotate shoulder, unable to flex elbow, inability to supinate forearm - Waiter's Tip
 		- Changes in sensation of C5/6

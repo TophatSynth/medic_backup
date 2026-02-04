@@ -115,7 +115,6 @@
 		- Subscapular artery - "chonky", branches -> thoraco-dorsal artery (supplies the post. thoracic wall), circumflex scapular artery (goes around the scapula)
 		- Ant./Post. circumflex humeral artery - go around the humerus, form an anastamosis 
 	- "Screw The Lawyer, Save A Pigeon" 
-- 
 - Scapular 
 	- Scapular anastamosis 
 	- Dorsal scapular and suprascapular arteries - go over the top of the scapular and anastomosise with the circumflex scapular artery (from the subscapular artery) - bypass from subclavian to 3rd part of axillary artery
@@ -125,7 +124,7 @@
 		- Profunda Barachii (profound - deep)
 		- Superior Ulnar collateral
 		- Inferior Ulnar Collateral
-- Radial and ulnar arteries 
+- Radial and ulnar arteries ![[Pasted image 20260204143027.png]]![[Pasted image 20260204143203.png]]
 	- Ulnar larger/deeper than radial - more difficult to palpate, so we use the radial 
 	- Radial/ulnar recurrent branches - go back "up" the arm and anastomosise with the sup./inf. ulnar collateral arteries
 	- Radial artery starts anterior in the forearm, but "dips" down into the wrist and enters the hand posteriorly

@@ -1,4 +1,4 @@
-## ABCDE assessment
+## ABCDE assessment <- primary survey
 - A - Airway
 	- [[Primary Survey]]
 - B - Breathing
