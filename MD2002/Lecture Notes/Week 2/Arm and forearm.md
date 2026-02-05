@@ -61,7 +61,7 @@
 
 # Forearm ![[Pasted image 20260204092322.png]]
 ## Cubital fossa
-- Borders #tofinish ![[Pasted image 20260204092350.png]]![[Pasted image 20260204164854.png]]
+- Borders ![[Pasted image 20260204092350.png]]![[Pasted image 20260204164854.png]]
 	- Med. - Pronator teres 
 	- Lat. - Brachioradialis
 	- Post. - line bt the two epicondyles
@@ -129,7 +129,7 @@
 - ![[Pasted image 20260204093953.png]]![[Pasted image 20260204094014.png]]![[Pasted image 20260204094017.png]]
 
 
-## Carpal tunnel #tofinish 
+## Carpal tunnel  
 - Contents  
 	- Flexor digitorum superficialis
 	- Flexor digitorum profundus
@@ -188,6 +188,10 @@
 	- Both lie under flexor carpi ulnaris
 - Interosseus arteries
 	- Lie directly on top of the interosseous membrane, deep to everything
+	- Post. interosseous artery connects to dorsal carpal arch
 - Sensory supply ![[Pasted image 20260204095551.png]]
 	- Medial cutaneous nerve of forearm - from median cord 
-	- Posterior cutaneous nerve of forearm - from radia
+	- Posterior cutaneous nerve of forearm - from radial nerve
+	- Hand 
+		- Palm - Medial 1.5 digits supplied by palmar cutaneous branch of ulnar nerve, lateral 3.5 digits supplied by palmar cutaneous branch of median nerve
+		- Dorsum - Same except lateral 3.5 digits (except nailbeds) are superficial branch of radial nerve
