@@ -1,0 +1,192 @@
+#anki 
+# Skin 
+- Differs bt dorsum and palm
+	- Dorsum - thin, stretch/loose, no sweat glands, hair bearing, mobile 
+		- Thin dermis - tears easily
+	- Palm - specialised - sweat glands, thick dermis (strong), compartmentalised, no hair
+		- Fixed and immobile - connected to palmar fascia 
+			- Prevents items wobbling in grip
+		- Fingernails - extends the working length of the finger past the bone
+- Fascia 
+	- Superficial transverse ligament
+		- Located at the base of the fingers
+	- Deep transverse ligament
+		- Located at the MCPJ's
+	- Palmar aponeurosis 
+		- Webbed structure - connected to the palmaris longus and to the phalanges
+		- Lies below the hypodermis, attached to dermis by lots of small fibres - immobilises the skin 
+		- Dupuytren's disease
+			- Palmar aponeurosis thickens and contracts - Pulls the skin above down 
+			- Finger curls inwards to palm - limits extension but not flexion 
+- Nomenclature
+	- Thumb, index, middle, ring, pinky (T, I, M, R, P)
+	- More specific than when numbered
+
+# Bones
+- Nomenclature 
+	- Radial and ulnar sides instead of lateral/medial
+- Distal radio ulnar joint (DRUJ)
+	- Ulnar notch in distal radial head - sigmoid notch 
+	- Joint joined by the triangular fibrocartilage complex (TFCC) - attaches to sigmoid notch and ulnar styloid process ![[Pasted image 20260206132520.png]]
+		- If torn - instability in the joint - ulna can move freely in and out of the joint
+	- Pronation/supination of hand only truly ensured when elbows bent - otherwise its GH joint rotation
+- CMCJ
+	- Index/middle joints only flex about 10-15 degrees, while the ring/pinky joints flex about 30-45 degrees - can see when making a fist
+		- Pinky CMCJ - lots of grip strength derives from here 
+	- Thumb - saddle joint 
+- MCP joint
+	- 3-sided box ![[Pasted image 20260206133215.png]]
+		- Volar plate - 1-2mm thick fibrocartilage sheet 
+		- Collateral ligaments
+			- Tight when joint is flexed, but loose when extended
+			- Allows abduction when straight, but helps keep fingers tgth when gripping
+	- Thumb joint
+		- Ulnar collateral ligament - when broken -> skiier's thumb - Complete loss of pinch power
+- Interphalangeal joints
+	- Tight in extension, loose in flexion - keeps fingers straight when extended
+	- Distal phalangeal joint - softer volar plate - allows hyperextension when pinching -> greater surface area of sensory receptors can be used
+
+# Muscles
+- Extrinsic - starts in the forearm, end in hand
+- Intrinsic - starts in hand, ends in hand
+
+## Extrinsic muscles 
+- Carpal tunnel - all the stuff that flexes the fingers ![[Pasted image 20260206134304.png]]
+	- Median nerve
+	- FDP tendons
+	- FDS tendons
+	- FPL tendons 
+- Flexor tendons in phalanges
+	- Flexor digitorum profundus (FDP) onto distal phalanx
+	- Flexor digitorum superificialis (FDS) onto middle phalanx - split to allow FDP to pass through
+	- Gap bt the two called Camper's chiasm 
+- Flexor sheath ![[Pasted image 20260206134840.png]]
+	- Lubricates the flexor tendons
+	- Flexor sheath of pinky and thumb connect to distal forearm sheath - infection could spread to forearm 
+	- Index to ring - not connected
+	- Structure
+		- Made of 5 annular pulleys - A1-5 - thick sheets of fibre 
+		- Between are 4 cruciate pulleys - C1-4 - 2 strands in an X - allows finger to flex and extend ![[Pasted image 20260206134850.png]]
+	- Annular pulley can tear - tendon rises (bowstringing) -> can't flex fully ![[Pasted image 20260206134911.png]]
+- Extensor tendons ![[Pasted image 20260206135103.png]]![[Pasted image 20260206135118.png]]
+	- "Cloak" - wraps around back of finger, and is much thinner than flexor tendons
+	- Structure
+		- Central slip - attachest onto middle phalanx - extends proximal IPJ 
+		- Thickened at each edge - lateral slips - insert onto distal phalanx - extends distal IPJ
+		- Lateral slips tied tgth by triangular ligament
+		- The back is connected to the extrinsic extendors
+		- Has "corner" attached to lumbrical muscle - contracts to do the actual extension of the interphalangeal joints 
+			- BUT the lumbrical muscle is located under the MCPJ -> flexes the metacarpophalangeal joint ![[Pasted image 20260206135747.png]]
+			- Technically an intrinsic muscle but ┐(ツ)┌ 
+	- Pathology
+		- Lateral slips tear - mallet finger - distal phalanx droops when finger extended
+		- Central slip tear - boutonniere deformity - PIPJ droops 
+			- "Buttonhole" - bc proximal phalanx can pop through the "hole" in the extensor tendon created by the tear
+	- 
+- Extrinsic extendors 
+	- Extensor pollicis longus (EPL) ![[Pasted image 20260206140032.png]]
+		- Only muscle that can retropulse thumb
+		- 2 extensor tendons to the index finger - extensor indicis + index branch of the extensor digitorum
+		- Can use extensor indicis to replace torn tendon in thumb
+	- Extrinsic extendors - Extend the MCP joints
+	- Lumbricals - flex the MCP joints, extends the IPJ's
+
+## Intrinsic muscles
+- Muscle compartments
+	- Thenar
+	- Hypothenar
+	- Adductor
+	- Midpalmar
+	- Interosseous
+- Muscle groups ![[Pasted image 20260206142341.png]]
+	- Thenar - thumb ![[Pasted image 20260206140721.png]]
+		- Abductor policis brevis
+			- From flexor retinaculum/scaphoid/trapezium to lateral side of the proximal phalanx of thumb
+			- Abduction of the thumb
+			- Compression of the median nerve -> wasting of the APB
+		- Flexor policis brevis 
+			- 2 heads
+			- Superficial head - from flexor retinaculum/trapezium to proximal phalanx of thumb
+			- Deep head - from trapezoid/capitate to proximal phalanx
+			- Flexion of the thumb
+		- Opponens policis 
+			- From flexor retinaculum/trapezium to distal neck of thumb metacarpal
+			- Opposer of the thumb - rotates the thumb so you can do opposition
+	- Hypothenar
+		- Base of the pinky
+		- Abductor digiti minimi ![[Pasted image 20260206141627.png]]
+			- From pisiform/flexor retinaculum to ulnar base of the proximal phalanx of the pinky 
+		- Flexor digiti minimi ![[Pasted image 20260206141642.png]]
+			- From hook of hamate/flexor retinaculum/FCU to base of the proximal phalanx 
+		- Opponens digiti minimi ![[Pasted image 20260206141728.png]]
+			- From hook of hamate/flexor retinaculum to radial border of the 5th metacarpal
+	- Adductor 
+		- Adductor policis ![[Pasted image 20260206141938.png]]
+			- Flat, fan shaped
+			- 2 heads 
+				- Transverse head - from middle metacarpal to thumb metacarpal
+				- Oblique head - from capitate/shafts of index and middle metacarpals/sheath of FCR to thumb metacarpal
+			- Adducts the thumb 
+	- Others
+		- Pal./Dor. Interosseous muscles ![[Pasted image 20260206142009.png]]
+			- Between the metacarpals 
+			- PAD/DAB
+				- Palmar - adduct the fingers 
+				- Dorsal - abduct the fingers
+			- 1st dorsal interosseous muscle ![[Pasted image 20260206142200.png]]
+				- Very easy to feel
+		- Lumbrical muscles
+			- No body attachments - from extensor hood to deep flexor tendons 
+- Nerve supply ![[Pasted image 20260206142358.png]]
+	- Radial side (thumb and index/middle lumbricals) - recurrent branch of the median nerve - goes through the carpal tunnel
+	- Ulnar side (everything else) - ulnar nerve 
+
+# Nerves
+- Median ![[Pasted image 20260206142939.png]]
+	- Mixed motor and sensory fibres
+	- Motor - deep -> recurrent branch 
+		- Supplies thenar muscles 
+	- Sensory 
+		- Still from the deep branch -> common -> ulnar/radial digital nerves 
+			- Sensory to radial 3.5 digits
+		- Superficial -> palmar cutaneous branch
+			- Sensation only over the thenar eminence
+	- Therefore -> carpal tunnel - normal sensation over thenar eminence, but abnormal sensation in radial 3.5 digits + wasting of thenar muscles ![[Pasted image 20260206143203.png]]
+- Ulnar 
+	- Mixed! :D
+	- Splits into deep and superficial branch when entering the hand (also splits to dorsal sensory branch before the hand)
+		- Motor ![[Pasted image 20260206143430.png]]
+			- Deep branch
+			- Motor to hypothenar/interossei muscles, medial 2 lumbricals, adductor pollicis
+		- Sensory ![[Pasted image 20260206143320.png]]
+			- Superficial branch
+			- Sensory to pinky and ulnar side of ring finger 
+			- + Motor to palmar brevis
+	- Ulnar nerve paradox
+		- Normally, if a nerve palsy occurs high in the arm -> greater disability 
+			- Eg median nerve high up the arm -> FCR, FDS/FDP, palmaris longus, pronator teres/quadratus, FPL/FPB, thenar muscles, APB, lateral 2 lumbricals etc
+			- But cut right at the carpal tunnel -> thenar muscles, lateral 2 lumbricals etc
+		- BUT ulnar nerve is the opposite ![[Pasted image 20260206144732.png]]![[Pasted image 20260206144925.png]]
+			- High palsy -> FCU, medial half of FDP, hypothenar/interossei muscles, medial 2 lumbricals, adductor pollicis + loss of sensation to medial palm/dorsum and medial 1.5 digits
+				- Numb medial hand + hyperextended MCPJ's <- loss of power in FDP and hypothenar muscles means less opposition to extrinsic extensors -> some clawing of hand ![[Pasted image 20260206144911.png]]
+			- Low palsy -> hypothenar/interossei muscles, medial 2 lumbricals, adductor pollicis + sensation again
+				- Retained power to FDP, but hypothenar muscles and lumbricals still gone -> even greater flexion of the medial 2 phalanges -> more clawing ![[Pasted image 20260206145552.png]]
+	- Testing of the ulnar nerve
+		- Test the sensation on ulnar side, both palmar and dorsal
+			- If dorsal is fine but not palmar -> lesion is distal to wrist, after branching 
+			- If both altered -> lesion is proximal to wrist, nearer elbow
+		- Wasting of the 1st Dorsal interosseous
+		- Weakness of the 2 ulnar lumbricals
+		- Froment's test
+			- Patient holds paper bt thumb and side of index - requires adductor pollicis - try to pull it away 
+			- If patient's thumb remains straight - negative - no ulnar damage
+			- If patient's thumb flexes to hold on - using FPL - positive - ulnar damage
+- Radial 
+	- Purely sensory in the hand - dorsal aspect of 1st web space + dorsum of index/middle/thumb
+	- Radial -> superficial radial -> radial sensory nerve 
+		- Runs deep to brachioradialis, comes up at wrist 
+		- Can be compressed by wristwatch (Wartenburg's syndrome) -> parasthesia/altered sensation in that region
+
+# Blood 
+- Proper digital arteries - have an ulnar and radial one for each finger
+	- Each digit has a dominant digital artery - always the closest one to the middle finger - middle finger has 2 equal ones

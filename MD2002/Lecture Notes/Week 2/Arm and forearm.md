@@ -38,7 +38,7 @@
 		- Lies between biceps and brachialis 
 		- Becomes lateral cutaneous nerve of the forearm after it finishes the muscular part 
 		- Brachialis only C5-6? - yes but don't care. Musculocutaneous nerve is good enough
-	- Biceps reflex
+	- Biceps reflex #anki 
 		- Deep tendon reflex - testing C5 spinal segments 
 		- Elicits a flexion jerk at the elbow
 
@@ -54,9 +54,9 @@
 		- ┐(ツ)┌  silly little muscle
 - Nerves ![[Pasted image 20260204092103.png]]
 	- Radial nerve 
-		- Gives branches to long and lateral heads of triceps, then enters spiral groove
+		- Gives branches to long and lateral heads of triceps, then enters spiral groove (radial groove!)
 			- Fractured humeral shaft -> tends not to affect extension of the arm bc branches before then (can still affect forearm extension)
-	- Triceps reflex 
+	- Triceps reflex  #anki 
 		- Tests C7 spinal segment - extension jerk
 
 # Forearm ![[Pasted image 20260204092322.png]]
@@ -159,8 +159,7 @@
 	- Extensor digiti minimi 
 		- For the pinky ┐(ツ)┌
 	- Extensor carpi ulnaris 
-	- 
-- Outcropping - starts deeper, but then comes up over extensor carpi radialis tendons - all thumb stuff
+- Outcropping - starts deeper, but then comes up over extensor carpi radialis tendons - all thumb stuff ![[Pasted image 20260205164049.png]]
 	- Post. interosseous nerve (C7-8) - after radial nerve pierces supinator 
 	- Abductor policis longus
 		- Attaches to metacarpal 

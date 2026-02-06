@@ -1,0 +1,71 @@
+# Balance of metabolic states
+- Insulin - the main anabolic hormone - glucose uptake, fatty acid synthesis, protein synthesis
+## Interconversion of fuels
+![[Pasted image 20260205131518.png]]
+- Metabolic storage molecules are interconvertible (eg carbs to fats to proteins) as their pathways share key intermediates
+	- Eg intermediates in [[Introduction to metabolism|glycolysis]] and [[Krebs cycle and oxidative phosphorylation]] 
+
+## Fuels
+- Primary aim of the postabsorptive state - maintain blood glucose levels within 4-7mmol/L ![[Pasted image 20260205132104.png]]
+- Sources of glucose 
+	- Glycogenolysis 
+		- Liver stores about ~100g of glycogen (3-5 hours of activity)
+		- Muscle glycogen - only utilised within muscle - unable to be mobilised into the blood
+	- Gluconeogenesis  ![[Pasted image 20260205132737.png]]
+		- Formation of glucose from non-carbohydrate sources 
+			- Glycerol from triglycerides
+			- Glucogenic amino acids (from muscle breakdown?) #ask 
+			- Lactate #ask 
+			- In severe lack of carbs in diet - catabolism of muscle protein - deamination of amino acids -> glucose
+		- Mainly in the liver 
+			- Lipolysis of triglycerides -> glycerol -> glucose
+		- Crucial for tissues whose primacy source of energy is glucose 
+			- Eg brain - fatty acids can't cross the blood brain barrier
+- Glycogen ![[Pasted image 20260205132118.png]]
+	- Branched polysaccharide storage molecule for glucose
+		- alpha 1,4-glycosidic linkages to join, branches are alpha 1,6-glycosidic linkages
+	- Glycogenesis - hexokinase uses ATP to phosphorylate glucose -> glucose-6-phosphate -> glucose-1-phosphate -(glycogen synthase, dephosphorylation)-> glycogen 
+		- Promoted by insulin 
+	- Glycogenolysis - reverse to mobilise glucose
+		- Promoted by glucagon, adrenaline, cortisol and GH
+		- Muscle doesn't ahve glucagon receptors - mainly responds to adrenaline 
+		- Enzymes - glycogen phophorylase, glucose-6-phosphatase 
+		- #tofinish 
+- Other fuels 
+	- Limited glycogen - use lipids - triglycerides can produce ~6x more energy than glycogen 
+	- Gluconeogenesis 
+- Lipids ![[Pasted image 20260205133107.png]]
+	- Free fatty acids (FFA), triglycerides (aka triacylglycerols - TAG), cholesterol, phospholipids
+	- Functions
+		- Fuel source, formation of cell membranes, steroid hormone and prostaglandins synthesis, solubilisation of non-polar substances in body fluids, lung surfactant
+	- Lipoproteins ![[Pasted image 20260205133311.png]]
+		- Fats from diet absorbed and joined to apolipoprotein -> chylomicrons -> circulate to tissues
+		- #tofinish 
+	- Lipid metabolism in liver
+		- ![[Pasted image 20260205133425.png]]
+		- #ask ketogenesis
+		- Lipolysis  ![[Pasted image 20260205133734.png]]
+			- Hydrolysis of TAG into glycerol and FFA
+				- Glycerol can either become glucose (gluconeogenesis) or undergo glycolysis to release ATP (equivalent to half a glucose molecule - 15 ATP) #ask need to know glyceraldehyde-3-P? 
+				- Fatty acid chains undergo beta-oxidation -> acetic acid, fused to CoA -> acetyl-CoA #tofinish electrons 
+			- Ketone bodies
+				- When Acetyl-CoA is in excess but carb intake is low, acetyl-CoA -> ketone bodies 
+					- Acetoacetate, 3-hydroxybutyrate, acetone
+				- Can be used to generate ATP
+				- Diabetes - acetoacetate produced faster than metabolised -> ketoacidosis and fruity smell of acetone on breath #link 
+	- Protein metabolism ![[Pasted image 20260205134338.png]]		- Excess protein cannot be stored -> used in cellular turnover #ask 
+		- Function
+			- In fasting/starvation, amino acids can be transaminated -> keto acids -> modified, then can enter the citric acid cycle
+				- Transaminated - amine group switched from amino acid -> keto acid #ask 
+				- Deamination - amine group removed completely #tofinish 
+			- Also forms precursors of lipids and ketones
+		- Amino acid metabolism #tofinish 
+
+## Key organ energy usage
+- 60% of all glucose used by the brain (~120g per day) - doesn't have a store of glycogen/glucose, can use ketone bodies in starvation
+- Liver is the main metabolism centre 
+	- Maintains blood glucose levels 
+	- Fat metabolism 
+	- Protein metabolism 
+	- Vit/mineral storage 
+- Muscle #tofinish 

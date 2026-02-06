@@ -32,6 +32,8 @@ One of the doctors inserts an intravenous cannula into Vasile’s right arm, sta
 	- Reduced in frail/elderly patients 
 	- Adjust according to response 
 	- Contraindication - head injury/raised ICP
+		- Early sign of cognitive dmg/increased ICP -> cognitive ability 
+		- Morphine with someone who already has decreased cognitive ability -> even more difficult to assess their ACVPU
 	- + Analgesics - pain relief drugs - can be opioid/non-opioid drugs (morphine is opioid)
 - The WHO pain ladder
 	- 5 key principles
@@ -45,6 +47,8 @@ One of the doctors inserts an intravenous cannula into Vasile’s right arm, sta
 		2. Weak opioids (eg codeine)
 		3. Strong opioids (eg morphine, fentanyl)
 		- Adjuvants - used to increase the efficacy of the main drug - can be used at each step of the ladder
+			- Caffeine is an adjuvant for paracetamol and ibuprofen
+- Tranexamic acid - clotting agent - improves platelet aggregation -> makes the first clot that forms better/faster
 
 The nurse cut away Vasile’s clothing revealing his left arm. You notice that his arm appears deformed. You watch another of the doctors as she examines the patient and she talks you through her findings. She agrees that the arm is deformed. The nurse cannot feel a brachial or a radial pulse on the left and the left ulnar pulse is weak. The pulses are all easily felt on the right arm. The left hand is cooler and the capillary refill time is slower in the left than in the right. 
 - Radial pulse - damage to the forearm blocking the radial artery (motorbike?)
@@ -54,7 +58,7 @@ The nurse cut away Vasile’s clothing revealing his left arm. You notice that h
 The patient is unable to abduct his left arm and he is also unable to flex his arm. However this may be due to the pain which Vasile is in. He can, however, move his fingers without difficulty. Because of the injury the doctor is unable to test his tendon reflexes. The doctor tries to check the patient’s sensation over the left arm, but the patient mainly complains of pain and asks if he
 will “lose his arm?” 
 - Scared
-- Abduct - Maybe a deltoid/supraspinatus injury
+- Abduct - Maybe a deltoid/supraspinatus injury - supraspinatus injury/axillary artery
 - Flex - Sounds even more like a deltoid injury 
 	- OR broken acromion/clavicle -> unable to contract
 - I mean, pain means there're some nerves still there to conduct...
@@ -83,6 +87,7 @@ regular medication. He also tells you that he is working on a farm and his partn
 - Never been to hospital before - obvs freaking out then
 - Cost him - eh? not NHS? 
 	- Farm - maybe doesn't know - that's classist - idk ┐(ツ)┌
+	- Previous healthcare experience may not have been UK based/NHS
 
 The doctor has a look at the x-rays and says that there is a humeral shaft fracture. The Trauma CT shows no additional injuries. The Orthopaedic team attend the A&E department to review Vasile. They arrange for him to have angiography before they take him to theatre. They agree that he might have a brachial plexus injury but feel he should go to theatre first and then be
 reassessed afterwards, possibly including an MRI scan.
@@ -90,6 +95,7 @@ reassessed afterwards, possibly including an MRI scan.
 	- ![[Pasted image 20260204143150.png]]
 - Angiograph - check the blood vessels 
 	- Eh? Trauma CT already did that no?
+	- Usually done only for the torso first, then only limbs if noticed - but easy to overlook amidst the chaos 
 - Address the larger concern of humeral fracture before the nerve damage 
 
 
