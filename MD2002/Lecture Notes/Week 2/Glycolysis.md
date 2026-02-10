@@ -18,8 +18,8 @@
 		- Ring opens to enable isomerisation -> F-6-P
 	3. F-6-P phosphorylated at C1 -> FBP (Fructose 1,6-bisphosphate) ![[Pasted image 20260204103423.png]]
 		- V unstable 
-		- Done by phosphofructokinase (PFK)
-	4. Aldolase cleaves FBP into 2 trioses #tofinish trioses? ![[Pasted image 20260204103434.png]]
+		- Done by phosphofructokinase (PFK) - [[Introduction to Enzymes]] 
+	4. Aldolase cleaves FBP into 2 trioses (3C sugar) ![[Pasted image 20260204103434.png]]
 		- Generates both Glyceraldehyde-3-phosphate (GAP) and Dihydroxyacetone phosphate (DHAP)
 	5. GAP -> DHAP by isomerase
 	6. Oxidation and phsophorylation of GAP by NAD+ and Pi ![[Pasted image 20260204103445.png]]
@@ -37,13 +37,12 @@
 	- Anaerobic - converted to lactate 
 		- W/o oxygen, NAD+ can't be replenished 
 		- Pyruvate converted to lactate to regenerate NAD+ 
-		- Reversible reaction 
-		- #tofinish lactate dehydrogenase 
+		- Reversible reaction
 - Regulation of glycolysis
 	- Enzymes ![[Pasted image 20260204104223.png]]
 		- Hexokinase - allosterically inhibited by G-6-P
 		- PFK 
 		- Pyruvate kinase - inhibited by high ATP and activated by FBP
-	- High ATP conc inhibit enzyme activity #link PFK activity
+	- High ATP conc inhibit enzyme activity - eg PFK 
 	- Intermediate substrates (AMP) stimulate PFK activity 
 	- Inhibited by high citric acid conc and low pH 

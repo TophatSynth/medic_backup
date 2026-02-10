@@ -1,4 +1,4 @@
-# Overview
+# Overview 
 - Small, single nucleus, involuntary contraction
 - ![[Pasted image 20260129154637.png]]
 
@@ -14,7 +14,7 @@
 - Myosin and actin filaments arrange less regularly -> no striations 
 - Z disc replacement - dense bodies anchoring actin and other proteins to the sarcolemma 
 	- Composed of intermediate filaments (alpha-actinin, desmin, vimentin) - transmits force within and between cells ![[Pasted image 20260129151614.png]]
-- Can be stronger than skeletal muscle
+- Can be stronger than skeletal muscle 
 - Cells connected tgth mechanically by focal adhesions ![[Pasted image 20260129151646.png]]
 - Has SR as well, but much less developed 
 - No troponin or T tubules
@@ -51,7 +51,7 @@
 	- Na/Ca exchangers (passive)
 - Ca return mechanisms ![[Pasted image 20260130095604.png]]
 	- Stim1 senses Ca levels in the SR - too low -> activates Store-Operated Ca Channels (SOC's) to allow Ca back into cell -> refill SR 
-		- Only occurs at specialised regions where the SR encounters the sarcolemma - minimises leakage of Ca into cytosol
+		- Only occurs at specialised regions where the SR encounters the sarcolemma - minimises leakage of Ca into cytosol 
 
 ## Neuronal stimulation
 - No specialised neuromuscular junctions (ie the [[Excitation-contraction coupling#Excitation contraction coupling in skeletal muscle|motor end plate]])

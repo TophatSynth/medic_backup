@@ -1,4 +1,4 @@
-# Citric acid cycle #anki 
+# Citric acid cycle
 - Glycolysis generates 2 pyruvate -> 2 ACetyl-CoA ![[Pasted image 20260205091242.png]]
 	- Degraded into acetyl groups, then added to CoA - high energy compound bc of the thioester bond 
 	- Then gets put into the mitochondria for Krebs cycle
@@ -17,7 +17,7 @@
 		- Done by citrate synthase
 		- Highly exergonic reaction - drives the cycle forward
 		- Liberated CoA participates in oxidative decarboxylation of another pyruvate -> acetyl-CoA
-	2. Citrate changed to isocitrate (don't worry about how) - is then dehydrogenated twice and CoA added back in to form succinyl CoA (4C), 2NADH and 2 CO2 #ask where CoA from ![[Pasted image 20260205092327.png]]
+	2. Citrate changed to isocitrate (don't worry about how) - is then dehydrogenated twice and CoA added back in to form succinyl CoA (4C), 2NADH and 2 CO2  ![[Pasted image 20260205092327.png]]
 	3. Succinyl CoA has a high energy thioester bond - cleaved to phophorylated GDP -> GTP, which then goes on to phosphorylate ADP -> ATP - CoA is once again liberated - forms Succinate (4C)
 	4. Succinate dehydrogenated again by FAD -> FADH2 to form Fumarate (4C) ![[Pasted image 20260205092514.png]]
 	5. Fumarate hydrated -> Malate, then dehydrogenated again to form Oxaloacetate again + NADH 
@@ -39,7 +39,7 @@
 - ATP synthesis
 	- Proton gradient - pH gradient and voltage across membrane -> strongly attract H+ back inside matrix - can only reenter via complex V (ATP synthase) ![[Pasted image 20260205093931.png]]
 	- When O2 is available, cellular respiration generates ~680 kcal of energy per 1 mol of glucose - only ~260 kcal is captured in ATP, rest is liberated as heat 
-	- Glucose -> NADH + H+ -> electron trasnport chain -> proton gradient energy -> ATP
+	- Glucose -> NADH + H+ -> electron transport chain -> proton gradient energy -> ATP
 	- Releases about 28 ATP in total per glucose
 	- Net ATP yield is about 30 ATP per glucose molecule 
 - ![[Pasted image 20260205094200.png]]

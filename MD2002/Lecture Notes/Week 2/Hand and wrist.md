@@ -1,4 +1,3 @@
-#anki 
 # Skin 
 - Differs bt dorsum and palm
 	- Dorsum - thin, stretch/loose, no sweat glands, hair bearing, mobile 
@@ -43,7 +42,7 @@
 	- Thumb joint
 		- Ulnar collateral ligament - when broken -> skiier's thumb - Complete loss of pinch power
 - Interphalangeal joints
-	- Tight in extension, loose in flexion - keeps fingers straight when extended
+	- Collateral ligaments - Tight in extension, loose in flexion - keeps fingers straight when extended
 	- Distal phalangeal joint - softer volar plate - allows hyperextension when pinching -> greater surface area of sensory receptors can be used
 
 # Muscles

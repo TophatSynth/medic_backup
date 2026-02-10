@@ -1,5 +1,3 @@
-#anki
-
 ![[Pasted image 20260204090740.png]]
 
 # Arm
@@ -38,7 +36,7 @@
 		- Lies between biceps and brachialis 
 		- Becomes lateral cutaneous nerve of the forearm after it finishes the muscular part 
 		- Brachialis only C5-6? - yes but don't care. Musculocutaneous nerve is good enough
-	- Biceps reflex #anki 
+	- Biceps reflex 
 		- Deep tendon reflex - testing C5 spinal segments 
 		- Elicits a flexion jerk at the elbow
 
@@ -56,7 +54,7 @@
 	- Radial nerve 
 		- Gives branches to long and lateral heads of triceps, then enters spiral groove (radial groove!)
 			- Fractured humeral shaft -> tends not to affect extension of the arm bc branches before then (can still affect forearm extension)
-	- Triceps reflex  #anki 
+	- Triceps reflex   
 		- Tests C7 spinal segment - extension jerk
 
 # Forearm ![[Pasted image 20260204092322.png]]

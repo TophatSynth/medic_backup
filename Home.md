@@ -5,6 +5,7 @@ filters:
   or:
     - file.tags.contains("anki")
     - file.tags.contains("tofinish")
+    - file.tags.contains("link")
 properties:
   file.folder:
     displayName: Folder
@@ -56,3 +57,8 @@ views:
 - Ven./Dor. — ventral/dorsal
 - Lat./Med. — lateral/medial
 - Sup./Int./Mid./Deep — Superficial/Intermediate/Middle/Deep 
+
+## Diagrams to do for revision
+- Brachial Plexus MAXIMUS
+- Metabolism 
+- Excitation contraction coupling for all 3 muscle types
