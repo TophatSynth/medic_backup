@@ -14,8 +14,8 @@
 	- Gluconeogenesis  ![[Pasted image 20260205132737.png]]
 		- Formation of glucose from non-carbohydrate sources 
 			- Glycerol from triglycerides
-			- Glucogenic amino acids (from muscle breakdown?) #ask 
-			- Lactate #ask 
+			- Glucogenic amino acids (from muscle breakdown)  
+			- Lactate - undergoes a form of glycolysis
 			- In severe lack of carbs in diet - catabolism of muscle protein - deamination of amino acids -> glucose
 		- Mainly in the liver 
 			- Lipolysis of triglycerides -> glycerol -> glucose
@@ -28,9 +28,8 @@
 		- Promoted by insulin 
 	- Glycogenolysis - reverse to mobilise glucose
 		- Promoted by glucagon, adrenaline, cortisol and GH
-		- Muscle doesn't ahve glucagon receptors - mainly responds to adrenaline 
+		- Muscle doesn't have glucagon receptors - mainly responds to adrenaline 
 		- Enzymes - glycogen phophorylase, glucose-6-phosphatase 
-		- #tofinish 
 - Other fuels 
 	- Limited glycogen - use lipids - triglycerides can produce ~6x more energy than glycogen 
 	- Gluconeogenesis 
@@ -39,27 +38,30 @@
 	- Functions
 		- Fuel source, formation of cell membranes, steroid hormone and prostaglandins synthesis, solubilisation of non-polar substances in body fluids, lung surfactant
 	- Lipoproteins ![[Pasted image 20260205133311.png]]
-		- Fats from diet absorbed and joined to apolipoprotein -> chylomicrons -> circulate to tissues
-		- #tofinish 
+		- Fats from diet absorbed and joined to apolipoproteins -> forms chylomicrons -> circulate to tissues
+		- Cells take up the fatty acids by expressing lipoprotein lipase -> hydrolyses TAG's -> FFA's diffuse through cell membrane 
+		- Remnant chylomicrons that don't get taken up are removed by the liver 
+			- Liver then synthesises new lipoproteins to transport other lipids
 	- Lipid metabolism in liver
 		- ![[Pasted image 20260205133425.png]]
-		- #ask ketogenesis
 		- Lipolysis  ![[Pasted image 20260205133734.png]]
 			- Hydrolysis of TAG into glycerol and FFA
-				- Glycerol can either become glucose (gluconeogenesis) or undergo glycolysis to release ATP (equivalent to half a glucose molecule - 15 ATP) #ask need to know glyceraldehyde-3-P? 
-				- Fatty acid chains undergo beta-oxidation -> acetic acid, fused to CoA -> acetyl-CoA #tofinish electrons 
-			- Ketone bodies
+				- Glycerol can either become glucose (gluconeogenesis) or undergo glycolysis to release ATP (equivalent to half a glucose molecule - 15 ATP)
+				- Fatty acid chains undergo beta-oxidation -> acetic acid, fused to CoA -> acetyl-CoA 
+			- Ketogenesis - formation of ketone bodies
 				- When Acetyl-CoA is in excess but carb intake is low, acetyl-CoA -> ketone bodies 
 					- Acetoacetate, 3-hydroxybutyrate, acetone
 				- Can be used to generate ATP
-				- Diabetes - acetoacetate produced faster than metabolised -> ketoacidosis and fruity smell of acetone on breath #link 
-	- Protein metabolism ![[Pasted image 20260205134338.png]]		- Excess protein cannot be stored -> used in cellular turnover #ask 
+				- Diabetes - acetoacetate produced faster than metabolised -> ketoacidosis and fruity smell of acetone on breath - [[(Case Study) Rosie Turner Preread]] 
+	- Protein metabolism ![[Pasted image 20260205134338.png]]		- Excess protein cannot be stored -> used in cellular turnover 
 		- Function
-			- In fasting/starvation, amino acids can be transaminated -> keto acids -> modified, then can enter the citric acid cycle
-				- Transaminated - amine group switched from amino acid -> keto acid #ask 
-				- Deamination - amine group removed completely #tofinish 
-			- Also forms precursors of lipids and ketones
-		- Amino acid metabolism #tofinish 
+			- In fasting/starvation, amino acids can be transaminated - Amine group transferred to a keto acid -> forming glutamic acid and another keto acid   
+- The glutamic acid can then be deaminated -> urea  
+  --  then reforms the original keto acid (α-ketoglutaric acid) to be reused  
+- The new keto acid can be modified to be able to enter the krebs cycle   
+- Also forms precursors of lipids and ketones
+		-   Amino acids can also be deaminated and further modified to produce other intermediates for the krebs cycle (eg oxaloacetate, pyruvate, succinyl CoA) or glucose via gluconeogenesis  
+			- Depends on if the amino acid is glucogenic (will form glucose/krebs cycle intermediates) or ketogenic (forms ketone bodies)
 
 ## Key organ energy usage
 - 60% of all glucose used by the brain (~120g per day) - doesn't have a store of glycogen/glucose, can use ketone bodies in starvation
@@ -68,4 +70,4 @@
 	- Fat metabolism 
 	- Protein metabolism 
 	- Vit/mineral storage 
-- Muscle #tofinish 
+- Muscle 

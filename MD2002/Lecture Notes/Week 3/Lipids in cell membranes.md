@@ -52,7 +52,8 @@
 - Inositol phospholipid signalling pathway 
 	- Phosphatidylionsitol 4,5-bisphosphate (PIP2) - found in lipid bilayer 
 	- Substrate for enzyme phospholipase C (PLC)
-		- Creates inositol 1,4,5 trisphophate (IP3) #link and diacyglycerol (DAG) 
+		- Creates inositol 1,4,5 trisphophate ([[Smooth Muscle Contraction|IP3]]) and diacyglycerol (DAG) 
+		- IP3 activates Ca channels in the SR -> Ca enters the cytosol
 	- ^ Activated by g protein ![[Pasted image 20260209154842.png]]
 		- Ca -> activates PKC - Activated PKC then phosphorylates other things
 			- Ca also activates other cellular pathways (contraction, etc)
@@ -66,7 +67,7 @@
 - Local hormones - autocrine/paracrine,  rapidly degraded so not transported to distal sites
 	- Eicosa - 20 carbon backbone
 	- Enoic - double bonds 
-	- Main precursor is arachidonic acid - 20C with 4 double bonds (20:4) #link  ![[Pasted image 20260209160021.png]]
+	- Main precursor is arachidonic acid - 20C with 4 double bonds (20:4) - [[Introduction to Enzymes]] ![[Pasted image 20260209160021.png]]
 - 3 main types
 	- Prostaglandins
 		- Regulates vasoconstriction/dilation, pain, platelet aggregation - contrasting effects -> depends on receptor bound
@@ -102,5 +103,5 @@
 	- Inhibit cyclooxygenases -> inhibits formation of prostaglandins and thromboxanes 
 	- Eg aspirin and ibuprofen 
 		- Ibuprofen blocks the hydrophobic channel by which arachidonate enters the cyclooxygenase active site
-		- Aspirin #link acetylates a serine hydroxyl group near the active site - irreversible, but resynthesis of COX would restore activity
+		- Aspirin ([[Introduction to Enzymes]]) acetylates a serine hydroxyl group near the active site - irreversible, but resynthesis of COX would restore activity
 			- However - platelets don't have nuclei - no resynthesis - very long effect of aspirin on platelets -> long anti-clotting effect 

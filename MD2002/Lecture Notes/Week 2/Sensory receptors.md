@@ -1,5 +1,3 @@
-#anki 
-
 # Overview
 - Modality of sensation - type of sensation we experience (touch, sight, sound, pain etc)
 	- Determined by point in CNS where the nerve tract terminates, eg visual/auditory cortex
@@ -10,7 +8,7 @@
 ## Cutaneous mechanoreceptors 
 ![[Pasted image 20260205101647.png]]![[Pasted image 20260205104528.png]]![[Pasted image 20260205104658.png]]
 - Alphabetical nomenclature
-	- A-alpha fibres - "normal" fibres + golgi tendon organ #tofinish 
+	- A-alpha fibres - "normal" fibres + golgi tendon organ 
 	- A-beta fibres - receptors 
 	- C fibres - pain/temperature 
 - Pain receptors 
@@ -92,11 +90,22 @@
 - Lateral inhibition ![[Pasted image 20260205105502.png]]
 	- Since B's stimulus and therefore signal is strongest, it inhibits the weaker signals from the receptors at the edge of the stimulus (A and C) 
 
-## Neural pathways of somatosensory system 
-- Dorsal column of spinal cord exists at all levels of the spinal cord 
-- 1/2/3rd order neurons
-	- 1st order from 
-	- pain/temp #tofinish 
+## Neural pathways
+- Dorsal column of the spinal column ![[Pasted image 20260210165552.png]]
+	- Deals with all the more "complicated" receptors - pacinian, ruffini, meissners, merkel 
+	- Dorsal column exists at all levels of the spinal cord 
+	- Has 3 orders
+		- 1st order neurons - from lower limbs into the spinal cord
+		- 2nd order neurons - from thalamus to medulla 
+			- Is where the neurons move over to the "opposite" side of the cord
+		- 3rd order neurons - from sensorimotor cortex to thalamus
+- Direct spinothalamic tract ![[Pasted image 20260210170543.png]]
+	- Deals with the peripheral receptors sensing pain, temperature and simple tactile sensations
+	- 3 orders of neurons
+		- 1st order - from dorsal root ganglion to spinal cord
+		- 2nd order - spinal cord to thalamus
+			- Cross over to "opposite"  side right after synapsing 
+		- 3rd order - from thalamus to primary sensory cortex 
 - Somatosensory cortex  ![[Pasted image 20260205110021.png]]
-	- Sensory information passes through the thalamus -> primary sensory cortex posterior to the central sulcus of the brain #tofinish 
-	- Areas of higher discrimination have larger proportion of this space
+	- Sensory information passes through the thalamus -> primary sensory cortex posterior to the central sulcus of the brain 
+	- Sensory information projected topographically - Areas of higher discrimination have larger proportion of this space

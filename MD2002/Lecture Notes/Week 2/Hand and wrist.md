@@ -144,7 +144,7 @@
 - Median ![[Pasted image 20260206142939.png]]
 	- Mixed motor and sensory fibres
 	- Motor - deep -> recurrent branch 
-		- Supplies thenar muscles 
+		- Supplies thenar muscles and two lateral lumbricals
 	- Sensory 
 		- Still from the deep branch -> common -> ulnar/radial digital nerves 
 			- Sensory to radial 3.5 digits

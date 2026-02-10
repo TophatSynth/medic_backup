@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a3aab9d1fe31883",
+        "id": "93de74d1d47bf594",
         "type": "tabs",
         "children": [
           {
-            "id": "4e458d6708bd4800",
+            "id": "ba868b12cb71acf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#link",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,13 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lipids in cell membranes"
+              "title": "Outline"
             }
           },
           {
@@ -206,33 +205,34 @@
   },
   "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
-    "Home.md",
-    "MD2002/Lecture Notes/Week 2/Hand and wrist.md",
-    "Attachments/Pasted image 20260206145552.png",
-    "Attachments/Pasted image 20260206144925.png",
-    "Attachments/Pasted image 20260206144732.png",
-    "Attachments/Pasted image 20260206143320.png",
-    "Attachments/Pasted image 20260206143430.png",
-    "Attachments/Pasted image 20260206142200.png",
-    "Attachments/Pasted image 20260206140721.png",
-    "Attachments/Pasted image 20260206142341.png",
-    "Attachments/Pasted image 20260206135747.png",
-    "Attachments/Pasted image 20260206135118.png",
-    "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
-    "MD2002/Lecture Notes/Week 2/Sensory receptors.md",
-    "MD2001/Lecture Notes/Week 5/Structure and Function of the skin.md",
-    "MD2002/Lecture Notes/Week 2/Glycolysis.md",
     "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
+    "Attachments/Pasted image 20260209160446.png",
+    "Attachments/Pasted image 20260209160021.png",
+    "Attachments/Pasted image 20260209154842.png",
+    "MD2002/Lecture Notes/Week 1/Smooth Muscle Contraction.md",
+    "Home.md",
+    "MD2002/Lecture Notes/Week 2/Sensory receptors.md",
+    "Attachments/Pasted image 20260205110021.png",
+    "Attachments/Pasted image 20260210170543.png",
+    "Attachments/Pasted image 20260210165552.png",
+    "Attachments/Pasted image 20260205133425.png",
+    "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
+    "Attachments/Pasted image 20260205133734.png",
+    "Attachments/Pasted image 20260205132118.png",
+    "MD2002/Lecture Notes/Week 2/Glycolysis.md",
+    "MD2002/Lecture Notes/Week 2/Krebs cycle and oxidative phosphorylation.md",
+    "Attachments/Pasted image 20260205132737.png",
+    "MD2002/Lecture Notes/Week 2/Arm and forearm.md",
+    "MD2002/Lecture Notes/Week 2/Hand and wrist.md",
+    "MD2001/Clinical Skills/Vital Signs.md",
+    "MD2001/Lecture Notes/Week 4/Introduction to Enzymes.md",
+    "MD2001/Lecture Notes/Week 5/Structure and Function of the skin.md",
     "MD2002/Lecture Notes/Week 3",
     "MD2002/Lecture Notes/Week 1/Excitation-contraction coupling.md",
-    "MD2002/Lecture Notes/Week 1/Smooth Muscle Contraction.md",
     "MD2002/Lecture Notes/Case Studies/Vasile Popescu Preread.md",
-    "MD2002/Lecture Notes/Week 2/Krebs cycle and oxidative phosphorylation.md",
     "MD2002/Lecture Notes/Week 1/Skeletal muscle force generation, energy usage & fibre type.md",
     "MD2002/Lecture Notes/Week 1/Structure of skeletal, cardiac and smooth muscle.md",
     "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
-    "MD2002/Lecture Notes/Week 2/Arm and forearm.md",
-    "MD2001/Lecture Notes/Week 4/Introduction to Enzymes.md",
     "MD2002/Lecture Notes/Week 2/(Fraser) Hand and wrist.md",
     "MD2002/Lecture Notes/Week 1/Nerves of the upper limb.md",
     "MD2002/Lecture Notes/Week 2/Muscle Electromyogram Practical.md",
@@ -243,7 +243,6 @@
     "MD2001/Clinical Skills/Secondary Survey.md",
     "MD2002/Lecture Notes/Case Studies",
     "Portfolio/Timothy Cheng certificate-of-completion-personal-protective-equipment-assessment.pdf",
-    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
     "MD2002/Lecture Notes/Week 2",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2002/Lecture Notes/Week 1",
