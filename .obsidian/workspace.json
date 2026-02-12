@@ -4,11 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "93de74d1d47bf594",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ba868b12cb71acf6",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 3/Metabolic changes in health and disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metabolic changes in health and disease"
+            }
+          },
+          {
+            "id": "58518d9eece10b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drugs on the neuromuscular junction"
+            }
+          },
+          {
+            "id": "4efef7497af29d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2001/Lecture Notes/Week 10/Spinal cord, spinal nerve, meninges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spinal cord, spinal nerve, meninges"
+            }
+          },
+          {
+            "id": "18c378ae352c5f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2001/Lecture Notes/Week 10/Synapse 1 and 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synapse 1 and 2"
+            }
+          },
+          {
+            "id": "892e7b339c0391aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +76,51 @@
               "icon": "lucide-file",
               "title": "Lipids in cell membranes"
             }
+          },
+          {
+            "id": "c6543ea4c4fc8fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 3/Signal transduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Signal transduction"
+            }
+          },
+          {
+            "id": "45f2feeb10a2d038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lipids in cell membranes"
+            }
+          },
+          {
+            "id": "cfef29be3ec05201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metabolic Stores"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -75,7 +174,7 @@
             }
           },
           {
-            "id": "58313aa457984a5e",
+            "id": "778c5f64cfa3a994",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,12 +184,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -126,12 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
@@ -187,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,23 +304,28 @@
   },
   "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
+    "MD2002/Lecture Notes/Week 3/Signal transduction.md",
     "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
-    "Attachments/Pasted image 20260209160446.png",
-    "Attachments/Pasted image 20260209160021.png",
-    "Attachments/Pasted image 20260209154842.png",
-    "MD2002/Lecture Notes/Week 1/Smooth Muscle Contraction.md",
-    "Home.md",
-    "MD2002/Lecture Notes/Week 2/Sensory receptors.md",
-    "Attachments/Pasted image 20260205110021.png",
-    "Attachments/Pasted image 20260210170543.png",
-    "Attachments/Pasted image 20260210165552.png",
-    "Attachments/Pasted image 20260205133425.png",
+    "MD2001/Lecture Notes/Week 10/Synapse 1 and 2.md",
+    "MD2001/Lecture Notes/Week 10/Spinal cord, spinal nerve, meninges.md",
+    "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
+    "MD2002/Lecture Notes/Week 3/Metabolic changes in health and disease.md",
+    "Attachments/Pasted image 20260211102259.png",
+    "Attachments/Pasted image 20260211101923.png",
+    "Attachments/Pasted image 20260211101819.png",
+    "Attachments/Pasted image 20260211101456.png",
     "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
-    "Attachments/Pasted image 20260205133734.png",
-    "Attachments/Pasted image 20260205132118.png",
+    "Attachments/Pasted image 20260211095154.png",
+    "Home.md",
+    "Attachments/Pasted image 20260210190658.png",
+    "Attachments/Pasted image 20260210190217.png",
+    "Attachments/Pasted image 20260210182614.png",
+    "Attachments/Pasted image 20260210175900.png",
+    "Attachments/Pasted image 20260210175346.png",
+    "MD2002/Lecture Notes/Week 1/Smooth Muscle Contraction.md",
+    "MD2002/Lecture Notes/Week 2/Sensory receptors.md",
     "MD2002/Lecture Notes/Week 2/Glycolysis.md",
     "MD2002/Lecture Notes/Week 2/Krebs cycle and oxidative phosphorylation.md",
-    "Attachments/Pasted image 20260205132737.png",
     "MD2002/Lecture Notes/Week 2/Arm and forearm.md",
     "MD2002/Lecture Notes/Week 2/Hand and wrist.md",
     "MD2001/Clinical Skills/Vital Signs.md",
@@ -232,15 +336,11 @@
     "MD2002/Lecture Notes/Case Studies/Vasile Popescu Preread.md",
     "MD2002/Lecture Notes/Week 1/Skeletal muscle force generation, energy usage & fibre type.md",
     "MD2002/Lecture Notes/Week 1/Structure of skeletal, cardiac and smooth muscle.md",
-    "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
     "MD2002/Lecture Notes/Week 2/(Fraser) Hand and wrist.md",
     "MD2002/Lecture Notes/Week 1/Nerves of the upper limb.md",
     "MD2002/Lecture Notes/Week 2/Muscle Electromyogram Practical.md",
     "MD2002/Lecture Notes/Week 2/sadfasdf.md",
     "MD2002/Lecture Notes/Week 2/Introduction to metabolism.md",
-    "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
-    "MD2002/Lecture Notes/Week 1/Pectoral and scapular regions.md",
-    "MD2001/Clinical Skills/Secondary Survey.md",
     "MD2002/Lecture Notes/Case Studies",
     "Portfolio/Timothy Cheng certificate-of-completion-personal-protective-equipment-assessment.pdf",
     "MD2002/Lecture Notes/Week 2",

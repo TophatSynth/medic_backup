@@ -41,7 +41,7 @@
 	- ![[Pasted image 20260209154236.png]]
 - Types of receptors
 	- Ligand gated ion channels
-	- G protein coupled receptors #link 
+	- G protein coupled receptors 
 	- Kinase linked receptors - phosphorylates proteins -> cellular effects
 	- Nuclear receptors - lipid enters -> intracellular receptor -> nucleus -> effects
 		- Eg cortisol ![[Pasted image 20260209154605.png]]
