@@ -25,7 +25,7 @@
 		- Gs - stimulates adenylate cyclase -> increases cAMP ![[Pasted image 20260210182614.png]]
 		- Gi - inhibits adenylate cyclase -> decreases cAMP
 	- Gβ/γ dimers also act as signalling molecules
-		- Stimulates PLA2- [[Signal transduction]]
+		- Stimulates PLA2- [[Lipids in cell membranes]]
 		- Stimulates adenylate cyclase
 		- Other stuff idc
 	- Binds to either GTP or GDP 
@@ -35,7 +35,10 @@
 	- Ligand binds to receptor -> causes G protein to bind to receptor 
 	- G protein swaps to GTP, α subunit dissociates and travels along membrane -> binds to effector -> stuff happens
 	- GDP -> GTP, α subunit dissociates from effector, rebinds with rest of G protein, reset
-
+- Other examples
+	- cAMP 
+	- Adrenaline binds to β2 adrenergic receptor -> couples to Gs -> increases cAMP conc 
+	- cAMP -> activates cAMP-dependent protein kinase (PKA) -> allows it to phosphorylate stuff ![[Pasted image 20260210182957.png]]
 
 ## Calcium signalling
 - Resting calcium conc - ~100nM
@@ -51,10 +54,6 @@
 	- Example of gene transcription activation ![[Pasted image 20260210190217.png]]
 		- Phosphorylates MAP-kinase -> that then phosphorylates another protein that binds upstream of a gene to activate gene transcrition
 		- Phosphorylates IK-B -> directly binds upstream of gene -> transcription
-	- Other examples
-		- cAMP 
-		- Adrenaline binds to β2 adrenergic receptor -> couples to Gs -> increases cAMP conc 
-		- cAMP -> activates cAMP-dependent protein kinase (PKA) -> allows it to phosphorylate stuff ![[Pasted image 20260210182957.png]]
 
 ## PKA
 - Phosphorylates stuff in the membrane, cytoplasm and nucleus 

@@ -50,11 +50,11 @@
 		- Obstetric - being birthed, pulling on head -> tension in neck/shoulder 
 		- Traumatic - eg landing on the side of your head, same thing
 	- Erb's palsy - upper brachial plexus injury ^e1269d
-		- Roots C5/6
+		- Roots C5/6 - damage to the superior trunk 
 		- Inability to laterally rotate shoulder, unable to flex elbow, inability to supinate forearm - Waiter's Tip
 		- Changes in sensation of C5/6
 	- Klumpkey's palsy - lower brachial plexus injury 
-		- Roots C8/T1
+		- Roots C8/T1 - inferior trunk
 		- Being birthed, yanking arm "up" 
 		- Changes in sensation of C8/T1
 		- Metacarpalphalangeal joint is extended, interphalangeal joint is flexed - claw hand + muscle wasting in small muscles
