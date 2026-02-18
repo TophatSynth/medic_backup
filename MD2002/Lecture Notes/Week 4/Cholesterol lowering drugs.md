@@ -1,0 +1,92 @@
+# Lipoproteins 
+- Made of a core of hydrophoblic lipids, surrounded by a hydrophilic polar monolayer coat
+	- TAG's or cholesterol esters, surrounded by phospholipids, free cholesterol and/or [[Metabolic Stores#Fuels|apolipoproteins]]  
+	- ![[Pasted image 20260218091156.png]]
+- 5 classes of lipoproteins, varying in core lipids, apoproteins, size, density 
+	- High density lipoproteins 
+	- Intermediate density lipoproteins
+	- Low density lipoproteins 
+	- Very low density lipoproteins 
+	- [[Metabolic Stores#Fuels|Chylomicrons]] 
+- Pathway ![[Pasted image 20260218091540.png]]
+	- Exogenous pathway
+		- GI tract - fatty acids, glycerol, cholesterol all absorbed through NPC1L1 channel into the body -> made into chylomicrons 
+		- Cells - chylomicrons interact with lipoprotein lipase -> FFA's diffuse into tissues (muscles, adipose tissues)
+		- Chylomicron remnants absorbed by liver -> cholesterol stored an oxidised into bile acids or released as VLDL w/ lipids
+			- VLDL - circulates like chylomicrons, TAG's get taken up in the same way -> leaves behind LDL - very high cholesterol content which is taken up by cells/liver again
+	- Endogenous pathway
+		- HMG CoA reductase - rate limiting enzyme of a pathway that turns acetyl CoA into cholesterol
+		   ![[Pasted image 20260218094148.png|200]]
+			   Other half of pathway also does protein prenylation - addition of lipid tails to small GTPases (eg Ras)
+			- Excess cholesterol in body -> produce HDL -> brings cholesterol back to VLDL -> LDL -> eventually back to the liver 
+
+
+# Atherosclerosis
+- [[Atherosclerosis]] 
+- High plasma cholesterol (hyperlipidaemia) -> high LDL - risk factor for atheromatous disease (myocardial infarction, ischaemic heart disease and atherosclerosis)
+- Atherosclerosis specifically - increased risk with a higher plasma concentration of total cholesterol + LDL 
+- Cholesterol levels
+	- Ideal - <5 mmol/L
+	- Mildly high - 5-6.4 mmol/L
+	- High - 6.5 - 7.8 mmol/L 
+	- Very high - >7.8 mmol/L
+	- UK average - 5.7 mmol/L
+- Have to take into account ratio bt HDL/LDL and other CVD risk factors
+
+
+# Lipid-lowering drugs
+- Either reduces production of lipoproteins, or increases their removal from the blood 
+	- Aims to reduce plasma cholesterol
+	- Lifestyle modification should be the first step, THEN drugs 
+- Sources of cholesterol
+	- De novo synthesis in liver
+	- Uptake from circulating LDL's
+	- Uptake of chylomicron remnants
+- Action of drugs 
+	- Sequester bile acids in the intestine/decrease hepatic stores of cholesterol
+	- Enhance removal of LDL
+	- Inhibit transport protein (NPC1L1) for cholesterol in the brush border of enterocytes in the duodenum 
+	- Alter the levels of plasma lipoproteins 
+	- INhibit the synthesis of cholesterol in the liver 
+- Drug pathways 
+	- Resins
+		- Bind to bile acids in the intestines, preventing reuptake -> faecal elimination of bile acids 
+		- Also increases LDL uptake into the liver
+		- Colestyramine 
+	- Ezetimibe 
+		- NPC1L1 inhibitors 
+	- Fibrates 
+		- Enhance lipoproteins -> increases converstion of VLDL to LDL
+		- Also increases LDL uptake into the liver
+		- Increases HDL production 
+		- Fenofibrate, gemfibrozol
+		- Clinical uses
+			- Used in patients with diabetes/bad blood cholesterol conc, or in patients with high CVD risk 
+	- Statins 
+		- Inhibits HMG CoA reductase 
+		- Atorvastatin, simvastatin, pravastatin and rosuvastatin 
+		- Also affects protein prenylation - if too high conc in cells -> toxicity 
+		- Clinical uses
+			- Primary prevention of atherosclerotic diseases in patients with high blood cholesterol conc 
+			- Secondary prevention of myocardial infarction and stroke in those who have atherosclerotic diseases already
+			- Atorvastatin lowers choleseterol blood conc in [[Cells and Organelles 1 and 2|familial hypercholesterolaemia]]  
+		- If they don't work?
+			- Ezetimibe 
+				- Reduces cholesterol absorptioin
+			- Bempedoic acid
+				- Reduces cholesterol synthesis in the liver - inhibits ATP citrate lyase (converts citrate -> acetyl-CoA)
+			- Other more novel drugs
+				- PCSK9 inhibitors 
+					- PCSK9 binds to receptors to signal destruction within lysosomes ![[Pasted image 20260218094855.png]]
+					- PCSK9 mediates degradation of LDL receptors of liver cells - inhibited -> increases LDL uptake by liver
+					- Alirocumab and evolocumab 
+						- Monoclonal antibodies that block PCSK9 - prevents it from marking LDL receptros for destruction 
+						- Monoclonal antibodies are antibodies that target one specific protein
+					- Inclisiran 
+						- Small interfering RNA - limits PCSK9 production
+- Side effects 
+	- flu allergy - monoclonal antibodies 
+	- gi - everything else
+	- myositis angioedema - statins
+	- angioedema - statins
+- Apolipoproteins and apoproteins are the same thing 
