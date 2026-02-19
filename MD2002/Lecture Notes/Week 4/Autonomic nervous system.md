@@ -107,3 +107,12 @@ PSNS is VERY strong - can stop your heart beating completely for a bit
 ## NMJ recap :D
 
 ## Pharmacology of muscarinic ACh receptors
+- Poisoning - plants! woo! poison fraser! ✨
+- #ask blend marlboro or smoke?
+- #ask why decreased sweating AND tachycardia?
+- Muscarinic ACh receptor agonists
+	- Keep it localised to area you want to affect, like Botox 
+	- ![[Pasted image 20260219135019.png]]
+- Muscarinic ACh receptor antagonists
+	- ![[Pasted image 20260219135350.png]]
+	- 
