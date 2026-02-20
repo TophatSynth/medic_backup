@@ -70,49 +70,88 @@
 
 # Part 2 - Cholinergic transmission
 ![[Pasted image 20260219130817.png]]![[Pasted image 20260219131136.png]]
-PSNS is VERY strong - can stop your heart beating completely for a bit
 ## ACh receptors ![[Pasted image 20260219131643.png]]
-- Nicotinic 
-	- Ionotropic
-	- Needs a decent chunk of ACh to cause effect
-- Muscarinic
-	- Metabotropic
-	- Amplifies Ach signal -> can have big effect from small amnt of signal
-- Anticholinesterases 
-	- AChE's stop ALL cholinesterases -> doesn't care what synapse (SNS/PSNS)
-	- Effects on ANS - SLUDGE
-		- Salivation
-		- Lacrimation #ask eh?
-		- Urination
-		- Defecation
-		- Gastrointestinal upset
-		- Emesis #ask eh?
+- Cholinergic receptors aren't just PSNS, but SNS, CNS and afferent motor system as well -> wide ranging effects when disturbed
+- Attempting to target all cholinergic receptors of just the PSNS/SNS -> both will get affected at the same time -> which wins? 
+	- PSNS is VERY strong - can stop your heart beating completely for a bit
+	- Ganglionic blocking of nicotinic acetylcholine receptors not very useful
+- 2 types ![[Pasted image 20260220102421.png]]
+	- Nicotinic 
+		- Ionotropic
+		- Functionally is almost identical to NMJ receptors - but can still be differentiated
+		- Needs a decent chunk of ACh binding to create current flow 
+	- Muscarinic
+		- Metabotropic
+		- Found on post-synaptic target cells in PSNS, and sweat glands in SNS 
+		- G-protein - Amplifies Ach signal -> can have big effect from small amnt of signal
+- Drugs acting on ACh 
+	- Similar to NMJ effects
+	- Anything that prevents ACh release from vesicles prevents ACh activation of muscarinic receptors
+		- Eg botox prevents ACh release - prevents muscarinic receptor binding
+	- Anticholinesterases 
+		- AChE's stop ALL cholinesterase s -> doesn't care what synapse (SNS/PSNS)
+		- Effects on ANS - SLUDGE - mostly PSNS, but not all
+			- Salivation
+			- Lacrimation - production of tears
+			- Urination
+			- Defecation
+			- Gastrointestinal upset
+			- Emesis - vomiting 
 - Predominate locations of ACh receptors
 	- ![[Pasted image 20260219132208.png]]
 	- Both - CNS
 	- Nicotinic - NMJ's, SNS/PSNS ganglia
-	- Muscarinic - PSNS target organs, sweat glands (SNS), vascular smooth muscle
-	- #ask smooth muscle and genitalia?
-- Can we differentiate the two?
-	- ![[Pasted image 20260219132612.png]]
-	- Drugs that affect ACh synthesis, storage, release and termination will affect both 
-	- Drugs that affect ACh SK. NMJ? #ask 
+	- Muscarinic - PSNS target organs, sweat glands (SNS), genitalia blood vessels 
+	- Note - receptors are not necessarily connected to a neuron
+		- Eg blood vessels - muscarinic receptors on the endothelium everywhere around body, but we evolutionarily lost PSNS control over blood vessels other than in genitalia
+- Can we differentiate receptors in general?
+	- Muscarinic and nicotinic receptors can be differentiated ![[Pasted image 20260219132612.png]]
+		- Nicotine/muscarine activate their respective receptors, regardless of target tissue type
+		- Bethanechol and pilocarpine - muscarinic receptor agonists - therefore more likely to be specific to PSNS, but not exclusively - brain still has muscarinic receptors etc 
+		- ![[Pasted image 20260220104323.png]]
+		- Drugs that affect ACh synthesis, storage, release and termination will affect both 
+		- Drugs that affect ACh SK. NMJ? #ask 
 
 ## Muscarinic ACh receptors 
-- Classified by tissue distribution and cellular response ![[Pasted image 20260219132806.png]]
-	- But exceptions? #ask 
-	- M1 - generally CNS and ANS ganglia
-	- #tofinish 
-- Feedback of excessive ACh on preganglionic neuron - prevents further firing
-## NMJ recap :D
+- Classified by tissue distribution and cellular response - at least 5 types ![[Pasted image 20260219132806.png]]
+	- Some are exclusively in the brain, some are found throughout
+	- Different receptors use different G proteins -> different effects  
+		- If you could differentiate these receptors, you could target specific tissues
+	- M1 
+		- Neural - Found a lot in the brain, and ANS ganglia
+		- Found on the terminal bouton of the preganglionic fibre - acts as a feedback receptor - too much ACh -> inhibit
+		- Function - gastric secretion
+	- M2 
+		- Cardiac - atria of heart
+		- Function - cardiac inhibition by decreasing cAMP production
+	- M3 
+		- Glandular/smooth muscle - various glands, endothelium of blood vessels, other smooth muscle around the body 
+		- Function - secretion, contraction of smooth muscle, vasodilation - eg iris/lens change
+	- M5 
+		- Often associated with modifying dopamine pathways in the brain, particularly addiction 
+		- 
 
 ## Pharmacology of muscarinic ACh receptors
-- Poisoning - plants! woo! poison fraser! ✨
-- #ask blend marlboro or smoke?
-- #ask why decreased sweating AND tachycardia?
-- Muscarinic ACh receptor agonists
-	- Keep it localised to area you want to affect, like Botox 
-	- ![[Pasted image 20260219135019.png]]
+
+### ✨ The Poisoning Of Fraser ✨
+- Amanita muscaria
+	- Contains muscarine
+- Atropa belladona/nightshade
+	- Contains atropine - muscarinic antagonist
+	- Was used to dilate pupils for beauty 
+- Nicotiana tabacum 
+	- Nicotine! 
+- Deadly nightshade
+	- Contains nicotine
+
+### Drugs! ehehehehe
+- Very difficult to differentiate muscarinic receptors 
+	- Most muscarinic cholinergic agents (Ach drugs) are not selective for receptor type - can't tell the diff bt M1-5 
+	- Therefore, you have to limit the spread of the agent - keep it localised to area you want to affect, like Botox 
+- Muscarinic ACh receptor agonists ![[Pasted image 20260220111651.png]]
+	- The limiting of movement is done by the charge of the molecule 
+		- Pilocarpine is non selective, but highly charged - doesn't easily get absorbed into the circulation - can apply topically and have it stay there 
+		- Bethanechol is the same - can take orally, won't be absorbed much by GI tract, and any absorbed is excreted via urinary system - can target those systems quite well 
 - Muscarinic ACh receptor antagonists
 	- ![[Pasted image 20260219135350.png]]
 	- 
