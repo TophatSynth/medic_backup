@@ -104,10 +104,11 @@ Arterial blood gas (ABG) analysis on 28% oxygen shows PaO2 = 9.7kPa
 - Arterial blood gas - blood taken from artery 
 	- Measure PaO2 - partial pressure of oxygen in the blood vessel
 		- As opposed to SpO2 which is oxygen saturation
-		- Standard range - 75-100 mmHg (9.9-13 kPa)
+		- Standard range - 75-100 mmHg (9.9-13 kPa) - on room air
 			- Slightly low oxygen 
 	- Measures PaCO2 
 		- Affected by hyper/hypoventilation and acid-base balance - indicator
+	- pH and lactate conc
 	- 28% oxygen??
 
 A Wells Score is calculated which suggests a pulmonary embolism (PE) is likely.
@@ -120,7 +121,7 @@ Possible investigations that were considered and discussed included: coagulation
 - Coagulation status 
 - Ventilation/perfusion scan (V/Q scan)
 	- V - ventilation - breathe a mixture of normal air + radioactive krypton gas for 10 minutes 
-- CTPA
+- Q scan
 	- Inject radioactive material as contrast agent + SPECT (single photon emission CT) scan - visualise pulmonary blood vessel 
   
 

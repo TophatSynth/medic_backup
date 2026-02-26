@@ -1,16 +1,16 @@
+#anki 
 ![[Pasted image 20260226090920.png]]
 
 # Overview of motor pathways 
 - ![[Pasted image 20260226090933.png]]
 - Idea -> parietal cortex -> Motor cortex (activation of muscles) <-> cerebellum (correction of movement)
-- #ask DLPFC
+- DLPFC - dorsolateral prefrontal cortex 
 
 ## Primary motor cortex (M1)
 - Located within the precentral gyrus, anterior to central sulcus ![[Pasted image 20260226091609.png]]![[Pasted image 20260226092034.png]]
 	- Takes input from somatosensory cortex (S1), premotor cortex (PMC), supplementary motor area (SMA), and cerebellum 
-	- #ask corticospinal tract
-	- #ask somatotopic representation
-		- Of contralateral body parts - half of the M1 controls the hands and muscles of speech 
+	- Somatotopic representation of contralateral body parts 
+		- Half of the M1 controls the hands and muscles of speech 
 
 ## Premotor cortex (PMC)
 - One of the secondary motor cortices

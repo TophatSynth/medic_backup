@@ -26,9 +26,8 @@ Law of mass action
 	- ![[Pasted image 20260223114046.png]]
 
 
-# Part 2 #anki 
-- #ask tf is KA? 
-	- ![[Pasted image 20260226101249.png]]
+# Part 2 
+- ![[Pasted image 20260226101249.png]]
 
 Partial agonists
 - Reduced efficacy compared to a full agonist
@@ -38,7 +37,7 @@ Partial agonists
 Antagonists 
 - Competitive antagonists ![[Pasted image 20260226101501.png]]
 	- KA - equilibrium dissociation constant for an antagonist 
-		- The concentration of antagonist where you need to add twice as much agonist to produce the same response
+		- The concentration of antagonist where you need to add twice as much agonist to produce the same response 
 	- pA2 - affinity of antagonist ![[Pasted image 20260226102822.png]]
 	- ![[Pasted image 20260226102630.png]]
 	- Schild equation ![[Pasted image 20260226102655.png]]
@@ -50,8 +49,7 @@ Antagonists
 	- Non competitive antagonist
 		- ![[Pasted image 20260226103034.png]]![[Pasted image 20260226103036.png]]
 	- Inverse agonists ![[Pasted image 20260226103204.png]]
-		- Binds to receptor and produces an "inverse" response #ask just stops that receptor or actively stops other receptors? 
-			- stops _effect_
+		- Binds to receptor and produces an "inverse" response - stops _effect_ 
 
 ## Drug receptor interactions
 - ![[Pasted image 20260226103229.png]]
