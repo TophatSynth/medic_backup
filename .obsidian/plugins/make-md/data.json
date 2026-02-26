@@ -50,7 +50,10 @@
     "/",
     "//MD2002",
     "//MD2002/MD2002/Case Studies",
-    "//MD2002/MD2002/Portfolio"
+    "//MD2002/MD2002/Portfolio",
+    "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 4",
+    "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 5",
+    "//Portfolio"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

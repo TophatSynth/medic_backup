@@ -1,5 +1,6 @@
-## NEWS Score
-- National Early Warning Signs
+
+## NEWS 
+- National Early Warning Score
 - Calculated from 
 	- Breathing rate 
 	- Oxygen saturation
@@ -25,7 +26,7 @@
 		- 7+ - Very urgent review
 	- Communicate when someone's NEWS is higher than normal
 	- Use NEWS to support raising issues, but also listen to your gut feelings on a person's health
-
+![[Pasted image 20260225191028.png]]
 ## Breath rate
 - Be subtle when measuring the breathing rate
 - Count the breaths over one minute, can do this in conjunction with measuring the pulse rate - keep fingers over pulse 

@@ -64,3 +64,4 @@ views:
 - Excitation contraction coupling for all 3 muscle types
 	- Differences of the 3 muscle types
 - SNS and PSNS
+- Hand

@@ -1,0 +1,107 @@
+
+Definition
+- Thrombus - solidification of blood contents that forms within the vasuclar system during life
+- Thrombosis - pathological process where a thrombus forms within the vascular system 
+
+
+# Thrombosis
+- Pathogenesis
+	- 3 factors
+		- Endothelial injury 
+			- Atherosclerosis, heart valves with inflammatory valve disease, radiation, chemical damage, infection etc
+		- Abnormal blood flow 
+			- Turbulence contributes to development of arterial and cardiac thrombi 
+			- Stasis contributes to venous thrombi
+		- Hypercoagulability
+			- Alteration of blood coagulation mechanism 
+			- Primary (genetic) 
+			- Secondary (acquired) 
+				- High risk - bed rest (VERY HIGH RISK), myocardial infarction, cardiac arrest
+				- Lower risk - atrial fibrillation, cardiomyopathy, nephrotic syndrome, sickle cell anaemia, oral contraceptives, smoking
+	- Endothelial injury ->  Leads to reflex vasoconstriction of the injured area - trying to protect the damaged area ![[Pasted image 20260225101354.png]]
+	- Primary hemostasis - Then, platelet adhesion to wall. They undergo shape change to become flatter and secrete ADP and TXA^^2 (Adenosine diphosphate and thromboxane A^^2) to attract more platelets ![[Pasted image 20260225101915.png]]
+		- Adhesion - requires Gplb (glycoprotein Ib) receptor on platelet AND von Willebrand's factor on wall surface ![[Pasted image 20260225101646.png]]
+			- Deficiency in either - inability to clot (von Willebrand's disease)
+	- Secondary hemostasis ![[Pasted image 20260225101935.png]]
+	- ![[Pasted image 20260225101956.png]]
+- Morphology
+	- Types
+		- Mural thrombi - stuck to the wall of a structure 
+		- Arterial thrombi - usually occlusive, frequent in the coronary/cerebral/femoral arteries
+		- Venous thrombi (phlebothrombosis)
+			- Most often occlusive, dark red
+			- Mostly affects veins of the lower extremities - deep calf, femoral, politeal, iliac veins 
+			- Not to be confused with thrombophlebitis - vein is inflammed AND thrombosed - not good :(    
+	- Histological appearance ![[Pasted image 20260225102618.png]]
+		- Lines of Zahn - alternating bands of fibrin/platelets and RBC
+- Fate Of The Thrombus (dun dun dunnnnn..)
+	- ![[Pasted image 20260225102943.png]]
+- Clinical correlations of thrombi 
+	- Can cause obstruction of blood vessels -> possible sources of embolisms 
+	- Arterial thrombosis 
+		- Ischemia/infarction distal to thrombus -> 5P's - pulseless, perishing, pale, painful, paraesthesia 
+	- Venous thrombosis 
+		- Superficial - congestion, swelling, pain, tenderness - rarely embolises 
+		- Deep - can travel up to heart/lung - fatal 
+- Treatment
+	- Prevention 
+		- Stockings 
+	- Anticoagulant drugs - stop clot growing larger, prevent/stop embolism 
+		- Heparin (intravenous or subcutaneous) and warfarin (oral)
+
+
+# Embolism 
+- Embolus - Detached intravascular solid/liquid/gaseous mass carried by blood to a site distant from its point of origin 
+	- Most arise from thrombi - embolus usually implies thromboembolism
+- Rarer forms of emboli
+	- Bone/marrow
+	- Atheromatous debris
+	- Fat droplets
+	- Tumour sections 
+	- Foreign bodies (bullets! :O) ![[Pasted image 20260225103654.png]]
+	- Air bubbles 
+- Classifications
+	- Pulmonary 
+		- Occulsion of a medium/large pulmonary artery 
+		- >95% arise from DVT 
+		- May occlude the main artery or lodge in the L/R lung bifurcation as a saddle embolus ![[Pasted image 20260225104001.png]]
+		- Pathologies
+			- Respiratory compromise
+			- Haemodynamic compromise
+		- Large embolism -> virtually instantaneous death 
+		- Smaller -> acute respiratory/CV problems 
+			- Haemoptysis (coughing up blood), angina pectoris
+	- Systemic
+		- Emboli that travel through the arterial circulation
+		- 80-85% arise from heart thrombi, some come from aortic aneurysms, atherosclerosis, etc
+		- Almost always cause infarction 
+			- Mostly lodge in lower extremities, sometimes in the brain, visceral arteries (mesenteric/renal/splenic) and upper limbs
+	- Amniotic fluid
+		- Very very very rare complication of labour 
+		- Infusion of amniotic fluid into maternal circulation 
+		- Causes profound respiratory difficulty, CV shock, followed by convulsions and profound (deep) coma 
+	- Air 
+		- Air bubbles. Also called barotrauma
+		- Scuba diving!!!!!!! :D 
+		- Caisson disease/decompression sickness - decompress too fast -> Nitrogen bubbles form in blood 
+		- Diff bt acute/chronic - fast decompresion once vs repeated 
+		- Treatment - recompression chamber
+	- Fat
+		- Fat globules in circulation following fractures of long bones or soft tissue trauma/burns 
+		- Only 1% of individuals with severe skeletal injury get this 
+		- Called fat embolism syndrome 
+		- Damage 
+			- Occlusion
+			- FFA's cause toxic injury to vascular endothelium 
+		- Clinical characterisation
+			- Pulmonary insufficiency
+			- Neurological symptoms - irritability, restlessness, progressing to coma 
+
+# Infarctions
+- Mostly caused by thrombi and emboli 
+- Types
+	- Red - haemorrhagic
+		- Venous occlusions, or in loose tissue/tissues with dual circulation
+	- WHite - anaemic
+		- Arterial occulsions, solid organs
+	- Septic/bland

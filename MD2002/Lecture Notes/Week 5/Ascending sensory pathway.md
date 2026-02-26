@@ -1,0 +1,40 @@
+Spinal enlargements
+- Cervical - C4-T1
+- Lumbosacral - T11-S1
+
+# Overview
+- Senses ![[Pasted image 20260225091218.png]]
+	- Crude/protopathic - just being able to feel that you're touching smth 
+	- Discriminative/epicritic - fine discrimination of what you're touching (pressure etc)
+- Receptors ![[Pasted image 20260225091709.png]]
+	- Free nerve endings
+		- Carry pain and temperature 
+		- Found in the epidermis, periosteum, arterial wall, joint surfaces, etc
+	- Encapsulated nerve endings
+		- Pacinian, Meissner corpuscles 
+	- Other
+		- Merkel and ruffini 
+- Transmission of somatic senses ![[Pasted image 20260225093112.png]]
+	- Dorsal column 
+		- Carries conscious proprioception, vibration, discriminative touch, 2 point discrimination, and stretch 
+		- 1st order sensory neurons are pseudo-unipolar neurons
+			- Cell body is in dorsal root ganglion 
+			- Ascends to medulla as fasciculus gracilis (if coming from below T6) or fasciculus cuneatus (if coming from above T6) ![[Pasted image 20260225093247.png]]
+				- Groove bt gracile and cuneate - tells you it's above T6
+			- Synapses with 2nd order neuron
+		- Cell body of 2nd order neuron is located either in the grey matter of the spinal cord or the brain stem - on the same side 
+			- Synapses with 3rd order neurons in the ventral posterolateral nucleus of thalamus (VPL)
+		- Axon of 3rd order neuron travels in an internal capsule into the somatosensory cortex  
+	- Pain 
+		- ![[Pasted image 20260225094030.png]]
+	- Nociception 
+		- ![[Pasted image 20260225094057.png]]
+		- Not pain, but rather detection of things that can cause injury -> sends out signals that the brain then interprets as pain 
+	- Spinothalamic tract (anterolateral columns) ![[Pasted image 20260225094312.png]]![[Pasted image 20260225094656.png]]
+		- Carries pain, temperature, and crude touch 
+		- 1st order neurons enter the spinal cord, then ascend/descend 1-2 spinal cord levels, then synapse with 2nd order neurons in the dorsal horn ![[Pasted image 20260225094448.png]]
+		- 2nd order neurons - cross the midline in the anterior white commissure 
+			- Crude touch fibres ascend in the anterior column
+			- Pain/temperature fibres ascend in the lateral column 
+			- Synapses with 3rd order neurons in VPL again
+		- 3rd order neurons go to somatosensory cortex 

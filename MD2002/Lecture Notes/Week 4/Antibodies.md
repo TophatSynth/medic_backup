@@ -1,0 +1,78 @@
+# Overview
+- Originate from bone marrow -> lymphoid organs (spleen, nodes, tonsils etc)
+- Lymph nodes
+	- Lymph node numbers are variable ![[Pasted image 20260220115903.png]]
+	- Geminal centres - increase in size during immune response - palpatable 
+		- Enlarged bc of B cells dividing in order to proliferate 
+- Spleen ![[Pasted image 20260220120237.png]]
+	- Lymphatic system doesn't come directly  from lymph vessels, but rather from lymph nodes 
+- Vaccination ![[Pasted image 20260220120427.png]]
+	- Can mix vaccinations bc immune response can deal with multiple challenges at the same time
+
+# Antibodies (Ab)
+- First get expressed as a membrane bound form (B cell receptor - BCR), then once activated, get secreted as soluble form 
+- 2 functions
+	- Bind to pathogen
+	- Help to destroy pathogen by recruiting other cells 
+- [[Introduction to immunology#Defence mechanisms|Structure]] ![[Pasted image 20260220120737.png]]
+	- 2 identical heavy chains (H) and 2 identical light chains (L) 
+	- Disulphide bonds bt heavy chains, and bt heavy/light chains
+	- Is actually folded & intertwined irl ![[Pasted image 20260220120908.png]]
+	-  Cleavage of the structure ![[Pasted image 20260220120953.png]]
+		- Can be done to separate binding function from destruction function
+		- Done by papain or pepsin enzymes
+			- Papain - creates Fab - single antigen binding domain 
+			- Pepsin - creates F(ab')2 - 2 domains stuck together 
+- Production of antibodies
+	- The antigen binding site has hypervariability in the amino acid composition
+		- Allows for a vast range of targets ![[Pasted image 20260220121417.png]]
+	- 24,000 genes but millions of antibody targets - how?
+		- Chromosomal rearrangement - genetic changes to B cell while still in bone marrow
+			- Somatic recombination - combine different sections of DNA with each other - still not enough diversity tho
+				- Light and heavy chains are encoded as sections of DNA ![[Pasted image 20260220121601.png]]
+				- Leader, variable, diversity, joining and constant sections - you have multiple variations of each in your DNA ![[Pasted image 20260220121830.png]]
+			- Junctional diversity - D and J sections in the DNA are brought together and the bit between is cleaved off. The section between is filled in with up to 20 completely random nucleotides (no template) ![[Pasted image 20260220122049.png]]
+				- If non functional protein made - cell dies
+				- If functional - you have new coding regions in your DNA 👍
+				- Only happens in your immune cells 
+			- Finally - different combinations of H and L chains in the final antibody - bc H and L chains together form the antigen binding site
+		- After B cells have been activated while in the lymph node - somatic hypermutation
+			- Affinity maturation - mutations accummulate in the antibody binding site over the course of the immune response - may lead to better antigen binding 
+- Classes of antibodies ![[Pasted image 20260220123355.png]]
+	- IgG
+		- Most common in the blood
+	- IgM
+		- 2nd most common in the blood
+		- Found most often as a pentameric structure ![[Pasted image 20260220123104.png]]
+	- IgD
+	- IgA
+		- Found most often as a dimer ![[Pasted image 20260220123125.png]]
+			- Allows it to bind to receptors on some epithelial cells to be taken in and secreted out the other side onto outside surface, eg as tears ![[Pasted image 20260220123201.png]]
+			- Therefore found mostly on mucosal surfaces
+	- IgE
+		- Almost undectable in blood - mostly on surface of mast cells 
+			- If detected in high amounts - maybe parasitic infection or malignancy
+		- The mast cells are usually found on mucosal surfaces
+- Function
+	- Blocking of virus binding to receptors ![[Pasted image 20260220123543.png]]
+	- Binding to toxins ![[Pasted image 20260220123614.png]]
+	- Opsination ![[Pasted image 20260220123705.png]]
+	- Clearing of soluble toxins ![[Pasted image 20260220123857.png]]
+		- Forms immune complexes - normally healthy and allows for the soluble toxins to be cleared by phagocytes and complement 
+		- However, if too high conc of immune complexes -> accumulates and deposits in certain areas of body 
+			- Eg kidney - glomerulan nephritis - complexes get too large, deposited in the kidney, complement is activated -> damages kidney
+			- Eg vasculitis - complexes accumulating in the blood vessels
+
+# Monoclonal antibodies (Mab's)
+- Mass produced antibodies that are used clinically for various things, ie [[Cholesterol lowering drugs#Lipid-lowering drugs|the cholesterol drugs]] 
+- Plasma are short lived, so we can fuse them with myeloma cells (blood cancer cells), and occasionally we retain both the cancer ability of infinite division/growth AND the antibody secreting ability
+- Then, figure out how to select for the specific antibody you want to clone, then clone the shit out of it 👍
+- Drugs
+	- Infliximab - antibody against TNF-α (inflammatory mediator) - used in rheumatoid arthritis, ankylosing spondylitis, inflammatory bowel diseases - gold standard of anti-inflammatory treatment 
+	- Herceptin - targets certain receptors on breast cancer cells (HER2 receptor) -> blocks growth -> death of cancer cells 
+	- Tocilizumab - antibody against interleukin 6 - used in inflammatory conditions including covid 19
+	- Other Mab's that help with cancer - some cancers will "disable" nearby immune cells to stop it from destroying the cancer - we have Mab's that interfere with that process -> cancer dies >:) 
+- Lateral flow tests
+	- Uses antibodies
+	- ![[Pasted image 20260220125548.png]]
+	- Allows you to test for the virus
