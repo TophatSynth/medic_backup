@@ -41,8 +41,6 @@ views:
       - file.folder
       - file.name
     sort:
-      - property: file.folder
-        direction: DESC
       - property: file.ctime
         direction: DESC
     columnSize:
@@ -65,3 +63,4 @@ views:
 	- Differences of the 3 muscle types
 - SNS and PSNS
 - Hand
+- Coagulation/clotting/thrombosis pathway

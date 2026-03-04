@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dc1363037afe97d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ce8c8b2aba64b1",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "211f21dbad86e442",
+            "id": "728c55c487553e71",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -203,44 +204,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b0ce8c8b2aba64b1",
+  "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
+    "MD2002/Clinical Skills/Neurological examination of the upper limb.md",
+    "MD2002/Lecture Notes/Week 2/Arm and forearm.md",
+    "Attachments/Pasted image 20260303151159.png",
+    "Home.md",
+    "MD2002/Lecture Notes/Week 4/Upper and lower motor neuron lesions GS.md",
+    "MD2002/Lecture Notes/Week 5/Descending Motor Pathways.md",
+    "MD2002/Lecture Notes/Week 1/Pectoral and scapular regions.md",
+    "MD2002/Lecture Notes/Week 5/Drugs affecting haemostasis and thrombosis.md",
+    "MD2002/Case Studies/Margaret Collins Case Study prep.md",
+    "MD2001/Lecture Notes/Week 8/Molecular movement across membranes .md",
+    "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
+    "MD2002/Lecture Notes/Week 5/Coagulation.md",
+    "Attachments/Pasted image 20260302164203.png",
     "MD2002/Case Studies/Margaret Collins Case study notes.md",
+    "Attachments/Pasted image 20260302164032.png",
+    "MD2001/Lecture Notes/Week 3/White Blood Cells.md",
+    "MD2001/Lecture Notes/Week 4/Chronic inflammation.md",
+    "Attachments/Pasted image 20260302150420.png",
+    "Attachments/Pasted image 20260302144351.png",
+    "Attachments/Pasted image 20260302144343.png",
     "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
     "MD2001/Lecture Notes/Week 7/Introduction to the nervous system.md",
     "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
-    "MD2002/Case Studies/Margaret Collins Case Study prep.md",
     "MD2001/Clinical Skills/Differential Diagnoses.md",
     "MD2002/Case Studies/Untitled.md",
-    "Home.md",
-    "MD2002/Lecture Notes/Week 5/Descending Motor Pathways.md",
     "MD2002/Lecture Notes/Week 5/Drug receptor interactions.md",
     "Attachments/Pasted image 20260226103204.png",
     "Attachments/Pasted image 20260226101501.png",
     "Attachments/Pasted image 20260226101411.png",
     "Attachments/Pasted image 20260226103229.png",
-    "Attachments/Pasted image 20260226103036.png",
-    "Attachments/Pasted image 20260226103034.png",
-    "Attachments/Pasted image 20260226103026.png",
-    "Attachments/Pasted image 20260226102902.png",
-    "Attachments/Pasted image 20260226102822.png",
-    "Attachments/Pasted image 20260226102711.png",
     "MD2002/Lecture Notes/Week 5/Ascending sensory pathway.md",
-    "MD2002/Lecture Notes/Week 5/Untitled.md",
-    "MD2002/Lecture Notes/Week 4/Upper and lower motor neuron lesions GS.md",
     "MD2001/Lecture Notes/Week 10/Ultrasound 1 and 2.md",
     "MD2001/Clinical Skills/Vital Signs.md",
     "MD2001/Lecture Notes/Week 4/Cell Adhesion and Extracellular Matrix.md",
     "MD2001/Lecture Notes/Week 3/Red blood cells.md",
     "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-    "MD2002/Lecture Notes/Week 5/Second Patient Encounter Reflection.md",
-    "MD2002/Lecture Notes/Week 5/Vasile Popescu self reflection .md",
-    "MD2002/Lecture Notes/Week 5/Untitled 1.md",
-    "MD2002/Lecture Notes/Week 4/Antibodies.md",
-    "MD2002/Case Studies/End of life care tutorial.md",
-    "MD2001/Lecture Notes/Week 1/Introduction to the body.md",
-    "MD2001/Lecture Notes/Week 5/Urinary system.md",
     "MD2002/Lecture Notes/Week 5",
     "Portfolio/Haemorrhage guided study Timothy Cheng.docx",
     "MD2002/Lecture Notes/Week 4",

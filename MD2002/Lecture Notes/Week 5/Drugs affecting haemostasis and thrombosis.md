@@ -1,0 +1,70 @@
+#anki 
+# Bleeding prevention drugs
+- Blood products
+	- Fresh frozen plasma (FFP) - plasma taken from centrifuge of blood donation (~200ml from single donation) - contains coagulation factors - dose required is ~15ml/kg
+	- Cryoprecipitate - FFP briefly exposed to -60C temperatures -> produces milky precipitate of of fibrinogen, Von Willebrand factor, and factor VIII
+	- Synthesised or donated coagulant factors and fibrinogen 
+- Drugs
+	- Tranexamic acid - see [[Vasile Popescu Preread]]
+		- Anti-fibrinolytic drug - inhibits activation of plasminogen -> plasmin 
+		- Administered IV/orally, within 3-4 hours
+		- Used in trauma, GI bleeding, post operation, delivery 
+	- Warfarin 
+		- Inhibits synthesis of vitamin K dependent clotting factors (II, VII, IX, X) ![[Pasted image 20260302164203.png]]
+		- Inhhibits reduction of vitamin K 
+		- Administered orally 
+		- Adv/disads
+			- Cheap, easily measurable by PT, can be reversed with dose of vitamin K or factor concentrate
+			- BUT - lots of drug/food interactions that enhance/inhibits effect, onset of several days, upredictable dose required from person to person, needs regular blood testing, risk of bleeding, narrow therapeutic index
+		- Interactions
+			- Increasing effects 
+				- Amoxycillin - bacteria are a big source of vitamin K - kills off bact -> reduces gut vit K
+				- Erythromycin/statins/acute alcohol intake - inhibits warfarin metabolism in liver 
+			- Decrease effects
+				- ┐(ツ)┌ i don't get it 
+	- Direct Oral Anticoagulants (DOAC's)
+		- Most are Xa inhibitors now (eg apixaban)
+		- Used to be direct thrombin inhibitors, not as much anymore tho 
+	- Warfarin vs DOAC's
+		- Warfarin 
+			- Cheap, established, can be reversed, can be used with poor renal function (bc metabolised in the liver)
+		- DOAC's
+			- No clotting monitoring needed
+			- Lower bleeding risks
+			- Short half life
+			- Can be used for stroke prevention 
+			- Reversal effects are very expensive
+			- Need to monitor renal function
+		- Oral anticoagulant drug indications
+			- Both - Treatment of DVT/PE, prophylaxis of stroke in patients w/ atrial fibrillation 
+				- Side note: absolute vs relative risk reduction - eg stroke risk goes from 4% to 1% 
+					- Absolute risk reduction = 3% 
+					- Relative risk reduction = 75% 
+			- Warfarin - used when there is a prosthetic heart valve replacement
+			- DOAC's - prevention of DVT after hip/knee surgery
+
+# Anticoagulant drugs
+- Heparin
+	- Binds to and activates antithrombin -> reduces Xa and thrombin generation 
+	- Administered IV or s/c (subcutaneously) - broken down in GI so cannot give orally 
+		- IV - unfractionated - half life of <1 hour - monitored by APPT 
+		- S/c - low molecular weight heparing (LMWH) - half life of ~12 hours - no monitoring needed unless poor renal function/extreme body weight/pregnancy 
+			- Eg dalteparin! :D 
+		- Both used for treatment/prevention of DVT/PE 
+	- Adverse effects
+		- Injection pain, increased bleeding risk, prolonged use -> osteoporosis, heparin-induced thrombocytopenia
+- Aspirin
+	- Irreversibly binds to COX-1 -> less thromboxane A1 production -> less clotting 
+	- Typically used for secondary prevention of atherosclerosis 
+	- Increases risk of GI bleeding, dyspepsia (chronic indigestion)
+- Clopidogrel and ticagrelor 
+	- Inhibits ADP induced platelet aggregation 
+	- Can be used with/without aspirin for secondary prevention of atherosclerosis
+	- Used in ischaemic stroke 
+	- Increased risk kof dyspepsia and GI bleeding 
+	- No reversal agents - effect will last entire duration of platelet lifespan (5-10 days)
+- Thrombolytic drugs
+	- Increases activation of plasminogen to plasmin -> breaks down fibrin/fibrinogen  
+	- Tissue plasminogen activators (tPA's) - eg streptokinase and alteplase 
+	- Increased risk of bleeding 
+	- Alternatives - stents and clot removal
