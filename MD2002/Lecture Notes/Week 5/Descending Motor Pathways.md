@@ -1,4 +1,3 @@
-#anki 
 ![[Pasted image 20260226090920.png]]
 
 # Overview of motor pathways 
@@ -30,7 +29,6 @@
 ## Basal nuclei ![[Pasted image 20260226092428.png]]
 - Not basal ganglia - ganglia only in PNS
 - Caudate nucleus, lentiform nucleus, subthalamic nucleus, substantia nigra
-- #ask four circuits?
 - Involved in fine tuning of movement, automatic movements, muscle tone, gestures based on emotions/thoughts 
 	- Automovements - eg habits, things you do without thinking 
 
@@ -61,7 +59,7 @@
 	- Controls voluntary movement of the distal muscles of the limbs
 - The axons that don't corss over in the pyramid descend ipsilaterally in the anterior/ventral corticospinal tract
 	- Once they reach their respectve segement, most of them will cross the midline 
-	- Controls voluntary movement of axial/girdle muscles #ask and proximal limb muscles 
+	- Controls voluntary movement of axial/girdle muscles 
 - A last 2% don't cross over in the pyramid AND descend ipsilaterally as the anterolateral corticospinal tract 
 	- Descend in the lateral column of the spinal cord, mixing with the lateral corticospinal tract fibres originating from the opposite side
 	- Enters grey matter at respective segment 

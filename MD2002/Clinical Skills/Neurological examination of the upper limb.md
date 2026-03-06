@@ -1,5 +1,3 @@
-#tofinish 
-
 # Inspection: 
 
 Examination of any part of the body should start with inspection. The arms should be fully exposed including the shoulder. Always compare right with left.

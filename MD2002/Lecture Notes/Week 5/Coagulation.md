@@ -1,4 +1,3 @@
-#anki 
 # Coagulation cascade
 - ![[Pasted image 20260302144351.png]]
 - Inactivated -> activated state (eg XII -> XIIa)

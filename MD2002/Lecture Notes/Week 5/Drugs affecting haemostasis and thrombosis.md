@@ -1,4 +1,3 @@
-#anki 
 # Bleeding prevention drugs
 - Blood products
 	- Fresh frozen plasma (FFP) - plasma taken from centrifuge of blood donation (~200ml from single donation) - contains coagulation factors - dose required is ~15ml/kg
@@ -9,41 +8,41 @@
 		- Anti-fibrinolytic drug - inhibits activation of plasminogen -> plasmin 
 		- Administered IV/orally, within 3-4 hours
 		- Used in trauma, GI bleeding, post operation, delivery 
-	- Warfarin 
-		- Inhibits synthesis of vitamin K dependent clotting factors (II, VII, IX, X) ![[Pasted image 20260302164203.png]]
-		- Inhhibits reduction of vitamin K 
-		- Administered orally 
-		- Adv/disads
-			- Cheap, easily measurable by PT, can be reversed with dose of vitamin K or factor concentrate
-			- BUT - lots of drug/food interactions that enhance/inhibits effect, onset of several days, upredictable dose required from person to person, needs regular blood testing, risk of bleeding, narrow therapeutic index
-		- Interactions
-			- Increasing effects 
-				- Amoxycillin - bacteria are a big source of vitamin K - kills off bact -> reduces gut vit K
-				- Erythromycin/statins/acute alcohol intake - inhibits warfarin metabolism in liver 
-			- Decrease effects
-				- ┐(ツ)┌ i don't get it 
-	- Direct Oral Anticoagulants (DOAC's)
-		- Most are Xa inhibitors now (eg apixaban)
-		- Used to be direct thrombin inhibitors, not as much anymore tho 
-	- Warfarin vs DOAC's
-		- Warfarin 
-			- Cheap, established, can be reversed, can be used with poor renal function (bc metabolised in the liver)
-		- DOAC's
-			- No clotting monitoring needed
-			- Lower bleeding risks
-			- Short half life
-			- Can be used for stroke prevention 
-			- Reversal effects are very expensive
-			- Need to monitor renal function
-		- Oral anticoagulant drug indications
-			- Both - Treatment of DVT/PE, prophylaxis of stroke in patients w/ atrial fibrillation 
-				- Side note: absolute vs relative risk reduction - eg stroke risk goes from 4% to 1% 
-					- Absolute risk reduction = 3% 
-					- Relative risk reduction = 75% 
-			- Warfarin - used when there is a prosthetic heart valve replacement
-			- DOAC's - prevention of DVT after hip/knee surgery
 
 # Anticoagulant drugs
+- Warfarin 
+	- Inhibits synthesis of vitamin K dependent clotting factors (II, VII, IX, X) ![[Pasted image 20260302164203.png]]
+	- Inhhibits reduction of vitamin K 
+	- Administered orally 
+	- Adv/disads
+		- Cheap, easily measurable by PT, can be reversed with dose of vitamin K or factor concentrate
+		- BUT - lots of drug/food interactions that enhance/inhibits effect, onset of several days, upredictable dose required from person to person, needs regular blood testing, risk of bleeding, narrow therapeutic index
+	- Interactions
+		- Increasing effects 
+			- Amoxycillin - bacteria are a big source of vitamin K - kills off bact -> reduces gut vit K
+			- Erythromycin/statins/acute alcohol intake - inhibits warfarin metabolism in liver 
+		- Decrease effects
+			- ┐(ツ)┌ i don't get it 
+- Direct Oral Anticoagulants (DOAC's)
+	- Most are Xa inhibitors now (eg apixaban)
+	- Used to be direct thrombin inhibitors, not as much anymore tho 
+- Warfarin vs DOAC's
+	- Warfarin 
+		- Cheap, established, can be reversed, can be used with poor renal function (bc metabolised in the liver)
+	- DOAC's
+		- No clotting monitoring needed
+		- Lower bleeding risks
+		- Short half life
+		- Can be used for stroke prevention 
+		- Reversal effects are very expensive
+		- Need to monitor renal function
+	- Oral anticoagulant drug indications
+		- Both - Treatment of DVT/PE, prophylaxis of stroke in patients w/ atrial fibrillation 
+			- Side note: absolute vs relative risk reduction - eg stroke risk goes from 4% to 1% 
+				- Absolute risk reduction = 3% 
+				- Relative risk reduction = 75% 
+		- Warfarin - used when there is a prosthetic heart valve replacement
+		- DOAC's - prevention of DVT after hip/knee surgery
 - Heparin
 	- Binds to and activates antithrombin -> reduces Xa and thrombin generation 
 	- Administered IV or s/c (subcutaneously) - broken down in GI so cannot give orally 

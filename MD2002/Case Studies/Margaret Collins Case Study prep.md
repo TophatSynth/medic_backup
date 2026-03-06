@@ -92,7 +92,7 @@ Investigation results:
 
   
 
-A full blood count (FBC) showed the following results: #tofinish after GS
+A full blood count (FBC) showed the following results: 
 
 | Hb: 111 g/l            |                         |
 | ---------------------- | ----------------------- |
