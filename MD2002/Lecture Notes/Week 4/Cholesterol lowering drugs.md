@@ -56,7 +56,7 @@
 	- Ezetimibe 
 		- NPC1L1 inhibitors 
 	- Fibrates 
-		- Enhance lipoproteins -> increases converstion of VLDL to LDL
+		- Enhance lipoproteins -> increases conversion of VLDL to LDL
 		- Also increases LDL uptake into the liver
 		- Increases HDL production 
 		- Fenofibrate, gemfibrozol
@@ -80,7 +80,7 @@
 					- PCSK9 binds to receptors to signal destruction within lysosomes ![[Pasted image 20260218094855.png]]
 					- PCSK9 mediates degradation of LDL receptors of liver cells - inhibited -> increases LDL uptake by liver
 					- Alirocumab and evolocumab 
-						- Monoclonal antibodies that block PCSK9 - prevents it from marking LDL receptros for destruction 
+						- Monoclonal antibodies that block PCSK9 - prevents it from marking LDL receptors for destruction 
 						- Monoclonal antibodies are antibodies that target one specific protein
 					- Inclisiran 
 						- Small interfering RNA - limits PCSK9 production

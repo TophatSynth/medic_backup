@@ -169,7 +169,7 @@
 		- Eg hypertension in pregnancy - some drugs aren't suitable for pregnant women - use methyldopa to inhibit DOPA decarboxylase -> prevents synthesis of nor/adrenaline
 - NA release ![[Pasted image 20260223121258.png]]
 	- Release of NA also facilitated by Ca
-	- α^^2 adrenoreceptors on presynaptic terminal - inhibits NA release
+	- [[Autonomic nervous system#SNS|α^^2 adrenoreceptors]] on presynaptic terminal - inhibits NA release
 	- No equivalent of AChE - NA just diffuses away from synapse - ~75% recaptured by the neurons (NET - norerpinephrine transporter), repackaged by VMAT (vesicular monoamine transporter)
 - Uptake and degradation ![[Pasted image 20260223121558.png]]![[Pasted image 20260223121841.png]]
 	- Amphetamine - causes NET to work in reverse -> releases more NA

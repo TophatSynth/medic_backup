@@ -57,10 +57,9 @@ views:
 - Sup./Int./Mid./Deep — Superficial/Intermediate/Middle/Deep 
 
 ## Diagrams to do for revision
-- Brachial Plexus MAXIMUS
-- Metabolism 
-- Excitation contraction coupling for all 3 muscle types
+- [x] Brachial Plexus MAXIMUS
+- [x] Metabolism 
+- [x] Excitation contraction coupling for all 3 muscle types
 	- Differences of the 3 muscle types
 - SNS and PSNS
-- Hand
 - Coagulation/clotting/thrombosis pathway

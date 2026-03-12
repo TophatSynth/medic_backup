@@ -1,0 +1,74 @@
+# Pelvis
+- 2 hip bones + sacrum 
+	- Hip bone - ilium, ischium and pubic bones (sup, ant, and post respectively)
+	- Tilted forward in life
+		- Anterior superior iliac spine and pubic tubercle in same verticle line ![[Pasted image 20260310151301.png]]
+- Joints
+	- Pubic symphysis #link 
+		- Supported by superior and arcuate ligaments
+		- Has articular disc
+	- Sacroiliac joint 
+		- Very very strong bc lots of ligaments around
+		- Basically immovable other than in pregnancy 
+			- Hormones released that loosens the ligaments to allow childbirth 
+		- #tofinish 
+- Ligaments
+	- Body weight pulling whole pelvis to tilt forwards 
+	- Sacrospinous and sacrotuberous ligaments prevent that 
+	- Also forms the greater/lesser sciatic foramina from the respective notches -> gateways 
+- Gateways ![[Pasted image 20260310151838.png]]
+	- Greater - sciatic/gluteal/pudendal nerves
+	- Lesser - pudendal nerve
+	- Obturator foramen - obturator nerve 
+	- Femoral ring (bt pelvis and inguinal ligament) - femoral nerve 
+- Hip joint ![[Pasted image 20260310152102.png]]
+	- Ball and socket, stable, limited movility 
+	- ![[Pasted image 20260310152136.png]]
+	- Acetabulum - deep socket, cartilage over MOST surface (lunate surface) ![[Pasted image 20260310152315.png]]
+		- Has ligament of head of femur inside ![[Pasted image 20260310152431.png]]
+	- Zona orbidularis - ring of ligament around the head of the femur for stability
+- Capsular ligaments ![[Pasted image 20260310152704.png]]
+	- Iliofemoral 
+		- Strongest, prevents hyperextension when standing
+	- Pubofemoral
+		- Prevents hyperabduction 
+	- Ischiofemoral
+		- Prevents excessive internal rotation 
+- Movement
+	- ![[Pasted image 20260310152853.png]]
+	- ![[Pasted image 20260310152901.png]]
+- Shenton's line #tofinish ![[Pasted image 20260310152914.png]]![[Pasted image 20260310152932.png]]
+
+# Knee 
+- 2 joints 
+	- Flexion/extension, but also a bit of rotation 
+	- Looks like a hinge joint in most of its structure tho + muscle/ligament arrangement
+- Fibrous capsule 
+	- Attaches to the patella as its anterior aspect 
+	- Rest of anterior aspect is made of the quadriceps tendon 
+	- Posterior capsule
+		- ![[Pasted image 20260310153253.png]]
+	- Bursae
+		- ![[Pasted image 20260310153422.png]]
+	- Collateral ligaments - attached to menisci 
+		- Lateral 
+			- Extrinsic
+		- Medial
+			- Intrinsic 
+		- #tofinish injuries 
+	- Menisci
+		- Medial/lateral meniscus 
+		- ![[Pasted image 20260310153945.png]]
+	- Cruciate ligaments ![[Pasted image 20260310154241.png]]
+		- Anterior (ACL)
+			- Prevents anterior movement of tibia and hyperextension
+		- Posterior 
+			- Prevents posterior movement of tibia 
+	- Angle
+		- Q angle - angle between anatomical axis of the femus and tibia 
+			- Greater in females 
+		- Collodiaphysial angle - angle between long axes of the neck and shaft of the femur
+
+# Ankle 
+- #tofinish 
+- 

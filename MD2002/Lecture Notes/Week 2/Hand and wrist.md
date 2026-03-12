@@ -1,4 +1,4 @@
-# Skin 
+	x# Skin 
 - Differs bt dorsum and palm
 	- Dorsum - thin, stretch/loose, no sweat glands, hair bearing, mobile 
 		- Thin dermis - tears easily

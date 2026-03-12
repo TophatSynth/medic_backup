@@ -53,7 +53,7 @@
 - Tract where the UMN from the motor cortexes move towards the spinal cord ![[Pasted image 20260226093352.png]]
 - Concerned with voluntary, discrete, skilled movements in the contralateral limbs 
 - Originates about 60% from the primary motor cortex, 30% from the premotor and supplementary motor areas, and 10% from the somatosensory areas* and parietal association cortex posterior to the central sulcus
-- 85% of fibres will cross the midline to the other side in the pyramid of medulla oblongata ![[Pasted image 20260226093646.png]]
+- 85% of fibres will cross the midline to the other side in the pyramid of medulla oblongata ![[Pasted image 20260226093646.png|267]]
 	- Cross over -> travel down as lateral corticospinal tract 
 	- When time to leave -> enter grey matter to synapse with LMN's 
 	- Controls voluntary movement of the distal muscles of the limbs
