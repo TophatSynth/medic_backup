@@ -1,74 +1,150 @@
+#anki 
 # Pelvis
-- 2 hip bones + sacrum 
-	- Hip bone - ilium, ischium and pubic bones (sup, ant, and post respectively)
-	- Tilted forward in life
+- 2 hip bones + sacrum - complete ring of bone
+	-  Transfers body weight to the lower limbs 
+	- Hip bone - ilium, ischium and pubic bones (sup, post and ant. respectively)
+		- Fused in the acetabulum, connected by cartilage called tri-radiate cartilage (ossifies by late teens)
+	- Tilted forward in life - better for weight transfer
 		- Anterior superior iliac spine and pubic tubercle in same verticle line ![[Pasted image 20260310151301.png]]
+		- Supracristal plane - superior border of the iliac crests - intersects with L4/5 vertebral discs ![[Pasted image 20260313111537.png]]
 - Joints
 	- Pubic symphysis #link 
-		- Supported by superior and arcuate ligaments
+		- Secondary cartilaginous
+		- Ligaments ![[Pasted image 20260313111805.png]]
+			- Arcuate (inferior pubic) ligament below, superior pubic ligament above
 		- Has articular disc
 	- Sacroiliac joint 
-		- Very very strong bc lots of ligaments around
-		- Basically immovable other than in pregnancy 
+		- Ligaments ![[Pasted image 20260313111903.png]]
+			- Very very strong joint - anterior and posterior sacroiliac ligaments
+			- Iliolumbar ligament connecting ilium to L5
+		- Synovial, but basically immovable other than in pregnancy 
 			- Hormones released that loosens the ligaments to allow childbirth 
-		- #tofinish 
-- Ligaments
-	- Body weight pulling whole pelvis to tilt forwards 
-	- Sacrospinous and sacrotuberous ligaments prevent that 
-	- Also forms the greater/lesser sciatic foramina from the respective notches -> gateways 
+			- #ask fibrous joint posteriorly???
+- Other ligaments 
+	- Body weight pulling whole pelvis to tilt forwards ![[Pasted image 20260314130507.png]]
+		- Sacrospinous and sacrotuberous ligaments prevent that - from sacrum to spine and tuberosity of ischium 
+		- Also forms the greater/lesser sciatic foramina from the respective notches -> gateways 
 - Gateways ![[Pasted image 20260310151838.png]]
-	- Greater - sciatic/gluteal/pudendal nerves
-	- Lesser - pudendal nerve
-	- Obturator foramen - obturator nerve 
+	- Greater sciatic foramen - connecting pelvis to gluteal - sciatic/gluteal/pudendal nerves
+	- Lesser sciatic foramen - connecting gluteal region to perineum - pudendal nerve
+	- Obturator foramen - the one in the front, connecting pelvis and medial thigh - obturator nerve and artery 
 	- Femoral ring (bt pelvis and inguinal ligament) - femoral nerve 
+		- Inguinal ligament - from pubic tubercle to the anterior superior iliac spine 
 - Hip joint ![[Pasted image 20260310152102.png]]
-	- Ball and socket, stable, limited movility 
+	- Ball and socket, stable, limited mobility 
 	- ![[Pasted image 20260310152136.png]]
-	- Acetabulum - deep socket, cartilage over MOST surface (lunate surface) ![[Pasted image 20260310152315.png]]
-		- Has ligament of head of femur inside ![[Pasted image 20260310152431.png]]
-	- Zona orbidularis - ring of ligament around the head of the femur for stability
-- Capsular ligaments ![[Pasted image 20260310152704.png]]
-	- Iliofemoral 
-		- Strongest, prevents hyperextension when standing
-	- Pubofemoral
-		- Prevents hyperabduction 
-	- Ischiofemoral
-		- Prevents excessive internal rotation 
+		- Acetabulum - articulating surface of the femur - deep socket, cartilage over MOST surface (lunate surface) ![[Pasted image 20260310152315.png]]
+			- Acetabular labrum - fibrocartilage around the rim deepening the socket
+				- Also has transverse acetabular ligament (not v important)
+		- Greater and lesser tronchanters
+			- Has line between anteriorly - intertrochanteric line - is where the joint capsule attaches
+			- Posteriorly - intertrochanteric crest - attachment for muscles
+	- Joint capsule ![[Pasted image 20260310152431.png]]
+		- Attached to the acetabular rim, transverse acetabular ligament, intertrochanteric line, and neck of the femur
+			- When attaching onto femur - synovial membrane will go down first, then reflect back up onto the neck - reflected fibres are retinacula
+				- Retinacula support blood vessels 
+		- Capsular ligaments ![[Pasted image 20260310152704.png]]
+			- Ligament of head of femur - intracapsular ligament 
+			- Intrinsic ligaments - thickening of the capsule - winds from pelvis around neck of femur - when hip is fully extended, pulls _very_ tight 
+				- Iliofemoral 
+					- Strongest ligament in the body, prevents hyperextension when standing
+				- Pubofemoral
+					- Prevents hyperabduction 
+				- Ischiofemoral
+					- Weakest of the 3 ligaments here, prevents excessive internal rotation 
+			- Zona orbidularis - ring of ligaments around the head of the femur for stability
 - Movement
 	- ![[Pasted image 20260310152853.png]]
 	- ![[Pasted image 20260310152901.png]]
-- Shenton's line #tofinish ![[Pasted image 20260310152914.png]]![[Pasted image 20260310152932.png]]
-
-# Knee 
-- 2 joints 
-	- Flexion/extension, but also a bit of rotation 
+- Shenton's line ![[Pasted image 20260310152914.png]]![[Pasted image 20260310152932.png]]
+	- Xray imaging AP - Smooth line from superior pubic ramus through neck of femur to the lesser trochanter 
+		- Interruption to line - hip dysplasia (abnormal growth) or fracture
+- Femur 
+	- ![[Pasted image 20260314133730.png]]
+- Tibia and fibula
+	- ![[Pasted image 20260314133834.png]]
+	- ![[Pasted image 20260314141129.png]]
+	- ![[Pasted image 20260314141154.png]]
+# Knee ![[Pasted image 20260314133902.png]]![[Pasted image 20260314133910.png]]
+- Flexion/extension, but also a bit of rotation 
 	- Looks like a hinge joint in most of its structure tho + muscle/ligament arrangement
+- 2 joints 
+	- Femur and tibia 
+	- Femur and patella
 - Fibrous capsule 
 	- Attaches to the patella as its anterior aspect 
 	- Rest of anterior aspect is made of the quadriceps tendon 
-	- Posterior capsule
-		- ![[Pasted image 20260310153253.png]]
-	- Bursae
-		- ![[Pasted image 20260310153422.png]]
-	- Collateral ligaments - attached to menisci 
-		- Lateral 
-			- Extrinsic
-		- Medial
-			- Intrinsic 
-		- #tofinish injuries 
-	- Menisci
-		- Medial/lateral meniscus 
-		- ![[Pasted image 20260310153945.png]]
-	- Cruciate ligaments ![[Pasted image 20260310154241.png]]
-		- Anterior (ACL)
-			- Prevents anterior movement of tibia and hyperextension
-		- Posterior 
-			- Prevents posterior movement of tibia 
-	- Angle
-		- Q angle - angle between anatomical axis of the femus and tibia 
-			- Greater in females 
-		- Collodiaphysial angle - angle between long axes of the neck and shaft of the femur
+	- Reinforced laterally by the iliotibial tract
+	- Posterior capsule ![[Pasted image 20260314134124.png]]
+		- Popliteus - runs between capsule and popliteal ligaments
+- Bursae ![[Pasted image 20260310153422.png]]
+	- Suprapatellar bursa - is continuous with the synovial membrane of the joint
+	- Infrapatellar bursa - 2 parts, on top of the tibial tuberosity and deep to the patellar ligament - inflammed in ppl who are on their knees a lot - preacher's knee
+	- Prepatellar bursa - in front of patella - also inflammed from being on knees a lot - housewife's knee
+	- Popliteal bursa - under the popliteus 
+	- Anserine bursa 
+	- Gastrocnemius bursa 
+- Collateral ligaments - attached to menisci 
+	- Lateral/fibular ligament
+		- Extrinsic
+		- Femur to fibula 
+		- Prevents adduction
+	- Medial/tibial ligament
+		- Intrinsic - fused to joint capsule and medial meniscus
+		- Femur to tibia
+		- Prevent abduction
+	- Injuries
+		- Valgus deformity - distal end moves away from the midline 
+			- Eg halux valgus - bunion - big toe moves away from the midline 
+			- Damages medial collateral ligament + medial meniscus
+		- Varus deformity - distal end moves towards the midline
+			- Damages lateral collateral ligament, more common 
+- Menisci ![[Pasted image 20260310153945.png]]
+	- Crescent shaped fibrocartillaginous pads within the knee joint - cushions the femur, deepens the joint capsule and allows for some rotation (also has proprioception fibres)
+	- Medial/lateral meniscus
+		- Medial joined at the margin to joint capsule and to medial collateral ligament 
+		- Lateral joined to the joint capsule
+			- Popliteus muscle attaches to lateral meniscus
+			- Posterior horn attached to medial condyle of femur via meniscofemoral ligaments
+	- Not very good blood supply - damage -> not good for life
+	- Moves antero-posteriorly during flexion/extension of knee
+	- Ligaments
+		- Joined anteriorly by transverse ligament of the knee 
+		- Cruciate ligaments ![[Pasted image 20260310154241.png]]
+			- Anterior (ACL)
+				- Attached to anterior part of the intercondylar part of the tibia, moving laterally to attach to the medial surface of the lateral epicondyle
+				- Prevents anterior movement of tibia and hyperextension
+			- Posterior 
+				- Attached to posterior part of the intercondylar part of the tibia, moving medially to attach to the laterally surface of the medial epicondyle
+				- Prevents posterior movement of tibia 
+			- Forms a cross shape - acts as a pivot for rotation - rotate too far -> damage ACL
+			- Valgus + rotation - damage ACL, medial collateral ligament, medial meniscus at the same time - unhappy triad
+- Angles
+	- Q angle - angle between anatomical axis of the femus and tibia 
+		- Greater in females - more risk of cruciate ligament damage 
+	- Collodiaphysial angle - angle between long axes of the neck and shaft of the femur
 
-# Ankle 
-- #tofinish 
-- 
+# Foot ![[Pasted image 20260314141239.png]]![[Pasted image 20260314141300.png]]![[Pasted image 20260314141349.png]]
+- Ankle joint 
+	- Tibia + fibula - maleoli form groove to articulate with talus
+		- Talus ![[Pasted image 20260314141210.png]]![[Pasted image 20260314141400.png]]
+		- Calcaneus ![[Pasted image 20260314141410.png]]
+	- Only dorsiflexion/plantarflexion
+	- Collateral ligaments
+		- Medial/deltoid collateral ligament - resists eversion of ankle joint
+		- Lateral collateral ligament - 3 parts - ant/post talofibular, and calcaneofibular - resists inversion of ankle joint 
+			- Longer -> weaker -> more likely to be damaged in inversion injury
+		- ![[Pasted image 20260314141955.png]]
+- Joints in the feet
+	- Subtalar/talocalcaneal joint - between talus and calcaneus
+	- Talonavicular joint 
+	- Calcaneocuboid joint
+	- Transverse talar joint - talonavicular and calcaneocuboid joint together ![[Pasted image 20260314142435.png|117]]
+	- Subtalar joint complex - Subtalar/talonavicular/calcaneocuboid joint together - does inversion and eversion
+	- Metatarsal and phalangeal joints
+- Ligaments ![[Pasted image 20260314142731.png]]
+	- Long plantar ligament 
+	- Spring/calcaneonavicular ligament - medial to long plantar ligament - forms part of the talus head joint capsule 
+	- Ligaments support plantar arches
+		- Medial/lateral longitudinal arches within the foot
+		- Transverse arch between feet

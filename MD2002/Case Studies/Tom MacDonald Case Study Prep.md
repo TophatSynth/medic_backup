@@ -1,4 +1,6 @@
 # Scenario and notes 
+
+## Background
 Mr Tom MacDonald is a 59-year-old man admitted via the Emergency Department (ED) following a fall at work. He is complaining of acute, severe pain above his left knee.
 - Trauma - potential broken leg?
 

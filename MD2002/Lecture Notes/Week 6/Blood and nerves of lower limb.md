@@ -1,0 +1,151 @@
+#anki 
+# Blood 
+- Aorta bifurcates at L4 -> common iliac (bifurcates at sacroiliac joint) -> ext/int iliac
+	- Ext - supply to lower limb
+	- Int - pelvic viscera
+- Internal iliac ![[Pasted image 20260312100709.png]]![[Pasted image 20260312100717.png]]
+	- Int iliac into the pelvis -> Sup/inf gluteal artery (split by piriformis muscle) - supplies gluteal region and also anastomoses with each other and other arteries 
+		- Exits through the greater sciatic foramen #link 
+	- Int iliac -> obturator artery (exits through obturator foramen into medial thigh) 
+- External iliac ![[Pasted image 20260314154001.png]]
+	- Passes under inguinal ligament -> becomes femoral artery
+		- Ext iliac -> inferior epigastric (anterior body wall), deep circumflex iliac (take a guess)
+	- Femoral -> superficial epigastric (body wall), superficial circumflex iliac (mostly body wall), external pudendal (genitalia - pudendal means genitals)
+		- Can be palpated for pulse inferior to mid inguinal point (midway between pubic symphysis and anterior superior iliac spine)
+		- Femoral very quickly gives off large branch laterally and disappears deep in muscles - Profunda femoris artery - primary blood supply to thigh ![[Pasted image 20260312101354.png]]![[Pasted image 20260314160754.png]]
+			- Travels medial to the femur in the anterior compartment
+			- Sends off 3-4 perforating arteries behind and around the femur to supply posterior thigh and lateral aspect of the anterior thigh ![[Pasted image 20260314155733.png|113]]
+				- Lots of anastamoses between perforators and upwards with the medial and lateral circumflex femoral arteries, AND gluteal arteries
+				- Circumflex femoral arteries wrap around below neck of femur
+- Corona mortis - fun variation 
+	- When the obturator artery instead branches off of the femoral/external iliac artery, to cross over the superior pubic ramus instead of under it (through the obturator foramen)
+	- Complication - if superior pubic ramus fractures, can rupture 
+	- Complication for hernia surgery - doing surgery in the area, may accidentally rupture the artery
+- Blood supply to the hip
+	- Trochanteric anastomosis - relatively superficial but buried in muscle
+		- Medial circumflex
+		- Lateral circumflex
+		- Superior gluteal
+		- Inferior gluteal
+	- Cruciate anastomosis - deeper ![[Pasted image 20260312101614.png]]
+		- Med/lat circumflex - sends out retinacular blood vessels up into the head of the femur - travels within the retinaculae #link 
+		- 1st perforator
+		- Inferior gluteal 
+		- Obturator artery sends artery of the head of the femur through round ligament of the head of the femur 
+			- Only there for secondary ossification -> declines later in life 
+		- Neck of femur/supcapital fracture ![[Pasted image 20260312101736.png]]
+			- Cuts off retinacular vessels -> avascular necrosis
+- Lower limb above knee ![[Pasted image 20260312101934.png]]
+	- Not common and superifical femoral arteries - just femoral (avenge fraser)
+	- Popliteal artery ![[Pasted image 20260312102227.png]]
+		- Femoral artery changes to popliteal artery at adductor hiatus, continues until inferior border of popliteus 
+		- Is deep and medial - hard to palpate
+			- Also vulnerable during knee disclocation and femoral fracture 
+			- 2nd most common aneurysm site - bc tight boundaries above and below, and sitting down for long periods of time puts pressure there
+		- Passes deep to tendinous soleal arch 
+		- Gives off 5 genicular branches 
+			- Genicular (knee)
+			- 2 above (med/lat), 2 below (med/lat), 1 middle
+			- Anastomosis with branches from profunda femoris and anterior tibial artery
+		- Terminal brnaches are ant/post tibial arteries 
+- Lower limb below knee ![[Pasted image 20260312102324.png]]
+	- Can be posterior tibial or tibioperoneal trunk - before or after bifurcation, doesn't matter tho 
+	- Fibular and peroneal the same thing - use fibular 
+	- Branches
+		- Anterior tibial artery ![[Pasted image 20260312102534.png]]
+			- Popliteal artery is posterior, branches anteriorly through the interosseous membrane into the ant. compartment 
+			- Runs alonside deep fibular nerve 
+			- Becomes dorsalis pedis in the foot ![[Pasted image 20260312102600.png]]
+				- Palpatable
+				- Many many branches - don't care about most
+				- Forms arcurate artery across foot - sends out metatarsal branches as well as a perforating artery deep into the sole of the foot - deep plantar artery  
+		- Posterior tibial ![[Pasted image 20260312102725.png]]![[Pasted image 20260312102727.png]]
+			- Supplies post compartment 
+			- Runs posterior to medial mallolus in ankle (palpatable as tibialis posterior pulse)
+			- Runs with tibial nerve
+			- Splits off as medial and lateral plantar arteries in the foot - supplies med/lat aspects of the foot
+			- Passes through tarsal tunnel to get into the foot 
+	- Fibular artery ![[Pasted image 20260312102802.png]]
+		- Runs in deep posterior compatment, but supplies lateral compartment via perforating vessels 
+- Feet ![[Pasted image 20260314162801.png|208]]
+	- Lateral plantar 
+		- Larger artery
+		- Deep plantar arch with deep plantar artery 
+	- Medial plantar 
+		- Superficial plantar arch with deep plantar artery (most of the time) 
+	- Deep plantar artery from dorsalis pedis
+
+## Veins
+- Dorsal venous arch -> great/small saphenous veins  ![[Pasted image 20260312103302.png]]![[Pasted image 20260312103307.png]]
+	- Great - travels medially up the lower leg - 2.5 anterior to medial malleolus, then palm's width post to patella, then pierces fascia lata in femoral triangle to enter femoral vein 
+		- Saphenous nerve follows it 
+		- Can be used for coronary artery bypass
+	- Small - travels posterior to lateral melleolus, then middle of the leg anteriorly, then penetrates crural fascia to join popliteal vein 
+		- Sural nerve follows it 
+- Deep veins ![[Pasted image 20260312103325.png]]
+	- Deep to deep fascia 
+	- Venae comitantes - other than a singular popliteal vein 
+	- Popliteal vein -> femoral vein 
+		- Femoral receives profunda femoris, great saphenous and other smaller veins 
+		- Then enters femoral sheath -> external iliac vein
+	- Fighting against gravity ![[Pasted image 20260312103316.png]]
+		- Arterial pulsation, contraction of muscles, negative intrathoracic pressure
+- Perforating veins 
+	- Superficial -> deep (via valves)
+	- Failure -> varicose veins 
+
+## Lymphatics 
+- More after lymphatics lecture
+- Superficial with superficial veins, deep with deep veins 
+- Superficial and palpatable nodes
+	- Popliteal nodes 
+	- Superficial inguinal nodes
+		- T shaped arrangement - groups parallel to inguinal ligament, and group parallel to great saphenous vein
+- Deep nodes
+	- Deep inguinal nodes - in femoral canal alongside femoral artery/vein
+		- Drain not just lower limbs, but lower abdominal as well 
+
+
+# Nerves
+- Lumbosacral plexus ![[Pasted image 20260312103511.png]]
+	- Large plexus from L1-S4 
+	- Supplies abdominal wall, pelvis, perineum and lower limb
+	- 3 big nerves from this (smaller ones too but like, later, dw) ![[Pasted image 20260312103740.png]]
+		- Femoral (L2-4)
+			- Ant compartment of thigh + skin of anterior thigh 
+			- -> saphenous nerve (skin of medial leg and foot)
+			- Similar to musculocutaneous nerve
+		- Obturator (L2-4) - medial stuff
+			- Skin and muscles of medial thigh 
+		- Sciatic (L4-S3)
+			- Posterior thigh and EVERYTHING BELOW KNEE
+	- Broken into lumbar and sacral plexus
+- Dermatomes ![[Pasted image 20260312103700.png]]
+	- Below inguinal ligament is L1, then go down anteriorly (knee is L3, med/lat leg is L4/5), then posteriorly (S1 is heel, then S2)
+- Myotomes ![[Pasted image 20260312103803.png]]
+- Lumbar plexus 
+	- Formed within psoas major muscle but anterior to transverse processes of the lumbar vertebrae 
+	- Just know that you go from L2-5, the branches do stuff within/behind the muscle, then comes out other side as main nerves 
+	- 3 nerves we care about rn ![[Pasted image 20260312103947.png]]
+		- Lat cut nerve of thigh - what do you think. (L2-3)
+			- Passes underneath the inguinal ligament just below the naterior superior iliac spine - vulnerable to compression -> pain and parasthesia in the lateral aspect of the thigh
+		- Femoral (L2-4) ![[Pasted image 20260312104118.png|68]]
+			- Descends behind the inguinal ligament, then through femoral triangle in thigh
+			- Gives off many muscular/sensory branches in femoral triangle -> ant. compartment of thigh, and skin of anterior thigh 
+			- Continues after knee as saphenous nerve (L3-4)
+		- Obturator (L2-4)
+			- Passes along the inside of the lateral pelvic wall, through the obturator foramen with the obturator artery
+			- Passes under ovaries - ovarian pathology can irritate the nerve 
+- Sacral plexus (L4-S4) ![[Pasted image 20260312104248.png]]
+	- Connected to lumbar plexus to form lumbosacral plexus by the lumbosacral trunk (L4-5 ventral rami coming together, joins with S1-4 later)
+	- Beeg part - sciatic nerve 
+		- Like the median, ulnar and radial nerves put all together
+		- Is two nerves put together (tibial and common fibular nerve) - variable bifurcation
+		- Travels posteriorly and innervates the posterior thigh 
+			- Passes behind the hip joint - vulnerable in dislocations/fractures
+		- Travels alongside posterior cutaneous nerve of the thigh
+		- Caution - gluteal intramuscular injections - avoid hitting the nerve
+	- Gluteal nerves - superior and inferior
+- Leg 
+	- Tibial nerve 
+		- Supplies post. compatment 
