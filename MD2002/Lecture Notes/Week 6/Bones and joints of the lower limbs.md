@@ -1,4 +1,3 @@
-#anki 
 # Pelvis
 - 2 hip bones + sacrum - complete ring of bone
 	-  Transfers body weight to the lower limbs 
@@ -8,7 +7,7 @@
 		- Anterior superior iliac spine and pubic tubercle in same verticle line ![[Pasted image 20260310151301.png]]
 		- Supracristal plane - superior border of the iliac crests - intersects with L4/5 vertebral discs ![[Pasted image 20260313111537.png]]
 - Joints
-	- Pubic symphysis #link 
+	- Pubic symphysis - [[Bones and joints of the lower limbs]]
 		- Secondary cartilaginous
 		- Ligaments ![[Pasted image 20260313111805.png]]
 			- Arcuate (inferior pubic) ligament below, superior pubic ligament above
@@ -19,7 +18,6 @@
 			- Iliolumbar ligament connecting ilium to L5
 		- Synovial, but basically immovable other than in pregnancy 
 			- Hormones released that loosens the ligaments to allow childbirth 
-			- #ask fibrous joint posteriorly???
 - Other ligaments 
 	- Body weight pulling whole pelvis to tilt forwards ![[Pasted image 20260314130507.png]]
 		- Sacrospinous and sacrotuberous ligaments prevent that - from sacrum to spine and tuberosity of ischium 

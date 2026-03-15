@@ -1,11 +1,11 @@
 #anki 
 # Blood 
-- Aorta bifurcates at L4 -> common iliac (bifurcates at sacroiliac joint) -> ext/int iliac
+- Aorta bifurcates at L4 -> common iliac bifurcates at sacroiliac joint -> ext/int iliac
 	- Ext - supply to lower limb
 	- Int - pelvic viscera
 - Internal iliac ![[Pasted image 20260312100709.png]]![[Pasted image 20260312100717.png]]
 	- Int iliac into the pelvis -> Sup/inf gluteal artery (split by piriformis muscle) - supplies gluteal region and also anastomoses with each other and other arteries 
-		- Exits through the greater sciatic foramen #link 
+		- Exits through the greater sciatic foramen - [[Bones and joints of the lower limbs]]
 	- Int iliac -> obturator artery (exits through obturator foramen into medial thigh) 
 - External iliac ![[Pasted image 20260314154001.png]]
 	- Passes under inguinal ligament -> becomes femoral artery
@@ -146,6 +146,18 @@
 		- Travels alongside posterior cutaneous nerve of the thigh
 		- Caution - gluteal intramuscular injections - avoid hitting the nerve
 	- Gluteal nerves - superior and inferior
-- Leg 
-	- Tibial nerve 
-		- Supplies post. compatment 
+	- Sciatic -> tibial and common fibular nerves in leg
+		- Common fibular -> deep and superficial fibular nerves 
+			-  Superficial fibular supplies lateral compartment, ankle joint (sensory) and dorsum of foot (sensory)
+				- 
+			- Deep fibular supplies the anterior compartment, ankle joint (sensory), and 1st dorsal webspace on foot
+			- Common fibular wraps superficially around neck of fibula - vulnerable
+				- Damaged -> foot drop - unable to do dorsiflexion
+			- Also gives off lateral sural cutaneous branch
+		- Tibial supplies both posterior compartments
+			- Gives off the medial sural cutaneous branch - meets the lateral sural cutaneous nerve to form the sural nerve 
+			- Moves into foot -> med/lat plantar nerves
+				- Sensory - split into med 3.5 and lat 1.5 digits 
+					- ![[Pasted image 20260314175634.png|93]]
+					- Medial plantar nerve = median nerve in hand
+					- Lateral plantar nerve = ulnar nerve in hand

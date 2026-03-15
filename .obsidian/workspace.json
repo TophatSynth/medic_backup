@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "757b151e734d08e7",
+        "id": "bbc0953d9d63bcad",
         "type": "tabs",
         "children": [
           {
-            "id": "ccbdfe2e97d72cad",
+            "id": "200cb50dbc4c14f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Blood and nerves of lower limb"
-            }
-          },
-          {
-            "id": "2e89feac5eff452c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bones and joints of the lower limbs"
             }
           }
         ]
@@ -89,7 +75,7 @@
             }
           },
           {
-            "id": "6c46e2c0420a1878",
+            "id": "ce27890b4312e765",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -140,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
+                "file": "Attachments/Pasted image 20260314133730.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blood and nerves of lower limb"
+              "title": "Outline of Pasted image 20260314133730"
             }
           },
           {
@@ -218,23 +204,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ccbdfe2e97d72cad",
+  "active": "200cb50dbc4c14f2",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260314162801.png",
-    "Attachments/Pasted image 20260314160754.png",
-    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
-    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
-    "Attachments/Pasted image 20260314155733.png",
-    "Attachments/Pasted image 20260314154001.png",
-    "MD2002/Case Studies/Haemorhage guided study.md",
     "Home.md",
+    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
     "Attachments/Pasted image 20260314142731.png",
-    "Attachments/Pasted image 20260314142435.png",
-    "Attachments/Pasted image 20260314141955.png",
     "Attachments/Pasted image 20260314141410.png",
     "Attachments/Pasted image 20260314141400.png",
-    "Attachments/Pasted image 20260314141349.png",
+    "Attachments/Pasted image 20260314141210.png",
     "Attachments/Pasted image 20260314141300.png",
+    "Attachments/Pasted image 20260314141239.png",
+    "Attachments/Pasted image 20260314141129.png",
+    "Attachments/Pasted image 20260314133730.png",
+    "Attachments/Pasted image 20260310151301.png",
+    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
+    "MD2002/Lecture Notes/Week 6/NSAID's.md",
+    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
+    "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
+    "Attachments/Pasted image 20260314175634.png",
+    "MD2002/Case Studies/Haemorhage guided study.md",
     "MD2002/Lecture Notes/Week 6/Anaemia.md",
     "MD2002/Case Studies/Tom MacDonald Case Study Prep.md",
     "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
@@ -253,10 +241,7 @@
     "MD2002/Lecture Notes/Week 5/Descending Motor Pathways.md",
     "MD2001/Lecture Notes/Week 2/Primary Tissues.md",
     "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
-    "MD2002/Lecture Notes/Week 7.md",
-    "MD2002/Lecture Notes/Week 6.md",
     "MD2002/Lecture Notes/Week 6",
-    "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
     "MD2002/Lecture Notes/Week 5",
     "Portfolio/Haemorrhage guided study Timothy Cheng.docx",
     "MD2002/Lecture Notes/Week 4",
