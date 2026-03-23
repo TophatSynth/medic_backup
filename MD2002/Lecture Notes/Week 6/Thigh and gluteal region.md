@@ -1,1 +1,174 @@
-#tofinish 
+# Gateways 
+- Greater sciatic foramen - gluteal region
+	- Ant to post - sciatic nerve, sup/inf gluteal
+- Leser sciatic foramen 
+	- Don't worry for now
+- Obturator 
+	- Obturator nerve/artery/veins
+- Retroinguinal space
+	- Femoral nerve/artery/veins
+
+
+# Gluteal region 
+- Boundaries
+	- Sup - iliac crest
+	- Inf - fold of the butt
+- Muscles ![[Pasted image 20260316141728.png]]
+	- Gluteus maximum
+		- Forms bulk of gluteal region, but not the entire area - doesn't attach to the iliac crest, doesn't coincide with the gluteal fold
+		- Inf gluteal nerve
+		- Most powerful extensor of the hip, esp from a flexed position
+		- Diverse attachments 
+			- Attaches to iliac crest via aponeurosis, scarum, and sacrotuberous ligament on one side, and to the iliotibial tract and gluteal tuberosity of the femur 
+				- Iliotibial tract - thickening of the fascia lata along the lat. aspect of the thigh, from the ilium to tibia ![[Pasted image 20260316141739.png|130]]
+					- Hip stability and lateral knee stability 
+				- Fascia lata - deep fascia that encompasses the entire thigh
+			- Therefore -> also externally rotates, abducts, a bit of adduction![[Pasted image 20260316141745.png|138]]
+			- Can also extend and lock the knee via pulling onthe iliotibial tract
+	- Abductors
+		- Gluteus medius ![[Pasted image 20260316142130.png]]
+			- Deep to maximum 
+			- Sup gluteal nerve
+			- Does extend all the way to the iliac crest
+			- Superior to gluteus maximus there is an aponeurosis - superficial to glut. medius
+			- Abductor of the hip
+		- Gluteus minimus
+			- Deep to glut. medius
+			- Sup gluteal nerve
+			- Abductor of the hip
+		- Tensor fascia lata
+			- Abducts the hip
+			- Is found within the fascia lata
+		- Abduction of the hip
+			- Needed to keep pelvis level while walking
+			- Weakness in abductors (dmg to muscles or sup gluteal nerve) - trendelburgh gait - dropping of the hip when lifting the corresponding leg during walking
+			- Trendelburgh test - hold patient's hands, ask them to lift one leg -> leans to side
+	- Lateral rotators of the hip ![[Pasted image 20260316144723.png]]![[Pasted image 20260316144713.png]]
+		- Group of 8 muscles 
+			- Most attach onto trochanteric fossa of the femur
+		- Piriformis
+			- Attachment - anterior of the sacrum, through the greater sciatic notch, onto the trochanteric fossa of the femur
+			- Nerve to piriformis
+		- Superior gemellus ("twin")
+			- Attaches onto the ischium
+			- Nerve to obturator internus
+		- Obturator internus 
+			- Travels between the twins
+			- Nerve to obturator internus
+			- Weird ass travelling - lines inside of pelvis, goes through obturator foramen, rotates (???) and then goes onto femur
+		- Inferior gemellus
+			- Attaches onto the ischium
+			- Nerve to quadratus femoris
+		- Quadratus femoris
+			- 4th best muscle ┐(ツ)┌
+			- Attaches onto the quadrate tubercle instead of trochanteric fossa
+			- Lies directly over posterior aspect of the hip joint capsule
+			- Nerve to quadratus femoris 
+		- Obturator externus  
+			- Attached anteriorly to the obturator foramen, but wraps around to the trochanteric fossa -> still external rotation
+			- Supplied by and pierced by obturator nerve
+- Nerves
+	- Sciatic nerve ![[Pasted image 20260316144934.png]]
+		- Passes through the infa-piriformis space, accompanied by posterior cutaneous nerve of the thigh (halfway bt ischial tuberosity and greater trochanter)
+	- Intramuscular injections
+		- ![[Pasted image 20260316144912.png]]
+		- Upper right quadrant - less neurovascular bundles there
+
+# Thigh
+- Muscles 
+	- Flexors of the hip ![[Pasted image 20260316145226.png]]
+		- Are actually in the abdomen
+		- Iliopsoas - most powerful flexor of the hip 
+			- Branches of L1-3
+			- Covered by fascia iliacus as they pass under the inguinal ligament 
+				- Femoral nerve also under the fascia iliacus
+			- Psoas major
+				- From the posterior abdominal wall, moves down, over the superior pubic ramus, and to the lesser trochanter
+			- Iliacus
+				- Lines the inside of the iliac fossa, does similar path to psoas major - tends to fuse together - iliopsoas
+		- Sartorius 
+			- Femoral nerve
+		- Rectus femoris
+			- Femoral nerve
+	- Compartments of the thigh ![[Pasted image 20260316165717.png]]
+		- Anterior ![[Pasted image 20260316170357.png]]
+			- Knee extensors/hip flexors
+			- Femoral nerve except iliopsoas
+			- Mostly quadriceps femoris 
+				- 4 headed muscle, makes up most of the ant compartment
+				- All insert onto patella - extends knee
+					- Very important in knee stability
+					- Patella connected to tibial tuberosity by patellar ligament, quadriceps femoris tendon attaches onto patella as well as surrounds it as part of the joint capsule - keeps it in place ![[Pasted image 20260316171039.png]]
+						- Medial patellar retinaculum is the more commonly damaged part - usually due to weakness of quadriceps femoris 
+						- DEEP TENDON REFLEX - the knee one - L3-4 
+				- Vastus lateralis and vastus medialis - lat and med
+				- Rectus femoris - long one in the middle
+					- The only one that crosses the hip joint - the only one that can flex the hip
+				- Vastus intermedialis - under rectus femoris and inbetween the other two
+			- Sartorius 
+				- Flexes the hip AND knee, external rotation
+				- Longest muscle in the body 
+				- Attached to the anterior superior iliac spine, crosses medially across thigh, onto the medial aspect of the tibia
+			- Iliopsoas
+			- Pectineus
+				- Adductor of the hip
+			- Femoral triangle ![[Pasted image 20260316171951.png]]
+				- Borders 
+					- Roof - inguinal ligament
+					- Boundaries - Medial border of sartorius, medial border of adductor longus
+					- Floor - iliopsoas, pectineus, adductor longus
+				- Contents
+					- Femoral nerve/artery/vein <- in that order (NAVY)
+					- Femoral sheath - 3 compartments
+						- Artery
+						- Vein 
+						- Femoral canal <- potential space, but also some deep lymphatics (Cloquet node) ![[Pasted image 20260316172003.png]]
+							- Is a continuation of the abdominal transversalis fascia 
+							- Has an opening into rest of fascia - femoral ring
+							- Bad - loops of bowel can herniate into here - femoral hernia -> necrotic -> bad
+		- Posterior
+			- Knee flexors/hip extensors
+			- Tibial part of the sciatic nerve (mostly) 
+			- Hamstrings! (Ischiocrural - ischium to crural/leg) ![[Pasted image 20260316172216.png|348]]
+				- Biceps femoris - 2 heads
+					- Ischial tuberosity and posterior aspect of femur to lateral aspect of fibula
+					- Common fibular part of sciatic nerve supplies short head 
+				- Semitendinosus - quite tendon-y 
+					- Ischial tuberosity onto tibia
+				- Semimembranosus - quite flat
+					- Ischial tuberosity onto tibia
+				- Sciatic nerve runs bt biceps femoris and semitendinosus/semimembranosus
+		- Medial ![[Pasted image 20260316173343.png|268]]![[Pasted image 20260316173349.png|289]]
+			- Hip adductors
+			- Obturator nerve
+			- Origin - body of the pubis or ischiopubic ramus, and medial aspect of femur (mostly)
+			- Adductor magnus
+				- Attaches onto linea aspera of femur
+				- BEEEG - will attach somewhat onto ischial tuberosity
+					- This part is called the hamstring part, innervated by the tibial part of the sciatic nerve
+				- Has a lot of apetures as it connects onto femur - for perforating arteries to go through 
+				- BEEEG hole in the bottom - adductor hiatus
+			- Adductor longus
+				- Attaches onto linea aspera of femur
+			- Adductor brevis
+				- Attaches onto linea aspera of femur
+				- Obturator nerve will split here - half will be on anterior surface, half will be on posterior surface
+			- Gracilis
+				- Attaches onto tibia
+			- Pes anserinus ![[Pasted image 20260316174833.png|245]]![[Pasted image 20260316174838.png|264]]
+				- "Goose's foot"
+				- Semitendinosus, gracilis and sartorius, all behind the knee and coming around medially to connect onto anterior aspect of tibia
+				- Contributes to stability of knee
+- Adductor/subsartorial canal ![[Pasted image 20260316174846.png|151]]![[Pasted image 20260316174852.png|117]]![[Pasted image 20260316174910.png|340]]
+	- Continuation of the femoral canal, going under sartorius, and connects with adductor hiatus
+	- Femoral artery/vein/some branches of femoral nerve
+		- Nerve - MANY branches after inguinal ligament - most are just muscular ones, 2 continue along subsartorial canal 
+			- Nerve to vastus medius (motor)
+			- Saphenous nerve (sensory)
+				- Either pierces or goes over vastoadductor membrane, then emerges at the posterior border of sartorius
+				- Very similar to musculocutaneous nerve -> cutaneous nerve
+		- Artery - femoral artery passes through and becomes popliteal artery
+	- Borders
+		- Sartorius - anterior and medial
+		- Vastus medialis - anterior and medial
+		- Adductor longus/magnus - posterior 

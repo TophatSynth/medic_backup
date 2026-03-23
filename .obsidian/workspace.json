@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc0953d9d63bcad",
+        "id": "b534c35b4a8ffd4b",
         "type": "tabs",
         "children": [
           {
-            "id": "200cb50dbc4c14f2",
+            "id": "06c8771cef82af5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blood and nerves of lower limb"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "192de4db139efd6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 8/Screening.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Screening"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +90,7 @@
             }
           },
           {
-            "id": "ce27890b4312e765",
+            "id": "a4fd67f49f3a7323",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20260314133730.png",
+                "file": "MD2002/Lecture Notes/Week 8/Screening.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260314133730"
+              "title": "Outline of Screening"
             }
           },
           {
@@ -204,54 +219,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "200cb50dbc4c14f2",
+  "active": "96e28b055d5dcce1",
   "lastOpenFiles": [
+    "MD2002/Lecture Notes/Week 8",
     "Home.md",
-    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
-    "Attachments/Pasted image 20260314142731.png",
-    "Attachments/Pasted image 20260314141410.png",
-    "Attachments/Pasted image 20260314141400.png",
-    "Attachments/Pasted image 20260314141210.png",
-    "Attachments/Pasted image 20260314141300.png",
-    "Attachments/Pasted image 20260314141239.png",
-    "Attachments/Pasted image 20260314141129.png",
-    "Attachments/Pasted image 20260314133730.png",
-    "Attachments/Pasted image 20260310151301.png",
-    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
+    "MD2002/Lecture Notes/Week 8/Screening.md",
     "MD2002/Lecture Notes/Week 6/NSAID's.md",
-    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
-    "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
-    "Attachments/Pasted image 20260314175634.png",
-    "MD2002/Case Studies/Haemorhage guided study.md",
-    "MD2002/Lecture Notes/Week 6/Anaemia.md",
-    "MD2002/Case Studies/Tom MacDonald Case Study Prep.md",
-    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
-    "MD2002/Lecture Notes/Week 5/Ascending sensory pathway.md",
-    "MD2002/Lecture Notes/Week 2/Hand and wrist.md",
-    "MD2002/Lecture Notes/Week 1/Nerves of the upper limb.md",
+    "MD2002/Lecture Notes/Week 7/B and T cells and cytokines.md",
+    "MD2002/Lecture Notes/Week 7/B and T cells and MHC.md",
     "MD2002/Lecture Notes/Week 4/Innate immunity.md",
+    "MD2002/Lecture Notes/Week 7/Blood groups and blood transfusions.md",
+    "MD2002/Lecture Notes/Week 7/Tumour Pathology.md",
+    "Attachments/Pasted image 20260319103326.png",
+    "Attachments/Pasted image 20260319102105.png",
+    "MD2002/Lecture Notes/Week 7/Cell division.md",
+    "Attachments/Pasted image 20260318140815.png",
+    "Attachments/Pasted image 20260318133939.png",
+    "Attachments/Pasted image 20260318140712.png",
+    "Attachments/Pasted image 20260318133707.png",
+    "Attachments/Pasted image 20260321121802.png",
+    "Attachments/Pasted image 20260321121756.png",
+    "Attachments/Pasted image 20260318124137.png",
+    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
+    "MD2002/Lecture Notes/Week 6/Cameron Hospital Placement Reflection.md",
+    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
+    "IBS Patient reflection.md",
+    "Attachments/Pasted image 20260319162410.png",
+    "MD2002/Lecture Notes/Week 4/Antibodies.md",
+    "MD2001/Lecture Notes/Week 4/Acute inflammation.md",
+    "MD2001/Lecture Notes/Week 8/Surgical site infection.md",
+    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
+    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
+    "MD2001/Case Studies/Sanjay Sharma Case Study Preread.md",
     "MD2002/Case Studies/Margaret Collins Case Study prep.md",
-    "MD2002/Case Studies/Margaret Collins Case study notes.md",
-    "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
-    "Other Notes/Coeliac's Disease.md",
+    "Portfolio/Cameron Hospital Placement Reflection.md",
+    "Portfolio/Uploaded/Cameron Hospital Placement Reflection Timothy Cheng.docx",
+    "Portfolio/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
+    "Portfolio/Uploaded/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
+    "Portfolio/Uploaded/Timothy Cheng DR Reflection.odt",
+    "Portfolio/Uploaded/Blood Pressure Self Reflection Timothy Cheng.doc",
+    "Portfolio/Uploaded/Self appraisal Timothy Cheng Sanjay Sharma.odt",
+    "Portfolio/Uploaded/Sanjay Sharma Referral Letter Timothy Cheng.pdf",
+    "Portfolio/Uploaded/Self appraisal first patient encounter Timothy Cheng.docx",
+    "Portfolio/Uploaded/Urinalysis Self Reflection Timothy Cheng.doc",
+    "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-why-infection-prevention-and-control-matters.pdf",
+    "MD2001/Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
+    "MD2001/Lecture Notes/Week 8/Early embryonic development.md",
+    "MD2001/Lecture Notes/Week 7/Endocrine system.md",
     "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-    "MD2001/Lecture Notes/Week 9/Local anaesthetics.md",
-    "MD2002/Lecture Notes/Week 4/Cholesterol lowering drugs.md",
-    "MD2002/Lecture Notes/Week 5/Coagulation.md",
-    "MD2002/Lecture Notes/Week 5/Descending Motor Pathways.md",
-    "MD2001/Lecture Notes/Week 2/Primary Tissues.md",
-    "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
-    "MD2002/Lecture Notes/Week 6",
-    "MD2002/Lecture Notes/Week 5",
-    "Portfolio/Haemorrhage guided study Timothy Cheng.docx",
-    "MD2002/Lecture Notes/Week 4",
-    "MD2002/Lecture Notes/Week 3",
-    "MD2002/Case Studies",
-    "Portfolio/Timothy Cheng certificate-of-completion-personal-protective-equipment-assessment.pdf",
-    "MD2002/Lecture Notes/Week 2",
     "MD2001/Lecture Notes/Embryology.canvas",
-    "MD2002/Lecture Notes/Week 1",
-    "Untitled Document",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]
 }

@@ -1,4 +1,3 @@
-#anki 
 # Blood 
 - Aorta bifurcates at L4 -> common iliac bifurcates at sacroiliac joint -> ext/int iliac
 	- Ext - supply to lower limb
@@ -28,12 +27,12 @@
 		- Superior gluteal
 		- Inferior gluteal
 	- Cruciate anastomosis - deeper ![[Pasted image 20260312101614.png]]
-		- Med/lat circumflex - sends out retinacular blood vessels up into the head of the femur - travels within the retinaculae #link 
+		- Med/lat circumflex - sends out retinacular blood vessels up into the head of the femur - travels within the retinaculae - [[Bones and joints of the lower limbs]]
 		- 1st perforator
 		- Inferior gluteal 
 		- Obturator artery sends artery of the head of the femur through round ligament of the head of the femur 
 			- Only there for secondary ossification -> declines later in life 
-		- Neck of femur/supcapital fracture ![[Pasted image 20260312101736.png]]
+		- Neck of femur/subcapital fracture ![[Pasted image 20260312101736.png]]
 			- Cuts off retinacular vessels -> avascular necrosis
 - Lower limb above knee ![[Pasted image 20260312101934.png]]
 	- Not common and superifical femoral arteries - just femoral (avenge fraser)
@@ -47,7 +46,7 @@
 			- Genicular (knee)
 			- 2 above (med/lat), 2 below (med/lat), 1 middle
 			- Anastomosis with branches from profunda femoris and anterior tibial artery
-		- Terminal brnaches are ant/post tibial arteries 
+		- Terminal branches are ant/post tibial arteries 
 - Lower limb below knee ![[Pasted image 20260312102324.png]]
 	- Can be posterior tibial or tibioperoneal trunk - before or after bifurcation, doesn't matter tho 
 	- Fibular and peroneal the same thing - use fibular 
@@ -58,7 +57,7 @@
 			- Becomes dorsalis pedis in the foot ![[Pasted image 20260312102600.png]]
 				- Palpatable
 				- Many many branches - don't care about most
-				- Forms arcurate artery across foot - sends out metatarsal branches as well as a perforating artery deep into the sole of the foot - deep plantar artery  
+				- Forms arcurate artery across foot - sends out metatarsal branches as well as a perforating artery deep into the sole of the foot -  artery  
 		- Posterior tibial ![[Pasted image 20260312102725.png]]![[Pasted image 20260312102727.png]]
 			- Supplies post compartment 
 			- Runs posterior to medial mallolus in ankle (palpatable as tibialis posterior pulse)
@@ -80,7 +79,7 @@
 	- Great - travels medially up the lower leg - 2.5 anterior to medial malleolus, then palm's width post to patella, then pierces fascia lata in femoral triangle to enter femoral vein 
 		- Saphenous nerve follows it 
 		- Can be used for coronary artery bypass
-	- Small - travels posterior to lateral melleolus, then middle of the leg anteriorly, then penetrates crural fascia to join popliteal vein 
+	- Small - travels posterior to lateral melleolus, then middle of the leg posteriorly, then penetrates crural fascia to join popliteal vein 
 		- Sural nerve follows it 
 - Deep veins ![[Pasted image 20260312103325.png]]
 	- Deep to deep fascia 
@@ -128,7 +127,7 @@
 	- Just know that you go from L2-5, the branches do stuff within/behind the muscle, then comes out other side as main nerves 
 	- 3 nerves we care about rn ![[Pasted image 20260312103947.png]]
 		- Lat cut nerve of thigh - what do you think. (L2-3)
-			- Passes underneath the inguinal ligament just below the naterior superior iliac spine - vulnerable to compression -> pain and parasthesia in the lateral aspect of the thigh
+			- Passes underneath the inguinal ligament just below the anterior superior iliac spine - vulnerable to compression -> pain and parasthesia in the lateral aspect of the thigh
 		- Femoral (L2-4) ![[Pasted image 20260312104118.png|68]]
 			- Descends behind the inguinal ligament, then through femoral triangle in thigh
 			- Gives off many muscular/sensory branches in femoral triangle -> ant. compartment of thigh, and skin of anterior thigh 
@@ -148,14 +147,14 @@
 	- Gluteal nerves - superior and inferior
 	- Sciatic -> tibial and common fibular nerves in leg
 		- Common fibular -> deep and superficial fibular nerves 
-			-  Superficial fibular supplies lateral compartment, ankle joint (sensory) and dorsum of foot (sensory)
-				- 
+			-  Superficial fibular supplies lateral compartment, ankle joint (sensory) and dorsum of foot (sensory) 
 			- Deep fibular supplies the anterior compartment, ankle joint (sensory), and 1st dorsal webspace on foot
 			- Common fibular wraps superficially around neck of fibula - vulnerable
 				- Damaged -> foot drop - unable to do dorsiflexion
 			- Also gives off lateral sural cutaneous branch
 		- Tibial supplies both posterior compartments
 			- Gives off the medial sural cutaneous branch - meets the lateral sural cutaneous nerve to form the sural nerve 
+				- Sural - supplies cut. lower posterolateral surface of leg and lateral side of foot/little toe
 			- Moves into foot -> med/lat plantar nerves
 				- Sensory - split into med 3.5 and lat 1.5 digits 
 					- ![[Pasted image 20260314175634.png|93]]

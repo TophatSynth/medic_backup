@@ -44,7 +44,7 @@ Complement
 - Activated -> does various things
 	- C3a - peptide mediator of inflammation
 	- C3b - membrane binding protein - [[Introduction to immunology#Defence mechanisms|opsonin]] 
-	- C5a - membrane attack proteins 
+	- C5a - membrane attack proteins - forms a membrane attack complex 
 - Activation pathway
 	- C1q binds to antibodies on the surface of pathogen 
 	- Activates cleavage of complement proteins into fragments 

@@ -50,7 +50,6 @@
     "//MD2002/MD2002/Portfolio",
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 4",
     "//Portfolio",
-    "//MD2001",
     "//MD2001/MD2001/Lecture Notes",
     "//MD2001/MD2001/Lecture Notes/MD2001/Lecture Notes/Week 9",
     "//MD2001/MD2001/Lecture Notes/MD2001/Lecture Notes/Week 10",
@@ -59,10 +58,10 @@
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 3",
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 2",
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 6",
-    "/",
-    "//MD2002",
     "//MD2002/MD2002/Lecture Notes",
-    "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 7"
+    "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 7",
+    "/",
+    "//MD2002"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

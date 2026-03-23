@@ -1,0 +1,62 @@
+# The Cell cycle
+![[Pasted image 20260318133329.png]]
+"Go Sally Go Make Children"
+- Phases
+	- G1
+		- Checking that things are okay to replicate
+	- S
+		- "Synthesis" - the actual replication
+	- G2
+		- Checking replicated stuff
+	- M
+		- The splitting - done in 2 parts
+		- Nuclear division 
+		- Cytoplasmic division
+- Controlled by cyclin-dependent kinase (Cdk) ![[Pasted image 20260318133534.png|227]]
+	- Activity is cyclical ![[Pasted image 20260318133606.png]]
+		- Only active when coupled to cyclin AND dephosphorylated ![[Pasted image 20260318133707.png]]![[Pasted image 20260318133939.png]]
+			- Wee1 inhibits, Cdc25 activates 
+		- Stopping the activity - ubiquitylation of cyclin -> destruction ([[Cells and Organelles 1 and 2]]) ![[Pasted image 20260318134243.png]]
+			- Specificity of ubiquitylation is done via E3 - different E3 for different substrate ![[Pasted image 20260318134409.png]]
+			- Then destroyed via proteasome - regulatory particle changes conformation to take substrate in -> cleavage ![[Pasted image 20260318134509.png]]
+	- Multiple different Cdk's working across the cell cycle ![[Pasted image 20260318134153.png]]
+	- Regulation of Cdk's and cell cycle
+		- Checkpoints - can cancel cell cycle at these points  ![[Pasted image 20260318134611.png]]
+		- Cdk inhibitors - if conditions not right -> transcription of inhibitors induced ![[Pasted image 20260318134711.png]]
+			- Prevents things binding on the active site
+- Phases + checkpoints 
+	- G1/S transition (R point) ![[Pasted image 20260318135200.png]]
+		- 1st stage of commitment to dividing 
+		- Cdk4 activates - binds to cyclin D -> phosphorylates Rb (inactivates it) to allow expression of S phase genes 
+		- Many proteins here are implicated in cancer when defective
+	- S phase ![[Pasted image 20260318135527.png]]
+		- Origin of replication has pre-replicative complex sitting on top of it that prevents replication machinery from forming 
+		- Cdc6 is the main thing - gets phophorylated by Cdk2 -> moves away and gets destroyd -> replication fork can be formed
+			- Destruction of Cdk2 means pre-replicative complex can't reform -> ensures replication happens only once per cell cycle
+	- G2 phase
+		- Need to check for DNA damage
+			- If damaged -> p53 
+				- p53 activates transcription of Cdk inhibitors -> stops replication 
+			- Can also activate other proteins that inhibit cdc25 -> stops activation of Cdk 
+	- M phase
+		- Mitosis phases
+			- Prophase - chromosomes condense, spindle starts to form
+				- Condensation - done via condensins - loop the DNA into even more dense structure ![[Pasted image 20260318140614.png]]
+				- Spindle - centrosome replicates into two in the G1 phase, go to either end of the cell ![[Pasted image 20260318140712.png]]
+			- Prometaphase - condense even more, mitotic spindle fully formed
+				- Nuclear envelope has to be broken down - done by Cdk's ![[Pasted image 20260318140815.png]]
+			- Metaphase - chromosomes in the centre, ready to be split
+				- Chromosomes have to attach to the spindle in specific way
+				- Kinetochore complex forms in the centromere region of chromosome - allows binding of microtubules to chromosome 
+					- Cohesion complex - cohesins holds sister chromatids together (the 2 copies of the same chromosome) ![[Pasted image 20260318141257.png]]
+				- Metaphase/spindle checkpoint - checking that the spindle is properly attached to the chromosomes before going into anaphase
+					- Done via regulating separase enzyme - cleaves cohesion complex ![[Pasted image 20260318141517.png]]
+					- Most of the time separase is bound to securin to keep it inactive 
+					- Cdk's control anaphase promoting complex (APC) - ubiquitylises securin -> destroyed
+				- Anti-mitotic drugs 
+					- Can deform spindle 
+					- Normal cells will stop replication, but cancer cells will continue -> replication fails, cancer cell dies
+			- Anaphase - chromosomes separated
+			- Telophase - chromosomes start to decondense 
+				- Nuclear envelope starts to reform
+			- Cytokinesis - cell splits 
