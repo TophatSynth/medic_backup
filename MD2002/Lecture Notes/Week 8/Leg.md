@@ -1,0 +1,119 @@
+#tofinish 
+#anki 
+
+
+# Popliteal fossa
+- Borders ![[Pasted image 20260326105940.png]]
+	- Boundaries
+		- Biceps femoris
+		- Semitendinosus and semitendimembranosus
+		- Lat/med. heads of gastrocnemius
+	- Roof
+		- Fascia lata
+	- Floor
+		- Intercondylar area of femur
+		- Posterior joint capsule 
+		- Popliteus muscle
+- Contents ![[Pasted image 20260326110116.png]]![[Pasted image 20260326110124.png]]
+	- Popliteal artery - palpatable, in danger from damaged bones
+	- Popliteal vein - lateral to artery 
+	- Sciatic nerve - slightly superficial to blood vessels, usually bifurcates around here 
+	- Posterior cutaneous nerve of the thigh - may be there 
+	- Terminal part of small saphenous vein - coming up from below
+	- Lymph nodes and fat
+
+## Locking and unlocking of the knee
+- Knee is a hinge joint that can rotate slightly 
+- Allows for the screw-home mechanism
+	- When knee is fully extended when standing upright, the force to keep it extended is transferred from muscles to ligaments in the hip and knee - iliofemoral ligament and ACL holding most of that 
+	- Passive mechanism - so don't get tired standing up 
+	- Femur rotates medially on the tibia when extending last 30 degrees (mostly last 5 degrees)
+	- Lateral condyle is larger so comes into contact with tibia first when extending. Posterior cruciate ligament also quite tight. -> both leads to medial rotation of femur
+	- Last 5 degrees - tension passed to ACL 
+	- Some muscles help maintain locked position
+		- Vastus medialis
+		- Gluetus maximus via iliotibial tract 
+- Unlocking the knee
+	- Popliteus laterally rotates tibia to unlock it before flexion
+	- Other rotators to a lesser extent
+		- Pes anserinus muscles - gracilis, semitendinosus, sartorius - medially rotate tibia
+		- Bicep femoris - laterall rotate tibia
+	- Open chain vs closed chain position
+		- Closed chain is when foot is planted, preventing tibial rotation - only femur rotation
+		- Open chain is when foot is free, allowing tibial rotation
+- Popliteus
+	- Starts from posterior aspect of the tibia, passes deep tot he lateral collateral ligament, attaches onto the lateral supracondylar area
+
+
+# Leg
+![[Pasted image 20260326111806.png]]
+
+## Muscular compartments - anterior, lateral and 2 posterior 
+- Posterior 
+	- Superficial compartment ![[Pasted image 20260326112528.png]]
+		- Plantar flexors
+		- Innervated by tibial nerve 
+		- Gastrocnemius
+			- Attaches to posterior aspect of femur condyles and attaches to calcaneal tendon inferiorly 
+			- Powerful plantar flexor - powerful fast twitch
+		- Soleus
+			- Deep to gastrocnemius 
+			- Attaches to soleal line on tibia/onto fibula 
+				- Jump from tibia to fibula proximally - forms soleal arch - posterior tibial/popliteal artery and tibial nerve passes under
+			- Powerful plantar flexor - slow twitch - keeps your body upright by constantly plantar flexing 
+		- Plantaris
+			- Vestigial - long thin tendon - easily mistaken for a nerve (freshman's nerve)
+		- Triceps surae 
+			- The fusing of gastrocnemius and soleus distally into single tendon onto calcaneus
+		- Calcaneal tendon
+			- Achilles tendon 
+			- Inserts onto posterior of calcaneus 
+			- Many bursae - subcutaneous, intratendinous
+			- Thickest and strongest tendon in the body
+			- Rupture
+				- Middle 3rd most commonly ruptured - bc blood supply comes in from above and below - not the best innervation in the middle
+				- Mechanical stress most common way to rupture
+				- Other ways - fluoroquinolones #link, corticosteroids, dialysis
+				- Tender gap - when plantar flexors pull the tendon up, you can see the dip
+				- Thompson's test - squeeze calf, should have slight plantar flexion, without -> rupture
+			- Reflex! 
+				- S1/2 nerve roots 
+	- Deep compartment ![[Pasted image 20260326113538.png]]![[Pasted image 20260326113653.png]]
+		- Tibial nerve
+		- All go behind medial malleolus
+		- Can all have a lil bit of plantar flexion - if calcaneal tendon ruptured, still have some plantar flexion
+		- Flexor hallucis longus
+			- Big toe is hallux - flexes the big toe
+			- Distal phalanx of hallux
+		- Flexor digitorum longus
+			- Distal phalanx of toes
+		- Tibialis posterior 
+			- Deepest muscle in post. compartment
+			- Passes behind medial malleolus, inserts onto tuberosity of navicular/medial cuneiform
+			- Inversion of foot + lil bit of plantar flexion 
+			- Also supports medial longitudinal arch of foot
+		- Neurovascular bundles
+			- Posterior tibial artery and tibial nerve 
+			- All pass behind medial malleolus in tarsal tunnel
+				- 3 tendons and neurovascular bundle - from anterior to posterior - Tom, Dick, and Very Naught Harry
+				- Tibialis posteiror, flexor Digitorum longus, artery, vein, nerve, flexor Hallucis longus
+- Anterior compartment ![[Pasted image 20260326144315.png]]
+	- Deep fibular nerve
+		- Anterior compartment + dorsum of foot, alongside anterior tibial artery
+	- Tibialis anterior
+		- Dorsiflexion and inversion 
+		- Attaches onto medial cuneiform and 1st metatarsal 
+		- Supports medial longitudinal arch of foot
+	- Extensor hallucis longus 
+	- Extensor digitorum longus
+	- Fibularis tertius
+		- Alongside extensor digitorum longus, except it attaches to base of 5th metatarsal 
+		- Dorsiflexion and eversion
+- Lateral compartment ![[Pasted image 20260326144851.png]]
+	- Superficial fibular nerve
+	- Fibularis brevis
+		- Attaches from fibula, passing posterior to lateral malleolus, onto 5th metatarsal
+		- Foot eversion
+	- Fibularis longus
+		- Attaches from fibula, passing posterior to lateral malleolus, across plantar of foot, onto 1st metatarsal 
+		- Foot eversion

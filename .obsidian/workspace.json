@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b534c35b4a8ffd4b",
+        "id": "b2e1cf75c5e2d4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "06c8771cef82af5f",
+            "id": "d89ee2e955482c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "MD2002/Lecture Notes/Week 8/Foot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Foot"
             }
           },
           {
-            "id": "192de4db139efd6c",
+            "id": "2506d9a206d1e339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 8/Screening.md",
+                "file": "MD2002/Lecture Notes/Week 8/Leg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Screening"
+              "title": "Leg"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             }
           },
           {
-            "id": "a4fd67f49f3a7323",
+            "id": "c08807b8347e0a14",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 8/Screening.md",
+                "file": "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screening"
+              "title": "Outline of Introduction to pharmacokinetics"
             }
           },
           {
@@ -219,40 +218,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96e28b055d5dcce1",
+  "active": "d89ee2e955482c01",
   "lastOpenFiles": [
-    "MD2002/Lecture Notes/Week 8",
+    "Attachments/Pasted image 20260326152711.png",
+    "Attachments/Pasted image 20260326152708.png",
+    "Attachments/Pasted image 20260326152621.png",
+    "Attachments/Pasted image 20260326152620.png",
+    "Attachments/Pasted image 20260326152538.png",
+    "Attachments/Pasted image 20260326152442.png",
+    "Attachments/Pasted image 20260326152330.png",
+    "Attachments/Pasted image 20260326152230.png",
+    "Attachments/Pasted image 20260326152127.png",
+    "Attachments/Pasted image 20260326152121.png",
+    "Attachments/Pasted image 20260326152005.png",
+    "MD2002/Lecture Notes/Week 8/Leg.md",
+    "MD2002/Lecture Notes/Week 8/Foot.md",
     "Home.md",
+    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
+    "Chromosomes and chromosomal abnormalities.md",
+    "MD2002/Lecture Notes/Week 8/Mendelian Inheritance of Human Disease.md",
+    "MD2002/Lecture Notes/Week 8/Meiosis.md",
+    "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
+    "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
+    "Portfolio/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
+    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
+    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
+    "MD2002/Lecture Notes/Week 5/Coagulation.md",
+    "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
+    "MD2001/Lecture Notes/Week 5/(Guided Study) Enzymes in medicine.md",
     "MD2002/Lecture Notes/Week 8/Screening.md",
+    "MD2002/Lecture Notes/Week 8",
     "MD2002/Lecture Notes/Week 6/NSAID's.md",
     "MD2002/Lecture Notes/Week 7/B and T cells and cytokines.md",
     "MD2002/Lecture Notes/Week 7/B and T cells and MHC.md",
     "MD2002/Lecture Notes/Week 4/Innate immunity.md",
     "MD2002/Lecture Notes/Week 7/Blood groups and blood transfusions.md",
     "MD2002/Lecture Notes/Week 7/Tumour Pathology.md",
-    "Attachments/Pasted image 20260319103326.png",
-    "Attachments/Pasted image 20260319102105.png",
     "MD2002/Lecture Notes/Week 7/Cell division.md",
-    "Attachments/Pasted image 20260318140815.png",
-    "Attachments/Pasted image 20260318133939.png",
-    "Attachments/Pasted image 20260318140712.png",
-    "Attachments/Pasted image 20260318133707.png",
-    "Attachments/Pasted image 20260321121802.png",
-    "Attachments/Pasted image 20260321121756.png",
-    "Attachments/Pasted image 20260318124137.png",
-    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
     "MD2002/Lecture Notes/Week 6/Cameron Hospital Placement Reflection.md",
-    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
     "IBS Patient reflection.md",
-    "Attachments/Pasted image 20260319162410.png",
     "MD2002/Lecture Notes/Week 4/Antibodies.md",
     "MD2001/Lecture Notes/Week 4/Acute inflammation.md",
-    "MD2001/Lecture Notes/Week 8/Surgical site infection.md",
-    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
-    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
-    "MD2001/Case Studies/Sanjay Sharma Case Study Preread.md",
-    "MD2002/Case Studies/Margaret Collins Case Study prep.md",
-    "Portfolio/Cameron Hospital Placement Reflection.md",
     "Portfolio/Uploaded/Cameron Hospital Placement Reflection Timothy Cheng.docx",
     "Portfolio/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
     "Portfolio/Uploaded/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
@@ -260,13 +266,6 @@
     "Portfolio/Uploaded/Blood Pressure Self Reflection Timothy Cheng.doc",
     "Portfolio/Uploaded/Self appraisal Timothy Cheng Sanjay Sharma.odt",
     "Portfolio/Uploaded/Sanjay Sharma Referral Letter Timothy Cheng.pdf",
-    "Portfolio/Uploaded/Self appraisal first patient encounter Timothy Cheng.docx",
-    "Portfolio/Uploaded/Urinalysis Self Reflection Timothy Cheng.doc",
-    "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-why-infection-prevention-and-control-matters.pdf",
-    "MD2001/Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
-    "MD2001/Lecture Notes/Week 8/Early embryonic development.md",
-    "MD2001/Lecture Notes/Week 7/Endocrine system.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

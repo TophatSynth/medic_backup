@@ -10,7 +10,9 @@
 
 ## Inhibitors of coagulation 
 - Protein C 
+	- Destroys factors VIIIa and Va #anki 
 - Factor S 
+	- Cofactor for protein C
 - Antithrombin - degrades Xa and IIa 
 
 
