@@ -1,4 +1,3 @@
-#tofinish 
 #anki 
 
 
@@ -28,21 +27,21 @@
 	- When knee is fully extended when standing upright, the force to keep it extended is transferred from muscles to ligaments in the hip and knee - iliofemoral ligament and ACL holding most of that 
 	- Passive mechanism - so don't get tired standing up 
 	- Femur rotates medially on the tibia when extending last 30 degrees (mostly last 5 degrees)
-	- Lateral condyle is larger so comes into contact with tibia first when extending. Posterior cruciate ligament also quite tight. -> both leads to medial rotation of femur
+	- Lateral condyle is larger so comes into contact with tibia first when extending. Posterior cruciate ligament also quite tight -> both leads to medial rotation of femur
 	- Last 5 degrees - tension passed to ACL 
 	- Some muscles help maintain locked position
 		- Vastus medialis
-		- Gluetus maximus via iliotibial tract 
+		- Gluteus maximus via iliotibial tract 
 - Unlocking the knee
 	- Popliteus laterally rotates tibia to unlock it before flexion
 	- Other rotators to a lesser extent
 		- Pes anserinus muscles - gracilis, semitendinosus, sartorius - medially rotate tibia
-		- Bicep femoris - laterall rotate tibia
+		- Bicep femoris - laterally rotate tibia
 	- Open chain vs closed chain position
 		- Closed chain is when foot is planted, preventing tibial rotation - only femur rotation
 		- Open chain is when foot is free, allowing tibial rotation
 - Popliteus
-	- Starts from posterior aspect of the tibia, passes deep tot he lateral collateral ligament, attaches onto the lateral supracondylar area
+	- Starts from posterior aspect of the tibia, passes deep to the lateral collateral ligament, attaches onto the lateral supracondylar area
 
 
 # Leg
@@ -95,7 +94,7 @@
 		- Neurovascular bundles
 			- Posterior tibial artery and tibial nerve 
 			- All pass behind medial malleolus in tarsal tunnel
-				- 3 tendons and neurovascular bundle - from anterior to posterior - Tom, Dick, and Very Naught Harry
+				- 3 tendons and neurovascular bundle - from anterior to posterior - Tom, Dick, and Very Naughty Harry
 				- Tibialis posteiror, flexor Digitorum longus, artery, vein, nerve, flexor Hallucis longus
 - Anterior compartment ![[Pasted image 20260326144315.png]]
 	- Deep fibular nerve
@@ -111,9 +110,19 @@
 		- Dorsiflexion and eversion
 - Lateral compartment ![[Pasted image 20260326144851.png]]
 	- Superficial fibular nerve
+			- Descends between FB/FL, emerges to become cutaneous for dorsum of foot at distal 3rd of leg
 	- Fibularis brevis
 		- Attaches from fibula, passing posterior to lateral malleolus, onto 5th metatarsal
 		- Foot eversion
 	- Fibularis longus
 		- Attaches from fibula, passing posterior to lateral malleolus, across plantar of foot, onto 1st metatarsal 
 		- Foot eversion
+- Sural nerve
+	- Purely sensory
+	- Runs alongside small saphenous vein
+	- Supplies posterolateral aspect of leg and lateral border of foot
+- Compartment syndrome
+	- Surgical emergency - can lead to ischemia and infarction 
+	- Particularly keep an eye out in LL injuries - very dense fascia
+	- Fasciotomy - cut beeeeg hole in leg to relieve pressure
+	- Risks infections tho

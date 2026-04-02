@@ -16,10 +16,12 @@ views:
     name: Table
     order:
       - file.name
+      - file.tags
     sort:
+	  - property: file.tags
+        direction: DESC
       - property: file.ctime
         direction: DESC
-
 ```
 
 ```base
