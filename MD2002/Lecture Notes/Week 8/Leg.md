@@ -1,6 +1,3 @@
-#anki 
-
-
 # Popliteal fossa
 - Borders ![[Pasted image 20260326105940.png]]
 	- Boundaries
@@ -72,7 +69,7 @@
 			- Rupture
 				- Middle 3rd most commonly ruptured - bc blood supply comes in from above and below - not the best innervation in the middle
 				- Mechanical stress most common way to rupture
-				- Other ways - fluoroquinolones #link, corticosteroids, dialysis
+				- Other ways - [[Principles of Antimicrobial Chemotherapy#Chemotherapeutic agents (drugs weee eeeeeeeee)|fluoroquinolones]], corticosteroids, dialysis
 				- Tender gap - when plantar flexors pull the tendon up, you can see the dip
 				- Thompson's test - squeeze calf, should have slight plantar flexion, without -> rupture
 			- Reflex! 

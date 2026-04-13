@@ -50,7 +50,7 @@
 					- Prevents hyperabduction 
 				- Ischiofemoral
 					- Weakest of the 3 ligaments here, prevents excessive internal rotation 
-			- Zona orbidularis - ring of ligaments around the head of the femur for stability
+			- Zona orcidularis - ring of ligaments around the head of the femur for stability
 - Movement
 	- ![[Pasted image 20260310152853.png]]
 	- ![[Pasted image 20260310152901.png]]

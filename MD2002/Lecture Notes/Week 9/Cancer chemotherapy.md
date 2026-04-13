@@ -1,5 +1,4 @@
 #anki 
-#tofinish 
 
 4 types of chemotherapy agents
 - Alkylating agents
