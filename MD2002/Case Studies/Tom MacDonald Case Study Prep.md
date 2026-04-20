@@ -89,6 +89,6 @@ A chest X-Ray was reported as having a radio opaque lesion at the right hilum. T
 During his post-operative recovery, Mr MacDonald became increasingly clumsy and developed a headache. He then developed weakness which progressed over several days to paralysis of the right side of his face, right arm and right leg.
 - Fat embolism? - trauma -> embolism -> occulsion of the cerebral artery 
 
-The clinical examination at this time showed him to have exaggerated reflexes on the right-hand side, with a Babinski’s sign, and an inability to voluntarily move his right arm, right leg and lower two thirds of his face. Mr MacDonald had not lost consciousness.
+	The clinical examination at this time showed him to have exaggerated reflexes on the right-hand side, with a Babinski’s sign, and an inability to voluntarily move his right arm, right leg and lower two thirds of his face. Mr MacDonald had not lost consciousness.
 - UMN lesion. Again, thinking fat embolism (ischaemia/)
 - wtf... most interesting cast study we've done so far w

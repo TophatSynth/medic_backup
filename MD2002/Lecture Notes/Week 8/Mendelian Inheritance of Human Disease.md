@@ -1,5 +1,3 @@
-#anki 
-
 Gene - length of DNA which encodes a particular protein
 Chromosome - linear DNA molecule 
 Locus - position of a gene along chromosome

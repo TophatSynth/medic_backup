@@ -1,5 +1,3 @@
-#anki 
-
 ![[Pasted image 20260326150618.png]]
 ![[Pasted image 20260326150625.png]]
 
@@ -51,7 +49,7 @@ Nerves
 		- Superficial - pierces deep crural fascia laterally – divides into medial and intermedial dorsal cutaneous nerve
 			- Sensory innervation to the dorsal surface except the space between the 1st and 2nd digits
 		- Deep – anterior muscles – under extensor retinaculum
-			- innervates extensor digitorum brevis and extensor hallucis brevis
+			- Innervates extensor digitorum brevis and extensor hallucis brevis
 			- Sensory innervation to the space between the 1st and 2nd digits
 - Tibial nerve ![[Pasted image 20260326151752.png]]
 	- Calcaneal branch - sensory to heel
@@ -86,7 +84,7 @@ Blood vessels ![[Pasted image 20260326152230.png]]
 	- Deep veins accompany arteries, drains from foot into anterior/posterior tibial or fibular vein 
 	- Superficial veins ![[Pasted image 20260326152538.png]]
 		- Dorsal venous arch anastomoses with other branches to form dorsal venous network -> drains into great saphenous vein 
-		- Plantar venous network joins dorsal ssytem at medial border of foot 
+		- Plantar venous network joins dorsal sytem at medial border of foot 
 		- 
 
 Arches of the foot ![[Pasted image 20260326152621.png]]

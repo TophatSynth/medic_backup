@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92670b0f516bdf39",
+        "id": "101c06f22de34881",
         "type": "tabs",
         "children": [
           {
-            "id": "54198c54284c5cec",
+            "id": "5d9c67124c816380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD2002/Lecture Notes/Week 8/Foot.md",
+                "file": "MD2002/Lecture Notes/Week 8/Meiosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foot"
+              "title": "Meiosis"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anki",
+                "query": "tag:#ask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "4393498b50fd9c6f",
+            "id": "30e1a72aa65e53e5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,45 +205,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "54198c54284c5cec",
+  "active": "5d9c67124c816380",
   "lastOpenFiles": [
     "Home.md",
-    "MD2002/Lecture Notes/Week 8/Leg.md",
-    "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
-    "Attachments/Pasted image 20260326113538.png",
-    "Attachments/Pasted image 20260326112528.png",
-    "Attachments/Pasted image 20260326105940.png",
-    "Attachments/Pasted image 20260326110124.png",
+    "MD2002/Lecture Notes/Week 8/Mendelian Inheritance of Human Disease.md",
+    "MD2002/Clinical Skills/GALS.md",
+    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
+    "MD2002/Case Studies/Tom MacDonald Case Study Prep.md",
+    "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
+    "MD2002/Lecture Notes/Week 5/Coagulation.md",
+    "MD2002/Lecture Notes/Week 9/Bone and joint infections.md",
+    "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
+    "MD2002/Lecture Notes/Week 10/Bone growth and fractures.md",
+    "Attachments/Pasted image 20260416153405.png",
+    "Attachments/Pasted image 20260416153222.png",
+    "Attachments/Pasted image 20260416151908.png",
+    "Attachments/Pasted image 20260416151633.png",
     "MD2001/Lecture Notes/Week 1/B O N E S.md",
+    "Attachments/Pasted image 20260416151351.png",
+    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
+    "MD2002/Lecture Notes/Week 10/Clinical anatomy of lower limb.md",
+    "Attachments/Pasted image 20260416133055.png",
+    "Attachments/Pasted image 20260416133054.png",
+    "MD2002/Clinical Skills/Neurological examination of the upper limb.md",
+    "MD2002/Lecture Notes/Week 8/Leg.md",
+    "MD2001/Lecture Notes/Week 10/Gastrulation and neurulation.md",
+    "MD2002/Lecture Notes/Week 10/Molecular basis of tumours.md",
+    "Attachments/Pasted image 20260413124033.png",
+    "Attachments/Pasted image 20260413123943.png",
+    "Attachments/Pasted image 20260413123632.png",
+    "MD2001/Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
+    "MD2002/Lecture Notes/Week 10/Molecular patterning during development.md",
+    "MD2002/Lecture Notes/Week 10",
+    "MD2002/Lecture Notes/Week 8/Foot.md",
+    "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
     "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
-    "Untitled.md",
     "MD2002/Lecture Notes/Week 2/Arm and forearm.md",
     "MD2002/Lecture Notes/Week 9/Carcinogenesis.md",
     "MD2002/Lecture Notes/Week 9/Cancer chemotherapy.md",
     "MD2002/Lecture Notes/Week 9/Disorders of growth and differentiation.md",
-    "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
-    "Attachments/Pasted image 20260410124921.png",
-    "Attachments/Pasted image 20260410124656.png",
-    "MD2002/Lecture Notes/Week 9/Genetic basis of multifactorial disease.md",
-    "MD2002/Lecture Notes/Week 9/Epigenetics.md",
-    "Chromosomes and chromosomal abnormalities.md",
-    "Attachments/Pasted image 20260410115837.png",
-    "Attachments/Pasted image 20260410115614.png",
-    "Attachments/Pasted image 20260410115216.png",
-    "Attachments/Pasted image 20260410114845.png",
-    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
-    "MD2002/Clinical Skills/GALS.md",
-    "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-    "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
-    "MD2002/Lecture Notes/Week 9/Bone and joint infections.md",
-    "MD2001/SWA Revision Questions.md",
-    "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
-    "MD2002/Lecture Notes/Week 8/Meiosis.md",
-    "MD2002/Lecture Notes/Week 8/Mendelian Inheritance of Human Disease.md",
     "MD2002/Lecture Notes/Week 9",
-    "MD2002/Lecture Notes/Week 8/Foot.md",
-    "MD2002/Case Studies/Margaret Collins Case Study prep.md",
     "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
     "Portfolio/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
     "MD2002/Lecture Notes/Week 8",
@@ -252,7 +253,6 @@
     "Portfolio/Uploaded/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
     "Portfolio/Uploaded/Timothy Cheng DR Reflection.odt",
     "Portfolio/Uploaded/Blood Pressure Self Reflection Timothy Cheng.doc",
-    "Portfolio/Uploaded/Self appraisal Timothy Cheng Sanjay Sharma.odt",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

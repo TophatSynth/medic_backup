@@ -59,10 +59,6 @@
 			- Glutathione made from acetylcysteine - can treat PCM overdose with acetylcysteine administration 
 		- Phenobarbital - increases expression of CYP450's
 
-## Elimination 
-#tofinish
-
-
 # Kinetic parameters
 - Cmax - max plasma conc reached
 - Tmax - time until Cmax

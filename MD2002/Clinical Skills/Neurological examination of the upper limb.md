@@ -109,7 +109,7 @@ Compare both sides.
 2. Alternating hand movements
 	- Ask the patient to pronate and supinate their arm rapidly by placing their hand on their other palm and alternating palm and dorsum. Demonstrate first and ask patient to copy. If this is done slowly and clumsily it is called dysdiadochokinesia.
 3. Finger to finger. (additional test, not done routinely)
-	- Ask the patient to hold both arms fully out to the side horizontally. Then ask them to bring their fingers together in a wide arc and to stop just short of touching. You may have to demonstrate and ask them to copy. At the same time look for intention tremor and overshooting.
+	- Ask the patient to hold both arms fully out to the side horizontally. Then ask them to bring their fingers together in a wide arc and to stop just short of touching. You may have to demonstrate and ask them to copy. At the same time look for intention trem9or and overshooting.
 4. Fine movements (Additional test, not done routinely.
 	- Can be affected by conditions causing bradykinesia e.g. Parkinson’s disease). Ask patient to make fine movements with fingertips e.g. fingertip touching on each hand. Alternatively ask them to unbutton and button their shirt.
 
