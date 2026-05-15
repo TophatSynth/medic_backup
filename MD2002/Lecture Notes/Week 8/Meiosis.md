@@ -1,5 +1,3 @@
-#anki 
-
 ![[Pasted image 20260401160625.png]]
 ![[Pasted image 20260401160656.png]]
 ![[Pasted image 20260401160737.png]]

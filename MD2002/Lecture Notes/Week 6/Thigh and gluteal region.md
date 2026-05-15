@@ -19,8 +19,8 @@
 		- Inf gluteal nerve
 		- Most powerful extensor of the hip, esp from a flexed position
 		- Diverse attachments 
-			- Attaches to iliac crest via aponeurosis, scarum, and sacrotuberous ligament on one side, and to the iliotibial tract and gluteal tuberosity of the femur 
-				- Iliotibial tract - thickening of the fascia lata along the lat. aspect of the thigh, from the ilium to tibia ![[Pasted image 20260316141739.png|130]]
+			- Attaches to iliac crest via aponeurosis, sacrum, and sacrotuberous ligament on one side, and to the iliotibial tract and gluteal tuberosity of the femur 
+				- Iliotibial tract - thickening of the fascia lata along the lat. aspect of the thigh, from the ilium to tibia ![[Pasted image 20260316141739.png|333]]
 					- Hip stability and lateral knee stability 
 				- Fascia lata - deep fascia that encompasses the entire thigh
 			- Therefore -> also externally rotates, abducts, a bit of adduction![[Pasted image 20260316141745.png|138]]

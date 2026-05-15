@@ -1,5 +1,3 @@
-#anki 
-
 Epigenetics - stuff that adds onto genes
 - Eg DNA methylation 
 	- Heritable modification of DNA that doesn't alter the primary sequence of DNA -> altered gene expression

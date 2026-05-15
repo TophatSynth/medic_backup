@@ -1,5 +1,3 @@
-#anki 
-
 Process of carcinogenesis ![[Pasted image 20260410124656.png]]
 1. Initiation
 2. Promotion
@@ -9,7 +7,7 @@ Process of carcinogenesis ![[Pasted image 20260410124656.png]]
 
 
 Causes of cancer 
-1. Chemicals 
+- Chemicals 
 	- ![[Pasted image 20260410124921.png]]
 	- Aromatic amines - metabolised in the liver to a carcinogenic metabolite, then detoxified into glucuronide and excreted by kidneys - however, the urothelial cells express β-glucuronidase -> makes glucuronide into a carcinogen again
 - Cigarette smoking

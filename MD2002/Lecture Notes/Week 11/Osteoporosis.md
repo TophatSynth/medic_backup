@@ -1,0 +1,85 @@
+#anki 
+# Refresh on bone
+![[Pasted image 20260423090741.png]]
+- Bone remodelling balance ![[Pasted image 20260423091107.png]]
+	- From age 0-25 - focus on putting down more bone for growth 
+	- Age 25-35 - balanced 
+	- Age >35 - bone loss
+	- Osteoblasts get less effective/efficient over time, duplicate less
+	- ![[Pasted image 20260423091141.png]]
+	- #ask men seem to dip to about women's peak bone density - are they less fragile 
+
+# Osteoporosis
+- Affects 1 in 3 women, 1 in 12 men, 3 million ppl in the uk
+- Decreased size of osteons, thinning of trabeculae, enlargement of Haversian and marrow spaces 
+- Classification
+	- Type 1 - post menopausal 
+		- Affects mainly cancellous bone
+		- Vertebral and distal radius fracture is common
+		- Related to loss of oestrogen
+		- F:M = 6:1 
+	- Type 2 - age related (>75 yo)
+		- Affects cancellous and cortical bone
+		- Hip and pelvic fractures common
+		- Related to poor calcium absorption
+		- F:M=2:1 
+	- Also - disuse osteoporosis 
+		- Prolonged immobilisation, typically in neurological/muscle disease 
+- Clinical consequences
+	- Microfractures - happens all the time in trabecular bone, but doesn't get repaired as well in osteoporosis 
+	- Fragility fracture -"a fracture caused by a fall from standing height or less"
+		- Costs of fragility fractures - annual cost >5 billion pounds to NHS
+		- #ask AKA osteoporotic fractures? - umbrella
+			- Common sites - distal radius, neck of femur, vertebral body ![[Pasted image 20260423092421.png]]
+		- ![[Pasted image 20260423092330.png]]
+	- Hip fractures
+		- Fatal in 20-30% of cases, only 30% of cases fuly recover, permanently disables 50% 
+- Factors contributing to osteoporotic fracture risk 
+	- ![[Pasted image 20260423092458.png]]
+- Risk factors for osteoporosis itself
+	- ![[Pasted image 20260423092651.png]]
+	- Race and ethnicity factors - not always fully genetic 
+	- Transgender patients - HRT may protect BMD of both trans women/men, thought data is sparse
+	- Lifestyle and nutritional - smoking, alcohol, sedentary lifestyle 
+	- Coexisting conditions - chronic, hormonal dysregulation, autoimmune, etc ![[Pasted image 20260423093444.png]]
+	- Drugs that increase risk - Chronic long term use of drugs, hormonal regulation drugs etc ![[Pasted image 20260423093632.png]]
+		- Aromatase inhibitors - affects oestrogen 
+	- Fractures increasing risk
+		- Previous wrist fractures doubles the risk of hip fracture, and triples the risk of vertebral fracture
+- Assessing patient risk
+	- FRAX (Fracture risk assessment tool)
+	- DEXA scan (Dual energy xray absorptionmetry scan)
+		- Low-dose x-rays with two distinct energy peaks (one absorbed by soft tissue and the other by bone) 
+		- Subtracting one from the other gives a patient's bone mineral density (BMD) 
+		- Output ![[Pasted image 20260423094201.png]]
+			- BMD
+			- T score - their standard deviation with a young adult of the same sex with peak bone mass ![[Pasted image 20260423094302.png]]
+			- Z score - Comparison of patient's BMD with data from the same age/sex/size #ask SD? yes
+	- Other
+		- Bone turnover markers
+			- Urine/blood tests 
+			- Bone alkaline phosphatases in blood - formation is happening
+			- CTX in blood - resorption is happening 
+		- Thyroid function tests
+		- Testosterone and gonadotrophin levels in men
+- Treatment of osteoporosis
+	- Drugs
+		- [[Introduction to pharmacokinetics#Distribution|Bisphosphonates]] - disrupts the activity of osteoclasts 
+			- Side effects - GI upset, mandibular necrosis, atypical femur fractures 
+		- Monoclonal antibodies - disrupt osteoclasts - denosumab and romoxozumab 
+		- Teriparatide - anabolic agent - stimulates osteoblasts to allow for more bone deposition 
+		- Teriparatide and monoclonal antibodies used tgth to achieve good balance
+		- Mechanisms ![[Pasted image 20260423094958.png]]
+			- Teriparatide stimulates parathyroid hormone receptors on osteoblasts -> more osteoblasts 
+			- #ask bisphosphonates - decrease formation and adctivity, increasing death 
+			- Denosumab - RANKL released by osteoblasts binds to RANK receptors on osteoclasts -> stimulates formation, activity and survival - denosumab binds to RANKL -> no stimulation ![[Pasted image 20260423095153.png]]
+			- Romosozumab - SOST released by osteocytes -> stimulates bone resorption - romosozumab binds to SOST ![[Pasted image 20260423095254.png]]
+	- Other pharmacological options 
+		- Ca supplements
+		- HRT - but carries an increased risk of breast cancer 
+		- Strontium ranelate - anabolic agent 
+		- Selective estrogen receptor modulators (SERM's) - eg raloxifene - prevents bone loss
+	- Non pharmacological interventions
+		- Weight bearing exercise
+		- Nutrition
+		- Vit D and calcium intake 

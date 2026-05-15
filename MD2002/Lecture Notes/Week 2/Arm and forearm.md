@@ -169,7 +169,7 @@
 		- Crossed by cephalic vein and dorsal cutaneous branch of radial nerve 
 		- Contains radial artery
 		- Floor - scaphoid, trapeaium
-- Deep - deep radial nerve (C7--8)
+- Deep - deep radial nerve (C7-8)
 	- Supinator 
 		- Attaches from ulna onto radius
 	- Extensor indicis 

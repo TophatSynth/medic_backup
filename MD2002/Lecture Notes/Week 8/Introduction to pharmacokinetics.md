@@ -1,4 +1,3 @@
-#anki 
 # Definitions
 - Pharmacology - origin, nature, chemistry, effects and uses of drugs
 - Toxicology - Study of the sadverse effects of chemical, physical or biological agents 
@@ -14,7 +13,7 @@
 		- Convenient, but very variable - GI tract, food contents, individual factors etc
 	- Intravenous 
 - Bioavailability ![[Pasted image 20260323121850.png]]
-	- IV gives 100% gives bioavailability
+	- IV gives 100% bioavailability
 	- Oral gives very low bioavailability
 - Crossing cell membranes (oral ingestion through GI tract) ![[Pasted image 20260323122026.png]]
 	- Needs to either be hydrophobic, or a specific channel/carrier
@@ -25,7 +24,7 @@
 
 ## Distribution
 - Drug going from plasma into tissues
-	- Same factors as absorption- ionisation, carriers 
+	- Same factors as absorption - ionisation, carriers 
 	- Other factors - cardiac output/blood flow, capillary permeability, plasma protein binding 
 	- Vascularisation ![[Pasted image 20260323122835.png]]
 		- VRG - vessel rich group 
@@ -34,8 +33,8 @@
 		- Eg bisphosphonates to bone ![[Pasted image 20260323123208.png]]
 		- Administration of bisphosphonates -> very quickly adhered to calcium -> stuck in bone
 			- Needs to be administered quite regularly 
-		- #ask bisphosphonates and hard water? 
-		- #ask bisphosphonates used for what? - osteoporosis - inhibits osteoclasts
+		- Bisphosphonates and hard water? - not much effect
+		- Bisphosphonates used for what? - osteoporosis - inhibits osteoclasts
 - Plasma protein binding
 	- Many drugs bind to plasma proteins - unable to act
 		- eg albumin, glycoprotein, lipoprotein, globulins

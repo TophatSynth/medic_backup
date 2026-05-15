@@ -31,7 +31,7 @@ Metastasis
 	- Body cavities (transcoelomic)
 - Certain tumours prefer to metastasise to certain areas
 	- Prostate -> bone
-	- Lung -> brain, adrenals
+	- Lung -> brain, adrenals, liver, bone
 	- Breast -> lung, liver, bone, brain
 	- Ovary -> peritoneal cavity
 
