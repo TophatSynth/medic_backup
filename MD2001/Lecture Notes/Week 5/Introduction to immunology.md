@@ -13,8 +13,8 @@
 			- Monocytes in blood, macrophages in tissue
 		- Phagocytosis -> lysosome fusion -> digestion -> release of microbial products
 	- Chemicals
-		- Acute phase proteins
-			- C-reactive protein (CRP) 
+		- Acute phase proteins - increase in concentration in response to inflammation 
+			- Eg C-reactive protein (CRP) 
 				- 1-5mg/L 
 				- Within 6-24hours of infection -> up to 40mg/L
 				- Coats bacteria, triggering complement -> destruction of bacteria

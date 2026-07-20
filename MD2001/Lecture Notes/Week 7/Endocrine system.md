@@ -83,14 +83,14 @@
 - Adrenal/suprarenal
 	- Glands on top of the kidneys
 	- Has 2 distinct tissues
-		- Cortex - glandular tissue
 		- Medulla - SNS tissue
 			- Site of catecholamine synthesis and secretion 
 			- Chromaffin cells produce epinephrine/norepinephrine/dopamine - inc heart rate/BP/resp rate, diversion of blood to muscles, glucose mobilisation 
-	- Each region in the adrenal glands produces own set of hormones - called corticosteroids, synthesised from cholesterol
-		- Zona glomerulosa - Mineralocorticoids - eg Aldosterone - homeostasis of Na+, K+ and water
-		- Zona fasciculata - Glucocorticoids - eg Cortisol - metabolism and glucose availability
-		- Zona reticularis - Gonadocorticoids - weak precursors of gonadal hormones that get converted into their more potent forms later on (eg testosterone and oestrogen)
+		- Cortex - glandular tissue 
+			- Each region in the cortex produces own set of hormones - called corticosteroids, synthesised from cholesterol
+				- Zona glomerulosa - Mineralocorticoids - eg Aldosterone - homeostasis of Na+, K+ and water
+				- Zona fasciculata - Glucocorticoids - eg Cortisol - metabolism and glucose availability
+				- Zona reticularis - Gonadocorticoids - weak precursors of gonadal hormones that get converted into their more potent forms later on (eg testosterone and oestrogen)
 	- H-P-Adrenal axis 
 		- Eg cortisol feedback mechanism
 		- Stimulated by stress (exercise/hypoglycemia) or can be diurnal (peaks at 6-8am, dips at 12-2am) 
