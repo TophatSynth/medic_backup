@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ask",
+                "query": "tag:link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "ee08c6602549719e",
+            "id": "6bd22be67fbb0305",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,16 +102,6 @@
         "id": "774b764845dfe7a9",
         "type": "tabs",
         "children": [
-          {
-            "id": "1ca7b4a6feffcdc9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
           {
             "id": "585c49832e0edf40",
             "type": "leaf",
@@ -181,8 +174,19 @@
               "icon": "lucide-list",
               "title": "Outline of Leg"
             }
+          },
+          {
+            "id": "5af3dbc21c4fadf0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -198,13 +203,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "Tags",
+    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
+    "MD2001/Lecture Notes/Week 11/SWA Practice Questions.md",
+    "MD2001/Lecture Notes/Week 11/Introduction to global health.md",
+    "MD2002/Lecture Notes/Week 6/Anaemia.md",
     "MD2001/Lecture Notes/Week 10/Gastrulation and neurulation.md",
     "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
     "MD2002/Lecture Notes/Week 6/NSAID's.md",
@@ -225,11 +234,6 @@
     "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
     "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
     "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
-    "MD2001/Lecture Notes/Week 7/Introduction to the nervous system.md",
-    "MD2002/Lecture Notes/Week 8/Leg.md",
-    "MD2002/Lecture Notes/Week 7/Tumour Pathology.md",
-    "Test Answers.md",
-    "MD2001/Lecture Notes/Week 2/Introduction to medical imaging.md",
     "Attachments/Pasted image 20260427091529.png",
     "Attachments/Pasted image 20260427100007.png",
     "Attachments/Pasted image 20260427091551.png",
@@ -249,7 +253,6 @@
     "Portfolio/Uploaded/Cameron Hospital Placement Reflection Timothy Cheng.docx",
     "Portfolio/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
     "Portfolio/Uploaded/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
-    "Portfolio/Uploaded/Timothy Cheng DR Reflection.odt",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

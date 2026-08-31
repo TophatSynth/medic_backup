@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
   "make-md",
   "homepage",
   "hotkeysplus-obsidian",
   "omnisearch",
   "advanced-canvas",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-git"
 ]
