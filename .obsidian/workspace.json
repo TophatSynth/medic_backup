@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "MD3001/Week 0/MD3001 Portfolio Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "MD3001 Portfolio Info"
             }
           }
         ]
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "6bd22be67fbb0305",
+            "id": "47dff89e8a045eab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,9 +206,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5af3dbc21c4fadf0",
   "lastOpenFiles": [
     "Home.md",
+    "MD3001/Week 0/MD3001 Portfolio Info.md",
+    "Attachments/Pasted image 20260909103312.png",
+    "Attachments/Pasted image 20260909103051.png",
+    "MD3001/Week 0/Regulations.md",
+    "MD3001/Week 0",
+    "MD3001",
     "Tags",
     "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
     "MD2001/Lecture Notes/Week 11/SWA Practice Questions.md",
@@ -232,8 +238,6 @@
     "MD2002/Lecture Notes/Week 6/Thigh and gluteal region.md",
     "MD2001/Lecture Notes/Week 7/Endocrine system.md",
     "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
-    "MD2001/Lecture Notes/Week 11/Clinical anatomy of the vertebral column.md",
-    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
     "Attachments/Pasted image 20260427091529.png",
     "Attachments/Pasted image 20260427100007.png",
     "Attachments/Pasted image 20260427091551.png",
@@ -242,8 +246,6 @@
     "Attachments/Pasted image 20260423094958.png",
     "Attachments/Pasted image 20260423094917.png",
     "Attachments/Pasted image 20260423094302.png",
-    "Attachments/Pasted image 20260423094201.png",
-    "Attachments/Pasted image 20260423093632.png",
     "MD2002/Lecture Notes/Week 11",
     "MD2002/Lecture Notes/Week 10",
     "MD2002/Lecture Notes/Week 9",
@@ -251,8 +253,6 @@
     "Portfolio/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
     "MD2002/Lecture Notes/Week 8",
     "Portfolio/Uploaded/Cameron Hospital Placement Reflection Timothy Cheng.docx",
-    "Portfolio/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
-    "Portfolio/Uploaded/Timothy Cheng Muneeb Khan Guided Study Reflection.odt",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

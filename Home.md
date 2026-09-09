@@ -2,10 +2,12 @@
 
 ```base
 filters:
-  or:
+  and:
     - file.tags.contains("anki")
     - file.tags.contains("tofinish")
     - file.tags.contains("link")
+    - file.folder != "MD2001"
+    - file.folder != "MD2002"
 properties:
   file.folder:
     displayName: Folder
@@ -18,10 +20,11 @@ views:
       - file.name
       - file.tags
     sort:
-	  - property: file.tags
+      - property: file.tags
         direction: DESC
       - property: file.ctime
         direction: DESC
+
 ```
 
 ```base
