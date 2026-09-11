@@ -3,11 +3,15 @@
 ```base
 filters:
   and:
-    - file.tags.contains("anki")
-    - file.tags.contains("tofinish")
-    - file.tags.contains("link")
-    - file.folder != "MD2001"
-    - file.folder != "MD2002"
+    - '!file.folder.contains("MD2001")'
+    - or:
+        - file.tags.contains("anki")
+        - file.tags.contains("link")
+        - file.tags.contains("tofinish")
+        - file.tags.contains("ask")
+    - '!file.folder.contains("MD2002")'
+    - file.folder != "Attachments"
+    - file.folder != "Other Notes"
 properties:
   file.folder:
     displayName: Folder

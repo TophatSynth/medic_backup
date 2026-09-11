@@ -1,0 +1,72 @@
+Traditional history taking model
+- Presenting complaint
+- History of presenting complaint
+- Past medical history
+- Drug history
+- Family history
+- Social history
+- Systems enquiry
+- Include Ideas, Concerns & Expectations
+
+CVS specific stuff
+- HPC 
+	- Chest pain
+	- Breathlessness
+	- Palpitations
+	- Dizziness
+	- Oedema 
+	- Fatigue
+	- Peripheral vascular symptoms 
+	- Systemic upset (eg temp changes, weight loss, skin changes)
+- PMH - establish dates and status
+	- History of vascular disease
+	- Diabetes enal disease
+	- Hypertension
+	- Hypercholesterolaemia
+	- Hyperthyroidism
+- Drug history/allergies
+	- Medication, dosage, route of administration, interval, reason
+- Social history 
+	- Pack years = cigarettes smoked per day * number of years smoking / 20 
+		- 20 cigarettes per pack 
+- Systems enquiry 
+	- 2-3 questions for each remaining body system not covered yet
+	- Eg resp, GI/GU, endocrine, musculoskeletal, neuro
+		- Shortness of breath, changes in urination/digestion, cramps, lumps in the neck, aches, tremours 
+		- ![[Pasted image 20260910153002.png]]![[Pasted image 20260910153011.png]]
+
+Risk factors 
+- Modifiable and non-modifiable
+
+# Common CVS symptoms 
+- Chest pain 
+	- ![[Pasted image 20260910153216.png]]
+	- SOCRATES
+		- Angina - typically comes on with exercise and gets better with rest 
+		- Myocardial infarction - 
+- Dyspnoea (shortness of breath)
+	- Acute, chronic, acute-on-chronic (usually not great, got worse suddenly)
+	- How disabling? Happens on rest, exertion, exercise
+	- Causes
+		- Cardiac failure, resp (asthma, COPD etc), anaemia etc 
+	- Associated symptoms eg cough, sputum, chest pain, palpitations 
+	- Paroxysmal nocturnal dyspnea (PND)
+	- Orthopnea #tofinish 
+- Palpitations
+	- Unexpected awareness of heartbeat in chest
+	- Fast/slow/regular/irregular 
+	- Arrythmias
+	- Ask patient to tap out the heartbeat
+- Dizziness and syncope (fainting)
+	- Clarify what the patient means by dizziness 
+	- Causes - postural hypotension, neurocardiogenic, cardiac arrhythmias, hypoglycaemia
+	- Try and ask witnesses what happened
+- Oedema 
+	- Localised/general? 
+	- Uni/bilateral? 
+		- Bilateral indicates systemic cause, unilateral reflects local cause
+	- Duration, aggravating/relieving factors? 
+	- Pitting - leaves imprint when pressed that takes time to fill back in
+- Fatigue
+	- Inadequate systemic perfusion - cardiac failure? 
+	- Side effects of medications? Eg beta-blockers? 
