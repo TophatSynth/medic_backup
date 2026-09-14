@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 # Thorax 
 - Function 
@@ -34,7 +33,7 @@ tags:
 		- False ribs (8-10) - attach to sternum indirectly via cartilage of 7th rib 
 		- Floating ribs (11-12) do not attach to sternum
 	- Typical/atypical ribs 
-		- Typical (2-10) - head w/ 2 ridges for demi facets, neck, tubercle, body/shaft, costal angle  (where the rib bends most), costal groove (inf med surface of the rib, carries/protects the intercostal vein/artery/nerve - van)![[Pasted image 20260910112103.png]]
+		- Typical (2-10) - head w/ 2 ridges for demi facets, neck, tubercle, body/shaft, costal angle  (where the rib bends most), costal groove (inf med surface of the rib, carries/protects the intercostal vein/artery/nerve - van from sup to inf)![[Pasted image 20260910112103.png]]
 			- Costal angle is a good landmark for separation between dorsal and ventral rami of the thoracic nerves
 		- Atypical ribs
 			- 1st rib 
@@ -73,7 +72,7 @@ tags:
 - Costovertebral joints 
 - ![[Pasted image 20260910113405.png]]![[Pasted image 20260910113407.png|287]]
 	- Typical rib articulates with supreior costal facet of corresponding vertebra and infeiror costal facet of vertebra above, + transverse process of corresponding vertebra
-	- Inside - intra-articular ligament #ask synovial? yes
+	- Inside - intra-articular ligament - synovial joint
 	- At the neck there's an upwards angle, then heads downwards after the costal angle 
 	- Articulations
 		- T1 - Full facet for 1st rib, demi facet for 2nd rib ![[Pasted image 20260910113642.png|204]]
@@ -128,7 +127,7 @@ tags:
 
 
 # Breast 👍
-- Mammary glands is basically modified sweat gland 
+- Mammary glands are basically modified sweat gland 
 - Breast forms along milk lines ![[Pasted image 20260911170931.png]]
 	- Can form anywhere along there
 	- Supernumerary nipple - looks like a skin lesion along those lines
@@ -151,74 +150,140 @@ tags:
 	- Suspensory ligaments of the breast (Cooper's ligament) - condensed connective tissue - support + connect deep fascia to dermis 
 		- "Orange peel breast" - something taking up extra space in breast -> Coopers ligaments pulling on dermia -> orange peel appearance ![[Pasted image 20260910120921.png|142]]
 		- May or may not be tumours, but defo check it out
-- Retromammary space 
+- Retromammary space ![[Pasted image 20260911172016.png]]
 	- Layer of loose connective tissue between the deep layer of superficial fascia and the deep fascia
 	- Provides some degree of movement over underlying structures
 
 
 ## Mammography 
 - ![[Pasted image 20260910121034.png]]
-- All three are normal appearances - wild variety #ask angle?
-- ![[Pasted image 20260910121121.png|319]] #ask sup or inf? 
+- All three are normal appearances - wild variety
+- ![[Pasted image 20260910121121.png|319]] 
 
 ## Blood supply
-- Internal thor artery and axillary artery 
+- 2 main routes of supply: 
+	- Internal thor artery - branch of subclavian artery, behind sternum - supplies medial aspect
+	- Axillary artery - Lateral 
+- Veins follow same route
+	- Tumours can follow the route to spread medially to sternum or laterally to axilla
 - ![[Pasted image 20260910121207.png]]
 - ![[Pasted image 20260910121227.png]]
-- Int thor supplies anteriorly/medial
-- Axillary supplies lateral
-
 ## Lymph 
-- Areola + lateral quadrants -> axillary lymph nodes
-- Medial quandrants -> parasternal lymph nodes 
-- Infeior quandrants -> inferior phrenic lymph nodes
-- Lymph from one breast can spread to another - infection risk
+- ![[Pasted image 20260911172356.png]]![[Pasted image 20260911172410.png]]
+- 4 quadrants + areola 
+	- Areola + lateral quadrants -> pectoral group of axillary lymph nodes
+	- Medial quadrants -> parasternal lymph nodes 
+	- Inferior quadrants -> can drain down to inferior phrenic lymph nodes
+	- Lymph from one breast can spread to another - infection risk
 
 
 # Muscles of thoracic wall 
-- Any muscle connecting to thoracic wall can help with respiration 
+- Any muscle connecting to ribcage can help with respiration 
+	- Pec major/minor
+	- Serr ant, serr post inf/sup
 
 ## Intercostal muscles 
 - 11 pairs of intercostal spaces 
-- each filled w 3 layers of muscles/membranes 
+- Each filled w 3 layers of muscles/membranes 
 	- External, internal, innermost layers 
-	- As the muscles approach sternum/back, they turn into membranes - ant/post intercostal membranes 
-- #ask where are the neurovascular bundles???????
-- External intercostal muscle #tofinish 
-	- Fibres are oriented inframedially 
-	- 
+- Subcostal groove protects neurovascular structures - when puncturing the chest you wanna stay close to the top of a rib not the bottom
+- External intercostal muscle 
+	- Fibres are oriented inframedially (outside in, up to down)
 	- Prevent indrawing of thoracic wall during inspiration 
-	- Raise ribs in forced inspiration 
-	- 
+	- Also raise ribs in forced inspiration  
+	- As it approaches the sternum, it becomes anterior intercostal membrane
 - Internal intercostal muscle
-	- Fibres oriented infralaterally 
+	- Fibres oriented infralaterally (inside out, up to down)
 	- Prevent indrawing during inspiration 
 	- Moves ribs inferiorly in expiration 
-- Innermost layer #tofinish 
-	- Innermost intercostal muscle
-		- angled the same as internal intercostal muscle
-		- Neurovascular structures run between them 
-
+	- As it approaches the vertebrae, it becomes posterior intercostal membrane
+- Innermost layer 
+	- 3 different parts
+		- Innermost intercostal muscle
+			- Angled the same as internal intercostal muscle - BUT! Neurovascular structures run between them 
+			- As they come out of the vertebrae, they go into the neurovascular plane between
+		- Transversus thoracis
+			- Only found anteriorly
+		- Subcostalis
+			- Only found posteriorly
+![[Pasted image 20260911173821.png]]
 # Neurovascular of thoracic wall 
-## Nerves ![[Pasted image 20260910122331.png|362]]
-- Nerves running through intervertebral foramen 
-- Ventral ramus of thoracic spinal nerves are intercostal nerves 
-	- Except T1 and lateral cutaneous branch of T2 #ask no nerve under T1?
-- #tofinish 
-- From spinal nerve - ventral ramus gives off lateral cutaneous branch first 
+## Nerves 
+- Nerves running through intervertebral foramen -> branches into dorsal and ventral rami
+- Ventral ramus of thoracic spinal nerves are called intercostal nerves 
+	- Mixed motor and sensory nerves 
+	- Go round in ribs and branch out to give dermatomes in segments
+	- Except T1 (it's in axillary area) and lateral cutaneous branch of T2
+- ![[Pasted image 20260910122331.png|150]]
+- From ventral ramus 
+	- First gives off lateral cutaneous branch that then has ant/post branches from there
+	- Then anterior cutaneous branch that has a lateral and medial branch
 - Dermatomes 
-	- Follow pattern of ribs - moves inferiorly as they move anteirorly 
-	- #tofinish 
+	- ![[Pasted image 20260911174648.png|166]]
+	- Follow pattern of ribs - moves inferiorly as they move anteriorly 
+- ![[Pasted image 20260911174831.png]]
 
 ## Arteries
-- Subclavian -> Costocervical trunk 
-	- Branches to supreme intercostal artery 
-- Vertebral 
-- Thyrocervical trunk 
+- Subclavian -> 
+	- Vertebral 
+	- Thyrocervical trunk 
+	-  Costocervical trunk 
+		- Branches to supreme intercostal artery - supplies 1/2nd posterior intercostal spaces
+	- Internal thoracic artery 
+		- Lies posterior to sternum 
+		- Gives off anterior intercostal arteries (aka internal mammary arteries) to supply spaces 1-6
+			- Very often have colateral arteries (2 in the same place)
+		- Bifurcates around xiphoid process -> superior epigastric and musculophrenic arteries 
+			- Musculophrenic artery follows costal margin and supplies rest of intercostal spaces below (7-10)
+		- No anterior supply for 11th intercostal space and subcostal space
+- Thoracic aorta
+	- ![[Pasted image 20260911175245.png|215]]
+	- Supplies things posteriorly
+	- Gives off segmental branches
+		- 3-11th posterior intercostal spaces supplied - posterior intercostal arteries - anastomose with anterior intercostal arteries 
+	- ![[Pasted image 20260911175416.png]]
+
+## Veins
+- Mirror arteries mostly. except
+- Anterior intercostal veins drain to internal thoracic vein -> brachiocephalic vein, not subclavian vein 
+- Posterior intercostal veins drian either to brachiocephalic vein or azygos system 
+
+### Azygos system 
+- Drains posterior wall of thorax/part of abdomen
+- On the right side, acending lumbar veins meet subcostal veins -> the azygos vein 
+	- ![[Pasted image 20260911180248.png|168]]
+	- Moves up through aortic hiatus
+	- Arches to join SVC around sternal angle height
+	- Usually IVC has branch that connects to azygos vein 
+- Drainage of intercostal veins
+	- ![[Pasted image 20260911180352.png]]![[Pasted image 20260911180343.png|147]]
+	- Right side 
+		- 1st - Right brachiocephalic vein
+		- 2-4th - Right superior intercostal vein, then into azygos system
+		- 5-11th - directly into azygos system
+	- Left side
+		- 1st - Left brachiocephalic vein
+		- 2-4th - L superior intercostal vein, then into _left brachiocephalic vein_
+		- 5-8th - accessory hemiazygos vein -> azygos system 
+		- 9-11th - lumbar and intercostal veins join to make hemiazygos vein -> azygos system
+
+## Lymphatics
+- Anteriorly 
+	- Parasternal nodes 
+	- Bronchomediastinal trunks (deeper in the thorax) 
+- Posteriorly 
+	- Intercostal nodes 
+	- Thoracic duct
+
+
+## Rib fractures
+- Mostly between 4-10th 
+	- 1-2nd more buried in muscle and stuff
+	- 11-12th are floating and can move slightly so less prone
+- Usually fracture along angle of the rib
+- Very little can be done so if no puncture, just give painkillers and womp womp :) 
+	- Haemothorax, pneumothorax, pulmonary/splenic injury 
+- Shallow breathing bc painful
+	- Can cause pneumonia bc air isn't being cleared fully
+- How to check? squeeze patient >:) 
 - 
-- Internal thoracic artery 
-	- Lies along margins of the sternum 
-	- Becomes superior epigastric and musculophrenic arteries 
-- Thoracic aorta -> branches
-	- #tofinish 
-	- 

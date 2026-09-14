@@ -1,0 +1,169 @@
+---
+tags:
+  - anki
+---
+![[Pasted image 20260914090731.png|167]]
+
+![[Pasted image 20260914090945.png]]
+![[Pasted image 20260914091108.png]]
+- 3 cavities, one for each lung - independent 
+
+# Parietal pleura
+- Different parts
+	- Costal pleura - attached firmly to thorax wall via endothoracic fascia 
+		- Endothoracic fascia thickens at the top of the lung - protects the apex - called the supraplural membrane
+	- Mediastinal pleura - in contact with fibrous pericardium and other mediastinal structures 
+	- Diaphragmatic pleura - in contact with diaphragm 
+	- ![[Pasted image 20260914091329.png]]
+
+# Mediastinum
+- ![[Pasted image 20260914091445.png]]
+- Space between the two pleural sacs, sternum, costal cartilages, thoracic vertebrae and diaphragm
+- Very mobilie region - alows volume and pressure changes 
+	- ![[Pasted image 20260914091436.png|206]]
+	- Above sternal angle - sup mediastinum 
+	- Below - inf mediastinum
+		- Further divided into ant, middle, post 
+		- ![[Pasted image 20260914091559.png|237]]
+		- Divided by the heart - anterior to the heart, middle on is the heart, posterior to the heart 
+- ![[Pasted image 20260914091724.png|192]] ![[Pasted image 20260914091728.png|195]]
+- Middle mediastinum 
+	- ![[Pasted image 20260914091905.png]]
+	- Contains heart, pericardium, origin of great vessels, terminal aprts of SVC and IVC, smaller vessels 
+	- Phrenic nerves curving around pericardium (right goes mostly straight down, left curves around pericardium)
+	- Heart is innervated by vagus nerve branches (PSNS supply)
+	- Pericardium 
+		- Fibrous layer, 2 serous layers inside (parietal and visceral)
+		- Fibrous is dense - attached to diaphragm and roots of great vessels 
+			- Prevents overfilling 
+			- Attached to sternum by sternopericardial ligament (fold of tissue) (not actually folded)
+			- Attached to 5-8th thoracic  vertebrae via pericardiovertebral ligament
+			- Blends inferiorly with central tendon of diaphragm - diaphragm movement changes shape of heart 
+				- Also limits diaphragm movement downwards - prevents overfilling etc
+		- Serous pericardium 
+			- 2 layers - parietal and visceral 
+			- Visceral - epicardium 
+			- Pericardial cavity/fluid
+				- Cavity - between pareital and visceral layers 
+				- Fluid - produced by serous pericardium - reduces friction 
+				- If blood gets in, bad - heart gets more difficult to pump - cardiac tamponade
+			- Pericardial sinuses
+				- ![[Pasted image 20260914092625.png]]
+				- Heart tube folds and invaginates into serous pericardium during embryological development - forms a tube on top of heart - transverse pericardial sinus
+					- Arteries in front, veins behind  
+				- Oblique pericardial sinus - formed by veins growing into the heart - blind ended tube behind the heart
+		- Nerve supply
+			- ![[Pasted image 20260914092900.png]]
+			- Pericardium needs sensory and vasomotor 
+			- Phrenic nerve - sensory to fibrous and parietal pericardium - NOT visceral layer
+				- Lies on scalenus anterior 
+				- ![[Pasted image 20260914093136.png|146]]![[Pasted image 20260914093128.png|207]]
+				- Branch of cervical plexus
+				- Phrenic means diaphragm - also supplies motor/sensory to the diaphragm - "C3,4,5 keeps the diaphragm alive"
+					- If irritated - eg diaphragm or peritoneum - referred pain in shoulder pain 
+					- Is the only motor supply to the diaphragm
+					- Also supplies sensory in the bulk of diaphragm - peripherally is intercostal nerves 
+				- Enters mediastinum between venous and arterial planes 
+				- Anterior to the lung root, lies between fibrous and parietal pleura 
+				- Right nerve goes straight down around right of heart, left nerve goes around left curve, both go down onto the diaphragm and spreads out![[Pasted image 20260914093450.png]]
+				- Phrenic nerve injury
+					- Can be damaged iatrogenically 
+					- Lung/mediastinum tumours 
+					- If you only damage one of them - paralysis of one side - hemiparesis 
+					- Damage both - still can breathe via accessory muscles but ehhhhh
+- Anterior mediastinum 
+	- ![[Pasted image 20260914093905.png|179]]
+	- Boundaries - sternum, pericardium, lungs, diaphragm 
+	- Contents 
+		- Thymus, internal thoracic vessels, lymph nodes, lower pole of thyroid
+		- Thymus 
+			- Bi lobed organ of lymphoid tissue
+			- Between manubrium, sternum and pericardium 
+			- Active in juveniles but dissapears as you age - starts to degrade and turn to fat at puberty  
+			- Related to basically everything in that area - bigass thing relative to juvenile size 
+			- Can have tumours - thymoma 
+			- For educating T cells as you develop
+- Superior mediastinum
+	- Arranged into 3 planes from front ot back 
+		- ![[Pasted image 20260914094307.png]]
+		- Venous plane
+			- Right behind manubrium 
+			- Brachiocephalic, internal jugular and subclavian veins 
+			- Left venous angle - thoracic duct enters brachiocephalic vein - #ask where angle? jugular and subclavian
+			- #tofinish 
+			- Left brachiocephalic vein swoops behind heart - easy landmark 
+			- SVC formed by R and L brachiocephalic veins joining 
+				- Forms behind right 1st costal cartilage 
+			- #tofinish 
+			- Also lots of ANS nerves 
+		- Arterial plane
+			- Aorta
+				- Ascending, aortic arch, descending/thoracic aorta
+				- Arch 
+					- ![[Pasted image 20260914095015.png]]
+					- Goes backwards 
+					- _Usually_ has 3 branches
+						- Brachiocephalic trunk -> R subclavian and R common carotid artery 
+						- L common carotid artery 
+						- L subclavian artery 
+			- Pulmonary arteries 
+				- Plumonary trunk lies to the left of hte ascending aorta
+				- Divides into R/L arteries at T4/5 
+				- #tofinish 
+			- Trachea 
+				- Starts at C6, ends at bifurcation (carina)
+				- Rises and falls (T4-6) during respiration 
+				- No trachea in posterior mediastinum - bifurcates before then 
+		- Visceral plane 
+	- ![[Pasted image 20260914100708.png]]![[Pasted image 20260914100949.png]]![[Pasted image 20260914101129.png]]
+	- ![[Pasted image 20260914101400.png]]![[Pasted image 20260914101349.png]]
+- Posterior mediastinum
+	- Paravertebral gutters - next to vertebrae
+	- Thoracic aorta 
+		- Between level of sternal angle and aortic hiatus (T12)
+		- Lies on the left of the thoracic vertebral bodies, but moves back to midline to enter through aortic hiatus 
+		- Branches!
+			- Vsiceral
+				- Oesophageal - supply to middle 3rd
+				- Bronchial - blood supply to lung tissue - usually 2 L, 1 R
+				- Pericardial branches
+				- Mediastinal branches
+				- Superior phrenic
+			- Parietal branches 
+				- Posterior intercostal 
+				- Superior phrenic (diaphragmatic) - last branch 
+	- Oesophagus 
+		- Starts at C6, inf border of cricoid cartilage 
+		- Descends between trachea and vertebral column 
+		- Divided into 3rds 
+			- Upper 3rd - striated muscle for voluntary swallowing 
+			- Middle 3rd - mixed striated/smooth
+			- Lower 3rd - smooth muscle 
+			- But all ihas stratified squamous epithelium #link 
+			- Oesphageal hiatus - T10 - pierces hte diaphragm 
+			- 4 constriction sites - upper oesophageal sphincter, arch of aorta, left main bronchus, diaphragm **![[Pasted image 20260914102433.png]]
+			- #ask diaphragm acts as second sphincter? 
+		- Imaging 
+			- Barium swallow 
+			- Transoesophageal echocardiography - left atrium very close to oesophagus - put ultrasound probe down there
+		- Venus drainage
+			- Upper and middle 3rds drain to azygos/hemiazygos/accessory hemiazygos 
+			- Lower 3rd to left gastric vein (hepatic portal system)
+			- Anastomoses between veins of mimddle and lower thirds - blood can potentially flow up from liver into oephageal veins 
+		- Nerve supply
+			- Left vagus → Anterior vagal trunk
+			- Right vagus → Posterior vagal trunk
+			- Forms a plexus all over oesophagus #ask becomes plexus then trunk? 
+		- Lymphatics 
+			- Superior and inferior tracheobronchial nodes 
+			- Receives fluid from lungs 
+			- Pulmonary nodes -> brochopulmonary nodes -> tracheobronchial nodes -> paratracheal nodes -> Bronchomediastinal lymphatic trunks <- parasternal and anterior mediastinal nodes
+			- Post mediastinal nodes drain into paratracheal 
+			- ![[Pasted image 20260914103409.png]]![[Pasted image 20260914103533.png]]![[Pasted image 20260914103654.png]]
+			- Thoracic duct
+				- Starts at T12 (cisterna chyli) #ask 
+				- Lies between aorta and azygos vein in post mediastinum, in the midline
+				- Lots of valves 
+				- Veers off to the left at sternal angle
+				- If ruptured -> chylothorax 
+				- Behind most everything
