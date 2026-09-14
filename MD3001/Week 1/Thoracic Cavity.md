@@ -84,37 +84,45 @@ tags:
 			- Can have tumours - thymoma 
 			- For educating T cells as you develop
 - Superior mediastinum
-	- Arranged into 3 planes from front ot back 
+	- Arranged into 3 planes from front to back 
 		- ![[Pasted image 20260914094307.png]]
 		- Venous plane
 			- Right behind manubrium 
 			- Brachiocephalic, internal jugular and subclavian veins 
-			- Left venous angle - thoracic duct enters brachiocephalic vein - #ask where angle? jugular and subclavian
-			- #tofinish 
-			- Left brachiocephalic vein swoops behind heart - easy landmark 
+			- ![[Pasted image 20260914122508.png]]
+			- Venous angles - where the internal jugular and subclavian veins join up to form the brachiocephalic veins 
+				- Left venous angle - thoracic duct enters brachiocephalic vein 
+			-  Left brachiocephalic vein passes anterior to the arch of aorta - at level of sternoclavicular joint
 			- SVC formed by R and L brachiocephalic veins joining 
-				- Forms behind right 1st costal cartilage 
-			- #tofinish 
+				- Forms behind right 1st costal cartilage
+			- Landmarks
+				- 1st CC - R/L BCV -> SVC
+				- 2nd CC - Azygos join into SVC
+				- 3rd CC - SVC enters right atrium 
+				- Sternoclavicular joint - BCV passes ant to arch of aorta 
 			- Also lots of ANS nerves 
 		- Arterial plane
 			- Aorta
 				- Ascending, aortic arch, descending/thoracic aorta
 				- Arch 
 					- ![[Pasted image 20260914095015.png]]
-					- Goes backwards 
+					- Goes backwards
+					- Arches at level of sternal angle
 					- _Usually_ has 3 branches
 						- Brachiocephalic trunk -> R subclavian and R common carotid artery 
 						- L common carotid artery 
 						- L subclavian artery 
 			- Pulmonary arteries 
-				- Plumonary trunk lies to the left of hte ascending aorta
-				- Divides into R/L arteries at T4/5 
-				- #tofinish 
+				- ![[Pasted image 20260914124841.png]]
+				- Plumonary trunk lies to the left of the ascending aorta
+				- Divides into R/L arteries at sternal angle 
+					- R pulmonary artery - posterior to ascending aorta and SVC
+					- L pulmonary artery - inferior to aortic arch and anterior to the descending aorta
+		- Visceral plane
 			- Trachea 
 				- Starts at C6, ends at bifurcation (carina)
 				- Rises and falls (T4-6) during respiration 
 				- No trachea in posterior mediastinum - bifurcates before then 
-		- Visceral plane 
 	- ![[Pasted image 20260914100708.png]]![[Pasted image 20260914100949.png]]![[Pasted image 20260914101129.png]]
 	- ![[Pasted image 20260914101400.png]]![[Pasted image 20260914101349.png]]
 - Posterior mediastinum
