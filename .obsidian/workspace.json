@@ -69,13 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "679591b724dd95b2",
+            "id": "6e485c2c0f9af1cf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -202,21 +205,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1ca7b4a6feffcdc9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
+    "MD3001/Lecture notes/Surface anatomy of the neck.md",
+    "MD3001/Lecture notes",
     "conflict-files-obsidian-git.md",
+    "Home.md",
     "Other Notes/Test Answers.md",
     "Other Notes/IBS Patient reflection.md",
     "Other Notes/Chromosomes and chromosomal abnormalities.md",
-    "MD3001/Week 1/Thoracic Cavity.md",
-    "MD3001/Week 0/Thoracic wall 1 & 2.md",
-    "MD3001/Week 0/MD3001 Portfolio Info.md",
-    "MD3001/Week 0/Hospital Drug Chart Guided Study.md",
-    "MD3001/Week 0/CVS History Taking.md",
-    "MD3001/Week 0/CVS Examination.md",
-    "MD3001/Week 1",
-    "MD3001/Week 0",
+    "MD3001/Lecture notes/Thoracic Cavity.md",
+    "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
+    "MD3001/Lecture notes/Week 0/MD3001 Portfolio Info.md",
+    "MD3001/Lecture notes/Week 0/Hospital Drug Chart Guided Study.md",
+    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
+    "MD3001/Lecture notes/Week 0/CVS Examination.md",
+    "MD3001/Lecture notes/Week 1",
+    "MD3001/Lecture notes/Week 0",
     "MD3001",
     "Attachments/Pasted image 20260914103654.png",
     "Attachments/Pasted image 20260914103533.png",
@@ -241,15 +246,12 @@
     "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
     "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
     "MD2001/Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
-    "MD2001/Lecture Notes/Week 1/Cells and Organelles 1 and 2.md",
-    "MD2001/Lecture Notes/Week 2/Epithelia.md",
     "MD2002/Lecture Notes/Week 11",
     "MD2002/Lecture Notes/Week 10",
     "MD2002/Lecture Notes/Week 9",
     "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
     "Portfolio/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
     "MD2002/Lecture Notes/Week 8",
-    "Portfolio/Uploaded/Cameron Hospital Placement Reflection Timothy Cheng.docx",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]
