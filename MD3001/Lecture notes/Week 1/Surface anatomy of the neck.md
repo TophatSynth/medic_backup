@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Neck is collection of 5 columns 
 - ![[Pasted image 20260914161119.png]]
@@ -24,7 +23,7 @@ Triangles of the neck
 Skull and bony landmarks
 - Mastoid process - palpatable behind jaw
 - Styloid process - not palpatable 
-- #ask trasnverse process of C1 where? 
+- Transverse process of C1 bt mastoid process and angle of mandible  
 - Hyoid bone in the upper neck 
 	- ![[Pasted image 20260914162115.png]]
 	- Has greater and lesser horns 
@@ -62,29 +61,30 @@ Arteries
 			- Superior thyroid 
 
 
-Veins #tofinish 
+Veins 
 - Cranial veins
 	- Drains skull and cranial cavity 
 	- Dural venous sinuses 
 		- Drains the inside surface of the skull 
-	- Internal jugular vein 
+	- Dural venous sinus drains through jugular foramen → becomes internal jugular vein 
 		- Drains intracranial structures and superficial parts of the face and neck 
-		- #tofinish 
-		- Jugular venous pulse 
-			- No pulse bt right atrium and SVC - systole can send blood back up internal jugular vein 
-			- Patient lying at 45 degrees - can see 
-			- Very low pressure, cannot palpate 
-			- Biphasic - recoil of vein means the pulse goes twice each time (babump) like a wobble
+		- Travels within the carotid sheath
+		- Initially lies posterior to ICA, then wraps around laterally then anteriorly to the common carotid 
 		- Very close to a lot of important nerves and arteries 
 			- Clinical relevance - central venous access/catherisation 
 			- Complications - pneumothorax, nerve injury, puncture subclavian artery 
 			- We don't use external jugular vein bc risk of air embolism due to very low pressure
+	- Jugular venous pulse 
+			- No valve bt right atrium and SVC - systole can send blood back up internal jugular vein 
+			- Patient lying at 45 degrees - can see 
+			- Very low pressure, cannot palpate 
+			- Biphasic - recoil of vein means the pulse goes twice each time (babump) like a wobble
 	- External jugular vein 
 		- Formed by posterior branch of retromandibular vein joining with posterior auricular vein 
 		- Anterior retromandibular vein goes forward and joins with facial veins to go into internal jugular vein 
 	- Anterior jugular vein
 		- Formed from a plexus of veins in the floor of the mouth 
-		- 1 on each side, joins tgth at the jugular venous arch just above manubrium, into #tofinish 
+		- 1 on each side, joins tgth into the jugular venous arch just above manubrium, into external jugular or subclavian veins  
 - Facial veins
 	- Superficial and deep facial veins 
 - Cervical veins
