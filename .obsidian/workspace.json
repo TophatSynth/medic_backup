@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Surface anatomy of the neck"
             }
+          },
+          {
+            "id": "74310d7ecbdb2482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,19 +221,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24e9fcd784a4bf51",
+  "active": "74310d7ecbdb2482",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260914164518.png",
-    "Attachments/Pasted image 20260914163221.png",
-    "Attachments/Pasted image 20260914163125.png",
-    "Attachments/Pasted image 20260914162605.png",
-    "Attachments/Pasted image 20260914162115.png",
-    "Attachments/Pasted image 20260914161705.png",
-    "Attachments/Pasted image 20260914161119.png",
-    "Home.md",
     "MD3001/Lecture notes/Surface anatomy of the neck.md",
-    "MD3001/Lecture notes",
     "conflict-files-obsidian-git.md",
+    "MD3001/Lecture notes/Heart internal structure and surface anatomy.md",
+    "Attachments/Pasted image 20260914134650.png",
+    "Attachments/Pasted image 20260914134606.png",
+    "Attachments/Pasted image 20260914134524.png",
+    "Attachments/Pasted image 20260914134508.png",
+    "Attachments/Pasted image 20260914134343.png",
+    "Attachments/Pasted image 20260914133825.png",
+    "Attachments/Pasted image 20260914133700.png",
+    "Attachments/Pasted image 20260914133657.png",
+    "Attachments/Pasted image 20260914133656.png",
+    "Attachments/Pasted image 20260914133654.png",
+    "Home.md",
+    "MD3001/Lecture notes",
     "Other Notes/Test Answers.md",
     "Other Notes/IBS Patient reflection.md",
     "Other Notes/Chromosomes and chromosomal abnormalities.md",
@@ -231,10 +250,6 @@
     "MD3001/Lecture notes/Week 1",
     "MD3001/Lecture notes/Week 0",
     "MD3001",
-    "Attachments/Pasted image 20260914103654.png",
-    "Attachments/Pasted image 20260914103533.png",
-    "Attachments/Pasted image 20260914103529.png",
-    "Attachments/Pasted image 20260914103409.png",
     "MD2001/Case Studies/Sanjay Sharma Case Study Preread.md",
     "MD2001/Lecture Notes/Week 8/Making an infection diagnosis.md",
     "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
