@@ -149,7 +149,7 @@ tags:
 			- But all ihas stratified squamous epithelium #link 
 			- Oesphageal hiatus - T10 - pierces hte diaphragm 
 			- 4 constriction sites - upper oesophageal sphincter, arch of aorta, left main bronchus, diaphragm **![[Pasted image 20260914102433.png]]
-			- #ask diaphragm acts as second sphincter? 
+			- Diaphragm acts as part of second sphincter 
 		- Imaging 
 			- Barium swallow 
 			- Transoesophageal echocardiography - left atrium very close to oesophagus - put ultrasound probe down there
@@ -158,9 +158,7 @@ tags:
 			- Lower 3rd to left gastric vein (hepatic portal system)
 			- Anastomoses between veins of mimddle and lower thirds - blood can potentially flow up from liver into oephageal veins 
 		- Nerve supply
-			- Left vagus → Anterior vagal trunk
-			- Right vagus → Posterior vagal trunk
-			- Forms a plexus all over oesophagus #ask becomes plexus then trunk? 
+			- Left vagus + right vagus → plexus all over oesophagus → coalesces back into ant/post vagal trunks
 		- Lymphatics 
 			- Superior and inferior tracheobronchial nodes 
 			- Receives fluid from lungs 
@@ -168,7 +166,7 @@ tags:
 			- Post mediastinal nodes drain into paratracheal 
 			- ![[Pasted image 20260914103409.png]]![[Pasted image 20260914103533.png]]![[Pasted image 20260914103654.png]]
 			- Thoracic duct
-				- Starts at T12 (cisterna chyli) #ask 
+				- Starts at T12 (cisterna chyli) 
 				- Lies between aorta and azygos vein in post mediastinum, in the midline
 				- Lots of valves 
 				- Veers off to the left at sternal angle
