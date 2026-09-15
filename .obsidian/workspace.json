@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "275f956fc81470da",
+        "id": "7ed38a33a5f08ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "24e9fcd784a4bf51",
+            "id": "a08c897d43a5ba86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD3001/Lecture notes/Surface anatomy of the neck.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surface anatomy of the neck"
+              "title": "Home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:link",
+                "query": "tag:#tofinish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "6e485c2c0f9af1cf",
+            "id": "16a1dde7f08da394",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -103,16 +102,6 @@
         "id": "774b764845dfe7a9",
         "type": "tabs",
         "children": [
-          {
-            "id": "1ca7b4a6feffcdc9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
           {
             "id": "585c49832e0edf40",
             "type": "leaf",
@@ -185,8 +174,19 @@
               "icon": "lucide-list",
               "title": "Outline of Leg"
             }
+          },
+          {
+            "id": "5af3dbc21c4fadf0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -202,58 +203,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "1ca7b4a6feffcdc9",
+  "active": "a08c897d43a5ba86",
   "lastOpenFiles": [
-    "MD3001/Lecture notes/Surface anatomy of the neck.md",
-    "conflict-files-obsidian-git.md",
-    "MD3001/Lecture notes/Heart internal structure and surface anatomy.md",
-    "Attachments/Pasted image 20260914134650.png",
-    "Attachments/Pasted image 20260914134606.png",
-    "Attachments/Pasted image 20260914134524.png",
-    "Attachments/Pasted image 20260914134508.png",
-    "Attachments/Pasted image 20260914134343.png",
-    "Attachments/Pasted image 20260914133825.png",
-    "Attachments/Pasted image 20260914133700.png",
-    "Attachments/Pasted image 20260914133657.png",
-    "Attachments/Pasted image 20260914133656.png",
-    "Attachments/Pasted image 20260914133654.png",
-    "Home.md",
-    "MD3001/Lecture notes",
-    "Other Notes/Test Answers.md",
-    "Other Notes/IBS Patient reflection.md",
-    "Other Notes/Chromosomes and chromosomal abnormalities.md",
     "MD3001/Lecture notes/Thoracic Cavity.md",
-    "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
-    "MD3001/Lecture notes/Week 0/MD3001 Portfolio Info.md",
+    "MD3001/Lecture notes/Heart internal structure and surface anatomy.md",
+    "Attachments/Pasted image 20260914164518.png",
+    "Attachments/Pasted image 20260914163221.png",
+    "Attachments/Pasted image 20260914163125.png",
+    "Attachments/Pasted image 20260914162605.png",
+    "Attachments/Pasted image 20260914162115.png",
+    "Attachments/Pasted image 20260914161705.png",
+    "Attachments/Pasted image 20260914161119.png",
+    "MD2001/Clinical Skills/BLS.md",
+    "MD3001/Lecture notes/Week 1/Thoracic Cavity.md",
+    "MD3001/Lecture notes/Surface anatomy of the neck.md",
+    "MD3001/Lecture notes/Week 1/Heart internal structure and surface anatomy.md",
     "MD3001/Lecture notes/Week 0/Hospital Drug Chart Guided Study.md",
-    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
+    "MD3001/Lecture notes/Week 0/MD3001 Portfolio Info.md",
+    "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
     "MD3001/Lecture notes/Week 0/CVS Examination.md",
+    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "MD2002/Lecture Notes/Week 11/Osteoporosis.md",
+    "Attachments/Pasted image 20260915093602.png",
+    "MD3001/Week 1/Thoracic Cavity.md",
     "MD3001/Lecture notes/Week 1",
     "MD3001/Lecture notes/Week 0",
+    "MD3001/Lecture notes",
+    "MD3001/Week 1/Heart internal structure and surface anatomy.md",
+    "Attachments/Pasted image 20260914134650.png",
+    "Attachments/Pasted image 20260914134606.png",
+    "MD3001/Week 0/Thoracic wall 1 & 2.md",
+    "MD3001/Week 1",
+    "MD2001/Lecture Notes/Week 9/Back bones, joints and muscles.md",
+    "MD2001/Lecture Notes/Week 10/Vasculature of the spinal cord.md",
+    "MD2001/Lecture Notes/Week 2/Joints and muscles.md",
+    "MD2001/Lecture Notes/Week 2/Introduction to medical imaging.md",
+    "MD3001/Week 0/Hospital Drug Chart Guided Study.md",
+    "Other Notes/IBS Patient reflection.md",
+    "Other Notes/Chromosomes and chromosomal abnormalities.md",
+    "README.md",
+    "Other Notes/Test Answers.md",
+    "MD3001/Week 0",
     "MD3001",
-    "MD2001/Case Studies/Sanjay Sharma Case Study Preread.md",
-    "MD2001/Lecture Notes/Week 8/Making an infection diagnosis.md",
-    "MD2001/Lecture Notes/Week 11/Neurotransmitters.md",
-    "MD2001/Lecture Notes/Week 11/SWA Practice Questions.md",
-    "MD2001/Lecture Notes/Week 11/Introduction to global health.md",
-    "MD2002/Lecture Notes/Week 6/Anaemia.md",
-    "MD2001/Lecture Notes/Week 10/Gastrulation and neurulation.md",
-    "MD2002/Lecture Notes/Week 3/Lipids in cell membranes.md",
-    "MD2002/Lecture Notes/Week 6/NSAID's.md",
-    "MD2001/Lecture Notes/Week 4/Introduction to Enzymes.md",
-    "MD2002/Lecture Notes/Week 6/Blood and nerves of lower limb.md",
-    "MD2002/Lecture Notes/Week 6/Bones and joints of the lower limbs.md",
-    "MD2001/Lecture Notes/Week 7/Introduction to molecular biology 1, 2, 3, 4 .md",
+    "Tags",
     "MD2002/Lecture Notes/Week 11",
     "MD2002/Lecture Notes/Week 10",
     "MD2002/Lecture Notes/Week 9",
-    "Portfolio/Uploaded/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
-    "Portfolio/Timothy Cheng certificate-of-completion-safe-management-of-blood-and-body-fluid-spillages-module-and-assessment.pdf",
-    "MD2002/Lecture Notes/Week 8",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]
