@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "669a9e2e8dc0ff90",
+        "id": "285c2ed6d289f8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1d71704b81d02bd7",
+            "id": "df5248372db2dfdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,8 +207,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1d71704b81d02bd7",
+  "active": "df5248372db2dfdb",
   "lastOpenFiles": [
+    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
+    "Home.md",
+    "MD3001/Lecture notes/Week 0/CVS Examination.md",
+    "MD3001/Clinical Skills/Cardiovascular history prep.md",
     "MD3001/Lecture notes/Week 1/Control of cardiac output.md",
     "Attachments/Pasted image 20260919112735.png",
     "Attachments/Pasted image 20260919112720.png",
@@ -220,13 +224,10 @@
     "Attachments/Pasted image 20260919110104.png",
     "Attachments/Pasted image 20260919105952.png",
     "Attachments/Pasted image 20260919105603.png",
-    "Home.md",
     "MD3001/Lecture notes/Week 1/Coronary circulation and conduction.md",
     "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
     "MD3001/Lecture notes/Week 1/Heart internal structure and surface anatomy.md",
     "MD3001/Lecture notes/Week 1/Thoracic Cavity.md",
-    "MD3001/Lecture notes/Week 0/CVS Examination.md",
-    "MD3001/Clinical Skills/Cardiovascular history prep.md",
     "MD3001/Lecture notes/Week 1/Fetal circulation.md",
     "Cardiac contractility.md",
     "MD3001/Lecture notes/Week 1/Physiological properties of the heart.md",
@@ -242,7 +243,6 @@
     "MD3001/Lecture notes/Week 1/Surface anatomy of the neck.md",
     "MD2001/Clinical Skills/BLS.md",
     "MD3001/Lecture notes/Week 0/MD3001 Portfolio Info.md",
-    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
     "conflict-files-obsidian-git.md",
     "MD2002/Lecture Notes/Week 11/Osteoporosis.md",
     "MD3001/Lecture notes/Week 1",

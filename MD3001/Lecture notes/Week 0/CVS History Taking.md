@@ -51,7 +51,7 @@ Risk factors
 		- Cardiac failure, resp (asthma, COPD etc), anaemia etc 
 	- Associated symptoms eg cough, sputum, chest pain, palpitations 
 	- Paroxysmal nocturnal dyspnea (PND)
-	- Orthopnea #tofinish 
+	- Orthopnea 
 - Palpitations
 	- Unexpected awareness of heartbeat in chest
 	- Fast/slow/regular/irregular 

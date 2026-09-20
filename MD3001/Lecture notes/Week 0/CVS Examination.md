@@ -30,10 +30,10 @@ Palpation.
 		- Collapsing pulse - aortic regurgitation
 	- Jugular venous pulse (JVP) assessment
 		- Patient resting at angle of 45 degrees, look for the JVP 
-		- Closely reflects pressure changes within right atrium #tofinish 
+		- Closely reflects pressure changes within right atrium 
 		- ![[Pasted image 20260910163103.png]]
 - BP
-- Praecordium (the bit of chest over the heart) #tofinish 
+- Praecordium (the bit of chest over the heart) 
 	- Heaves - when heart beats, your arm physically lifts up
 	- Murmur
 		- Stenosis (tight valve) or leaky (floppy valve) 
