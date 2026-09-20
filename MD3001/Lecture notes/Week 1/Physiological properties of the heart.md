@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 ![[Pasted image 20260916100948.png]]
 - Red is SAN 

@@ -146,7 +146,7 @@ tags:
 			- Upper 3rd - striated muscle for voluntary swallowing 
 			- Middle 3rd - mixed striated/smooth
 			- Lower 3rd - smooth muscle 
-			- But all ihas stratified squamous epithelium #link 
+			- But all ihas stratified squamous epithelium 
 			- Oesphageal hiatus - T10 - pierces hte diaphragm 
 			- 4 constriction sites - upper oesophageal sphincter, arch of aorta, left main bronchus, diaphragm **![[Pasted image 20260914102433.png]]
 			- Diaphragm acts as part of second sphincter 

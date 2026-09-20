@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 
 ![[Pasted image 20260916091716.png]]

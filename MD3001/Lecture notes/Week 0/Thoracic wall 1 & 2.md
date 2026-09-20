@@ -20,7 +20,7 @@ tags:
 
 ## Thoracic vertebrae 
 - ![[Pasted image 20260910111444.png|333]]
-- Body, pedicles, laminae #link 
+- Body, pedicles, laminae 
 - Ribs are defining characteristic - look for demi facets 
 
 ## Ribs
@@ -39,7 +39,7 @@ tags:
 			- 1st rib 
 				- Deep, nonpalpable 
 				- Short and stubby
-				- Scalene tubercle - scalenus anterior attachment #link ![[Pasted image 20260910112421.png|250]]
+				- Scalene tubercle - scalenus anterior attachment ![[Pasted image 20260910112421.png|250]]
 					- Anterior - groove for subclavian artery
 					- Posterior - groove for subclavian vein
 				- Only articulates w T1 

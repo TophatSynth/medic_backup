@@ -38,7 +38,7 @@ Atria
 	- Opening for SVC, IVC and coronary sinus
 		- Coronary sinus - takes venous blood from heart 
 	- Anterior cardiac veins as well
-	- Fossa ovalis on right side of IA septum #link 
+	- Fossa ovalis on right side of IA septum 
 - Left atrium
 	- Smooth and rough parts 
 	- Rough parts exist in auricles - flappy bits of the heart 

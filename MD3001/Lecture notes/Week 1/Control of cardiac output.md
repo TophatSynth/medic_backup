@@ -1,0 +1,61 @@
+---
+tags:
+---
+Cardiac output = stroke volume * heart rate 
+- ![[Pasted image 20260917160735.png|334]]![[Pasted image 20260919105603.png|337]]
+- Increase in cardiac output requires increase in stroke volume and heart rate
+- But increase in stroke volume after a point requires an increase in preload 
+- Contractility - speed and force of the heart pumping
+- ![[Pasted image 20260919104004.png|306]]
+	- Normally stroke volume is about 70ml (50% of ventricle volume)
+	- Can be modified extrinsically by SNS - eject a greater proportion of blood volume
+	- Intrinsic modifiers - independent of SNS effect
+		- Frank-Starling mechanism - stroke volume stretch caridac muscle - determines degree of actin/myosin overlap - determines force of contraction 
+			- Normal preload is actually too little for optimal contraction - increased preload shifts heart muscle to more optimal levels of stretch → stronger contraction - increases stroke volume
+			- Allows heart to cope with changes in LV volume from things like posture, heavy lifting etc, without SNS intervention
+			- Can still be modified by SNS though ![[Pasted image 20260919105413.png|372]]
+		- Afterload - the pressure in the aorta (mean arterial blood pressure)
+			- LV has to overcome afterload to push blood
+			- Normally well regulated - usually 90-100mmHg 
+				- BUT in things like hypertension, it is increased → heart has to pump harder 
+
+Pulsatile flow from the heart to continuous flow in the systemic circulation 
+- ![[Pasted image 20260919105952.png|394]]
+- As you move through circulation, difference bt systolic/diastolic pressures dampens - change in blood vessel composition 
+	- ![[Pasted image 20260919110104.png|167]]
+	- Aorta - "thick massive and rubbery"
+		- Receives blood from LV, stretches, and elastic recoil squeezes back on the blood to push it forward 
+		- Total peripheral resistance pushes back against the blood being pumped - resistance is so high just distal to the aorta that the pressure only drops from 120 to 80mmHg before LV pumps more blood into it
+	- Distal arteries - less elastic, more connective tissues - more rigid
+	- Capillaries - no stretch
+	- Vascular compliance - the ability of a vessel to go through large changes in volume with low changes in pressure 
+		- Compliant vessels can stretch easily, basically - eg IVC and other veins, aorta less so
+		- ![[Pasted image 20260919110749.png|161]]
+		- Compliance can change with age 
+- Mean arterial blood presure (MABP)
+	- ![[Pasted image 20260919111014.png|312]]
+	- MABP = Diastolic pressure + 1/3 pulse pressure
+	- Pulse pressure = systolic pressure - diastolic pressure
+	- What determines magnitude of pulse pressure?
+		- Stroke volume ← affected by Frank-Starling mechanism, afterload, preload, SNS etc
+		- Speed of ejection of stroke volume 
+		- Arterial compliance 
+- Factor affecting flow of a fluid through a vessel
+	- Viscosity of blood 
+		- ![[Pasted image 20260919112018.png|260]]
+		- Relatively constant physiologically
+		- Determined by hematocrit (volume percentage of RBC's in blood)
+		- Thixotropic fluid - gets less viscous with force - if blood flows down, it gets more viscous - can cause clotting
+	- Vessel length
+		- Also pretty much fixed
+		- Inversely proportional to fluid flow ![[Pasted image 20260919112349.png|255]]
+	- Vessel radius
+		- ![[Pasted image 20260919112440.png]]
+		- Increased radius → increased flow
+		- Can be changed via smooth muscle
+- Poiseuille equation 
+	- ![[Pasted image 20260919112720.png|259]]
+	- Viscosity and length are constant → replaced with constant K 
+	-  Radius^4 → very big determinant of resistance → replace everything with pressure/resistance 
+	- Can be rearranged to show pressure = cardiac outut * total peripheral resistance ![[Pasted image 20260919112735.png|457]]
+	-

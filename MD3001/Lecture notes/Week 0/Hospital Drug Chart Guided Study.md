@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 # Guided study 
 5 R's of medicine safety 
