@@ -17,7 +17,7 @@ ANS stimulation and contractility
 		- PSNS does not decrease inotropy → decrease in inotropic state is absence of SNS 
 	- Increased cAMP → increased Ca influx and faster → heart contracts faster and harder, and relaxes faster 
 - PSNS 
-	- Mainly to SA node and atria #ask 
+	- Mainly to SA node and atria - contractility of the atria 
 - Refractory periods of the heart 
 	- Why is it Na here but Ca before?
 		- Sodium is still needed for the generation of action potentials to open the DHP channel in the first place
