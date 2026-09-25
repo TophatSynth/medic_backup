@@ -44,8 +44,6 @@
     "//Lecture Notes/Lecture Notes/Week 10",
     "//Lecture Notes/Lecture Notes/Week 11",
     "//MD2001/MD2001/Portfolio",
-    "//MD2002/MD2002/Clinical Skills",
-    "//MD2002/MD2002/Case Studies",
     "//MD2002/MD2002/Portfolio",
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 4",
     "//MD2002/MD2002/Lecture Notes/MD2002/Lecture Notes/Week 1",
@@ -66,9 +64,10 @@
     "//MD3001/MD3001/Week 0",
     "/",
     "//MD3001/MD3001/Week 1",
-    "//MD2002/MD2002/Lecture Notes",
     "//MD3001/MD3001/Lecture notes",
-    "//MD3001/MD3001/Lecture notes/MD3001/Lecture notes/Week 1"
+    "//MD3001/MD3001/Lecture notes/MD3001/Lecture notes/Week 2",
+    "//MD3001/MD3001/Lecture notes/MD3001/Lecture notes/Week 1",
+    "//MD3001/MD3001/Lecture notes/MD3001/Lecture notes/Week 0"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

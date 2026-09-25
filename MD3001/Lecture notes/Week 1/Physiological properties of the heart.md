@@ -31,7 +31,7 @@ ANS innervation of the heart
 		- Noradrenaline acts on β1 receptors to increase cAMP production - increases rate of SAN depolariation by increasing permeability of Ca and Na via Ftype channels
 	- PSNS
 		- Acetylcholine on M2 receptors decrease cAMP production 
-		- Does this by hyperpolarising membrane potential by increasing the extend and duration of K channels opening, and affecting Ftype channels 
+		- Does this by hyperpolarising membrane potential by increasing the extend and duration of K channels opening, and decreasing probability of Ftype channels opening 
 - SNS nerves influence both nodes and muscles 
 
 Electrical conduction pathways of the heart

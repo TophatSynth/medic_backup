@@ -49,7 +49,7 @@
 			- Vasomotion - the control of blood flow in tissues via vasoconstriction/vasodilation
 	- Capillaries
 		- Endothelial tube surrounded by basal membrane
-		- Network called capillary bed
+		- Network called capillary bed ^a232fc
 		- Types
 			- Continous
 				- Most common, least permeable

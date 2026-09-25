@@ -40,8 +40,8 @@ tags:
 				- Deep, nonpalpable 
 				- Short and stubby
 				- Scalene tubercle - scalenus anterior attachment ![[Pasted image 20260910112421.png|250]]
-					- Anterior - groove for subclavian artery
-					- Posterior - groove for subclavian vein
+					- Anterior - groove for subclavian vein
+					- Posterior - groove for subclavian artery
 				- Only articulates w T1 
 			- 11/12th rib
 				- Shorter and pointy 

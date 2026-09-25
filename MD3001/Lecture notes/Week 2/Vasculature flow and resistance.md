@@ -49,7 +49,7 @@ Regulation of blood flow
 			- Adrenaline normally causes vasoconstriction, other than in skeletal muscle - causes vasodilation there for more blood/oxygen
 			- Adenosine is a very strong vasodilator - released locally - needs to overpower things like noradrenaline from neural signals so that tissues won't be cut off from blood by SNS
 				- Adenosine is a breakdown product of ATP - use a lot of ATP → adenosine is generated → helps increase blood flow when tissue is working hard
-- #ask metarterioles - bypass capillaries to venules - why? 
+- Metarterioles - bypass capillaries to venules so when the precapillary sphincters constrict, the blood has somewhere to go 
 
 Flow through the microcirculation 
 - ![[Pasted image 20260921094039.png|218]]
