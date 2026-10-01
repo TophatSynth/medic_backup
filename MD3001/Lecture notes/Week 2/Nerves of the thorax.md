@@ -1,12 +1,11 @@
 ---
 tags:
-  - anki
 ---
 ANS pre and post ganglionic neurons 
 - Preganglionic neuron is myelinated, postganglionic neuron is poorly/unmyelinated
 
 Vagus nerves - CNX 
-- Innervation of PSNS for everything from th eneck down to the colon 
+- Innervation of PSNS for everything from the neck down to the colon 
 - Path
 	- Leaves cranial cavity through jugular foramen (with IJV!), descends etween internal jugular vein and internal carotid artery 
 	- As IJV moves more anteriorly, vagus nerve becomes most posterior thing in cartoid sheath
@@ -23,9 +22,9 @@ Vagus nerves - CNX
 
 SNS
 - Paravertebral ganglia - aka sympathetic trunk
-	- These lie on the neck of the ribs right next to the vertebral bodies, outside of the parietal pleura 
+	- These lie on the neck of the ribs right next to the vertebral bodies, outside of the parietal pleura  #ask rib fracture - possible nerve damage?
 	- Spanning from atlas to coccyx 
-		- Spinal nerves will fuse together to form the ganglia - so not exactly 33 ganglia 
+		- Ganglia will fuse together - so not exactly 33 ganglia 
 		- Cervical 
 			- Superior cervical ganglia (C1-4 level)
 				- Quite large and visible
@@ -33,7 +32,6 @@ SNS
 			- Inferior cervical ganglia (C7-8 level)
 				- Fuses with T1 ganglion in 75% of ppl - Stellate ganglion 
 		- Preaortic/prevertebral ganglia
-			- 
 	- SNS neuron routes through ganglia
 		- Lateral horn of spinal cord → ventral root → spinal nerve → ventral ramus → ganglion 
 			- Option 1
@@ -61,9 +59,9 @@ SNS
 					- Inferior mesenteric ganglion - supply hindgut
 					- Each follows their respective artery out
 				- The preganglionic nerves that leave the sympathetic chain are called thoracic splanchnic nerves - 3 nerves
-					- Greater - T5-9 
-					- Lesser - T10-11
-					- Least - T12
+					- Greater - roots T5-9
+					- Lesser - roots T10-11
+					- Least - roots T12
 				- There are lumbar and pelvic splanchnic nerves, but they are postganglionic nerves 
 			- Option 5 
 				- Enters ganglion, exits in a thoracic splanchnic nerve, synapses directly onto specialised cells in the adrenal medulla (chromaffin cells)
@@ -81,7 +79,7 @@ Visceral plexuses
 	- Mixed SNS and PSNS supply 
 - Cardioplumonary plexuses 
 	- Superficial and deep cardiac plexuses - anterior and posterior to arch of aorta
-		- Supplied by cardiopulmonary splanchnic nerves, SNS from T1-5 and PSNS from vagus 
+		- Supplied by cardiopulmonary splanchnic nerves, SNS from T1-5 and PSNS from vagus #ask doesn't this mean the SNS nerves go up then come back down to supply the heart 
 	- Oesophageal plexus 
 	- Pulmonary plexus - around roots of lungs 
 		- SNS from T2-4 and PSNS form vagus 
@@ -89,7 +87,7 @@ Visceral plexuses
 Phrenic nerves
 - Sole motor supply to the diaphragm
 - Sensory for: 
-	- Mediastinal perietal pleura 
+	- Mediastinal parietal pleura 
 	- Parietal and serous visceral pericardium 
 	- Any parts of the peritoneum and pleura related to the central tendon of the diaphragm
 	- Central part of the diaphragm (peripheral sensation comes from segmental spinal nerves/intercostal nerves)

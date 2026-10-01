@@ -1,6 +1,6 @@
 
 Definition
-- Thrombus - solidification of blood contents that forms within the vasuclar system during life
+- Thrombus - solidification of blood contents that forms within the vascular system during life
 - Thrombosis - pathological process where a thrombus forms within the vascular system 
 
 
