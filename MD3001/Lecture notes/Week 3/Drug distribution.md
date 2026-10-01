@@ -1,0 +1,66 @@
+---
+tags:
+  - anki
+---
+Factors that affect drug distribution
+- Cardiac output/blood flow
+- Plasma protein binding
+	- Albumin binding - main plasma binding protein (40g/L #ask )
+		- Lipid soluble drugs bind non-specifically to whole surface of albumin
+		- Weak acids bind to specific site - can be saturated 
+		- Albumin levels can be altered pathologically - temperature, pH, etc![[Pasted image 20261001111803.png]]
+			- Eg dehydrated - higher albumin conc in plasma 
+- Lipid solubility of the drug
+	- Hydrophilic drug distribution rate is dependent on ability to cross membranes
+	- Lipophilic drug distribution rate is more dependent on blood flow - how fast can the drug get to the site since crossing membranes is not an issue 
+- Degree of drug ionisation 
+	- Most drugs are weak acids or bases - ionised:unionised ratio depends on pH → affects whether drug can get across![[Pasted image 20261001112132.png|190]]
+	- Ionised drugs have low lipid solubility → cannot get across cell membranes 
+- pH of compartments 
+- Capillary permeability 
+	- Continuous, fenestrated, sinusoidal
+- Specialised barriers
+	- Eg placental barrier, blood brain barrier, basal membrane 
+	- Basal membrane stops most things from getting into nervous system 
+	- Blood brain barrier
+		- Stops most things from passing through, BUT! can be changed by disease state
+		- Eg meningitis - inflammation means the meninges are now more permeable to drug 
+	- Placenta
+		- Tight endothelial cell junctions in maternal and fetal capillaries
+		- Partially protective, except with:
+			- Lipid soluble drugs
+			- Unionised forms of weak acids and bases
+	- Specialised compartments
+		- Eg avascular tissue compartments
+		- Lungs
+			- Lung infection → local low PO2 and high PCO2 cause vasoconstriction → difficult to get drug in 
+
+Body fluid compartments 
+- 3 compartments ![[Pasted image 20261001113032.png|270]]
+	- Extracellular fluid (15L)
+		- Plasma and interstitial fluids 
+	- Intracellular fluids (27L)
+	- Total body water (42L)
+- Different drugs will be in different compartments
+	- Large water soluble molecules will largely be in ECF bc can't get into ICF easily 
+	- Highly charged molecules or VERY large molecules largely stay in plasma - can't get out of blood vessels easily 
+	- Small water soluble molecules can sometimes just be everywhere 
+- BUT! Other compartments exist! Think bones with bisphosphonates, or drugs that accumulate in fat 
+	- Need to know where drugs are going to be accumulating to accurately assess drug levels 
+- Volume of distribution 
+	- Still need to be able to define the volume of where the drug is present so we can find out drug half life ![[Pasted image 20261001113259.png|200]]
+	- Vd (L or L/kg) = total amount of drug in the body / blood plasma concentration of drug ![[Pasted image 20261001113959.png|357]]
+		- Vd = A/C → A = C * Vd 
+		- If you know the Vd and plasma conc required, you can calculate the total dose needed  
+	- The theoretical volume required to account for the amount of drug put into the body and the amount of drug actually sampled in the blood plasma![[Pasted image 20261001113907.png|254]]
+	- _Theoretical._ Can be larger than the actual volumes of the fluid compartments - could be that the drug is accumulating in bone or fat 
+	- Varies with height, weight, age, fluid accumulation (eg oedema or pleural effusion), fat deposits
+- Single compartment model of distribution  ![[Pasted image 20261001114403.png]]
+	- Assumes drug is confined in a single compartment 
+	- Also assumes rapid mixing of drug and rapid equilibrium 
+	- BUT not all drugs work that way (most do tho)
+		- Two compartment model of distribution ![[Pasted image 20261001114433.png]]
+			- Eg bisphosphonates 
+			- Can have more compartment models (3,4,5 compartment models)
+- Drugs in children 👍
+	- Development in children varies wildly even in the same age, so ppl need to figure out other metrics #ask 

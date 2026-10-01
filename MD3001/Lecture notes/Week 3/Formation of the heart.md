@@ -6,10 +6,10 @@ Teratogenic - outside factors that cause a problem
 
 ![[Pasted image 20260928091253.png|326]]
 Formation of the endocardial tube
-- Early on, nutrition and oxygenation are dne via diffusion, but growth necessitates circulatory system 
+- Early on, nutrition and oxygenation are done via diffusion, but growth necessitates circulatory system 
 - Heart is the first functional organ in the embryo 
 - Around a week beforehand, splanchnic lateral plate mesoderm produces angiogenic cells → heamangioblasts → gather together to form blood islands 
-	- Forms above and around cranial end of the embryo in horseshoe shape - primary heart field - 
+	- Forms above and around cranial end of the embryo in horseshoe shape - primary heart field 
 - Lateral folding brings two sides of endocardial tubes together into single primary heart tube surrounded by pericardial cavity ![[Pasted image 20260928091633.png]]![[Pasted image 20260928091715.png]]
 - Craniocaudal folding brings heart inferiorly from superior to the oropharyngeal membrane into the future thorax ![[Pasted image 20260928091746.png]]
 - Day 22 mycoardial cells inflitrate cardiac jelly - begins contraction and electrical activity → replaces cardiac jelly to become myocardium ![[Pasted image 20260928091802.png]]
@@ -37,35 +37,75 @@ Heart tube
 	- Bulbous cordis → right ventricle
 	- Primitive atrium → both atria 
 	- Erosion and remodlling in ventricular wall leads to trabeculae, beginning of septation, and AV valves
-- Sinus venosus
-	- ![[Pasted image 20260928093320.png|227]]![[Pasted image 20260928093329.png|291]]![[Pasted image 20260928093333.png|238]]
-	- #tofinish 
+	- Sinus venosus
+		- ![[Pasted image 20260928093320.png|227]]![[Pasted image 20260928093333.png|238]]
+		- Common receiving chamber for all veins
+			- Ant/post cardinal veins 
+			- Some dissapear, only some remain — right/left ant cardinal vein, right vitelline vein, 
+			- Left anterior cardinal vein gets subsumed by growing atrium - loses its connection superiorly → becomes coronary sinus just below atrium![[Pasted image 20260928093329.png|237]]
+				- Anterior cardinal veins then form a new connection between crossing the midline - left BCV 
+			- Right umbilical vein just poofs gone 
+			- Left umbilical vein gets subsumed into liver and loses connection to sinus venosus - but then connects to ICV after it's gone through the liver - umbilical vein 
 - Septation
-	- ![[Pasted image 20260928093753.png]]
-	- Endocardial cushion cells ← from neural crest cells
-	- Forms dor/ven endocardial cushions → separate AV canal into L/R AV canal via a definitive AV septum 
-	- #tofinish ventricle septation
+	- Common AV canal → L/R AV canals![[Pasted image 20260928093753.png]]
+		- Endocardial cushion cells ← from invasion of neural crest cells
+		- Forms dor/ven endocardial cushions → separate AV canal into L/R AV canal via a definitive AV septum 
+		- Neural crest cells also contribute to anulus fibrosus 
+	- Ventricle septation ![[Pasted image 20261001102134.png]]
+		- Starts with muscular ingrowth inferiorly - beginning of IV septum![[Pasted image 20261001102154.png|259]]
+		- Superiorly grows the bulboventricular flange - membranous - derived from endocardial cushions
+			- IV septum defects will usually happen here
+		- Both growths pause for about a week - gap between that closes later on - septation of outflow tracts
+			- If it doesn't close, IV septal defect
 	- Atrial septation
-		- Septum primum grows down from the top - hole formed is called ostium primum 
-		- Once the septum primum reaches the endocardial cushions, a region of cells within die to create a second hole #ask whats it called ![[Pasted image 20260928094207.png]]![[Pasted image 20260928094204.png]]
-		- Then, septum secundum starts growing (crescentic growth) from the top, but never fully closes - foramen ovale ![[Pasted image 20260928094154.png]]![[Pasted image 20260928094146.png]]
-			- Atrial septum defect usually probem with septum secundum
-	- Septation of outflow tracts
-		- #tofinish 
-		- Conotruncal ridges begin to form in the outflow tract #ask where? 
+		- Septum primum grows down from the top over about a week - hole formed is called ostium primum 
+		- Once the septum primum reaches the endocardial cushions, a region of cells within die to create a second hole - osteum secundum![[Pasted image 20260928094207.png]]![[Pasted image 20260928094204.png]]
+		- Then, septum secundum starts growing (crescentic growth) from the top slightly to the right of the septum primum, but never fully closes - foramen ovale ![[Pasted image 20260928094154.png]]![[Pasted image 20260928094146.png]]
+			- Foramen ovale lower down than falx septi
+			- Atrial septal defect usually probem with septum secundum - leaves a bigass hole instead of a flap valve
+	- Septation of outflow tracts ![[Pasted image 20261001103938.png]]
+		- Conotruncal ridges begin to form in the outflow tract (conus cordis and trunkus arteriosus) - basically same as endocardial cushions just different name 
+			- Start anterolaterally and posteromedially - divides conus cordis into those portions
 		- They spiral as they grow distally 
-		- #ask persistent trunkus arteriosus - fatal?
+			- Right goes anteriorly and left
+			- Left goes posteriorly and right
+		- Grow distally to meet each other and also inferiorly to connect to membranous part of IV septum
+			- Have to finish outflow tract septation before ventricle septation
+		- If outflow tract doesn't get septated properly - overriding aorta - single outflow tract on top of incomplete IV membrane 
+			- If aorta and pulmonary trunk don't separate - persistent trunkus arteriosus 
+			- Can be fatal, depends on the extent of fusing  
 - Valves
-	- There are dense mesenchymal tissue in the myocardium #tofinish 
+	- AV valves
+		- Basically take the myocardial wall and degrade the tissue around to leave behind the papillary muscles, valves and chordae tendinae ![[Pasted image 20261001102540.png]]
+		- Still covered in endothelium 
 	- Semilunar valves
-		- #tofinish 
-- 
+		- Once the two vessels are separate, tissue in each start dying and leaving behind the valves 
 - Pulmonary vein 
 	- ![[Pasted image 20260928094402.png|254]]
-	- As septum primum is forming, a protrusion form the dorsal mesocardium follows it into the heart - has a primitive pulmonary vein inside 
-	- As it grows in, the pulmonary vein is incorporated into the LA wall - has two branches for each lung that eventually get incorporated into the wall as one
-- Aortic arches
-	- Have 5 gill arches - 1, 2, 3, 4, 6
-	- #tofinish 
-
-#ask lateral and craniocaudal folding 
+	- Dorsal mesocardium starts growing some cells 
+	- As septum primum is forming, a protrusion from the dorsal mesocardium follows it into the heart just to the left - has a primitive pulmonary vein inside 
+	- As it grows in, the pulmonary vein is incorporated into the back of the LA wall - splits into 4 veins (two branches for each lung) that eventually get incorporated into the wall as one
+- Aortic arches ![[Pasted image 20261001104554.png]]
+	- How do we get from 2 aortic arches to just 1?
+	- Humans have 5 aortic arches (fish! :D) - 1, 2, 3, 4, 6 (boooo)
+		- No 5th aortic arch in humans 
+	- Pharyngeal arches → go on to develop face and neck - each arch has its own aortic arch 
+	- Develop in an order 
+		- 1st aortic arch, coming out and forming dorsal aortae ![[Pasted image 20261001105054.png|167]]
+			- Develops intersegmental arteries along it - segmental blood supply like intercostal and lumbar arteries later on
+			- Don't care about most except 7th intersegmental artery - develops opposite upper limb bud - goes into the upper limb bud - subclavian artery
+		- 2nd arch develops slightly caudally to 1st ![[Pasted image 20261001105222.png|181]]
+			- Starting to septate outflow tract ![[Pasted image 20261001105317.png]]
+		- 3rd and 4th arches appear, 1st regresses ![[Pasted image 20261001105345.png|185]]
+			- Longitudinal connections between 1-7th intersegmental arteries extending cranially
+		- 1/2nd arches gone, 6th appears ![[Pasted image 20261001105429.png|209]]
+			- 3rd arch loses connection to dorsal aorta → moves towards head - common carotid
+			- Longitudinal artery keeps growing up into head - vertebral arteries
+		- Septation of outflow tract happens ![[Pasted image 20261001105614.png]]
+			- Pulmonary trunk connects to 6th aortic arches - pulmonary arteries → grow into lungs and lose the right dorsal aortic connection but maintain left one - ductus arteriosus 
+			- ![[Pasted image 20261001105744.png|256]]
+			- Right dorsal aorta dissapears beyond 7th intersegmental artery
+			- 4th aortic arch becoming the aortic arch #ask what happens to left 4th aortic arch?  - proximal part of right subclavain 
+		- ![[Pasted image 20261001105916.png|257]]
+	-  Recurrent laryngeal nerve gets hooked and pulled as heart moves down into thorax 
+		- Caught on 6th aortic arches - right on stops at lungs, left one connects to aorta - asymmetry of the nerve branching 

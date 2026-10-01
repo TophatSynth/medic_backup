@@ -1,0 +1,39 @@
+---
+tags:
+  - anki
+---
+Standardisation 
+- 1cm = 1mV
+- Paper speed 25mm/sec ![[Pasted image 20261001121103.png|403]]
+	- → therefore 1 small square = 0.04s
+	- 5 small squares (1 large square) = 0.2s
+	- 25 small squares (5 large squares) = 1s
+	- R-R interval is bt big spikes
+	- Bpm rate is 300 divided by number of large squares per R-R interval ![[Pasted image 20261001121339.png]]
+- Rhythm 
+	- Normal P waves - <0.25mV, upright in II, III and AVF
+		- If absent - atrial fibrillation or nodal/junctional rhythm
+		- P-mitrale - bifid P wave caused by mitral wave problem caused by LA hypertrophy ![[Pasted image 20261001122822.png|347]]
+		- P-pulmonale - very tall P wave caused by RA hypertrophy ![[Pasted image 20261001122851.png]]
+	- Normal/narrow QRS complex - <120ms 
+		- Wide - >120ms - ventricular conduction defects - bundle branch block 
+		- Low voltage spike <5mm - hypothyroidism, COAD, myocarditis, pericarditis 
+		- Left ventricular hypertrophy - R wave in V5 is be >25mm 
+		- Right ventricular hypertrophy - #tofinish dominant R wave in V1, or T wave inversion in V1-4
+		- Normal Q wave is <40ms wide and <2mm deep ![[Pasted image 20261001123311.png]]
+			- Significant Q wave - >40ms, depth >2mm 
+	- One P wave followed by one QRS complex
+	- Rhythm is regular or irregular? 
+		- QRS is spaced regularly, within 1 small square deviation 
+	- PR interval - normal range 120-200ms
+		- Prolonged - >200ms - delayed AV conduction ![[Pasted image 20261001123222.png]]
+	- QT interval - varies with rate 
+		- Corrected QTc interval = QT divided by sqrt(RR) - normal is 380-420ms 
+	- T wave
+		- Abnormal if inverted in I, II and V4-6
+		- Digoxin effects - T wave inversion and ST segment sloping depression
+	- Axis #tofinish wtf
+		- Normal - upwards deflections in leads I, II, III
+		- Left axis devation - Negative QRS deflections in II and III 
+		- Right axis deviation - Negative QRS deflections in I
+- #tofinish 
