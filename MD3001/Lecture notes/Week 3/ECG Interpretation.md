@@ -2,6 +2,8 @@
 tags:
   - anki
 ---
+Identity
+- Verify patient's name, age, and date/time of ECG 
 Standardisation 
 - 1cm = 1mV
 - Paper speed 25mm/sec ![[Pasted image 20261001121103.png|403]]
@@ -9,31 +11,62 @@ Standardisation
 	- 5 small squares (1 large square) = 0.2s
 	- 25 small squares (5 large squares) = 1s
 	- R-R interval is bt big spikes
-	- Bpm rate is 300 divided by number of large squares per R-R interval ![[Pasted image 20261001121339.png]]
+	- Bpm rate is 300 divided by number of large squares per R-R interval in lead II ![[Pasted image 20261001121339.png|158]]
 - Rhythm 
-	- Normal P waves - <0.25mV, upright in II, III and AVF
-		- If absent - atrial fibrillation or nodal/junctional rhythm
-		- P-mitrale - bifid P wave caused by mitral wave problem caused by LA hypertrophy ![[Pasted image 20261001122822.png|347]]
-		- P-pulmonale - very tall P wave caused by RA hypertrophy ![[Pasted image 20261001122851.png]]
-	- Normal/narrow QRS complex - <120ms 
-		- Wide - >120ms - ventricular conduction defects - bundle branch block 
-		- Low voltage spike <5mm - hypothyroidism, COAD, myocarditis, pericarditis 
-		- Left ventricular hypertrophy - R wave in V5 is be >25mm 
-		- Right ventricular hypertrophy - #tofinish dominant R wave in V1, or T wave inversion in V1-4
-		- Normal Q wave is <40ms wide and <2mm deep ![[Pasted image 20261001123311.png]]
-			- Significant Q wave - >40ms, depth >2mm 
-	- One P wave followed by one QRS complex
-	- Rhythm is regular or irregular? 
-		- QRS is spaced regularly, within 1 small square deviation 
-	- PR interval - normal range 120-200ms
-		- Prolonged - >200ms - delayed AV conduction ![[Pasted image 20261001123222.png]]
-	- QT interval - varies with rate 
-		- Corrected QTc interval = QT divided by sqrt(RR) - normal is 380-420ms 
-	- T wave
-		- Abnormal if inverted in I, II and V4-6
-		- Digoxin effects - T wave inversion and ST segment sloping depression
-	- Axis #tofinish wtf
-		- Normal - upwards deflections in leads I, II, III
-		- Left axis devation - Negative QRS deflections in II and III 
-		- Right axis deviation - Negative QRS deflections in I
-- #tofinish 
+	- Sinus rhythm - normal P waves, narrow QRS complexes, a 1:1 ratio of P waves:QRS complexes, and a regular R-R interval ← normal rhythm
+	- Atrial fibrillation - no discernible P waves, irregularly irregular QRS rhythm 
+	- Atrial flutter - sawtoothed P wave pattern at around 300bpm ![[Pasted image 20261005080510.png|182]]
+	- Nodal rhythm (aka junction rhythm) - normal QRS complex with no P waves ![[Pasted image 20261005080610.png|198]]
+	- Ventricular tachycardia - broad QRS complexes, tachycardia (duh), unidentifiable T waves ![[Pasted image 20261005080712.png|318]]
+- Normal P waves - <0.25mV, upright in leads II, III and AVF
+	- If absent - atrial fibrillation or nodal/junctional rhythm
+	- P-mitrale - bifid P wave caused by mitral wave problem caused by LA hypertrophy ![[Pasted image 20261001122822.png|347]]
+	- P-pulmonale - very tall P wave caused by RA hypertrophy ![[Pasted image 20261001122851.png]]
+- P-R interval - 120-200ms
+	- From the start of the P wave to the start of the Q wave 
+	- Prolonged P-R interval - >200ms - indicates delayed AV conduction 
+	- ![[Pasted image 20261001123222.png]]
+- Normal/narrow QRS complex - <120ms 
+	- Wide - >120ms - ventricular conduction defects - L/R bundle branch block 
+	- Low voltage spike - <5mm - hypothyroidism, COAD, myocarditis, pericarditis, pericardial effusion
+	- Left ventricular hypertrophy - R wave in V5 is >25mm in height 
+	- Right ventricular hypertrophy - dominant R wave in V1, or T wave inversion in V1-4
+		- Dominant R wave - R wave is taller than S wave 
+	- Normal Q wave is <40ms wide and <2mm deep ![[Pasted image 20261001123311.png]]
+		- Significant (pathologic) Q wave - >40ms, depth >2mm 
+- Rhythm is regular or irregular? 
+	- QRS is spaced regularly, within 1 small square deviation 
+- QT interval - varies with rate 
+	- Measured from start of QRS complex to end of T wave
+	- Corrected QTc interval = QT divided by sqrt(RR) - normal is 380-420ms 
+	- Prolonged QT interval - caused by acute MI, bradycardia, head injury, hypothermia and drugs 
+- ST segment
+	- From end of S to start of T ![[Pasted image 20261005081441.png|267]]
+	- Should be isoelectric - at the "normal" level of the ECG
+	- ST elevation - >2mm elevation in 2 adjacent _chest_ leads, OR >1mm elevation in 2 adjacent _limb_ leads ← sign of MI
+	- ST depression - sign of myocardial ischaemia 
+- T wave 
+	- Normally inverted in leads aVR/V1, or in V2 in young individuals
+	- Abnormal if inverted in I, II and V4-6 - ischaemia of infarction 
+	- Digoxin effects - T wave inversion and ST segment sloping depression 
+		- ![[Pasted image 20261005082232.png]]
+- Cardiac axis 
+	- Represents the net sum of all ventricular forces during ventricular depolarisation - ranes between -30 to +90
+		- Normal - upwards deflections in leads I, II, III ![[Pasted image 20261005082221.png|281]]
+	- Left axis devation - Negative QRS deflections in II and III - -30 to -90 - caused by LV hypertrophy or MI ![[Pasted image 20261005082305.png|250]]
+	- Right axis deviation - Negative QRS deflections in I - +90 to +180 - caused by RV hypertrophy, pulmonary embolism or MI ![[Pasted image 20261005082315.png|236]]
+Other shit
+- Acute MI evolution on an ECG 
+	- ![[Pasted image 20261005082334.png|364]]
+	1. T wave peaking, followed by inversion
+	2. ST elevation 
+	3. Appearance of new pathological Q waves 
+- Evolution of STEMI
+	- ![[Pasted image 20261005082359.png|325]]
+- Localising infarctions in MI ECG's
+	- Anterior infarction - inverted T waves in leads V4-6
+	- Anterolateral infarction - raised ST segments in leads V2-6
+	- Inferior infarction - ST depression in AVL and V6
+	- ![[Pasted image 20261005082834.png|248]]
+- Pulmonary embolism - large S wave in I, deep Q wave in III, inverted T wave in III - S1 Q3 T3 pattern 
+- 

@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Teratogenic - outside factors that cause a problem 
 
@@ -101,11 +100,12 @@ Heart tube
 		- 1/2nd arches gone, 6th appears ![[Pasted image 20261001105429.png|209]]
 			- 3rd arch loses connection to dorsal aorta → moves towards head - common carotid
 			- Longitudinal artery keeps growing up into head - vertebral arteries
-		- Septation of outflow tract happens ![[Pasted image 20261001105614.png]]
+		- Septation of outflow tract happens ![[Pasted image 20261001105614.png|186]]
 			- Pulmonary trunk connects to 6th aortic arches - pulmonary arteries → grow into lungs and lose the right dorsal aortic connection but maintain left one - ductus arteriosus 
 			- ![[Pasted image 20261001105744.png|256]]
 			- Right dorsal aorta dissapears beyond 7th intersegmental artery
-			- 4th aortic arch becoming the aortic arch #ask what happens to left 4th aortic arch?  - proximal part of right subclavain 
+			- Right 4th aortic arch becomes the aortic arch 
+			- Left 4th aortic arch becomes proximal part of right subclavain 
 		- ![[Pasted image 20261001105916.png|257]]
 	-  Recurrent laryngeal nerve gets hooked and pulled as heart moves down into thorax 
 		- Caught on 6th aortic arches - right on stops at lungs, left one connects to aorta - asymmetry of the nerve branching 

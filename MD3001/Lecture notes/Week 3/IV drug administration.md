@@ -1,9 +1,8 @@
 ---
 tags:
-  - anki
 ---
 Reasons for IV administration
-- Cannot give in other route - eg oral - body won't absorb
+- Cannot give via other routes - eg oral - body won't absorb
 - Pt cannot tolerate medication by another route - eg unconscious cannot swallow 
 - Rapid onset is needed - oral takes time 
 - Constant, controlled plasma level of medication is needed 
@@ -18,28 +17,29 @@ Disads of IV administration
 - NB - if oral can be used, use oral 
 
 IV administration
-- Site matters - arteries/atrium has a lot more volume to dilute medication than veins - more concentrated exposure 
+- Site matters - arteries/atrium has a lot more volume to dilute medication than veins - more concentrated exposure (sometimes good, sometimes bad)
 - Types of intravascular devices (IVD's)
 	- Peripheral venous catheters 
-		- Catheter tip is quite close to where you insert the catheter #ask yes
+		- Catheter tip is quite close to where you insert the catheter 
 	- Central venous catheters (CVC's) 
 		- Peripherally inserted CVC's - insert peripherally, but can move through to get somewhere else distally ![[Pasted image 20260930101704.png]]
 			- Can only administer one drug at a time 
-			- Likely to need to be moved #ask → infection risk
-		- Skin-tunnel CVC's - goes through the skin first, then tunnels into the vein #ask Hickman/Broviac lines? ![[Pasted image 20260930101727.png|161]]
-			- Can have multiple tubes going through a larger catheter tip #ask 
+			- Likely to need to be moved → infection risk
+		- Skin-tunnel CVC's - goes through the skin first, then tunnels into the vein - also called Hickman/Broviac lines 
+			- ![[Pasted image 20260930101727.png|161]]
+			- Can have multiple tubes going through a larger catheter sheath for multiple drugs at the same time
 	- Arterial catheters 
 		- More for monitoring than for administration #ask bc pressure? 
 	- Syringes, bags, pumps and drivers ![[Pasted image 20260930101923.png]]
-- Methods of administration  #tofinish 
+- Methods of administration  
 	- Continuous infusion 
 		- Done usually over a few minutes
 		- Allows you to monitor response
 		- Needs a continuous level of medication → consistent effect over time - eg GA or HR drugs Needs a fluctuation of levels 
 		- Short half life - if administration stopped, effect stops quickly t→ herefore needs constant medication 
-	- Bolus injection #ask 
+	- Bolus injection 
 		- Rapid response needed 
-		- If there are incompatibilities bt drugs, might need bolus injections of either to prevent interactions #ask 
+		- If there are incompatibilities bt drugs, might need bolus injections of either to prevent interactions 
 		- Unstable drugs - can't be given continuously 
 	- Intermittent infusion 
 		- Regular periods of infusion 
@@ -49,9 +49,9 @@ IV administration
 - Hazards and complications of intravenous therapy 
 	- Fear/phobia/pain ← needles 
 	- Infection risk/sepsis
-	- Thrombophlebitis - eg air thrombus? #ask  
+	- Thrombophlebitis - inflammation of blood vessels caused by thrombus
 	- Infiltration - drug goes into wrong compartment - eg into tissue instead of vessels 
-	- Extravasation - drug itself causing harm to surrounding vessels/tissue #ask  - eg chemotherapy for cancer 
+	- Extravasation - drug goes into wrong compartment and CAUSES HARM to surrounding vessels/tissue - eg chemotherapy for cancer 
 		- Can try to heat up the region to increase blood flow to dilute the drug, or cool down the region to limit spread of damage - depends on the drug
 		- Visual infusion phlebitis score - likelihood for needing to resite #ask need to rmbr? 
 			- ![[Pasted image 20260930103145.png|274]]
@@ -60,12 +60,12 @@ IV administration
 				- Erythematous rash of face, neck and upper torso 
 				- Diffuse burning, itching 
 				- Generalised discomfort 
-			- Eg vancomycin in treatment of MRSA #ask 
+			- Caused by vancomycin in treatment of MRSA 
 				- Syndrome caused by too fast infusion 
 				- Reduce incidence by slowing infusion rate and more dilute drug solution 
 				- Loading dose - high starting dose that you then just top up
 					- Have to be given carefully over time with specific dosage ![[Pasted image 20260930103528.png]]
-	- Insufficient mixing #ask 
+	- Insufficient mixing 
 	- Stability of medicines in solution
 		- Degrades by light, temperature, 
 		- Precipitates if concentration too high or pH different 
@@ -83,10 +83,10 @@ Pharmacokinetics of IV drugs
 - Plasma drug concentrations
 	- If drug is infused at constant rate and none is removed, the graph of plasma concentration against time is a straight line - zero order kinetics ![[Pasted image 20260930104356.png]]
 	- 1st order kinetics - a fraction of drug concentration is removed per unit time, not a set amount of drug 
-		- The amount of drug eliminated per unit time is related to the concentration of drug in the plasma - higher conc, more durg removed; lower conc, less drug removed 
+		- The amount of drug eliminated per unit time is related to the concentration of drug in the plasma - higher conc, more drug removed; lower conc, less drug removed 
 		- Is the case for most drugs 
 		- Therefore the graph of plasma concentration against time for most infusions will bend towards a plateau when the rate in of drug equals the rate out 
-		- Steady state, CSS (concentration at steady state) - equilibrium ![[Pasted image 20260930104754.png]]
+		- Steady state, Css (concentration at steady state) - equilibrium ![[Pasted image 20260930104754.png]]
 			- CL is clearance - volume of blood or plasma cleared of drug in a unit time - NOT the amount of drug removed - is constant while drug eliminated is variable 
 			- ![[Pasted image 20260930104911.png]]
 				- Eg CL = 10ml/min 
@@ -95,5 +95,5 @@ Pharmacokinetics of IV drugs
 			- Css value is equal to rate of drug administration (K0) divided by clearance ![[Pasted image 20260930105227.png]]
 			- Time taken to reach Css depends on elimination half-life (t1/2) - time taken to get to half the amount of drug in plasma ![[Pasted image 20260930105251.png]]
 				- t1/2 of 2 mins means takes 2 mins to half drug amount
-				- Takes about 5 half lives to get to Css #ask always? 
+				- Takes about 5 half lives to get to Css
 			- t1/2 depends directly on volume of distribution (Vd) and inversely on clearance ![[Pasted image 20260930105321.png]]

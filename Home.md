@@ -1,4 +1,4 @@
-
+#ask alun - beta blockers what specifically are they
 
 ```base
 filters:
@@ -12,6 +12,7 @@ filters:
     - '!file.folder.contains("MD2002")'
     - file.folder != "Attachments"
     - file.folder != "Other Notes"
+    - '!file.tags.contains("tostart")'
 properties:
   file.folder:
     displayName: Folder
@@ -30,6 +31,33 @@ views:
         direction: DESC
 
 ```
+
+```base
+filters:
+  and:
+    - '!file.folder.contains("MD2001")'
+    - file.folder != "Attachments"
+    - file.folder != "Other Notes"
+    - file.tags.contains("tostart")
+properties:
+  file.folder:
+    displayName: Folder
+  file.name:
+    displayName: CATCHUP
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+
+```
+
 
 ```base
 filters:

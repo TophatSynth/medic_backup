@@ -1,11 +1,10 @@
 ---
 tags:
-  - anki
 ---
 Factors that affect drug distribution
 - Cardiac output/blood flow
 - Plasma protein binding
-	- Albumin binding - main plasma binding protein (40g/L #ask )
+	- Albumin binding - main plasma binding protein (40g/L in plasma)
 		- Lipid soluble drugs bind non-specifically to whole surface of albumin
 		- Weak acids bind to specific site - can be saturated 
 		- Albumin levels can be altered pathologically - temperature, pH, etc![[Pasted image 20261001111803.png]]
@@ -38,7 +37,8 @@ Factors that affect drug distribution
 Body fluid compartments 
 - 3 compartments ![[Pasted image 20261001113032.png|270]]
 	- Extracellular fluid (15L)
-		- Plasma and interstitial fluids 
+		- Plasma (3L) 
+		- Interstitial fluids (12L) 
 	- Intracellular fluids (27L)
 	- Total body water (42L)
 - Different drugs will be in different compartments
@@ -53,7 +53,7 @@ Body fluid compartments
 		- Vd = A/C → A = C * Vd 
 		- If you know the Vd and plasma conc required, you can calculate the total dose needed  
 	- The theoretical volume required to account for the amount of drug put into the body and the amount of drug actually sampled in the blood plasma![[Pasted image 20261001113907.png|254]]
-	- _Theoretical._ Can be larger than the actual volumes of the fluid compartments - could be that the drug is accumulating in bone or fat 
+	- _The volume is theoretical._ Can be larger than the actual volumes of the fluid compartments - could be that the drug is accumulating in bone or fat 
 	- Varies with height, weight, age, fluid accumulation (eg oedema or pleural effusion), fat deposits
 - Single compartment model of distribution  ![[Pasted image 20261001114403.png]]
 	- Assumes drug is confined in a single compartment 
@@ -63,4 +63,4 @@ Body fluid compartments
 			- Eg bisphosphonates 
 			- Can have more compartment models (3,4,5 compartment models)
 - Drugs in children 👍
-	- Development in children varies wildly even in the same age, so ppl need to figure out other metrics #ask 
+	- Development in children varies wildly even in the same age, so ppl need to figure out other metrics 

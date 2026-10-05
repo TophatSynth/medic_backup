@@ -18,6 +18,11 @@ Basics
 - Exposure/penetration 
 	- _VERY_ white things - probably artefacts, could be prosthetics, or the like 
 
+RIP
+- Rotation
+- Inspiration
+- Penetration
+
 ABC approach to interpreting CXR
 - Start with why are you ordering this test 
 - A - Airway

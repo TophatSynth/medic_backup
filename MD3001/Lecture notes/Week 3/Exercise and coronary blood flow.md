@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Coronary blood flow through LV
 - ![[Pasted image 20260928101158.png|277]]
@@ -32,24 +31,25 @@ Coronary blood flow through LV
 
 Exercise states
 - Static 
-	- Eg weightlifting - muscles engaged for longer periods of time - impinges on vessels 
+	- Eg weightlifting - muscles engaged for longer periods of time - impinges on intramuscular vessels 
 		- TPR therefore increases → massively increase diastolic pressure → massively increase MABP
 		- A lot of local factor buildup that only gets washed away once exercise stops → reactive hyperemia → massive drop in TPR and therefore MABP → can faint
 - Dynamic
 	- Before exercise - already priming body 
-		- MCVC → SNS increase and set point for MABP (slight increase)
+		- MCVC → SNS stimulation and increase set point for MABP (slight increase)
 		- Adrenaline - vasodilation to skm
 	- During moderate, steady exercise 
 		- ![[Pasted image 20260929105046.png|152]]![[Pasted image 20260929105120.png|150]]
 		- MABP - increasing slightly 
 		- TPR - Decreases mildly to considerably due to large amount of skm vessels dilating as well as increase in blood flow to skin 
-			- There _is_ vasoconstriction of other vessels 
+			- There _is_ vasoconstriction of other vessels, just not enough to counteract the sheer amount of vasodilation 
 		- Diastolic blood pressure - likely to stay around the same level (may decrease or increase with the stage/intensity of exercise)
-			- Even though TPR decreases, diastolic BP is also dependent on time taken for the blood to flow between systoles - so doesn't decrease massively ![[Pasted image 20260929104749.png]]
+			- Even though TPR decreases, diastolic BP is also dependent on time taken for the blood to flow between systoles - so doesn't decrease massively ![[Pasted image 20260929104749.png|158]]
 			- Also getting stronger contraction 
 		- Heart rate - increases (duh)
 		- Stroke volume - Mildly increase 
 		- Systolic blood pressure - increased 
+		- 
 		- Renal blood flow - decreased - SNS, not necessary during exercise
 		- Renin release - increased → retain water but also make you thirsty to increase water input 
 		- Venous return also has to increase: 
@@ -57,5 +57,4 @@ Exercise states
 			- Venous constriction 
 			- Breathing - thoracic pressure 
 
-
-#ask roller derby?????????? 
+If you're not very fit, more blood needs to be pumped to your muscles to engage in the same level of exercise ← increased vasodilation → decreased TPR → massively increased cardiac output to maintain level of MABP → increased heart rate and contraction 
