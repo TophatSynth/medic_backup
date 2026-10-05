@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
+                "file": "MD3001/Clinical Skills/Cardiovascular history prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pathophysiology of hypertension"
+              "title": "Cardiovascular history prep"
+            }
+          },
+          {
+            "id": "78d782a2faef5cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autonomic nervous system"
             }
           }
         ],
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -214,9 +227,13 @@
   },
   "active": "621041cd599b947a",
   "lastOpenFiles": [
+    "MD3001/Clinical Skills/Cardiovascular history notes.md",
+    "MD3001/Clinical Skills/Cardiovascular history prep.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
+    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
+    "Attachments/Pasted image 20261005091939.png",
     "MD3001/Lecture notes/Week 4",
     "Home.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
     "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
     "Attachments/Pasted image 20261005082834.png",
     "Attachments/Pasted image 20261005082359.png",
@@ -227,9 +244,7 @@
     "Attachments/Pasted image 20261005082221.png",
     "Attachments/Pasted image 20261005081441.png",
     "Attachments/Pasted image 20261005080712.png",
-    "Attachments/Pasted image 20261005080610.png",
     "MD3001/Lecture notes/Week 2/Normal chest x-ray interpretation.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
     "MD3001/Lecture notes/Week 3/Ischaemic heart disease.md",
     "MD3001/Lecture notes/Week 3/IV drug administration.md",
     "MD3001/Lecture notes/Week 3/Pathophysiology of arrhythmias.md",
@@ -249,7 +264,6 @@
     "MD2001/Clinical Skills/Primary Survey.md",
     "MD2001/Clinical Skills/BLS.md",
     "MD3001/Lecture notes/Week 1/Physiological properties of the heart.md",
-    "MD2002/Lecture Notes/Week 1/Bones and blood of the upper limb.md",
     "MD3001/Tutorials",
     "MD3001/Lecture notes/Week 3",
     "MD3001/Lecture notes/Week 2",
@@ -259,7 +273,6 @@
     "MD3001/Lecture notes",
     "MD3001/Week 1",
     "MD3001/Week 0",
-    "MD3001",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]
