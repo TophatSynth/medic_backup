@@ -43,7 +43,33 @@ Primary hypertension
 - Contributors to systemic hypertension
 	- Increased SNS activity/sensitivity 
 		- Isoprenaline (ISO) - synthetic β agonist
-		- 
+	- RAAS
+		- Angiotensin II 
+			- Causes vasoconstriction, release of ADH from hypothalamus and secretion of aldosterone 
+			- Aldosterone causes Na reabsorption in kidneys 
+	- Circulating factors
+		- Endothelin
+			- Potent endogenous vasoconstrictor - binds to ETA receptors on blood vessel smooth muscle and cardiomyocytes - increases contractility 
+			- ETB - production of nitric oxide - vasodilation 
+				- ![[Pasted image 20261005095351.png]]
+			- Causes Na and H20 excretion in kidneys 
+			- Most common form is endothelin-1 (ET-1)
+			- Local levels may be increased in hypertension, but not circulating concentrations
+		- Nitric oxide
+			- Vasodilator 
+			- Very short half life - local actor 
+			- Chronic regulator of renal blood flow and increases Na excretion 
+		- Reactive O2 species 
+			- Includes superoxide, H2O2 and peroxynitrite 
+			- Hypertension - increased circulating H2O2 
+			- ROS in vasculature → uncouple enzymes that produce NO → decreased vasodilation  
+	- Genetics 
+		- #tofinish 
+Secondary hypertension 
+- #tofinish 
+- Causes #tofinish 
+	- #ask eclampsia 
+	- 
 
 Blood pressure control 
 - Short term
@@ -51,4 +77,9 @@ Blood pressure control
 	- Total peripheral resistance 
 - Long term
 	- Effective circulating volume 
-- 
+
+Consequences of systemic hypertension #tofinish 
+
+Treating systemic hypertension 
+- #tofinish 
+- 10/5 mmHg reduction in BP reduces death greatly 

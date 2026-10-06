@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d89c55dc24fec2fb",
+        "id": "6a30885fe756a7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "20135a7bb0ab5de2",
+            "id": "2af3fc0e3cd2a8cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "621041cd599b947a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD3001/Clinical Skills/Cardiovascular history prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cardiovascular history prep"
-            }
-          },
-          {
-            "id": "78d782a2faef5cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autonomic nervous system"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -225,27 +197,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "621041cd599b947a",
+  "active": "2af3fc0e3cd2a8cd",
   "lastOpenFiles": [
+    "MD3001/Lecture notes/Week 4/Valvular heart disease and endocarditis.md",
+    "Attachments/Pasted image 20261005134555.png",
+    "Attachments/Pasted image 20261005134434.png",
+    "Attachments/Pasted image 20261005134337.png",
+    "Home.md",
+    "MD3001/Tutorials/ECG.md",
+    "MD3001/Lecture notes/Week 3/Ischaemic heart disease.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
+    "Attachments/Pasted image 20261005103713.png",
+    "Attachments/Pasted image 20261005103542.png",
+    "Attachments/Pasted image 20261005103535.png",
+    "Attachments/Pasted image 20261005102832.png",
+    "Attachments/Pasted image 20261005102739.png",
+    "Attachments/Pasted image 20261005102516.png",
+    "Attachments/Pasted image 20261005101342.png",
+    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
     "MD3001/Clinical Skills/Cardiovascular history notes.md",
     "MD3001/Clinical Skills/Cardiovascular history prep.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-    "Attachments/Pasted image 20261005091939.png",
     "MD3001/Lecture notes/Week 4",
-    "Home.md",
     "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
-    "Attachments/Pasted image 20261005082834.png",
-    "Attachments/Pasted image 20261005082359.png",
-    "Attachments/Pasted image 20261005082334.png",
-    "Attachments/Pasted image 20261005082315.png",
-    "Attachments/Pasted image 20261005082305.png",
-    "Attachments/Pasted image 20261005082232.png",
-    "Attachments/Pasted image 20261005082221.png",
-    "Attachments/Pasted image 20261005081441.png",
-    "Attachments/Pasted image 20261005080712.png",
     "MD3001/Lecture notes/Week 2/Normal chest x-ray interpretation.md",
-    "MD3001/Lecture notes/Week 3/Ischaemic heart disease.md",
     "MD3001/Lecture notes/Week 3/IV drug administration.md",
     "MD3001/Lecture notes/Week 3/Pathophysiology of arrhythmias.md",
     "MD3001/Lecture notes/Week 3/Congenital cardiovascular disease.md",
@@ -260,10 +235,6 @@
     "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
     "MD2002/Lecture Notes/Week 7/Cell division.md",
     "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
-    "MD2001/Clinical Skills/Vital Signs.md",
-    "MD2001/Clinical Skills/Primary Survey.md",
-    "MD2001/Clinical Skills/BLS.md",
-    "MD3001/Lecture notes/Week 1/Physiological properties of the heart.md",
     "MD3001/Tutorials",
     "MD3001/Lecture notes/Week 3",
     "MD3001/Lecture notes/Week 2",
