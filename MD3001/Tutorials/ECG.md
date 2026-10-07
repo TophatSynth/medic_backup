@@ -1,12 +1,18 @@
 ---
 tags:
-  - anki
 ---
-Measures electrical activity, not mechanical activity
-Augmented unipolar LEM leads #tofinish 
+# Prep
 
-#ask anatomical axis compared to electrical axis?
-#ask T wave — is it also inverted on TVR?
+![[Pasted image 20261006104611.png|264]]
+- aVR and aVL should have inverted waves
+
+![[Pasted image 20261006121842.png|357]]
+
+
+# Notes
+
+Measures electrical activity, not mechanical activity
+Augmented unipolar leads
 
 Lead II is usually larger - more in line with electrical axis 
 

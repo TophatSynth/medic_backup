@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a30885fe756a7fc",
+        "id": "7e787d77a8635f3c",
         "type": "tabs",
         "children": [
           {
-            "id": "2af3fc0e3cd2a8cd",
+            "id": "048f18a158a9b89f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -197,23 +196,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2af3fc0e3cd2a8cd",
+  "active": "048f18a158a9b89f",
   "lastOpenFiles": [
+    "Portfolio/GP Comms Placement Reflection.md",
+    "Portfolio/QMH Placement Reflection Timothy Cheng.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
+    "Home.md",
+    "MD3001/Tutorials/ECG.md",
+    "Attachments/Pasted image 20261006121842.png",
+    "Attachments/Pasted image 20261006104611.png",
     "MD3001/Lecture notes/Week 4/Valvular heart disease and endocarditis.md",
     "Attachments/Pasted image 20261005134555.png",
     "Attachments/Pasted image 20261005134434.png",
     "Attachments/Pasted image 20261005134337.png",
-    "Home.md",
-    "MD3001/Tutorials/ECG.md",
     "MD3001/Lecture notes/Week 3/Ischaemic heart disease.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
     "Attachments/Pasted image 20261005103713.png",
     "Attachments/Pasted image 20261005103542.png",
     "Attachments/Pasted image 20261005103535.png",
     "Attachments/Pasted image 20261005102832.png",
     "Attachments/Pasted image 20261005102739.png",
-    "Attachments/Pasted image 20261005102516.png",
-    "Attachments/Pasted image 20261005101342.png",
     "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
     "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
     "MD3001/Clinical Skills/Cardiovascular history notes.md",
@@ -234,7 +235,6 @@
     "MD3001/Lecture notes/Week 3/Untitled 1.md",
     "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
     "MD2002/Lecture Notes/Week 7/Cell division.md",
-    "MD2002/Lecture Notes/Week 8/Introduction to pharmacokinetics.md",
     "MD3001/Tutorials",
     "MD3001/Lecture notes/Week 3",
     "MD3001/Lecture notes/Week 2",
