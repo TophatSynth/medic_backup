@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Atherosclerosis 
 - Risk factors
@@ -11,12 +10,13 @@ Atherosclerosis
 	- Infarctions/ischaemic attacks
 	- Aneurysms
 	- Peripheral vascular disease
+		- Reduced blood flow to peripheral blood vessels
 		- Most commonly caused by distal aorta/iliac/femoral arteries → ischaemia of lower limbs 
 		- Effects 
 			- Pain
 			- Ulcers
 			- Gangrene
-			- Intermittent claudication #tofinish 
+			- Intermittent claudication - cramping, pain or fatigue in legs during walking that goes away with rest
 	- Gangrene
 
 
@@ -24,10 +24,15 @@ Aneurysms
 - Localised, permanent, abnormal dilatation of blood vessel or the heart ![[Pasted image 20261001091123.png]]
 - Types: 
 	- Atherosclerotic 
+		- Atherosclerosis causes infarction of the vessel wall cells → weakening of the wall → aneurysm
 	- Dissecting 
-	- Berry 
-	- Micro-aneurysms 
-	- #tofinish extravasating
+		- Tear in tunica intima → blood slips through and starts piercing through other parts of the wall → rupture
+	- Fusiform 
+		- Aneurysm bulges out on all sides
+	- Berry (aka saccular)
+		- Aneurysm bulges out on only one side
+	- False aneurysms
+		- Blood has leaked through both the tunica intima and media, and is held only by the tunica adventitia 
 - Atherosclerotic aneurysms 
 	- Usually from abdominal aorta, distal to renal arteries 
 	- Consequences 
@@ -70,17 +75,18 @@ Vasculitis
 	- Direct attack by circulating antibodies
 - Direct invasion of vascular walls by infectious pathogens 
 - Often part of multi-system disease 
-- Types #tofinish 
-	- Giant-cell (temporal) arteritis age 50, average onset age 70, women > men 
-		- granulomatous inflammation of large to small-sized arteries (temporal, vertebral and ophthalmic)
-		- Cord like nodular thickening
+- Types 
+	- Giant-cell (temporal) arteritis 
+		- Granulomatous inflammation of large to small-sized arteries 
+		- Common in adults over 50 years old, average onset age 70, women > men 
 	- Takayasu arteritis (pulseless disease)
-		- granulomatous vasculitis of medium and larger arteries of upper limbs (+arch of aorta) women age <30
+		- Granulomatous vasculitis of medium and larger arteries of upper limbs and arch of aorta
+		- Common in women aged <30 years old
 	- Polyarteritis nodosa (PAN) 
-		- Medium small size muscular arteries of the kidneys, heart, liver, and gastrointestinal tract are involved
-		- Fibrinoid necrosis could be fatal without steroid treatment 
-	- Kawasaki disease (children < age 4)
-		- High fever, conjunctival and oral lesions. Self-limited
+		- Inflammation of medium small size muscular arteries of the kidneys, heart, liver, and gastrointestinal tract 
+	- Kawasaki disease 
+		- Inflammation of medium sized blood vessels all over the body
+		- Usually affects children < age 4
 
 Vascular tumours
 - Usually benign - angioma and haemangioma

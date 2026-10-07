@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Identity
 - Verify patient's name, age, and date/time of ECG 
@@ -69,4 +68,3 @@ Other shit
 	- Inferior infarction - ST depression in AVL and V6
 	- ![[Pasted image 20261005082834.png|248]]
 - Pulmonary embolism - large S wave in I, deep Q wave in III, inverted T wave in III - S1 Q3 T3 pattern 
-- 

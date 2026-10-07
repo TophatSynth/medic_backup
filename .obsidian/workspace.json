@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e787d77a8635f3c",
+        "id": "9a11c82823c4e9c4",
         "type": "tabs",
         "children": [
           {
-            "id": "048f18a158a9b89f",
+            "id": "e84a2054f4ec3650",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ask",
+                "query": "tag:#tofinish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +88,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -196,12 +197,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "048f18a158a9b89f",
+  "active": "e84a2054f4ec3650",
   "lastOpenFiles": [
+    "MD3001/Lecture notes/Week 4/Systemic disease and CVS.md",
+    "Home.md",
+    "MD3001/Lecture notes/Week 3/Vascular disease.md",
+    "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
+    "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
+    "MD3001/Lecture notes/Week 3/Formation of the heart.md",
+    "MD3001/Lecture notes/Week 4/Pathology of heart failure and CV damage.md",
+    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
     "Portfolio/GP Comms Placement Reflection.md",
     "Portfolio/QMH Placement Reflection Timothy Cheng.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
-    "Home.md",
     "MD3001/Tutorials/ECG.md",
     "Attachments/Pasted image 20261006121842.png",
     "Attachments/Pasted image 20261006104611.png",
@@ -220,7 +228,6 @@
     "MD3001/Clinical Skills/Cardiovascular history notes.md",
     "MD3001/Clinical Skills/Cardiovascular history prep.md",
     "MD3001/Lecture notes/Week 4",
-    "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
     "MD3001/Lecture notes/Week 2/Normal chest x-ray interpretation.md",
     "MD3001/Lecture notes/Week 3/IV drug administration.md",
     "MD3001/Lecture notes/Week 3/Pathophysiology of arrhythmias.md",
@@ -229,12 +236,6 @@
     "MD3001/Lecture notes/Week 1/Control of cardiac output.md",
     "MD3001/Lecture notes/Week 3/Exercise and coronary blood flow.md",
     "MD3001/Lecture notes/Week 3/Pharmacological treatment of angina.md",
-    "MD3001/Lecture notes/Week 3/Formation of the heart.md",
-    "MD3001/Lecture notes/Week 3/Vascular disease.md",
-    "MD3001/Lecture notes/Week 3/Untitled.md",
-    "MD3001/Lecture notes/Week 3/Untitled 1.md",
-    "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
-    "MD2002/Lecture Notes/Week 7/Cell division.md",
     "MD3001/Tutorials",
     "MD3001/Lecture notes/Week 3",
     "MD3001/Lecture notes/Week 2",

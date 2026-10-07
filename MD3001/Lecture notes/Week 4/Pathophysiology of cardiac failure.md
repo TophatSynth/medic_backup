@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Myocardial contractility is called inotropy
 Afterload - the pressure the heart has to overcome to eject blood 
@@ -42,12 +41,12 @@ What drives the development of heart failure?
 	- From ischaemic heart disease, MI, cardiomyopathies, inflammatory cytokines (comorbidity w obesity)
 	- MI types 
 		- Subendothelial 
-			- Atheroscleortic lesion → downstream hypoperfusion 
+			- Atheroscleortic lesion → downstream hypoperfusion → damage only to the small subendothelial layer of myocardium 
 		- Transmural 
-			- Rupture of atherosclerotic plaque → occlusion → infarction 
+			- Rupture of atherosclerotic plaque → occlusion → infarction of the whole myocardium 
 		- Both lead to myocardial cells dying → replaced by fibrotic tissue - non contractile ![[Pasted image 20261005102516.png|439]]
 	- Cardiomyopathies 
-		- Dieseaes of the myocardium - most hvae a genetic cause 
+		- Diseases of the myocardium - most hvae a genetic cause 
 		- Subtypes 
 			- Dilated cardiomyopathies - most common, reduced ejection fraction 
 			- Hypertrophic cardiomyopathies - preserved ejection fraction 
@@ -91,7 +90,7 @@ Problems with compensation in HF
 	- Activation of SNS
 		- Long term increased O2 demand, shortened diastolic filling times 
 		- β adrenoreceptor desensitisation in heart but not in vasculature
-			- Still have vasoconstriction, but reduced heart contraction 
+			- → Still have vasoconstriction, but reduced heart contraction 
 	- Activation of RAAS
 	- Frank-Starling's law compensation 
 	- Ventricular remodelling
