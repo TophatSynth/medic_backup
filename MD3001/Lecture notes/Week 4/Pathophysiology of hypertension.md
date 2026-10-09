@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 33% of ppl worldwide are hypertensive 🫰
 
@@ -25,7 +24,9 @@ Systemic arterial hypertension
 	- Ambulatory blood pressure monitoring (ABPM)
 		- Measured over the course of the day 
 		- Measured twice per hour during waking hours, at least 14 measurements 
-	- Home blood pressure #tofinish 
+	- Home blood pressure 
+		- Measured twice daily, during the day and at night while sitting, for 7 days
+		- Each measurement is 2 recordings, 1 minute apart
 - Classifications 
 	- ![[Pasted image 20261005091939.png|240]]
 	- Stage 1 
@@ -36,7 +37,8 @@ Systemic arterial hypertension
 		- Systolic >= 180, or diastolic >= 120
 
 Primary hypertension 
-- Aka essential/idiopathic hypertension #ask idiopathic?
+- Aka essential/idiopathic hypertension 
+	- Idiopathic - unknown cause
 - ~95% of hypertension cases
 - No apparent single underlying cause ┐(ツ)┌ - combination of multiple things
 	- Weight, lifestyle (diet, exercise, alcohol, smoking etc), genetic factors 
@@ -64,12 +66,19 @@ Primary hypertension
 			- Hypertension - increased circulating H2O2 
 			- ROS in vasculature → uncouple enzymes that produce NO → decreased vasodilation  
 	- Genetics 
-		- #tofinish 
+		- Studies suggest genetic factors account for around 30-50% of BP variance 
+
 Secondary hypertension 
-- #tofinish 
-- Causes #tofinish 
-	- #ask eclampsia 
-	- 
+- ~5% of hpt cases 
+- Identifiable underlying cause 
+- Often presents in patients <25 yo 
+- Causes
+	- Most common cause is chronic kidney disease
+	- Coarctation of the aorta - congenital narrowing of a section of the aorta
+	- Drugs 
+	- Obstructive sleep apnoea 
+- Complications
+	- Preeclampsia - hypertension during pregnancy → causes eclampsia - seizures 
 
 Blood pressure control 
 - Short term
@@ -78,8 +87,14 @@ Blood pressure control
 - Long term
 	- Effective circulating volume 
 
-Consequences of systemic hypertension #tofinish 
+Consequences of systemic hypertension 
+- Heart failure
+- MI
+- Accelerated atherosclerosis
+- Stroke 
+- Retinopathy 
+- Albuminuria 
+- Renal disease
 
 Treating systemic hypertension 
-- #tofinish 
-- 10/5 mmHg reduction in BP reduces death greatly 
+- 10/5 mmHg reduction in BP reduces death greatly ![[Pasted image 20261008145248.png]]

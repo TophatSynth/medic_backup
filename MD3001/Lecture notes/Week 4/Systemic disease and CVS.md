@@ -6,7 +6,9 @@ Hypersensitivity - collateral damage of the body by the immune system
 - Type 3 - immune complexes building up
 - Type 4 - T cells damaging things 
 
-#tofinish amyloidosis 
+Amyloidosis
+- Abnormal deposition of amyloid proteins in tissues and organs 
+- Amyloid proteins - can't be broken down by the body 
 
 A number of cancer chemotherapies are quite damaging to the heart 
 
@@ -21,4 +23,6 @@ Diabetes
 
 Acute kidney damage → high blood potassium → arrhythmia 
 
-#tofinish emphysema 
+Emphysema 
+- Destruction of alveolar walls → loss of lung elasticity and impaired gas exchange 
+- Main component of COPD

@@ -1,0 +1,46 @@
+---
+tags:
+  - anki
+---
+Classifications of dysrhythmias 
+- Atrial/supraventricular 
+- Junctional - associated w AV node
+- Ventricular 
+
+Classes of antidysrhythmic drugs - Vaughan Williams system
+- ![[Pasted image 20261008114326.png|241]]![[Pasted image 20261008114331.png|222]]
+- Class 1 - Na channel blockers 
+	- Binds to the domains of voltage gated Na channels during either the open or inactive state  
+		- Cardiomyocytes must repoloarise to reset channels back to resting state
+	- ![[Pasted image 20261008112852.png|246]]
+	- Subclasses - different ones bind during different states 
+	- Use dependent - effectiveness depends on the firing rate of the channel - more effective when more firing ← higher bpm 
+	- Clinical use #ask how much should I know
+		- Class 1a. Disopyramide (resembles quinidine)
+			- Ventricular dysrhythmias, prevention of recurrent atrial fibrillation triggered by vagal over activity. 
+		- Class 1b. Lignocaine  (given by IV)
+			- Treatment and prevention of ventricular tachycardia and fibrillation during and immediately after MI. 
+		- Classs 1c. Flecainide. 
+			- Suppresses ventricular ectopic beats. Prevents paroxysmal atrial fibrillation and recurrent tachycardias associated with abnormal conducting pathways. 
+- Class 2 drugs - β blockers
+	- Blocks β-1 adrenoreceptors - decrease heart rate 
+		- Also decreases Ca entry in phase 2 → decreased contraction force and depolarisation → decreased cardiac output 
+		- #ask why does it increase the refractory period? - nodal tissues
+	- Sotalol, bisoprolol, atenolol 
+	- Clinical use - reduce mortality following MI and to prevent recurrence of tachycardias due to SNS activity 
+- Class 3 drugs - K channel blockers 
+	- Prolongs the refractory period - can't fire as often ![[Pasted image 20261008113820.png|261]]![[Pasted image 20261008113824.png|195]]
+	- Amiodarone 
+	- Clinical use (amiodarone) - treats Wolff-Parkinson-White syndrome - episodes of tachycardia lasting seconds-hours 
+- Class 4 drugs - Ca L type channel blockers 
+	- Slows conduction through SA and AV nodes → decreases force of contraction of the heart ![[Pasted image 20261008114058.png|241]]
+	- Verapamil 
+	- Clinical use - prevent recurrence of atrial/supravenctricular tachycardias 
+		- Reduces ventricular rate 
+		- BUT! Do Not use in ppl with Wolff-Parkinson-White syndrome!!! Will trigger tachycardia episode
+- Unclassified! ![[Pasted image 20261008114406.png|199]]
+	- Adenosine 
+		- Binds to A1 receptor → inhibits adenylate cyclase activity in myocytes → decreases cAMP activity → decreases Ca channel activity and increases K channel activity → hyperpolarisation and more difficult to depolarise
+	- Digoxin 
+		- Increases vagal efferent activity on the SA node → decreases SA firing rate and reduces conduction velocity through the AV node 
+		- BUT! Too much digoxin can cause buildup of Na in the cell → ectopic beats 

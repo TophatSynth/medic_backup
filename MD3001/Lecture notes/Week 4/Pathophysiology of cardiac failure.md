@@ -59,7 +59,7 @@ What drives the development of heart failure?
 			- ![[Pasted image 20261005102832.png|291]]
 			- More likely to be larger than ASD → HF development is faster 
 		- Increases volume and pressures in RV/RA, leading to dilation and impaired contractility 
-		- Persistent increase in volume and pressure in pulmonary circulation → changes pressure flow to right → left, causing sinosis
+		- Persistent increase in volume and pressure in pulmonary circulation → changes pressure flow to right → left, causing cyanosis
 - Pressure overload 
 	- Hypertension and aortic stenosis 
 - Volume overload
