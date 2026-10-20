@@ -1,5 +1,48 @@
 ---
 tags:
-  - anki
-  - tostart
 ---
+Chronic heart failure management
+- HFrEF 
+	- First line of treatment is drugs and lifestyle management → reduce mortality, prevent deterioration, improve clinical status and QOL 
+	- 4 pillars of HFrEF ![[Pasted image 20261015124117.png]]
+		- Mineralocorticoid receptor antagonists (MRA)
+			- Basically aldosterone antagonists - prevents Na/water reabsorption, ventricular remodelling (therefore is also a diuretic)
+			- Spironolactone 
+			- Can have pretty bad side effects bc inhibits binding of other steroid hormones 
+			- Mechanism![[Pasted image 20261015125608.png]]
+				- Aldosterone binds to mineralocorticoid receptors (MR) → stimulates ROMK channel (K channel for excretion) and ENaC (Na channel for reabsorption) 
+				- Na that's been reabsorbed gets pumped into blood by NaKATPase → water osmoses into blood
+				- MRA's stop all that 👍
+		- ACEi/ARNI/ARB
+		- Beta blockers
+			- Lowering heart rate increases stroke volume by increasing diastolic filling time → increases cardiac output 
+			- Not recommended for decompensated heart failure though 
+		- SGLT2 inhibitors 
+			- Dapagliflozin 
+			- Usually used in diabetes (prevents glucose reabsorption in proximal convoluted tubule), but good for HF treatment and prevention of progression of HF
+			- Mechanism unclear - might help reduce plasma volume and arterial stiffness 
+			- Bc glucose is not being reabsorbed, the body can think it's starving and start burning fat for energy → release of ketones into the blood → risk of DKA
+		- All require gradual titration with BP monitoring throughout  
+	- Digoxin
+		- Cardiac glycoside - inhibits Na-K-ATPase 
+			- Na can no longer exit → accumulation of Na → reversal of Na/Ca exchanger 
+			- Normal Na/Ca exhanger pulls Na into the cell and Ca out of the cell - reverses so Ca is pulled into the cell → improves cardiac contraction 
+	- Mechanism of action - what the drug targets 
+	- Mode of action - the means by which targeting that site leads to therapeutic benefit 
+- HFpEF
+	- Treatment is similar but worse evidence for benefits - just bc "normal" EF is variable in the population and so same drugs will have different effects 
+	- Give MRA, SGLT2 inhibitors and diuretics
+- ![[Pasted image 20261015131120.png]]
+- Decompensated heart failure
+	- Chronic heart failure → rapid and severe decline in symptoms and signs
+	- Goals - normalise ventricular filling pressures, restore adequate tissue perfusion, decongestion 
+	- Treatment depends on cause ![[Pasted image 20261015131302.png]]
+		- Initial management  
+			- Diuretics, vasopressors, positive inotropes 
+				- Loop diuretics usually used, but can add on thiazide diuretics if needed 
+				- Vasopressors - adrenaline/noradrenaline → restore blood flow to heart and vital organs 
+				- Inotropes - β1 agonists
+					- Dobutamine and dopamine - positive inotropy and chronotropy → increased cardiac output
+			- DON'T GIVE BETA BLOCKERS
+		- After stabilisation 
+			- Optimise current treatments for chronic heart failure (either rEF or pEF)

@@ -29,7 +29,7 @@ tags:
 - Middle mediastinum 
 	- ![[Pasted image 20260914091905.png]]
 	- Contains heart, pericardium, origin of great vessels, terminal aprts of SVC and IVC, smaller vessels 
-	- Phrenic nerves curving around pericardium (right goes mostly straight down, left curves around pericardium)
+	- Phrenic nerves curving around pericardium (right goes mostly straight down, left curves around pericardium) ![[Pasted image 20261009115733.png]]
 	- Heart is innervated by vagus nerve branches (PSNS supply)
 	- Pericardium 
 		- Fibrous layer, 2 serous layers inside (parietal and visceral)

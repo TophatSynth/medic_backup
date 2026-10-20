@@ -1,21 +1,19 @@
 ---
 tags:
-  - anki
 ---
+ 
 Angina 
 - Strangling chest pain that can be caused by a lot of different factors
 	- CVD, lungs/pleura, ribs/spine, msucles, GI 
-	- #ask so is it cardiac origin or..... cardiac
+	- Cardiac in origin
 		- Coronary blood flow is insufficient to supply heart with oxygen 
-	- #ask ST elevation?? difference between STEMI/NSTEMI??
-	- 
-- ![[Pasted image 20260930092038.png|293]]
+- Symptoms ![[Pasted image 20260930092038.png|293]]
 	- Heartburn or indigestion 
 	- Chest discomfort that spreads to the jaw, shoulder, arm, back
 	- FEELING OF I M P E N D I N G  D O O M 
 - Treatment 
 	- Reduce myocardial oxygen consumption - drugs
-	- improve coronary flow 
+	- Improve coronary flow 
 	- Percutaneous coronary intervention - stents/balloons
 	- Coronary artery bypass grafting (CABG)
 	- Vasodilator drugs
@@ -24,14 +22,14 @@ Angina
 	- Once in the hospital, 6-15% still die
 
 Index of suspicion that chest pain is ischemic in origin ![[Pasted image 20260930091124.png]]
-- Never assume when diagnosing - gather as much proof as you can 
+- Never assume when diagnosing - gather as much proof as you can  
 
 Atherosclerotic coronary disease 
 - ![[Pasted image 20260930091418.png|193]]
-- #ask unstable angina - critical
 - Can cause: 
 	- Angina 
-	- Unstable coronary syndromes #ask 
+	- Unstable angina (aka unstable coronary syndrome)
+		- Irregular angina that can happen at any time - critical
 	- Chronic coronary insufficiency 
 	- MI 
 	- Heart failure
@@ -46,7 +44,7 @@ Atherosclerotic coronary disease
 - Death rates from CVD are declining though
 
 Admission of patient with chest pain 
-- ![[Pasted image 20260930092752.png|247]] #ask i don't understand the risk bit
+- ![[Pasted image 20260930092752.png|247]] 
 - Start off trying to rule out or confirm cardiac origin - ECG 
 - ![[Pasted image 20260930093053.png]]
 
@@ -55,7 +53,7 @@ Classifications of myocardial infarctions
 - By ECG
 	- ST elevation MI - STEMI 
 	- Non-ST elevation MI - NSTEMI
-- By cause  #tofinish ![[Pasted image 20260930093203.png|253]]
+- By cause  ![[Pasted image 20260930093203.png|253]]
 	- Type 1 MI 
 	- Type 2 MI
 	- Type 3 MI
@@ -77,7 +75,7 @@ Causes of MI
 - Coronary embolism
 - Coronary artery spasm - either environmental or drug cause
 - Coronary anomaly
-- Spontaneous corona rydissection
+- Spontaneous coronary dissection
 
 ![[Pasted image 20260930093953.png]]
 
@@ -88,7 +86,6 @@ Causes of MI
 	- Tall and wide 
 
 Treatment of NSTEMI
-- #ask is ACS the same as NSTEMI? 
 - Antiplatelet therapy (aspirin, clopidogrel)
 - Anti-ischaemics (beta blockers, nitrates)
 - Statins 
@@ -100,5 +97,3 @@ Treatment of NSTEMI
 Diagnosis steps
 1. ECG → STEMI/NSTEMI
 2. Check blood cardiomyocyte marker levels - troponin T or I
-
-#ask what is subcardial ischaemia 

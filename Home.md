@@ -1,21 +1,27 @@
-#ask alun - beta blockers what specifically are they
-
 Guided studies 
-- [ ] Histology of cardiac muscle
-- [ ] Drug formulary
-- [ ] Histology of vasculature
-- [ ] Central lines
-- [ ] Changes to the circulation at birth 
-- [ ] Errors in patient safety 2
-- [ ] Interactive 12 lead ECG
-- [ ] Personal development plan
-- [ ] Blood cultures
-- [ ] Histopathology of myocardial infarction
-- [ ] Infection prevention and control 
-- [ ] Interactive ECG 2
-- [ ] CVS examination 
-- [ ] Cross sectional anatomy of the thorax
-- [ ] Formative MCQ's
+- Porfolio 
+	- [ ] Drug formulary
+	- [x] Personal development plan
+	- [ ] CVS examination
+	- [x] Infection prevention and ncontrol 
+- Histology
+	- [ ] Histology of cardiac muscle
+	- [ ] Histology of vasculature
+	- [ ] Histopathology of myocardial infarction
+	- [ ] Blood cultures
+- ECG
+	- [x] Interactive 12 lead ECG
+	- [x] Interactive ECG 2
+	- [ ] ECG assessment
+- Anatomy
+	- [x] Changes to the circulation at birth 
+	- [x] Cross sectional anatomy of the thorax
+	- [x] Sepsis
+	- [ ] Shock
+- Other
+	- [x] Central lines
+	- [x] Errors in patient safety 2
+	- [ ] Formative MCQ's
 
 ```base
 filters:

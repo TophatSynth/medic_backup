@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Classifications of dysrhythmias 
 - Atrial/supraventricular 
@@ -15,17 +14,11 @@ Classes of antidysrhythmic drugs - Vaughan Williams system
 	- ![[Pasted image 20261008112852.png|246]]
 	- Subclasses - different ones bind during different states 
 	- Use dependent - effectiveness depends on the firing rate of the channel - more effective when more firing ← higher bpm 
-	- Clinical use #ask how much should I know
-		- Class 1a. Disopyramide (resembles quinidine)
-			- Ventricular dysrhythmias, prevention of recurrent atrial fibrillation triggered by vagal over activity. 
-		- Class 1b. Lignocaine  (given by IV)
-			- Treatment and prevention of ventricular tachycardia and fibrillation during and immediately after MI. 
-		- Classs 1c. Flecainide. 
-			- Suppresses ventricular ectopic beats. Prevents paroxysmal atrial fibrillation and recurrent tachycardias associated with abnormal conducting pathways. 
+	- Lignocaine, disopyramide, flecainide
 - Class 2 drugs - β blockers
 	- Blocks β-1 adrenoreceptors - decrease heart rate 
-		- Also decreases Ca entry in phase 2 → decreased contraction force and depolarisation → decreased cardiac output 
-		- #ask why does it increase the refractory period? - nodal tissues
+		- Cardiomyoctes - Also decreases Ca entry in phase 2 → decreased contraction force and depolarisation → decreased cardiac output 
+		- Nodal tissues - also increases the refractory period 
 	- Sotalol, bisoprolol, atenolol 
 	- Clinical use - reduce mortality following MI and to prevent recurrence of tachycardias due to SNS activity 
 - Class 3 drugs - K channel blockers 

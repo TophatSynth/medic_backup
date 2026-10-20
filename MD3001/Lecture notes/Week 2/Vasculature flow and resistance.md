@@ -42,7 +42,9 @@ Regulation of blood flow
 	- Other factors
 		- Nitrous Oxide - key modulator of vascular radius![[Pasted image 20260921093711.png]]
 			- Abnormal shear stress in the endothelial cells → generation of NO from eNOS 
-			- NO as a gas diffuses easily across into the smooth muscle, activates a soluble guanylate cyclase - converts cGTP into cGMP → causes relaxation 
+			- NO as a gas diffuses easily across into the smooth muscle, activates a soluble guanylate cyclase - converts cGTP into cGMP, binds to protein kinase G → causes relaxation 
+				- Protein kinase G inhibits myosin light chain kinase - can't contract 
+				- Also stimulates SERCA - less Ca in the smooth muscle cell 
 			- Happens as a local process in all of your vasculature, but NO-releasing nerves (PSNS) are present only in your genitalia 
 		- Others![[Pasted image 20260921093905.png]]
 			- Decreased oxygen, increased K/CO2/H, bradykinin 

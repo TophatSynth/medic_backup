@@ -73,7 +73,8 @@ Ca channel blockers
 		- Amlodipine 
 - Effect 
 	- Cardiac - decreased contractility, HR, and conduction velocity 
-	- Smooth muscle - decreased coronary artery and peripheral vessel constriction 
+	- Mostly acts smooth muscle - decreased coronary artery and peripheral vessel constriction 
+		- Prevents Ca influx → prevents binding to MLCK and contraction - reduces resistance that the heart has to pump against 
 	- Both contribute to decreased BP 
 
 β1 antagonists

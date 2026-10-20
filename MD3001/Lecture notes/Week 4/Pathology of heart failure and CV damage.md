@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Heart failure is not a single disease - it is a range of things contributing to a common outcome 
 
@@ -20,5 +19,3 @@ Non-pitting oedema
 - Eg from hypothyroidism - extra ECM → oedema that springs back - not true liver 
 
 Decompensation - inability of body to compensate for either chronic or acute condition 
-
-Neoplasia of the heart #tofinish 

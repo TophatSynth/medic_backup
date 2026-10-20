@@ -1,5 +1,77 @@
 ---
 tags:
-  - anki
-  - tostart
 ---
+Factors that affect coronary blood flow 
+- Physiological 
+	- Eg factors affecting time spent in diastole 
+- Pathophysiological 
+
+Angina pectoris 
+- Chronic coronary syndrome that is a product of inadequate myocardial oxygen supply from coronary artery disease 
+	- Either fixed vessel narrowing (vessels stays the same but there's something inside eg plaque) and/or endothelial dysfunction (eg vasoconstriction)
+- Subtypes
+	- Stable
+		- Atherosclerotic lesion - fixed vessel narrowing + endothelial dysfunction 
+		- Episodic, during exertion, relieved by rest 
+	- Unstable
+		- Ruptured atherosclerotic plaque → thrombus formation → partial or complete blockage of blood flow
+		- Symptomatic even at rest
+	- Variant 
+		- No obvious fixed vessel narrowing but rather intense vasospasm 
+	- Stable and variant treated the same way. Unstable very different
+
+Management of angina 
+- The goal is to improve quality of life and life expectance - scope is outside of just drugs 
+	- But with drugs we want to: reduce risk of MI, stroke, and sudden cardiac death; and manage symptoms 
+- 3 lines of treatments to manage symptoms 
+	- Immediate relief 
+		- Short acting nitrates
+			- GTN! 
+				- Prodrug → NO2 → NO 
+				- Vasodilation 
+				- Short half life - ~40mins 
+				- Low bioavailability when given orally ← sublingual
+				- Causes flushing, headaches and lightheadedness 
+			- Mechanisms in general
+				- Predominantly venodilation → reduced venous return → reduced force of contraction → reduced myocardial need 
+				- Also vasodilation - dilates coronary collateral arteries ![[Pasted image 20261015120814.png]]
+					- Not many coronary collateral arteries - secondary effect of nitrates
+	- First line
+		- Beta blockers 
+			- ![[Pasted image 20261015121217.png]]
+			- β1 receptor → Gαs → binds to adenylyl cyclase → increase in cAMP → binds to PKA 
+			- PKA - stimulates SERCA and RYR channel - Ca influx 
+			- PKA also activates Ca L type channels - Ca influx 
+			- ![[Pasted image 20261015121648.png]]
+		- Calcium channel blockers 
+			- 3 types, but we only care about dihydropyridine Ca channel blockers (DHP) - more selective for vascular smooth muscle → vasodilation 
+			- Amlodipine 
+			- Prevents Ca influx → prevents binding to MLCK and contraction - reduces resistance that the heart has to pump against ![[Pasted image 20261015121802.png]]
+	- Second line 
+		- Long acting nitrates
+			- Isosorbide dinitrate/mononitrate 
+			- Same mechanism as GTN, just longer half life
+			- Isosorbide has 100% bioavailability
+		- Potassium channel openers
+			- Nicorandil 
+			- Opens K channels in the vascular smooth muscle cells → K exits cell → hyperpolarises - closes Ca channel → vasodilation ![[Pasted image 20261015122246.png]]
+		- Ranolozine 
+			- Antiarrhythmic drug used for angina
+			- Late inward Na current (INa-L) blocker - delays repolarisation in the myocardium and reduces intracellular Ca concentration → less contractions/force, less O2 demand
+			- Only used once first line treatment have failed - Can cause QT interval prolongation 
+		- Ivabradine
+			- Antiarrhythmic drug also used for angina
+			- Na funny channel blocker 
+			- Reduces rate in SA nodal cells → reduces heart rate
+			- Can cause arrhythmias, so only used once first line treatment fails
+- Management of life expectancy 
+	- Aspirin 
+		- Anticoagulant 
+		- COX-1 inhibitor - prevents platelet aggregation 
+		- Irreversible inhibitor - risks of bleeding, but better than alternative :/ 
+	- ACE inhibitors
+		- Ramipril
+	- ARB's
+	- Statins 
+		- Indicated for all ppl with long term risk of angina
+		- HMG-CoA inhibitor - reduce lipoproteins in blood 

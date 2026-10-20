@@ -29,7 +29,7 @@ IV administration
 			- ![[Pasted image 20260930101727.png|161]]
 			- Can have multiple tubes going through a larger catheter sheath for multiple drugs at the same time
 	- Arterial catheters 
-		- More for monitoring than for administration #ask bc pressure? 
+		- More for monitoring than for administration - drugs flow to tissues first, not good
 	- Syringes, bags, pumps and drivers ![[Pasted image 20260930101923.png]]
 - Methods of administration  
 	- Continuous infusion 
@@ -53,7 +53,7 @@ IV administration
 	- Infiltration - drug goes into wrong compartment - eg into tissue instead of vessels 
 	- Extravasation - drug goes into wrong compartment and CAUSES HARM to surrounding vessels/tissue - eg chemotherapy for cancer 
 		- Can try to heat up the region to increase blood flow to dilute the drug, or cool down the region to limit spread of damage - depends on the drug
-		- Visual infusion phlebitis score - likelihood for needing to resite #ask need to rmbr? 
+		- Visual infusion phlebitis score - likelihood for needing to resite
 			- ![[Pasted image 20260930103145.png|274]]
 		- Red man syndrome ![[Pasted image 20260930103240.png|237]]
 			- Hypersensitivity reaction due to histamine release

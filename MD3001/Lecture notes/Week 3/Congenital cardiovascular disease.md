@@ -1,5 +1,152 @@
 ---
 tags:
-  - anki
-  - tostart
 ---
+Prostaglandin E2 and low O2 keep ductus arteriosus open
+
+Congenital heart diseases
+- Risk factors
+	- Maternal
+		- Rubella infection in the early trimesters → peripheral pulmonary stenosus 
+		- Systemic lupus erythematosus (SLE) → complete heart disease
+		- Diabetes mellitus → increased risk overall
+	- Infant
+		- Down syndrome → AV septal defect
+- Outlook 
+	- Most are fine, needing no or little treatment and live normal lives
+	- A quarter may need surgery within the first 6-12 months of life
+- Classifications
+	- Cyanotic/acyanotic ![[Pasted image 20261012191157.png|310]]
+		- Left to right shunts 
+			- Blood goes left → right in the heart - increased pulmonary blood flow, typically acyanotic
+			- Ventricular septal defect (VSD)
+				- Very common - 20% of congenital heart disease
+				- No definite cause, but family history has higher risk 
+				- Extra blood flow increases pressure in the right heart and lungs 
+				- 2 factors determine effects - size of defect and pulmonary vascular resistance 
+					- VSD's can be small/medium/large
+					- Most small defects resolve by themselves 
+					- Med/large → likely need treatment 
+					- With large defects, only the pressure differences will matter - changes in pulmonary resistance will mean the problem develops gradually
+						- Initially will be compensated, and then leads to heart failure
+						- Symptoms 
+							- Tired when feeding → poor feeding and poor weight gain/growth
+							- Tachypnoea
+							- Tachycardia
+							- Pallor 
+							- Sweating ← red flag
+				- Murmur
+					- May not be a murmur in new infants as pulmonary resistance may still be high 
+					- Checking at lower left sternal edge 
+					- Pansystolic murmur - audible throughout systole
+					- Small defect may give louder murmur, large may have no murmur at all 
+				- Investigation/diagnosis
+					- CXR 
+						- Cardiac enlargement in large VSD
+						- Increased pulmonary vascular markings 
+						- LV hypertrophy
+					- Echo - shows the actual hole
+				- Management
+					- Small - observe and wait
+					- Large - surgery 
+						- Need to give diuretics and high calorie formula first 
+						- Usually done by 6-9 months old
+				- Eisenmenger syndrome 
+					- If hole isn't closed → high pressure can damage lungs → reversal of pressure due to backflow of blood → sudden cyanosis at 2-3 years old
+			- Atrial septal defect (ASD)
+				- 7% of all congenital heart defects 
+				- Small ASD → usually closes on its own 
+				- Investigation
+					- Systolic murmur in pulmonary area - increased blood flow across pulmonary valve 
+					- Echo
+				- Treatment
+					- Depends
+					- Larger ASD's may need surgery 
+			- Patent ductus arteriosus (PDA)
+				- Usually closes within first 48 hours - prostaglandins and oxygen 
+				- Occurs in 1-2 per 1000 births but much more common in preterm babies (8 per 1000)
+				- At birth, pulmonary resistance falls and systemic resistance rises → blood rushes through ductus arteriosus (left to right) - depends on presure difference and size of duct
+					- Causes pulmonary oedema, pulmonary haemorrhage, respiratory distress syndrome 
+					- Causes decreased systemic perfusion → may cause increased incidence of necrotising enterocolitis - very serious condition - distended abdomen, septic and ischaemic gut
+					- Clinical features
+						- Increased pulmonary fluid → increased respiratory infections
+						- Failure to thrive
+						- Bounding peripheral pulses
+						- Continuous murmur - heard just beneath the left clavicle 
+					- Treatment
+						- Preterm infants 
+							- Optimise ventilation (non invasive) and apply cautious fluid limits, and wait for it to get better
+							- But if too bad → medicines is first line, then surgery 
+								- Ibuprofen (NSAID'S!) - less prostaglandins, less problem - however can also cause gut bleeds 
+		- Right to left shunts 
+			- Guess. 
+			- May be cyanotic
+			- Eg Tetralogy of Fallot (TOF)
+				- Combination of four defects 
+					- Ventricular septal defect 
+					- Overriding aorta that sits above the VSD
+					- Pulmonary outflow obstruction 
+					- RV hypertrophy ![[Pasted image 20261012194234.png]]
+				- Cyanotic
+				- 4-9% of all congenital heart diseases and 30% of all cyanotic lesions
+				- Degree of pulmonary obstruction determines whether infant is cyanotic
+				- Investigation
+					- History of abnormality on echo
+					- Loud systolic murmur at upper left sternal border 
+					- CXR - RV hypertrophy - "boot shaped heart" - likely won't see it ![[Pasted image 20261012194735.png]]
+					- Echo
+					- Sometimes very small babies have hypoxic episodes (aka "tet spells") - sudden drop in O2 saturation 
+						- Triggered by spasm of RV or fall in systemic pressure 
+						- Older children may squat down to help increase systemic resistance
+				- Treatment
+					- Surgical closure of VSD and opening of right ventricular outflow tract - sometimes with bypass around pulmonary valve 
+		- Valvular - 3 types
+			- Atresia - valve hole just doesn't form - blood can't flow👍
+			- Stenosis 
+			- Regurgitation
+		- Obstructive valvular 
+			- Pulmonary valve stenosis 
+				- 7-12% of congenital heart defects - most common valve defect 
+				- Can be congenital or acquired 
+				- Usually seen in conjunction with other syndromes
+				- Causes RV strain 
+				- Usually asymptomatic
+					- Severe → exertional dyspnoea, fatigue, chest pain, syncope 
+					- Causes older babies to have heart failure
+				- Diagnosis
+					- Ejection systolic murmur in upper left sternal edge
+					- Delayed second heart sound 
+				- Treatment
+					- Baloon valvuloplasty 
+						- ![[Pasted image 20261012200115.png]]
+			- Aortic valve stenosis
+				- Ejection systolic murmur in upper right sternal edge
+		- Non-valvular lesions 
+			- Coarctation of aorta 
+				- Narrowing of aorta, usually at insertion of ductus arteriosus
+				- 5-8% of congenital heart defects 
+				- Cause? no clue. 
+					- May be due to underlying hypoplasia of aortic arch or ductus arteriosus closure constricting the aorta 
+				- Presentation
+					- Examination may be normal on first day of life, then very bad two days later 
+						- Severe heart failure, absent femoral pulses, severe metabolic acidosis
+					- Smaller child - low output heart failure, shock, collapse
+					- Radiofemoral delay in older children - blood flowing through anastomoses to get to femoral artery so there is a delay between pulses in radius and femur
+				- Investigation
+					- Echo
+				- Treatment
+					- Administer prostaglandin (alprostadil) to maintain ductal patency 
+					- Surgical repair of aorta 
+
+5 symptoms of congenital heart disease
+- Antenatal cardiac ultrasound presents abnormally
+	- Ultrasound at 20 week's gestation can diagnose 70% of infants who would require surgery in the first 6 months of life 
+- Heart murmur
+- Cyanosis
+- Heart failure
+- Shock 
+
+Heart murmurs in a child
+- ![[Pasted image 20261012201209.png|371]]![[Pasted image 20261012201300.png]]![[Pasted image 20261012201448.png]]
+
+Heart failure symptoms and signs in infants
+- ![[Pasted image 20261012201655.png]]

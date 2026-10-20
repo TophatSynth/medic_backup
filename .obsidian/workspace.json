@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7138d082e185989b",
+        "id": "e0eb3eb5bee543f9",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9b10857a97cc4f",
+            "id": "191951f17682cf7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "b5fd7dc5e4a2b721",
+            "id": "339566acc41fe181",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,11 +88,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 243,
     "collapsed": true
   },
   "right": {
@@ -197,45 +197,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cc9b10857a97cc4f",
+  "active": "191951f17682cf7b",
   "lastOpenFiles": [
-    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
+    "Vaccination and immunisation.md",
+    "Attachments/Pasted image 20261020160423.png",
     "Home.md",
-    "MD3001/Lecture notes/Week 4/Clinical management of sepsis.md",
-    "MD3001/Lecture notes/Week 4/Pharmacological treatment of cardiac failure.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
-    "Attachments/Pasted image 20261008145248.png",
-    "MD3001/Lecture notes/Week 4/Pharmacological treatment of hypertension.md",
-    "MD3001/Lecture notes/Week 4/Systemic disease and CVS.md",
-    "MD3001/Clinical Skills/Cardiovascular history notes.md",
-    "MD3001/Clinical Skills/Cardiovascular history prep.md",
-    "Attachments/Pasted image 20261008124635.png",
-    "Attachments/Pasted image 20261008124622.png",
-    "Attachments/Pasted image 20261008124610.png",
-    "Attachments/Pasted image 20261008124601.png",
-    "Attachments/Pasted image 20261008124550.png",
-    "Attachments/Pasted image 20261008124542.png",
-    "Attachments/Pasted image 20261008124532.png",
-    "Attachments/Pasted image 20261008123006.png",
-    "Attachments/Pasted image 20261008122641.png",
-    "MD3001/Lecture notes/Week 1/Physiological properties of the heart.md",
-    "Pharmacological treatment of dysrhythmias.md",
-    "MD3001/Lecture notes/Week 3/Vascular disease.md",
-    "MD2002/Lecture Notes/Week 5/Thrombosis, embolism and infarction.md",
-    "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
-    "MD3001/Lecture notes/Week 3/Formation of the heart.md",
-    "MD3001/Lecture notes/Week 4/Pathology of heart failure and CV damage.md",
-    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
-    "Portfolio/GP Comms Placement Reflection.md",
-    "Portfolio/QMH Placement Reflection Timothy Cheng.md",
-    "MD3001/Tutorials/ECG.md",
-    "MD3001/Lecture notes/Week 4/Valvular heart disease and endocarditis.md",
-    "MD3001/Lecture notes/Week 3/Ischaemic heart disease.md",
-    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
-    "MD3001/Lecture notes/Week 4",
-    "MD3001/Lecture notes/Week 2/Normal chest x-ray interpretation.md",
-    "MD3001/Lecture notes/Week 3/IV drug administration.md",
+    "MD3001/Lecture notes/Week 5/Genetics in cardiology.md",
+    "The impact of heart disease on quality of life.md",
+    "Attachments/Pasted image 20261020140226.png",
+    "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
     "MD3001/Lecture notes/Week 3/Pathophysiology of arrhythmias.md",
+    "MD3001/Tutorials/Interactive ECG 2.md",
+    "Attachments/Pasted image 20261020112546.png",
+    "MD3001/Clinical Skills/Cardiovascular examination.md",
+    "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
+    "Attachments/Pasted image 20261020111848.png",
+    "Attachments/Pasted image 20261020110637.png",
+    "MD3001/Lecture notes/Week 4/Pharmacological treatment of dysrhythmias.md",
+    "Attachments/Pasted image 20261020104444.png",
+    "Attachments/Pasted image 20261020103952.png",
+    "Attachments/Pasted image 20261020103350.png",
+    "Attachments/Pasted image 20261020103038.png",
+    "Attachments/Pasted image 20261020102754.png",
+    "MD3001/Lecture notes/Week 4/Pharmacological treatment of cardiac failure.md",
+    "MD3001/Lecture notes/Week 3/Congenital cardiovascular disease.md",
+    "Sudden death clinical case.md",
+    "MD3001/Lecture notes/Week 5/Epidemiology of CHD.md",
+    "MD3001/Lecture notes/Week 2/Control of blood volume.md",
+    "MD3001/Lecture notes/Week 4/Pharmacological treatment of hypertension.md",
+    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
+    "Clinical treating of cardiovascular patients.md",
+    "MD3001/Lecture notes/Week 3/Exercise and coronary blood flow.md",
+    "MD3001/Lecture notes/Week 3/Pharmacological treatment of angina.md",
+    "MD3001/Lecture notes/Week 3/Untitled 1.md",
+    "MD3001/Lecture notes/Week 3/Untitled.md",
+    "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
+    "MD2002/Lecture Notes/Week 4/Cholesterol lowering drugs.md",
+    "MD3001/Lecture notes/Week 4/Clinical management of sepsis.md",
+    "MD2002/Lecture Notes/Week 1/Excitation-contraction coupling.md",
+    "MD3001/Lecture notes/Week 5",
+    "MD3001/Lecture notes/Week 4",
     "MD3001/Tutorials",
     "MD3001/Lecture notes/Week 3",
     "MD3001/Lecture notes/Week 2",
@@ -244,7 +245,6 @@
     "MD3001/Lecture notes/Week 0",
     "MD3001/Lecture notes",
     "MD3001/Week 1",
-    "MD3001/Week 0",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

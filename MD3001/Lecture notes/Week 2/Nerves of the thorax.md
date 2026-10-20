@@ -22,7 +22,7 @@ Vagus nerves - CNX
 
 SNS
 - Paravertebral ganglia - aka sympathetic trunk
-	- These lie on the neck of the ribs right next to the vertebral bodies, outside of the parietal pleura  #ask rib fracture - possible nerve damage?
+	- These lie on the neck of the ribs right next to the vertebral bodies, outside of the parietal pleura
 	- Spanning from atlas to coccyx 
 		- Ganglia will fuse together - so not exactly 33 ganglia 
 		- Cervical 
@@ -79,7 +79,7 @@ Visceral plexuses
 	- Mixed SNS and PSNS supply 
 - Cardioplumonary plexuses 
 	- Superficial and deep cardiac plexuses - anterior and posterior to arch of aorta
-		- Supplied by cardiopulmonary splanchnic nerves, SNS from T1-5 and PSNS from vagus #ask doesn't this mean the SNS nerves go up then come back down to supply the heart 
+		- Supplied by cardiopulmonary splanchnic nerves, SNS from T1-5 and PSNS from vagus 
 	- Oesophageal plexus 
 	- Pulmonary plexus - around roots of lungs 
 		- SNS from T2-4 and PSNS form vagus 

@@ -1,5 +1,44 @@
 ---
 tags:
-  - anki
-  - tostart
 ---
+Sepsis 
+- Any systemic infection with multiorgan failure
+- "Life threatening organ dysfunction caused by a dysregulated host response to infection"
+	- Septic shock - subset of sepsis - persistent hypotension requiring vasopressors to maintain MABP of >=65mmHg
+- Risk factors 
+	- Immunocompromised
+	- Elderly, very young
+	- Loss of skin integrity 
+- Pathogens
+	- ![[Pasted image 20261015141431.png]]
+- Presentation 
+	- Wide range of symptoms and signs, can be local or systemic ┐(ツ)┌
+	- qSOFA - "15 22 00"
+		- GCS <15, resp rate >22/min, systolic BP <100
+- Pathophysiology
+	- ?????????
+- Management 
+	- Resuscitation (ABCDE)
+		- Airway, breathing, circulation, disability, exposure
+	- Early antibiotics
+		- SEPSIS 6 
+		- Golden hour
+	- Triage - what is the appropraite place of care? 
+		- 3 levels 
+			- Level 1 - wards 
+			- Level 2 - high dependency unit (HDU)
+			- Level 3 - ICU
+- Investigation
+	- Blood tests - FBC, CRP, fibrinogen 
+	- Blood cultures 
+	- CXR 
+	- ECG
+	- SEPSIS-6 ![[Pasted image 20261015142617.png]]![[Pasted image 20261015142650.png]]
+		- Oxygen, blood cultures 
+		- IV antibiotics and fluids 
+			- Fluids - need to maintain hydrostatic gradient to maintain perfusion to vital organs 
+				- However, capillaries are more leaky in sepsis → can cause pulmonary oedema if too much fluid given 
+				- Fluid challenge! - 20mls/kg in doses and assess between doses 
+			- Antibiotics 
+				- If you don't know what bacteria is the problem, start with general antibiotics and change to narrow spectrum as soon as you can 
+		- Strict fluid balance (urine output balanced w fluid input) and serum lactate/haemoglobin
