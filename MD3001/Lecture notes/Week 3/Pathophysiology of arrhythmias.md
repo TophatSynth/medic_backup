@@ -76,7 +76,7 @@ Bradycardias
 	- Can also be used post MI or as prophylaxis before surgery 
 
 Long QT syndrome 
-- Tall tented T wave
+- Tall tented T wave - hyperkalaemi
 - Torsade de Pointes 
 	- Ventricular tachycardia that can cause sudden death 
 	- Associated with QT interval prolongation and QRS amplitude that varies ![[Pasted image 20261020110637.png]]

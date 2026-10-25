@@ -85,9 +85,9 @@ views:
 ```base
 filters:
   and:
-    - file.ctime > now() - "9 days"
+    - file.mtime > now() - "14 days"
     - not:
-        - file.infolder('Attachments')
+        - file.inFolder("Attachments")
     - file.name != "Home"
 properties:
   file.folder:
