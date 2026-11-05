@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd59c8685c2cbddc",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf09ae602de7a27",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD3001/Drug formulary/Lisinopril.md",
+                "file": "MD3001/Lecture notes/Week 7/Larynx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lisinopril"
-            }
-          },
-          {
-            "id": "763b2cd5c560caf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD3001/Lecture notes/Week 3/Pharmacological treatment of angina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pharmacological treatment of angina"
-            }
-          },
-          {
-            "id": "12c6da608e32e795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MD3001/Lecture notes/Week 4/Pharmacological treatment of cardiac failure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pharmacological treatment of cardiac failure"
+              "title": "Larynx"
             }
           }
         ]
@@ -106,7 +78,7 @@
             }
           },
           {
-            "id": "f613d796bbf9653d",
+            "id": "88b9c7ecfa66d5dc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,6 +175,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7e0bd303c835468c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 4
@@ -225,45 +207,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6bf09ae602de7a27",
+  "active": "d05f84a06f56fd52",
   "lastOpenFiles": [
     "Home.md",
-    "MD3001/Drug formulary/Lisinopril.md",
+    "MD3001/Lecture notes/Week 8/Acid base balance.md",
+    "Attachments/Pasted image 20261105142128.png",
+    "Attachments/Pasted image 20261105140138.png",
+    "Attachments/Pasted image 20261105135641.png",
+    "Attachments/Pasted image 20261105135535.png",
+    "Attachments/Pasted image 20261105135439.png",
+    "Attachments/Pasted image 20261105135024.png",
+    "Attachments/Pasted image 20261105134936.png",
+    "Attachments/Pasted image 20261105134856.png",
+    "Attachments/Pasted image 20261105134846.png",
+    "MD3001/Lecture notes/Week 8/Pulmonary circulation.md",
+    "Attachments/Pasted image 20261105115244.png",
+    "MD3001/Lecture notes/Week 8/Control of breathing.md",
+    "MD3001/Lecture notes/Week 8/Gas transport.md",
+    "MD3001/Lecture notes/Week 7/Physics of breathing.md",
+    "MD3001/Lecture notes/Week 8/Ventillation and diffusion.md",
+    "MD3001/Lecture notes/Week 8/Development of respiratory system.md",
+    "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
+    "MD3001/Lecture notes/Week 8",
+    "MD3001/Lecture notes/Week 7/Trachea, bronchial tree and lungs.md",
+    "MD3001/Lecture notes/Week 7/Diaphragm, surface anatomy of the neck.md",
+    "MD3001/Lecture notes/Week 7/Diaphragm, mechanics of breathing, surface projections.md",
+    "MD3001/Lecture notes/Week 7/Larynx.md",
+    "MD3001/Clinical Skills/Cardiovascular examination.md",
+    "MD3001/Clinical Skills/Cardiovascular history prep.md",
+    "MD3001/Clinical Skills/Cardiovascular history notes.md",
+    "MD3001/Lecture notes/Week 7/Nasal cavity, paranasal sinuses, nasopharynx.md",
+    "MD3001/Lecture notes/Week 7/Respiratory and drug history taking.md",
+    "MD3001/Lecture notes/Week 7/Respiratory examination.md",
+    "MD3001/Lecture notes/Week 7/Examination of the respiratory system.md",
+    "MD3001/Lecture notes/Week 0/CVS History Taking.md",
+    "MD3001/Lecture notes/Week 5/Clinical treating of cardiovascular patients.md",
+    "MD3001/Lecture notes/Week 5/Vaccination and immunisation.md",
+    "Sudden death clinical case.md",
+    "MD3001/Lecture notes/Week 7",
     "MD3001/Lecture notes/Week 4/Pharmacological treatment of cardiac failure.md",
-    "MD3001/Lecture notes/Week 3/Pharmacological treatment of angina.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of hypertension.md",
-    "MD3001/Lecture notes/Week 4/Pathology of heart failure and CV damage.md",
     "MD3001/Drug formulary",
-    "Untitled.md",
-    "MD3001/Lecture notes/Week 3/Congenital cardiovascular disease.md",
-    "MD3001/Tutorials/ECG.md",
-    "MD3001/Lecture notes/Week 3/Pathophysiology of arrhythmias.md",
-    "MD2002/Lecture Notes/Week 10/Molecular patterning during development.md",
-    "MD3001/Lecture notes/Week 4/Pathophysiology of cardiac failure.md",
-    "MD3001/Lecture notes/Week 3/ECG Interpretation.md",
-    "Clinical treating of cardiovascular patients.md",
-    "MD3001/Lecture notes/Week 1/Coronary circulation and conduction.md",
-    "MD3001/Lecture notes/Week 4/Valvular heart disease and endocarditis.md",
-    "MD3001/Lecture notes/Week 4/Pharmacological treatment of dysrhythmias.md",
-    "MD2002/Lecture Notes/Week 4/Atherosclerosis.md",
-    "MD3001/Lecture notes/Week 3/Vascular disease.md",
-    "MD3001/Lecture notes/Week 1/Thoracic Cavity.md",
-    "MD3001/Lecture notes/Week 0/Thoracic wall 1 & 2.md",
-    "MD3001/Lecture notes/Week 1/Heart internal structure and surface anatomy.md",
-    "Vaccination and immunisation.md",
-    "Attachments/Pasted image 20261020160423.png",
-    "MD3001/Lecture notes/Week 5/Genetics in cardiology.md",
-    "The impact of heart disease on quality of life.md",
-    "Attachments/Pasted image 20261020140226.png",
-    "MD2002/Lecture Notes/Week 2/Metabolic Stores.md",
-    "Attachments/Pasted image 20261020112546.png",
-    "Attachments/Pasted image 20261020111848.png",
-    "Attachments/Pasted image 20261020110637.png",
-    "Attachments/Pasted image 20261020104444.png",
-    "Attachments/Pasted image 20261020103952.png",
-    "Attachments/Pasted image 20261020103350.png",
-    "Attachments/Pasted image 20261020103038.png",
-    "Attachments/Pasted image 20261020102754.png",
     "MD3001/Lecture notes/Week 5",
     "MD3001/Lecture notes/Week 4",
     "MD3001/Tutorials",
@@ -271,8 +254,6 @@
     "MD3001/Lecture notes/Week 2",
     "MD3001/Clinical Skills",
     "MD3001/Lecture notes/Week 1",
-    "MD3001/Lecture notes/Week 0",
-    "MD3001/Lecture notes",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

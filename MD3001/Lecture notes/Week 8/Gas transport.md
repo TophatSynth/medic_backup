@@ -1,0 +1,62 @@
+---
+tags:
+  - anki
+---
+![[Pasted image 20261104090807.png]]
+#ask are these plasma values or HbA values? 
+
+Oxygen not very soluble in water - would need an extremely high cardiac output to get enough oxygen to tissues
+- Therefore we use haemoglobin ![[Pasted image 20261104091619.png|313]]
+	- Haemoglobin is a tetramer - 4 subunits - 2 α and 2 β 
+	- Fetal haemoglobin (HbF) - has γ subunits instead of β
+	- 4 oxygen molecules per HbA molecule
+	- 2 "Moods" of haemoglobin
+		- Tense - Low affinity for oxygen 
+		- Relaxed - High affinity for oxygen
+	- Tense until first oxygen molecule binds - difficult for the first O2 to bind, but gets progressively easier with more O2 binding ← cooperative binding 
+		- Oxygen-haemoglobin dissociation curve ![[Pasted image 20261104091920.png|323]]
+		- Initially difficult → easier as more O2 binds → plateaus as saturation is reached - sigmoidal curve
+		- Below 1kPa - difficult to bind 
+		- Above 9-10kPa - saturated 
+		- Half saturated at 3.5-4kPa 
+		- #ask but alveolar PaO2 is not blood PaO2 right?
+		- #ask PO2 and PaO2 
+		- ![[Pasted image 20261104092322.png]]
+		- #ask why 235ml? 
+		- The pressure in the lungs is ~13kPa and the pressure in the tissues is around 5kPa at rest - haemoglobin is going to bind to oxygen in the lungs and is going to release it in the tissues![[Pasted image 20261104092513.png]]
+			- At rest, HbA saturation only drops by 35% - more than half is still bound - bc tissues don't need as much oxygen 
+			- But during exercise, the pO2 in tissues is much lower → strips more oxygen off the HbA
+				- So how low can tissue PaO2 get? - can only go down to 3kPa bc need O2 in tissues to create concentration gradient from capillary to mitochondria 
+				- Exceptions are very metabolically active tissues w/ a lot of capillaries - can get lower 
+				- #ask tissue PaO2 must be high enough to drive diffusion of O2 to cells - but if there is no O2 wouldn't the conc gradient be formed as O2 diffuses out? 
+	- Factors affecting haemoglobin affinity for O2 ![[Pasted image 20261104093645.png|262]]
+		- Temperature - increased temperature shifts dissociation curve to the right
+		- Bohr shift - right shift of HbA-O2 dissociation curve with respiratory acidosis (decrease in pH and increase in PaCO2) ![[Pasted image 20261104093855.png|304]]
+			- Therefore more oxygen is released in tissues 
+			- But saturation at high PaO2 is still roughly the same so the same amount of O2 is still getting absorbed 
+		- 2,3-diphosphoglycerate (2,3-DPG) ![[Pasted image 20261104094604.png|273]]
+			- Interacts with β chains of HbA to destabilise interaction with O2 → shifts HbA-O2 dissociation curve to the right 
+			- 2,3-DPG levels increase with anaemia or at altitude
+		- Hypercapnia ![[Pasted image 20261104094556.png|374]]
+			- Increase in PaCO2 → CO2 combines with unprotonated amino group on HbA → right shifts the dissociation curve 
+			- Makes up small part of the Bohr effect 
+		- Carbon monoxide ![[Pasted image 20261104094743.png]]
+			- CO has 250x greater affinity for HbA than O2
+			- Reduces maximum capacity for O2, and also left shifts the dissociation curve bc O2 saturation is so low 
+- CO2 transport 
+	- 200ml CO2 is generated per minute at rest 
+	- Solubility of CO2 in plasma is 20x that of O2 
+	- CO2 transported in blood in 3 main ways
+		- Dissolved as CO2 - 5-10%
+		- As hydrogen carbonate (bicarbonate) - 75-80% 
+			- Dissolved CO2 reacts with water to eventually make hydrogen carbonate ions and protons (intermediary irrelevant) ![[Pasted image 20261104095022.png]]
+			- Reversible - rate and direction of reaction depends on conc of reactants and products 
+			- Therefore as more CO2 dissolves, the pH will fall (acidic) - very very important for controlling blood pH 
+			- #ask PCO2 of alveoli is determining factor 
+		- Carbamino compounds - 10-20% 
+	- Hydrogen carbonate reaction can also occur in HbA - has carbonic anhydrase (CA) enzyme that speeds up the reaction
+		- The H+ formed form this reaction can bind to the HbA, and the bicarbonate formed can be pumped out and exchanged for Cl- ![[Pasted image 20261104095503.png]]
+		- Reaction therefore favours the forward direction 
+- Venous blood 
+	- H+ binds better to Hb in tense state - therefore after O2 has been delivered to tissues, Hb is free to bind to H+ → can carry more CO2 away from tissues
+	- In the lungs, Hb changes back to relaxed state → H+ is released and CO2 is formed and released

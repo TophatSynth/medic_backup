@@ -1,0 +1,148 @@
+---
+tags:
+---
+Respiratory system made up of: 
+- Conducting portion 
+- Respiratory portion (respiratory bronchioles and alveoli)
+- Upper/lower resp tract ![[Pasted image 20261028113154.png|290]]
+	- Upper - nasal cavity down to trachea 
+	- Lower - bronchi down to alveoli 
+
+# Nose 
+- Naris - nostril ![[Pasted image 20261028091326.png]]
+- ![[Pasted image 20261028091257.png|223]]
+- Nasalis - nasal muscles - muscles of facial expression innervated by facial nerve (CN VII)
+- Nasal vestibule immediately after passing nostrils 
+	- Squamous epithelium 
+	- Vibrissae - nasal hair 
+- Made of nasal bones, frontal processes of maxillae, septal and major/minor alar cartilages
+
+# Nasal cavity 
+- Respiratory mucosa covering bone 
+	- Ciliated pseudostratified columnar epithelium 
+	- Has goblet cells as well, and rich vascular supply/submucosal glands below
+- Structure
+	- Roof is cribriform plate of ethmoid bone 
+	- Floor made of hard palate and soft palate ![[Pasted image 20261028091547.png]]
+		- Hard palate - made of palatine process of the maxilla and horizontal plate of the palatine bone 
+	- Lateral wall - ethmoid bone, inferior nasal concha, maxilla, sphenoid bone, palatine bone, lacrimal bone, nasal bone
+		- Ethmoid bone has the sup/mid conchae
+	- Septum ![[Pasted image 20261028091713.png]]
+		- Perpendicular plate of ethmoid, vomer and septal cartilage 
+		- Ethmoid bone 
+			- Has cribriform plate superiorly ![[Pasted image 20261028091839.png]]
+- Epithelium
+	- Posteriorly - NALT - nasal associated lymphoid tissue 
+- ![[Pasted image 20261028091938.png]]
+- Foramina/gateways
+	- ![[Pasted image 20261028092243.png]]
+	- Foramen cecum - emissary vein connecting nasal veins with superior sagittal sinus in the skull - infection can spread up 
+	- Cribriform plate 
+	- Sphenopalatine foramen 
+	- Lateral wall foramina 
+	- Incisive canal
+	- ![[Pasted image 20261028092343.png]]
+- Arterial supply 
+	- ![[Pasted image 20261028092430.png]]
+	- Anastomoses between ECA/ICA branches
+	- Kiesselbach plexus - area on septum rich in anastomoses 
+	- ![[Pasted image 20261028092618.png]]
+	- ICA 
+		- Opthalmic 
+			- Anterior ethmoidal (lateral/septal branches)
+			- Posterior ethmoidal (lateral/septal branches)
+	- ECA
+		- Maxillary 
+			- Sphenopalatine (lateral/septal branches)
+			- Greater palatine
+				- Travels under maxilla, comes up through the incisive canal in the anterior hard palate 
+		- Facial artery 
+			- Superior labial artery (septal branch)
+	- External nose supplied by ant. ethmoidal and septal branch of superior labial artery 
+- Veins 
+	- ![[Pasted image 20261028092702.png]]
+	- Veins mostly accompany arteries 
+	- Danger triangle - infection in this area can spread to brain bc of anastomoses with the dural venous sinus and lack of valves ![[Pasted image 20261028092806.png]]
+- Lymphatics
+	- Anterior to submandibular nodes
+	- Posteriorly to retropharyngeal nodes 
+	- Then both to deep cervical nodes ![[Pasted image 20261028092842.png|194]]
+- Innervation 
+	- Olfactory anatomy
+		- CN I is olfactory nerve, receives signal from olfactory epithelium 
+		- Then travels up through the holes of the cribriform plate, synapses at the olfactory bulb, exit as the olfactory tract → bifurcates at the base of the brain (olfactory trigone) into medial/lateral striae → piriform cortices of the brain![[Pasted image 20261028092156.png]]
+	- Somatic innervation from CN ![[Pasted image 20261028092904.png]]![[Pasted image 20261028092921.png]]
+		- Split into opthalmic (anterosuperior) and maxillary (posteroinferior) divisions 
+			- Trigeminal nerve (CN V) has 3 divisions
+				- V1 - Opthalmic 
+					- Innervates the nasal cavity via the nasociliary nerve → anterior/posterior ethmoidal nerves
+					- Also supplies dorsum and apex of external nose (other branches :P)
+				- V2 - Maxillary 
+					- Innervates via the nasopalatine (septum) and greater palatine nerves (lateral wall)
+				- V3 - Mandibular
+	- ANS innervation 
+		- PSNS travels with facial nerve 
+		- SNS - superior cervical ganglia → periarterial plexus ![[Pasted image 20261028093045.png]]
+
+
+# Paranasal sinuses 
+- ![[Pasted image 20261028093307.png]]![[Pasted image 20261028093337.png]]
+- Frontal/ethmoidal/maxillary/sphenoidal
+- Aid in warming/humidifying air 
+- Formation is called pneumatisation 
+- Frontal sinuses
+	- In the front
+	- Drains via frontonasal duct into ethmoidal infundibulum → semilunar hiatus of middle meatus 
+	- Innervated by ophthalmic nerve → supraorbital nerves 
+	- Supplied by anterior ethmoidal artery 
+- Ethmoidal sinuses 
+	- AKA ethmoidal cells
+	- In the ethmoid bone, between nasal cavity and orbit
+	- Ant/mid/post cells 
+		- Ant drain into the ethmoidal infundibulum → middle meatus
+		- Mid drains directly into middle meatus 
+			- Forms the ethmoidal bulla (swelling just above the semilunar hiatus) - so aka bullar cells 
+		- Post drains directly into superior meatus 
+	- Innervated by the ophthalmic nerve → nasociliary nerves 
+	- Supplied by ant/post ethmoidal arteries 
+- Sphenoidal sinuses
+	- In the back, in the sphenoid
+	- Extensive pneumatisation - body of sphenoid is fragile
+		- Derived from a posterior ethmoidal cell that invades the sphenoid at 2 yrs old
+	- Drains into the sphenoethmoidal recess 
+	- Innervated by the opthalmic nerve → posterior ethmoidal nerves 
+	- Supplied by the maxillary artery → pharyngeal arteries 
+- Maxillary sinuses
+	- Largest paranasal sinus
+	- Drain into semilunar hiatus → middle meatus
+	- Innervated by the maxillary nerve → infraorbital and superior alveolar nerves
+	- Supplied by maxillary artery → infraorbital and superior alveolar arteries
+- Nasolacrimal duct drains into inferior meatus 
+
+# Nasopharynx
+- First part of the pharynx, connected to nasal cavity via 2 choanae ![[Pasted image 20261028124352.png]]
+	- Made up of vomer, horizontal plate of palatine, medial pterygoid plate 
+- Sensory innervation from pharyngeal branch of maxillary nerve
+- Linked to the middle ear cavity via the pharyngotympanic tube ![[Pasted image 20261028124743.png|205]]
+	- Tube is opened by muscles when yawning/swallowing to equalise pressure
+		- Muscles - salpingopharyngeus, tensor veli palatini, levator veli palatini 
+- Tonsils
+	- Lymphoid tissue - ring of protective tissue around opening to airway/GI tract
+	- Tubal, pharyngeal and palatine tonsils, collectively termed Waldeyer's ring 
+- Pharyngeal recess 
+	- Deep recess posterior to opening of pharyngotympanic tube ![[Pasted image 20261028125249.png|226]]
+
+
+# Clinical considerations 
+- Nosebleeds 
+- Rhinitis - inflammation of nasal mucous membrane → blockage due to increased mucus production and oedema 
+- Deviated septum 
+- Sinusitis 
+- CSF rhinorrhoea 
+	- Damaged cribriform plate → leaking CSF 
+- Adenoid hypertrophy
+	- Excessive growth of the pharyngeal tonsil → blockage of nasopharynx 
+- Tonsillitis 
+	- Can be viral or bacterial 
+- Peritonsillar abscess 
+	- Can potentially obstruct airway - requires drainage to remove 

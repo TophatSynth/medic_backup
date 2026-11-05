@@ -1,27 +1,4 @@
-Guided studies 
-- Porfolio 
-	- [ ] Drug formulary
-	- [x] Personal development plan
-	- [ ] CVS examination
-	- [x] Infection prevention and ncontrol 
-- Histology
-	- [ ] Histology of cardiac muscle
-	- [ ] Histology of vasculature
-	- [ ] Histopathology of myocardial infarction
-	- [ ] Blood cultures
-- ECG
-	- [x] Interactive 12 lead ECG
-	- [x] Interactive ECG 2
-	- [ ] ECG assessment
-- Anatomy
-	- [x] Changes to the circulation at birth 
-	- [x] Cross sectional anatomy of the thorax
-	- [x] Sepsis
-	- [ ] Shock
-- Other
-	- [x] Central lines
-	- [x] Errors in patient safety 2
-	- [ ] Formative MCQ's
+
 
 ```base
 filters:
@@ -81,6 +58,15 @@ views:
 
 ```
 
+Guided studies 
+- Porfolio 
+	- [ ] Drug formulary
+	- [ ] CVS examination
+- Anatomy
+	- [ ] Shock
+
+To do 
+- [ ] Put OSCE stations into flashcards 
 
 ```base
 filters:

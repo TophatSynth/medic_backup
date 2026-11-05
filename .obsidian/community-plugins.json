@@ -1,9 +1,9 @@
 [
   "make-md",
   "homepage",
-  "hotkeysplus-obsidian",
   "omnisearch",
   "advanced-canvas",
   "text-extractor",
-  "obsidian-git"
+  "obsidian-git",
+  "insert-new-line"
 ]

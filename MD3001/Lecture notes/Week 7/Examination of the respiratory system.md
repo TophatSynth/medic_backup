@@ -1,5 +1,4 @@
 ---
 tags:
   - anki
-  - tostart
 ---
