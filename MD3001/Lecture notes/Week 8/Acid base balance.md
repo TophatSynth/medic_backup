@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 ![[Pasted image 20261105134856.png]]
 
@@ -48,7 +47,8 @@ Pathologies
 		- Exogenous acid overloading - aspirin overdose
 	- Respiratory compensation - clearing CO2 
 		- Low pH detected by periipheral chemoreceptors → hyperventilation 
-		- Kussmaul breathing! #tofinish 
+		- Kussmaul breathing! 
+			- Kussmaul breathing is a laboured, deep and rapid breathing (high TV and RR) 
 - Metabolic alkalosis 
 	- Increase in HCO3- and/or fall in H+ (again, chicken and egg)
 		- Vomiting - loss of HCl from stomach

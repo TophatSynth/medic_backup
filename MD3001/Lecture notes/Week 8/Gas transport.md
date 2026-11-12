@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 ![[Pasted image 20261104090807.png]]
 #ask are these plasma values or HbA values? 
@@ -19,16 +18,14 @@ Oxygen not very soluble in water - would need an extremely high cardiac output t
 		- Below 1kPa - difficult to bind 
 		- Above 9-10kPa - saturated 
 		- Half saturated at 3.5-4kPa 
-		- #ask but alveolar PaO2 is not blood PaO2 right?
-		- #ask PO2 and PaO2 
 		- ![[Pasted image 20261104092322.png]]
 		- #ask why 235ml? 
 		- The pressure in the lungs is ~13kPa and the pressure in the tissues is around 5kPa at rest - haemoglobin is going to bind to oxygen in the lungs and is going to release it in the tissues![[Pasted image 20261104092513.png]]
 			- At rest, HbA saturation only drops by 35% - more than half is still bound - bc tissues don't need as much oxygen 
 			- But during exercise, the pO2 in tissues is much lower → strips more oxygen off the HbA
 				- So how low can tissue PaO2 get? - can only go down to 3kPa bc need O2 in tissues to create concentration gradient from capillary to mitochondria 
+					- Tissue PaO2 must be high enough to drive diffusion of O2 to cells - if there is no O2 in tissue, but there is O2 in mitochondria, O2 can't get into mitochondria
 				- Exceptions are very metabolically active tissues w/ a lot of capillaries - can get lower 
-				- #ask tissue PaO2 must be high enough to drive diffusion of O2 to cells - but if there is no O2 wouldn't the conc gradient be formed as O2 diffuses out? 
 	- Factors affecting haemoglobin affinity for O2 ![[Pasted image 20261104093645.png|262]]
 		- Temperature - increased temperature shifts dissociation curve to the right
 		- Bohr shift - right shift of HbA-O2 dissociation curve with respiratory acidosis (decrease in pH and increase in PaCO2) ![[Pasted image 20261104093855.png|304]]
@@ -51,8 +48,7 @@ Oxygen not very soluble in water - would need an extremely high cardiac output t
 		- As hydrogen carbonate (bicarbonate) - 75-80% 
 			- Dissolved CO2 reacts with water to eventually make hydrogen carbonate ions and protons (intermediary irrelevant) ![[Pasted image 20261104095022.png]]
 			- Reversible - rate and direction of reaction depends on conc of reactants and products 
-			- Therefore as more CO2 dissolves, the pH will fall (acidic) - very very important for controlling blood pH 
-			- #ask PCO2 of alveoli is determining factor 
+			- Therefore as more CO2 dissolves, the pH will fall (acidic) - very very important for controlling blood pH - PCO2 of tissue is big determining factor of blood pH 
 		- Carbamino compounds - 10-20% 
 	- Hydrogen carbonate reaction can also occur in HbA - has carbonic anhydrase (CA) enzyme that speeds up the reaction
 		- The H+ formed form this reaction can bind to the HbA, and the bicarbonate formed can be pumped out and exchanged for Cl- ![[Pasted image 20261104095503.png]]

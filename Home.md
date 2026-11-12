@@ -1,4 +1,4 @@
-
+[[Feedback for MD3001]]
 
 ```base
 filters:
@@ -25,9 +25,9 @@ views:
       - file.name
       - file.tags
     sort:
-      - property: file.tags
-        direction: DESC
       - property: file.ctime
+        direction: DESC
+      - property: file.tags
         direction: DESC
 
 ```

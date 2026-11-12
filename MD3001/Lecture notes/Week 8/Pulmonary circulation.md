@@ -1,10 +1,9 @@
 ---
 tags:
-  - anki
 ---
 Alveolar air equation ![[Pasted image 20261105112104.png]]
 - How to calculate partial pressure of O2 in alveoli - describes the ideal case
-- If perfect transport and no veous admixture, PAO2 (alveolar partial pressure) should equal PaO2 (blood partial pressure)
+- If perfect transport and no venous admixture, PAO2 (alveolar partial pressure) should equal PaO2 (blood partial pressure)
 	- Unfortunately not always. In health, the alveolar-arterial gradient (A-a gradient) is usually less than 2kPa, but it is also affected by disease
 
 Pulmonary ventilation
@@ -20,7 +19,7 @@ Pulmonary circulation ![[Pasted image 20261105113018.png|373]]![[Pasted image 20
 	- Responding to PaO2 and PaCO2 
 	- Areas of low PaO2 and high PaCO2 cause vasoconstriction - no point perfusing it 
 	- Thought to involve inhibition of K channels on smooth muscle cells 
-	- #ask but there is ANS control of bronchial arteries? 
+	- But there is ANS control of bronchial arteries
 
 Ventilation-perfusion matching ![[Pasted image 20261105113727.png|303]]
 - Ventilation-perfusion ratio (V/Q ratio) - how well V/Q is matching 
@@ -38,8 +37,8 @@ Ventilation-perfusion matching ![[Pasted image 20261105113727.png|303]]
 		- Physiological shunt ![[Pasted image 20261105114659.png|379]]
 			- Alveolus is completely blocked - no ventilation getting to alveolus
 			- Usually atelectasis (collapse of alveolus), but also mucous, oedema, foreign body or tumour
-			- #ask increased O2 help?
-			- #ask wouldn't perfusion decrease due to decreased PO2? 
+			- Increased O2 helps
+			- Perfusion decreases slight due to decreased PO2?
 		- V/Q mismatching ![[Pasted image 20261105114904.png|384]]
 			- Partial blockage of alveolus 
 			- Lil bit of gas exchange occuring 

@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 VE - pulmonary ventilation rate ![[Pasted image 20261104101214.png]]
 - Increased VE flushes out CO2 and increases alveolar PO2
@@ -9,10 +8,10 @@ VE - pulmonary ventilation rate ![[Pasted image 20261104101214.png]]
 Key elements of respiratory control system 
 - Sensory - receptors - eg chemoreceptors
 - Central controller - pons and medulla (medulla is main respiratory centre)
-	- Dorsal respiratory group neurones in medulla - fires in bursts → firing leads to a contraction of respiratory muscles → firings stops, passive expiration
+	- Dorsal respiratory group neurones in medulla - fires in bursts → firing leads to a contraction of respiratory muscles (inspiration) → firings stops, passive expiration
 	- ![[Pasted image 20261104102445.png|410]]![[Pasted image 20261104102740.png]]
 	- Active expiration during hyperventilation - increased firing of dorsal neurones excites ventral respiratory group neurones → causes internal intercostals/abdominals etc to contract → forceful expiration ![[Pasted image 20261104102746.png]]![[Pasted image 20261104102751.png]]
-	- Rhythm of breathing is controlled in part by pneumotaxis centre (PC) - dorsal respiratory neuronal firing stimulates PC → PC in turn inhibits dorsal respiratory neurones to terminal inspiration
+	- Rhythm of breathing is controlled in part by pneumotaxis centre (PC) - dorsal respiratory neuronal firing stimulates PC → PC in turn inhibits dorsal respiratory neurones to terminate inspiration
 		- Without PC, breathing would be prolonged inspiratory gasps with brief expiration ![[Pasted image 20261104103117.png]]
 		- Apneustic centre - also modify resp rate - excites the DRG (dorsal respiratory group) → prolongs inspiration![[Pasted image 20261104103130.png]]
 	- Inputs to medullary control centres

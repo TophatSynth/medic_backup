@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 # Trachea 
 ![[Pasted image 20261029110931.png]]
@@ -31,7 +30,7 @@ Primary bronchi (main) → secondary bronchi (lobar, 3 right, 2 left) → tertia
 	- ![[Pasted image 20261029112645.png]]
 
 # Lungs 
-![[Pasted image 20261029112745.png]]
+![[Pasted image 20261029112745.png|900]]
 
 Fissures 
 - Oblique fissure on both

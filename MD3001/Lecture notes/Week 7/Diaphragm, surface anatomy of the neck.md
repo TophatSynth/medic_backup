@@ -1,10 +1,9 @@
 ---
 tags:
-  - anki
 ---
 # Diaphragm 
 ![[Pasted image 20261031124230.png]]
-- Attaches to margins of infeior thoracic aperture 
+- Attaches to margins of inferior thoracic aperture 
 	- Xiphoid process 
 	- Deep surfaces of ribs 7-12 and costal cartilages 
 	- Right and left crura (singular crus) - lumbar attachment ![[Pasted image 20261031124446.png]]

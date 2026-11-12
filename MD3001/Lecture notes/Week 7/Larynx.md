@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Extends from C3-6
 Laryngeal prominence - Adam's apple 
@@ -29,7 +28,7 @@ Cartilage skeleton
 		- Pyramid shaped
 		- Sitting on cricoid cartilage 
 		- Vocal process anteriorly - vocal cords attach here
-		- Ridge fro vestibular ligament attachment 
+		- Ridge for vestibular ligament attachment 
 	- There are others but we don't care 
 - All hyaline cartilage except epiglottis which is elastic 
 
@@ -48,7 +47,7 @@ Ligaments
 		- Connects to lateral aspect of epiglottic cartilage, bit of thyroid cartilage, and arytenoid cartilage. Free inferior border with vestibular ligament (ligament running between thyroid and arytenoid) 
 	- Conus elasticus
 		- Mostly connects to cricoid cartilage, bit to the thyroid, free medial border with vocal ligament (between thyroid and arytenoid but below vestibular ligament)
-	- Space between vocal and vestibular ligaments covered by mucosa ![[Pasted image 20261028165130.png]]
+	- Space between vocal and vestibular ligaments covered by mucosa![[Pasted image 20261028165130.png]]
 		- Aryepiglottic fold - Coming from external aspect, looping over quadrangular membrane superiorly 
 		- Vestibular fold - covers vestibular ligament 
 		- Laryngeal ventricle - bit that covers and loops between the space between vocal/vestibular ligaments 

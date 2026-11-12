@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 ![[Pasted image 20261102183543.png]]
 Endoderm → functional epithelial cells of various organs 
@@ -17,12 +16,12 @@ Development of body cavities
 	- Pericardioperitoneal canal separated from peritoneal cavity via the pleuroperitoneal membrane
 - The peripheral muscle of the diaphragm forms from a connective tissue scaffold that gets infiltrated by myoblasts from C3-5 somites ![[Pasted image 20261102184633.png]]![[Pasted image 20261102184624.png]]
 	- Oesophageal mesentery also fuses into diaphragm to form crura
-	- Pleuroperitoneal membrane grows in from the sides and also fuses to connect septum transversum and mesentery![[Pasted image 20261102184747.png]]![[Pasted image 20261102184806.png]]
+	- Pleuroperitoneal membrane grows in from the sides and also fuses to connect septum transversum and mesentery
 	- Septum transversum ends up as central tendon
 	- In total four sources for the diaphragm - septum transversum, oesophageal mesentery, pleuroperitoneal membrane, infiltration by myoblasts
 
 Development of trachea
-- Respiratory diverticulum (lung bud) develops anteriorly from foregut (endoderm/visceral lateral plate mesoderm) - forms ![[Pasted image 20261102190000.png]]
+- Respiratory diverticulum (lung bud) develops anteriorly from foregut (endoderm/visceral lateral plate mesoderm) ![[Pasted image 20261102190000.png]]
 - Septation of the 2 tubes 
 	- Tracheoesophageal ridges form → growth to meet and form the tracheoesophageal septum ![[Pasted image 20261102190218.png]]
 
