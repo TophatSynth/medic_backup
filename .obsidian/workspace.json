@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47b43311373ddc84",
+        "id": "9b87c72098b41577",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec28cabb4cde9e8",
+            "id": "dde2cf54df1720b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD3001/Lecture notes/Week 9/Tuberculosis.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuberculosis"
+              "title": "Home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ask",
+                "query": "tag:anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "01bfe69cee900af1",
+            "id": "35209c75d3151098",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "e21aab71e9b3cafc",
@@ -103,6 +102,16 @@
         "id": "774b764845dfe7a9",
         "type": "tabs",
         "children": [
+          {
+            "id": "d05f84a06f56fd52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "e75d685380785ef8",
             "type": "leaf",
@@ -133,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,16 +176,6 @@
             }
           },
           {
-            "id": "d05f84a06f56fd52",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "7e0bd303c835468c",
             "type": "leaf",
             "state": {
@@ -186,8 +185,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,53 +205,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ec28cabb4cde9e8",
+  "active": "dde2cf54df1720b9",
   "lastOpenFiles": [
+    "MD3001/Lecture notes/Week 11/Collecting the evidence.md",
     "Home.md",
-    "MD3001/Lecture notes/Week 9/Respiratory tract infections.md",
-    "MD3001/Lecture notes/Week 8/Acid base balance.md",
-    "MD3001/Lecture notes/Week 8/Abnormal CXR.md",
-    "Attachments/Pasted image 20261112151423.png",
-    "MD3001/Lecture notes/Week 8/Blood gas analysis.md",
-    "MD3001/Lecture notes/Week 8/Pulmonary circulation.md",
-    "MD3001/Lecture notes/Week 8/Control of breathing.md",
-    "MD3001/Lecture notes/Week 8/Gas transport.md",
-    "MD3001/Lecture notes/Week 7/Respiratory examination.md",
-    "MD3001/Lecture notes/Week 8/Development of respiratory system.md",
-    "MD3001/Lecture notes/Week 7/Diaphragm, surface anatomy of the neck.md",
-    "Attachments/Pasted image 20261110130312.png",
-    "Attachments/Pasted image 20261110125235.png",
-    "MD3001/Clinical Skills/Cardiovascular examination.md",
-    "MD3001/Lecture notes/Week 9/Tuberculosis.md",
-    "Attachments/Pasted image 20261110113355.png",
-    "Attachments/Pasted image 20261110112334.png",
-    "Attachments/Pasted image 20261110112307.png",
-    "Attachments/Pasted image 20261110112239.png",
-    "Attachments/Pasted image 20261110110712.png",
-    "Attachments/Pasted image 20261110110706.png",
-    "Attachments/Pasted image 20261110105813.png",
-    "Feedback for MD3001.md",
-    "MD3001/Lecture notes/Week 9",
-    "MD2001/Lecture Notes/Week 9/Principles of Antimicrobial Chemotherapy.md",
-    "MD3001/Lecture notes/Week 7/Trachea, bronchial tree and lungs.md",
-    "MD3001/Lecture notes/Week 7/Examination of the respiratory system.md",
-    "MD3001/Lecture notes/Week 7/Larynx.md",
-    "MD3001/Lecture notes/Week 7/Physics of breathing.md",
+    "MD3001/Lecture notes/Week 11/Status and sickness.md",
+    "MD3001/Lecture notes/Week 10/Science of EBM.md",
+    "31w10",
+    "MD3001/Lecture notes/Week 11/Psychological factors and asthma control.md",
+    "MD3001/Lecture notes/Week 10/Mechanism of action of antivirals.md",
+    "MD3001/Lecture notes/Week 10/Cessation of smoking.md",
+    "MD3001/Lecture notes/Week 10/Obstructive and restrictive lung disease.md",
+    "MD3001/Lecture notes/Week 10/Cystic fibrosis.md",
+    "MD3001/Lecture notes/Week 9/Mechanism of action of antifungals.md",
+    "MD3001/Lecture notes/Week 11/Hypersensitivities.md",
+    "MD3001/Lecture notes/Week 11",
+    "MD3001/Feedback for MD3001.md",
+    "Attachments/Pasted image 20261123104807.png",
+    "MD2002/Lecture Notes/Week 4/Innate immunity.md",
+    "Attachments/Pasted image 20261123104545.png",
+    "Attachments/Pasted image 20261123104352.png",
+    "Attachments/Pasted image 20261123103950.png",
+    "Attachments/Pasted image 20261123103552.png",
+    "Attachments/Pasted image 20261123103543.png",
+    "Attachments/Pasted image 20261123100738.png",
+    "Attachments/Pasted image 20261123100436.png",
+    "Attachments/Pasted image 20261123100111.png",
+    "Attachments/Pasted image 20261123095151.png",
+    "MD3001/Lecture notes/Week 4/Systemic disease and CVS.md",
+    "MD2001/Lecture Notes/Week 11/Introduction to epidemiology.md",
     "MD3001/Lecture notes/Week 8/Ventillation and diffusion.md",
-    "MD2002/Lecture Notes/Week 2/Drugs on the neuromuscular junction.md",
+    "MD3001/Lecture notes/Week 10/Antibiotic resistance.md",
+    "MD2001/Lecture Notes/Week 4/Microbial Structure.md",
+    "MD3001/Lecture notes/Week 10/Mechanism of action of antibiotics.md",
+    "MD3001/Lecture notes/Week 10/Lung cancer.md",
+    "MD2001/Lecture Notes/Week 4/Structure of the airway and lungs.md",
+    "MD2002/Lecture Notes/Week 4/Autonomic nervous system.md",
+    "MD2001/Lecture Notes/Week 3/White Blood Cells.md",
+    "MD2001/Lecture Notes/Week 5/Introduction to immunology.md",
+    "MD3001/Clinical Skills/Safe clinical handover.md",
+    "MD3001/Lecture notes/Week 9/Covid19.md",
+    "MD3001/Lecture notes/Week 10",
+    "MD3001/Lecture notes/Week 9",
     "MD3001/Lecture notes/Week 8",
-    "MD3001/Lecture notes/Week 7/Diaphragm, mechanics of breathing, surface projections.md",
-    "MD3001/Clinical Skills/Cardiovascular history prep.md",
-    "MD3001/Clinical Skills/Cardiovascular history notes.md",
-    "MD3001/Lecture notes/Week 7/Nasal cavity, paranasal sinuses, nasopharynx.md",
     "MD3001/Lecture notes/Week 7",
     "MD3001/Drug formulary",
     "MD3001/Lecture notes/Week 5",
     "MD3001/Lecture notes/Week 4",
     "MD3001/Tutorials",
-    "MD3001/Lecture notes/Week 3",
-    "MD3001/Lecture notes/Week 2",
-    "MD3001/Clinical Skills",
     "MD2001/Lecture Notes/Embryology.canvas",
     "MD2001/Lecture Notes/Menstrual cycle diagram.canvas"
   ]

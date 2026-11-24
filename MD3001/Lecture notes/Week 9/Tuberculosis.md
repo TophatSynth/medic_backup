@@ -1,6 +1,5 @@
 ---
 tags:
-  - anki
 ---
 Caused by mycobacterium tuberculosis 
 - One of 5 mycobacterium species that cause TB 
@@ -88,7 +87,6 @@ Treatment
 	- Done for minimum of 6 months 
 		- ![[Pasted image 20261110113355.png]]
 - Multidrug resistant TB (MDR-TB) is a major global problem
-- 
 
 Prevention 
 - Immunisation when young w/ live attenuated BCG vaccine

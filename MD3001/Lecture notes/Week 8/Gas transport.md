@@ -2,7 +2,7 @@
 tags:
 ---
 ![[Pasted image 20261104090807.png]]
-#ask are these plasma values or HbA values? 
+
 
 Oxygen not very soluble in water - would need an extremely high cardiac output to get enough oxygen to tissues
 - Therefore we use haemoglobin ![[Pasted image 20261104091619.png|313]]
@@ -19,7 +19,6 @@ Oxygen not very soluble in water - would need an extremely high cardiac output t
 		- Above 9-10kPa - saturated 
 		- Half saturated at 3.5-4kPa 
 		- ![[Pasted image 20261104092322.png]]
-		- #ask why 235ml? 
 		- The pressure in the lungs is ~13kPa and the pressure in the tissues is around 5kPa at rest - haemoglobin is going to bind to oxygen in the lungs and is going to release it in the tissues![[Pasted image 20261104092513.png]]
 			- At rest, HbA saturation only drops by 35% - more than half is still bound - bc tissues don't need as much oxygen 
 			- But during exercise, the pO2 in tissues is much lower → strips more oxygen off the HbA

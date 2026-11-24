@@ -61,9 +61,32 @@ views:
 Guided studies 
 - Porfolio 
 	- [ ] Drug formulary
-	- [ ] CVS examination
+	- [x] CVS examination
+	- [ ] Resp examination
 - Anatomy
 	- [ ] Shock
+- Pathology
+	- [ ] Pneumothorax and chest drain
+	- [ ] Abnormal CXR
+- Histology
+	- [ ] Histology of resp system
+- Tests
+	- [ ] Formative SWA no 3??
+	- [ ] Resp revision 
+	- [ ] Open book formative SWA
+	- [ ] Practice SWA
+- Clinical
+	- [x] Safe clinical handover
+	- [x] Oxygen prescribing
+	- [ ] ABCDE deteriorating assesment
+	- [ ] NEWS 
+- Misc
+	- [ ] Hyperbaric oxygen therapy
+	- [ ] Asthma treatment case study
+	- [ ] Effects of exercise on cvs and resp systems
+- IDC
+	- [ ] Erythropoeitin
+	- [ ] EBM tutorial
 
 To do 
 - [ ] Put OSCE stations into flashcards 
@@ -101,11 +124,3 @@ views:
 - Ven./Dor. — ventral/dorsal
 - Lat./Med. — lateral/medial
 - Sup./Int./Mid./Deep — Superficial/Intermediate/Middle/Deep 
-
-## Diagrams to do for revision
-- [x] Brachial Plexus MAXIMUS
-- [x] Metabolism 
-- [x] Excitation contraction coupling for all 3 muscle types
-	- Differences of the 3 muscle types
-- SNS and PSNS
-- Coagulation/clotting/thrombosis pathway
